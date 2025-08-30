@@ -1,0 +1,12 @@
+<map id="timer.h" name="timer.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="113,5,181,31"/>
+<area shape="rect" id="Node000002" href="$mackie_2jog__wheel_8h.html" title=" " alt="" coords="141,79,241,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,41,186,77,181,80,159,44"/>
+<area shape="rect" id="Node000003" href="$mackie__control__protocol_8h.html" title=" " alt="" coords="5,152,200,177"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="142,45,109,153,104,151,136,43"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="168,115,119,154,115,150,164,110"/>
+<area shape="rect" id="Node000005" href="$mackie_2surface_8h.html" title=" " alt="" coords="224,152,307,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="214,111,255,150,251,154,211,115"/>
+<area shape="rect" id="Node000004" href="$mackie_2strip_8h.html" title=" " alt="" coords="71,225,134,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="105,191,105,225,100,225,100,191"/>
+</map>

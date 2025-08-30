@@ -1,0 +1,11 @@
+<map id="ArdourSurface::M2Button" name="ArdourSurface::M2Button">
+<area shape="rect" id="Node000001" title=" " alt="" coords="296,70,481,95"/>
+<area shape="rect" id="Node000003" href="$classArdourSurface_1_1M2StatelessButton.html" title=" " alt="" coords="541,5,744,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="458,64,553,43,554,48,459,70"/>
+<area shape="rect" id="Node000004" href="$classArdourSurface_1_1M2ToggleButton.html" title=" " alt="" coords="529,70,756,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="495,80,529,80,529,85,495,85"/>
+<area shape="rect" id="Node000005" href="$classArdourSurface_1_1M2ToggleHoldButton.html" title=" " alt="" coords="535,120,750,160"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="459,96,554,117,553,123,458,101"/>
+<area shape="rect" id="Node000002" href="$classArdourSurface_1_1M2ButtonInterface.html" title=" " alt="" coords="5,70,248,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="262,80,296,80,296,85,262,85"/>
+</map>

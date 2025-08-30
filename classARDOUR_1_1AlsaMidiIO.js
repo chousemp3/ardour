@@ -1,0 +1,27 @@
+var classARDOUR_1_1AlsaMidiIO =
+[
+    [ "MidiEventHeader", "structARDOUR_1_1AlsaMidiIO_1_1MidiEventHeader.html", "structARDOUR_1_1AlsaMidiIO_1_1MidiEventHeader" ],
+    [ "AlsaMidiIO", "classARDOUR_1_1AlsaMidiIO.html#afe134d68160c066e7f09a1950db9cb25", null ],
+    [ "~AlsaMidiIO", "classARDOUR_1_1AlsaMidiIO.html#a0d7d059531597945ba7214033840b543", null ],
+    [ "init", "classARDOUR_1_1AlsaMidiIO.html#afaba0e37934d71ea97c0513c3af992e5", null ],
+    [ "main_process_thread", "classARDOUR_1_1AlsaMidiIO.html#a3a25a653073c2cd018d49d4a3f5e8722", null ],
+    [ "name", "classARDOUR_1_1AlsaMidiIO.html#a4c37ee73de091e4135d9b05b6e8ad271", null ],
+    [ "setup_timing", "classARDOUR_1_1AlsaMidiIO.html#a7de57eed0a1f2990c754da329f9dacc9", null ],
+    [ "start", "classARDOUR_1_1AlsaMidiIO.html#aec0aaac950e4d642740ef34d4f088227", null ],
+    [ "state", "classARDOUR_1_1AlsaMidiIO.html#a776bdeaaff7afc26db470972991aebb2", null ],
+    [ "stop", "classARDOUR_1_1AlsaMidiIO.html#a38f687755c1be74bb05fb656b5dd2213", null ],
+    [ "sync_time", "classARDOUR_1_1AlsaMidiIO.html#a74a0ee92c4f7cd307ce5d0438ac9db22", null ],
+    [ "_clock_monotonic", "classARDOUR_1_1AlsaMidiIO.html#a82ae49510d07365a3fb8850e58587f0d", null ],
+    [ "_main_thread", "classARDOUR_1_1AlsaMidiIO.html#a8a9bfd859dfd0bd0a6bc65f8a86116bf", null ],
+    [ "_name", "classARDOUR_1_1AlsaMidiIO.html#a92ee28a9e4acd0fce1af843a1c7faced", null ],
+    [ "_notify_mutex", "classARDOUR_1_1AlsaMidiIO.html#a9a638cc709e6a09d55a0ad42116462be", null ],
+    [ "_notify_ready", "classARDOUR_1_1AlsaMidiIO.html#a550741647133e0bd164c3345544925f2", null ],
+    [ "_npfds", "classARDOUR_1_1AlsaMidiIO.html#a7c08cde7559df8f08074f749fc2a3532", null ],
+    [ "_period_length_us", "classARDOUR_1_1AlsaMidiIO.html#ac724e7ae2f8a492163757503e97a41b1", null ],
+    [ "_pfds", "classARDOUR_1_1AlsaMidiIO.html#a83323d7ece0f5c169f0d4643f8a10ec2", null ],
+    [ "_rb", "classARDOUR_1_1AlsaMidiIO.html#a507f8bb5bbe9d71693115892a6a5e06d", null ],
+    [ "_running", "classARDOUR_1_1AlsaMidiIO.html#aa41d9e6e9423022b0674e166407c5215", null ],
+    [ "_sample_length_us", "classARDOUR_1_1AlsaMidiIO.html#a200260842e26ad54febc303ea9b5775a", null ],
+    [ "_samples_per_period", "classARDOUR_1_1AlsaMidiIO.html#ac9890a6301a1bc01ab84695c68fef232", null ],
+    [ "_state", "classARDOUR_1_1AlsaMidiIO.html#a6545d4c97230e64c1f06a71f5e57134b", null ]
+];

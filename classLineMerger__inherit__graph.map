@@ -1,0 +1,15 @@
+<map id="LineMerger" name="LineMerger">
+<area shape="rect" id="Node000001" title=" " alt="" coords="309,5,403,31"/>
+<area shape="rect" id="Node000002" href="$classAudioRegionView.html" title=" " alt="" coords="5,79,141,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="298,37,120,81,118,76,297,31"/>
+<area shape="rect" id="Node000003" href="$classAutomationRegionView.html" title=" " alt="" coords="166,79,341,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="330,41,272,81,269,76,327,36"/>
+<area shape="rect" id="Node000004" href="$classAutomationTimeAxisView.html" title=" " alt="" coords="365,79,555,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="386,36,444,76,441,81,383,41"/>
+<area shape="rect" id="Node000005" href="$classMidiView.html" title=" " alt="" coords="580,79,663,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="413,32,580,76,579,81,411,37"/>
+<area shape="rect" id="Node000006" href="$classMidiRegionView.html" title=" " alt="" coords="479,152,606,177"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="600,115,557,154,554,150,597,111"/>
+<area shape="rect" id="Node000007" href="$classPianorollMidiView.html" title=" " alt="" coords="631,152,769,177"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="646,111,689,150,685,154,642,115"/>
+</map>

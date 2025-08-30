@@ -1,0 +1,26 @@
+var classNote =
+[
+    [ "NoteType", "classNote.html#adbaf748567751a0764780aff9975dbcf", null ],
+    [ "Note", "classNote.html#a88a5f6eb4eb02dd0bcc09ea93c856a0d", null ],
+    [ "~Note", "classNote.html#ade484273015c82e7fa59a028de0d8818", null ],
+    [ "hide", "classNote.html#aaf824e0053f2f79d03d616ab1546e6a6", null ],
+    [ "move_event", "classNote.html#ac472c4156983a96ad93f1f4002776295", null ],
+    [ "set", "classNote.html#a1d14eff6b09b088bad7ae8eeb065dac5", null ],
+    [ "set_fill_color", "classNote.html#a47e30c4ea1af542438be23164b23d0c9", null ],
+    [ "set_ignore_events", "classNote.html#adb06dec199c12d0b8220aa0d154ab473", null ],
+    [ "set_outline_all", "classNote.html#a030798a53645774b00945f5c7a8d973b", null ],
+    [ "set_outline_color", "classNote.html#a4ad17aad7bb463c85c48044a255e3aad", null ],
+    [ "set_outline_what", "classNote.html#a0250e33be0260b00eeeef2dff508131f", null ],
+    [ "set_velocity", "classNote.html#a7ce0a905290cecb02464d25bcfc1e356", null ],
+    [ "set_x0", "classNote.html#a3e7ba2a98a5e8d8002efcf2e4abc538f", null ],
+    [ "set_x1", "classNote.html#a83d3a5fb019f65e8522fe9788732d04a", null ],
+    [ "set_y0", "classNote.html#aa4e4873eee7cd74fcbddb70dd227635a", null ],
+    [ "set_y1", "classNote.html#a2762df84451e1c33e67237b6e3e191f9", null ],
+    [ "show", "classNote.html#ab1cab84cca219eb6daebc342c5f8369e", null ],
+    [ "visual_velocity", "classNote.html#aeecdb5e607acff518e60c0f5142b00db", null ],
+    [ "x0", "classNote.html#ab1d4713e9a8583c8c54df6e35c5ea9b5", null ],
+    [ "x1", "classNote.html#af8468102918ce465deb82a6e05e7eb0f", null ],
+    [ "y0", "classNote.html#a1bba3d9f2a8af95b1b91a5a492217d0c", null ],
+    [ "y1", "classNote.html#ab082395226acf062296c8373f6a7d49f", null ],
+    [ "_visual_note", "classNote.html#ae2f2814c331841622d157bcad3817e58", null ]
+];

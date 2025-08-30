@@ -1,0 +1,26 @@
+var classArdourSurface_1_1P2GUI =
+[
+    [ "MidiPortColumns", "structArdourSurface_1_1P2GUI_1_1MidiPortColumns.html", "structArdourSurface_1_1P2GUI_1_1MidiPortColumns" ],
+    [ "PressureModeColumns", "structArdourSurface_1_1P2GUI_1_1PressureModeColumns.html", "structArdourSurface_1_1P2GUI_1_1PressureModeColumns" ],
+    [ "P2GUI", "classArdourSurface_1_1P2GUI.html#a011cc18d635107e9380c49c4b230ab89", null ],
+    [ "~P2GUI", "classArdourSurface_1_1P2GUI.html#aaa145960d6c13c1857d1ae7639bd4110", null ],
+    [ "active_port_changed", "classArdourSurface_1_1P2GUI.html#a55c784490a23e3f93584d31a82dbf317", null ],
+    [ "build_midi_port_list", "classArdourSurface_1_1P2GUI.html#abc93e26dbc1d5066958c32e89acbb436", null ],
+    [ "build_pressure_mode_columns", "classArdourSurface_1_1P2GUI.html#ae5d4d2cee541ea114a906c631f30c74b", null ],
+    [ "connection_handler", "classArdourSurface_1_1P2GUI.html#a3d8c5523a0e530cfa172673067c81c81", null ],
+    [ "reprogram_pressure_mode", "classArdourSurface_1_1P2GUI.html#a15b0b358b0481246be077f1f5d820bd1", null ],
+    [ "update_port_combos", "classArdourSurface_1_1P2GUI.html#a54d8f6b9c3095e3d0e05f2d010e15e1c", null ],
+    [ "_action_table", "classArdourSurface_1_1P2GUI.html#a254428cf350033e5596bc00c85192f43", null ],
+    [ "_hpacker", "classArdourSurface_1_1P2GUI.html#a3ba47b3c8c50a613d8ad5bb3c8d2aa99", null ],
+    [ "_ignore_active_change", "classArdourSurface_1_1P2GUI.html#af46feb027e7b56fc7dc943f92e166d60", null ],
+    [ "_image", "classArdourSurface_1_1P2GUI.html#aa06de71959e19334df2a1b82a5f37d80", null ],
+    [ "_input_combo", "classArdourSurface_1_1P2GUI.html#ae0d28f411329feaedc054762ff0b21c1", null ],
+    [ "_midi_port_columns", "classArdourSurface_1_1P2GUI.html#a73f645010b61b0b2217e232b3d6dd222", null ],
+    [ "_output_combo", "classArdourSurface_1_1P2GUI.html#a2e4cef026340a8d6076ec65f835a6f6c", null ],
+    [ "_p2", "classArdourSurface_1_1P2GUI.html#a72baa073157c2c6625fc997a4cd1faea", null ],
+    [ "_port_connections", "classArdourSurface_1_1P2GUI.html#a0d014569f42d4b61371072cf4c26a4d0", null ],
+    [ "_pressure_mode_columns", "classArdourSurface_1_1P2GUI.html#a1d1976670e9817b9a279ffe75163c7b3", null ],
+    [ "_pressure_mode_label", "classArdourSurface_1_1P2GUI.html#ad614592316651b4838213e04042cd045", null ],
+    [ "_pressure_mode_selector", "classArdourSurface_1_1P2GUI.html#a2ef0479971c04f346d4fe5cf26cca3ab", null ],
+    [ "_table", "classArdourSurface_1_1P2GUI.html#a28965f6c3cdba08b1fc6d22fd3cfbc33", null ]
+];

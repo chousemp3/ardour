@@ -1,0 +1,9 @@
+<map id="RTAManager" name="RTAManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="280,79,383,104"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1SessionHandlePtr.html" title=" " alt="" coords="5,5,207,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,32,296,76,294,81,154,37"/>
+<area shape="rect" id="Node000003" href="$classPBD_1_1ScopedConnectionList.html" title=" " alt="" coords="231,5,431,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="334,44,334,79,329,79,329,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="456,5,572,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="473,38,362,81,360,76,471,33"/>
+</map>

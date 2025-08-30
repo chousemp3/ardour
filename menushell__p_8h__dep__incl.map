@@ -1,0 +1,9 @@
+<map id="menushell_p.h" name="menushell_p.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="96,5,213,31"/>
+<area shape="rect" id="Node000002" href="$menu__p_8h.html" title=" " alt="" coords="51,79,138,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,43,106,80,102,77,134,40"/>
+<area shape="rect" id="Node000004" href="$menubar__p_8h.html" title=" " alt="" coords="163,79,269,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="176,40,208,77,204,80,172,43"/>
+<area shape="rect" id="Node000003" href="$recentchoosermenu__p_8h.html" title=" " alt="" coords="5,152,184,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,118,97,152,92,152,92,118"/>
+</map>

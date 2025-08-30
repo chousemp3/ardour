@@ -1,0 +1,21 @@
+<map id="OptionEditorContainer" name="OptionEditorContainer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="40,445,207,471"/>
+<area shape="rect" id="Node000010" href="$classRCOptionEditor.html" title=" " alt="" coords="63,519,184,544"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="126,484,126,519,121,519,121,484"/>
+<area shape="rect" id="Node000002" href="$classOptionEditor.html" title=" " alt="" coords="12,372,115,397"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,406,116,443,112,447,80,410"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,299,121,324"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="66,338,66,372,61,372,61,338"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1VBox.html" title=" " alt="" coords="140,372,227,397"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="167,410,135,447,131,443,163,406"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Box.html" title=" " alt="" coords="145,299,224,324"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="187,338,186,372,181,372,182,338"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1Container.html" title=" " alt="" coords="127,225,243,251"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="187,264,187,299,182,299,182,264"/>
+<area shape="rect" id="Node000007" href="$classGtk_1_1Widget.html" title=" " alt="" coords="135,152,234,177"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="187,191,187,225,182,225,182,191"/>
+<area shape="rect" id="Node000008" href="$classGtk_1_1Object.html" title=" " alt="" coords="137,79,232,104"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="187,118,187,152,182,152,182,118"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="135,5,234,31"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="187,44,187,79,182,79,182,44"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ARDOUR::RegionListProperty" name="ARDOUR::RegionListProperty">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,181,216,207"/>
+<area shape="rect" id="Node000002" href="$classPBD_1_1SequenceProperty.html" title=" " alt="" coords="23,79,198,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,147,113,181,108,181,108,147"/>
+<area shape="rect" id="Node000003" href="$classPBD_1_1PropertyBase.html" title=" " alt="" coords="39,5,183,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,44,113,79,108,79,108,44"/>
+</map>

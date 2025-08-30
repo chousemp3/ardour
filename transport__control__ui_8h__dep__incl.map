@@ -1,0 +1,17 @@
+<map id="transport_control_ui.h" name="transport_control_ui.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="264,5,428,31"/>
+<area shape="rect" id="Node000002" href="$application__bar_8h.html" title=" " alt="" coords="141,79,274,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="313,39,231,81,229,76,310,34"/>
+<area shape="rect" id="Node000007" href="$ardour__ui_8h.html" title=" " alt="" coords="299,79,393,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="349,44,349,79,343,79,343,44"/>
+<area shape="rect" id="Node000008" href="$big__transport__window_8h.html" title=" " alt="" coords="418,79,594,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="385,34,481,76,479,81,383,39"/>
+<area shape="rect" id="Node000003" href="$editor_8h.html" title=" " alt="" coords="5,152,76,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="169,112,69,154,67,149,167,107"/>
+<area shape="rect" id="Node000004" href="$mixer__ui_8h.html" title=" " alt="" coords="101,152,191,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="190,116,158,154,154,150,186,113"/>
+<area shape="rect" id="Node000005" href="$recorder__ui_8h.html" title=" " alt="" coords="215,152,322,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="228,113,261,150,257,154,224,116"/>
+<area shape="rect" id="Node000006" href="$trigger__page_8h.html" title=" " alt="" coords="347,152,463,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="253,106,373,149,371,154,251,111"/>
+</map>

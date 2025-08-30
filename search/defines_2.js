@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['basic_5fstack_5fsize_0',['BASIC_STACK_SIZE',['../lstate_8h.html#a8f869ebbbd09a2c657864e11e3d88453',1,'lstate.h']]],
+  ['bit2mask_1',['bit2mask',['../lgc_8h.html#a39293d5e5fbd7bb9a24556b3e2f15d43',1,'lgc.h']]],
+  ['bit_5fiscollectable_2',['BIT_ISCOLLECTABLE',['../lobject_8h.html#a6301e5933254618c0434a55a500b2282',1,'lobject.h']]],
+  ['bitmask_3',['bitmask',['../lgc_8h.html#af25866c39979dd1f72110cbd3a1a427d',1,'lgc.h']]],
+  ['bitrk_4',['BITRK',['../lopcodes_8h.html#ab8d4f5d2db10dd5b3c15e0081596e41c',1,'lopcodes.h']]],
+  ['blackbit_5',['BLACKBIT',['../lgc_8h.html#acd17af3c46cb360dc67cad2b33b6a26f',1,'lgc.h']]],
+  ['boost_5fmark_5fregion_6',['BOOST_MARK_REGION',['../ardour_2ardour_2boost__debug_8h.html#a8e85780162bbde32576fd2d02d81a5f1',1,'boost_debug.h']]],
+  ['boost_5fmark_5froute_7',['BOOST_MARK_ROUTE',['../ardour_2ardour_2boost__debug_8h.html#a03df9f41d63bfa507bf2b6c46fcc4764',1,'boost_debug.h']]],
+  ['boost_5fmark_5fsource_8',['BOOST_MARK_SOURCE',['../ardour_2ardour_2boost__debug_8h.html#a83ae016312d5b87f696bebcbf26f7554',1,'boost_debug.h']]],
+  ['boost_5fmark_5ftmm_9',['BOOST_MARK_TMM',['../ardour_2ardour_2boost__debug_8h.html#a0d4e6d5fe20c8d802cfbc505ff079e9c',1,'boost_debug.h']]],
+  ['boost_5fmark_5ftrack_10',['BOOST_MARK_TRACK',['../ardour_2ardour_2boost__debug_8h.html#ad6fc43252286a7b0fb4379dc460a8512',1,'boost_debug.h']]],
+  ['boost_5fmark_5fvca_11',['BOOST_MARK_VCA',['../ardour_2ardour_2boost__debug_8h.html#a5b00d1744958c5cda955639bb16c3346',1,'boost_debug.h']]],
+  ['boost_5fshow_5fpointers_12',['BOOST_SHOW_POINTERS',['../ardour_2ardour_2boost__debug_8h.html#abbf5d7bf471b668ae3bd6b0afc16c335',1,'boost_debug.h']]],
+  ['bresincrpgon_13',['BRESINCRPGON',['../gdkpoly-generic_8h.html#af6778841a0bf5e824604ddd02ea924cf',1,'gdkpoly-generic.h']]],
+  ['bresincrpgonstruct_14',['BRESINCRPGONSTRUCT',['../gdkpoly-generic_8h.html#aa31ed0210ac1694234530dee2150b052',1,'gdkpoly-generic.h']]],
+  ['bresinitpgon_15',['BRESINITPGON',['../gdkpoly-generic_8h.html#a7d1389601c035555d6d457440a10eb16',1,'gdkpoly-generic.h']]],
+  ['bresinitpgonstruct_16',['BRESINITPGONSTRUCT',['../gdkpoly-generic_8h.html#a9af10288619ab5130bb36ec4219a0b2e',1,'gdkpoly-generic.h']]],
+  ['buf_5finbounds_5fx_17',['BUF_INBOUNDS_X',['../libs_2gtkmm2ext_2gtkmm2ext_2rgb__macros_8h.html#acca9e2d531f8a52cb45bcb9e798990b4',1,'rgb_macros.h']]],
+  ['buf_5finbounds_5fy_18',['BUF_INBOUNDS_Y',['../libs_2gtkmm2ext_2gtkmm2ext_2rgb__macros_8h.html#a1bc2d4abab3b81b7f8fa348f84346f17',1,'rgb_macros.h']]],
+  ['buf_5fptr_19',['BUF_PTR',['../libs_2gtkmm2ext_2gtkmm2ext_2rgb__macros_8h.html#a3fc204b8560ce59724021ca92cef6ee1',1,'rgb_macros.h']]],
+  ['bvalue_20',['bvalue',['../lobject_8h.html#acabf05e821337a6de6a4a6632045032b',1,'lobject.h']]]
+];

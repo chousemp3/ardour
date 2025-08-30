@@ -1,0 +1,11 @@
+<map id="Gtk::TreeDragSource" name="Gtk::TreeDragSource">
+<area shape="rect" id="Node000001" title=" " alt="" coords="51,79,206,104"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1ListStore.html" title=" " alt="" coords="5,152,116,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="110,116,74,154,70,150,106,112"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1TreeStore.html" title=" " alt="" coords="141,152,255,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="151,112,189,150,185,154,148,116"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="71,5,186,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,44,131,79,126,79,126,44"/>
+<area shape="rect" id="Node000005" href="$classPluginTreeStore.html" title=" " alt="" coords="137,225,259,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="201,191,201,225,195,225,195,191"/>
+</map>

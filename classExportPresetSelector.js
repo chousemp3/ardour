@@ -1,0 +1,28 @@
+var classExportPresetSelector =
+[
+    [ "PresetCols", "structExportPresetSelector_1_1PresetCols.html", "structExportPresetSelector_1_1PresetCols" ],
+    [ "ManagerPtr", "classExportPresetSelector.html#a9617c00fe3e2b4b93eb04e060a32527c", null ],
+    [ "PresetList", "classExportPresetSelector.html#a0f30ab0bb09f844f6e701281ba5b6a84", null ],
+    [ "PresetPtr", "classExportPresetSelector.html#a69a302650cd949bc2569d2bef0ee6ff6", null ],
+    [ "ExportPresetSelector", "classExportPresetSelector.html#a8dd5b5fe4b07908bbc4be1a04dddc00f", null ],
+    [ "create_new", "classExportPresetSelector.html#a9010caaefbaf8409476ad70fc22c1e0b", null ],
+    [ "remove_current", "classExportPresetSelector.html#a7dfc65c186e53ff33fbefa26042d84a9", null ],
+    [ "save_current", "classExportPresetSelector.html#aeab536c2acae26fa9a32cd9fdf956121", null ],
+    [ "selection_changed", "classExportPresetSelector.html#a4ae3830d6511436f2cf1f82d3ff522ab", null ],
+    [ "set_manager", "classExportPresetSelector.html#a7b0f823ad3b3cc5a6eaaaa7561e7942f", null ],
+    [ "sync_with_manager", "classExportPresetSelector.html#ad2dc2154ed44789551c0b8fe19a95586", null ],
+    [ "the_combo", "classExportPresetSelector.html#aef993b87454a9a4cb99b51b7408961e2", null ],
+    [ "update_selection", "classExportPresetSelector.html#a7aa0bcc597507195d2f6833feb1222e6", null ],
+    [ "cols", "classExportPresetSelector.html#a77d97509097199d682ebee5c30d709fd", null ],
+    [ "combo", "classExportPresetSelector.html#a8988158ebbe5d6be6f88a545cf710165", null ],
+    [ "CriticalSelectionChanged", "classExportPresetSelector.html#ad810925c7ff6c34448e917722491dbd2", null ],
+    [ "current", "classExportPresetSelector.html#ad1db10fa9e726ed2d848b760247361b4", null ],
+    [ "label", "classExportPresetSelector.html#a8c8856d140de22336c688d9d71b7c4c7", null ],
+    [ "list", "classExportPresetSelector.html#a0e4569ad820db77dd70c5edf4f4a4552", null ],
+    [ "new_button", "classExportPresetSelector.html#a25a3de95431d3cffb359f45834b675db", null ],
+    [ "previous", "classExportPresetSelector.html#abb6b9e85f1b4b2bd9d0259bfbabd4968", null ],
+    [ "profile_manager", "classExportPresetSelector.html#a382ea06b066cea19986e54a0406ae2dc", null ],
+    [ "remove_button", "classExportPresetSelector.html#a838f413b5c0ec9fdf7991751d1e5b6a1", null ],
+    [ "save_button", "classExportPresetSelector.html#a5136eb977513b4a3de9208c9770180f3", null ],
+    [ "select_connection", "classExportPresetSelector.html#afb50f9e069daa49c168db35823fa31da", null ]
+];

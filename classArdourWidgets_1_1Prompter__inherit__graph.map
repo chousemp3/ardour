@@ -1,0 +1,17 @@
+<map id="ArdourWidgets::Prompter" name="ArdourWidgets::Prompter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,519,192,544"/>
+<area shape="rect" id="Node000002" href="$classGtk_1_1Dialog.html" title=" " alt="" coords="51,445,146,471"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,484,101,519,96,519,96,484"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1Window.html" title=" " alt="" coords="46,372,151,397"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,411,101,445,96,445,96,411"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Bin.html" title=" " alt="" coords="61,299,136,324"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="101,338,101,372,96,372,96,338"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Container.html" title=" " alt="" coords="41,225,157,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="101,264,101,299,96,299,96,264"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1Widget.html" title=" " alt="" coords="49,152,148,177"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="101,191,101,225,96,225,96,191"/>
+<area shape="rect" id="Node000007" href="$classGtk_1_1Object.html" title=" " alt="" coords="51,79,146,104"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="101,118,101,152,96,152,96,118"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="49,5,148,31"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="101,44,101,79,96,79,96,44"/>
+</map>

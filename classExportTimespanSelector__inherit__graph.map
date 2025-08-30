@@ -1,0 +1,21 @@
+<map id="ExportTimespanSelector" name="ExportTimespanSelector">
+<area shape="rect" id="Node000001" title="Timespan Selector base." alt="" coords="157,445,339,471"/>
+<area shape="rect" id="Node000009" href="$classExportTimespanSelectorMultiple.html" title="Allows selecting multiple timespans." alt="" coords="5,519,240,544"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="217,480,144,521,142,516,215,475"/>
+<area shape="rect" id="Node000010" href="$classExportTimespanSelectorSingle.html" title="Displays one timespan." alt="" coords="264,519,485,544"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="282,475,355,516,353,521,279,480"/>
+<area shape="rect" id="Node000002" href="$classGtk_1_1VBox.html" title=" " alt="" coords="121,372,207,397"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,404,236,443,233,447,186,408"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1Box.html" title=" " alt="" coords="125,299,203,324"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="167,338,167,372,161,372,161,338"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Container.html" title=" " alt="" coords="106,225,222,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="167,264,167,299,161,299,161,264"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Widget.html" title=" " alt="" coords="115,152,213,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="167,191,167,225,161,225,161,191"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1Object.html" title=" " alt="" coords="117,79,211,104"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="167,118,167,152,161,152,161,118"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="115,5,213,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="167,44,167,79,161,79,161,44"/>
+<area shape="rect" id="Node000008" href="$classARDOUR_1_1SessionHandlePtr.html" title=" " alt="" coords="231,372,433,397"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="310,408,263,447,260,443,306,404"/>
+</map>

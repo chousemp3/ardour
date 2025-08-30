@@ -1,0 +1,7 @@
+<map id="ARDOUR::PortMidiPort" name="ARDOUR::PortMidiPort">
+<area shape="rect" id="Node000001" title=" " alt="" coords="6,152,173,177"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1BackendPort.html" title=" " alt="" coords="5,79,173,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,118,92,152,87,152,87,118"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1ProtoPort.html" title=" " alt="" coords="16,5,163,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,44,92,79,87,79,87,44"/>
+</map>

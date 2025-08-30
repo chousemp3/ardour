@@ -1,0 +1,28 @@
+var classARDOUR_1_1ExportChannelConfiguration =
+[
+    [ "ChannelList", "classARDOUR_1_1ExportChannelConfiguration.html#a31b5802daaa8698d88784a0c61eda0d2", null ],
+    [ "ExportChannelConfiguration", "classARDOUR_1_1ExportChannelConfiguration.html#a550335d1ddbe80eebc4ddad2a998b088", null ],
+    [ "all_channels_have_ports", "classARDOUR_1_1ExportChannelConfiguration.html#af9cfb6569a43b818772c8c4984e84bdc", null ],
+    [ "clear_channels", "classARDOUR_1_1ExportChannelConfiguration.html#a28ed9ced880f6d06466209cbb3403cf6", null ],
+    [ "configurations_for_files", "classARDOUR_1_1ExportChannelConfiguration.html#a58f0055fe1cafc33eb6596036da5cdf6", null ],
+    [ "get_channels", "classARDOUR_1_1ExportChannelConfiguration.html#af789e36c8dde9c36ce2c49d448e44d06", null ],
+    [ "get_n_chans", "classARDOUR_1_1ExportChannelConfiguration.html#aad9f6888bc0cdf6a12668d5127d34d35", null ],
+    [ "get_split", "classARDOUR_1_1ExportChannelConfiguration.html#ac9ec5971187122b391a38ddffa163732", null ],
+    [ "get_state", "classARDOUR_1_1ExportChannelConfiguration.html#a17be03a212c82f29a837a735caf25b31", null ],
+    [ "name", "classARDOUR_1_1ExportChannelConfiguration.html#a510ccb81405af032b096ace5dedf3ed4", null ],
+    [ "operator!=", "classARDOUR_1_1ExportChannelConfiguration.html#aa3c41242ac0801543735a0c1961b9f8e", null ],
+    [ "operator==", "classARDOUR_1_1ExportChannelConfiguration.html#a92d26d0c574e508b2448ebfcca5df039", null ],
+    [ "region_processing_type", "classARDOUR_1_1ExportChannelConfiguration.html#af5d90e1c1a85ca3972b928d2739049e4", null ],
+    [ "register_channel", "classARDOUR_1_1ExportChannelConfiguration.html#a5b71facf7e1716fa25bf9cb4cac67be6", null ],
+    [ "register_channels", "classARDOUR_1_1ExportChannelConfiguration.html#ab35f76b664149b888d6d18552247ae61", null ],
+    [ "set_name", "classARDOUR_1_1ExportChannelConfiguration.html#afd4b86b2e2c34fe984e585c99d2a01b5", null ],
+    [ "set_region_processing_type", "classARDOUR_1_1ExportChannelConfiguration.html#a7b6bf94d1530d3a761e5e716c52d5f35", null ],
+    [ "set_split", "classARDOUR_1_1ExportChannelConfiguration.html#a6c47189926a822e6f549670f9fd4ba94", null ],
+    [ "set_state", "classARDOUR_1_1ExportChannelConfiguration.html#a20d998dc6afe5cb11401846e15246901", null ],
+    [ "ExportElementFactory", "classARDOUR_1_1ExportChannelConfiguration.html#aee34ba7a2a1634adc86b4319072063be", null ],
+    [ "_name", "classARDOUR_1_1ExportChannelConfiguration.html#a734c7689ca02a5d0afc4d87ecf9dd04f", null ],
+    [ "channels", "classARDOUR_1_1ExportChannelConfiguration.html#a3088ec0770fcb0c974a027e42fdbf442", null ],
+    [ "region_type", "classARDOUR_1_1ExportChannelConfiguration.html#a187ea172475b33e9bd20246eed354404", null ],
+    [ "session", "classARDOUR_1_1ExportChannelConfiguration.html#a9aca430a2d8449a8104a922cfe45bc76", null ],
+    [ "split", "classARDOUR_1_1ExportChannelConfiguration.html#a2620d7c3f56c9b9d728460ef606765a4", null ]
+];

@@ -1,0 +1,25 @@
+var classMacVSTPluginUI =
+[
+    [ "MacVSTPluginUI", "classMacVSTPluginUI.html#af1d445696ecf37f4862d1c58f652d376", null ],
+    [ "~MacVSTPluginUI", "classMacVSTPluginUI.html#ab4172f22c6535116e06b5be85ce1ada1", null ],
+    [ "forward_key_event", "classMacVSTPluginUI.html#a3b2f4d8f41fa1cb234cb75a6fcee84fc", null ],
+    [ "get_nswindow", "classMacVSTPluginUI.html#ad0a92e199c5c90472da5e1d7fb3f6e06", null ],
+    [ "get_XID", "classMacVSTPluginUI.html#ade989485769a50cdb282456d6b15329c", null ],
+    [ "idle", "classMacVSTPluginUI.html#afe4409e7c7d3f2d541eb92577ff84a23", null ],
+    [ "lower_box_map", "classMacVSTPluginUI.html#a0ba146000fbbe77372c09b9d07c02c37", null ],
+    [ "lower_box_realized", "classMacVSTPluginUI.html#ad39ba9ed165d08c9940fbf943803ce6a", null ],
+    [ "lower_box_size_allocate", "classMacVSTPluginUI.html#a667d5ba45f8bdc64e8e9c548f13c4f6d", null ],
+    [ "lower_box_size_request", "classMacVSTPluginUI.html#af4dd5d8fc358bd2f1e7df0f831346dc2", null ],
+    [ "lower_box_unmap", "classMacVSTPluginUI.html#a20bfb6c8e691b4cfd85add792c871e5c", null ],
+    [ "lower_box_visibility_notify", "classMacVSTPluginUI.html#a89575d56d66f620c9a170d81283bf81c", null ],
+    [ "package", "classMacVSTPluginUI.html#ac2ca6b8294b0542e02604b6408c0f356", null ],
+    [ "set_program", "classMacVSTPluginUI.html#ad660ba920bd10e2b270be7731e5b02d1", null ],
+    [ "start_updating", "classMacVSTPluginUI.html#a3b180676a5ff999126f6519d9d904fbf", null ],
+    [ "stop_updating", "classMacVSTPluginUI.html#afd0f4a432ab24c6957b71705f03e175e", null ],
+    [ "view_resized", "classMacVSTPluginUI.html#a05396e4140bd3fd45e8879292e9ba270", null ],
+    [ "_idle_connection", "classMacVSTPluginUI.html#aa2b041b73b5629ed373cba381c569a34", null ],
+    [ "_ns_view", "classMacVSTPluginUI.html#a517da4a627c97ab3177609ec44721eef", null ],
+    [ "_program_connection", "classMacVSTPluginUI.html#a5539b55fd61a69156bd15c2c98bb17fb", null ],
+    [ "_resize_notifier", "classMacVSTPluginUI.html#a7f6e52962a05d2159027e9dbea0c9390", null ],
+    [ "low_box", "classMacVSTPluginUI.html#ac010e8ddba598e48a4b3f764f848c7e0", null ]
+];

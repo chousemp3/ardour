@@ -1,0 +1,27 @@
+var classArdourCanvas_1_1Ruler =
+[
+    [ "Mark", "structArdourCanvas_1_1Ruler_1_1Mark.html", "structArdourCanvas_1_1Ruler_1_1Mark" ],
+    [ "Metric", "structArdourCanvas_1_1Ruler_1_1Metric.html", "structArdourCanvas_1_1Ruler_1_1Metric" ],
+    [ "Ruler", "classArdourCanvas_1_1Ruler.html#af1632e861b595695c069a1cc0676e465", null ],
+    [ "Ruler", "classArdourCanvas_1_1Ruler.html#a7a8922706ed8111be78cf228d6cb165d", null ],
+    [ "Ruler", "classArdourCanvas_1_1Ruler.html#a1ed8a824533091e0c3a67565a2ef148c", null ],
+    [ "Ruler", "classArdourCanvas_1_1Ruler.html#a1c4dbf02db3f52aeaf6885a3317db76a", null ],
+    [ "~Ruler", "classArdourCanvas_1_1Ruler.html#a0951efd1a05c2b9470161ce0a8ae76b3", null ],
+    [ "render", "classArdourCanvas_1_1Ruler.html#a5b6b6bc11e2cbccf652d1cad67a28035", null ],
+    [ "set_divide_colors", "classArdourCanvas_1_1Ruler.html#ae10dfbe56a33231efe213c269b2472e5", null ],
+    [ "set_divide_height", "classArdourCanvas_1_1Ruler.html#a15ee8af86d1b65bc1e5a5368c5bf20c6", null ],
+    [ "set_font_description", "classArdourCanvas_1_1Ruler.html#ad310bf40b00589349a5450db046264e3", null ],
+    [ "set_metric", "classArdourCanvas_1_1Ruler.html#a302eff8b2ccd66e54286db8f3eec00cf", null ],
+    [ "set_minor_font_description", "classArdourCanvas_1_1Ruler.html#a8b18d0e0982935b36bf52b4aa6d60232", null ],
+    [ "set_range", "classArdourCanvas_1_1Ruler.html#a2418e0b9f9a4cdc1f2ca91f8c3075456", null ],
+    [ "_divide_height", "classArdourCanvas_1_1Ruler.html#a6be467a81be02158f8f531846046fa53", null ],
+    [ "_divider_color_bottom", "classArdourCanvas_1_1Ruler.html#aea4f35a2e12e7a15cc05001327421aa2", null ],
+    [ "_divider_color_top", "classArdourCanvas_1_1Ruler.html#ac3e46aee71171d09a044d72bfbfe5405", null ],
+    [ "_font_description", "classArdourCanvas_1_1Ruler.html#adb676055fe628357ae6ce0b77034f867", null ],
+    [ "_lower", "classArdourCanvas_1_1Ruler.html#a64e1c24f038754b91b364ee5cffd267b", null ],
+    [ "_metric", "classArdourCanvas_1_1Ruler.html#af1472fd52295af0711d3549ae6b8e09b", null ],
+    [ "_minor_font_description", "classArdourCanvas_1_1Ruler.html#ab0b773c72f6333f857e130514d63b368", null ],
+    [ "_need_marks", "classArdourCanvas_1_1Ruler.html#a9d9992a0d9aa0ca5c82c0892f91731e9", null ],
+    [ "_upper", "classArdourCanvas_1_1Ruler.html#a06ab51b7a44fbf4e2cf70165ea777066", null ],
+    [ "marks", "classArdourCanvas_1_1Ruler.html#aa9b1f334334cb3b10ee472850bff9bcb", null ]
+];

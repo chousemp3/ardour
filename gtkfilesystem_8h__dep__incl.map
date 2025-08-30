@@ -1,0 +1,15 @@
+<map id="gtkfilesystem.h" name="gtkfilesystem.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="314,5,437,31"/>
+<area shape="rect" id="Node000002" href="$gtkfilechooserdefault_8h.html" title=" " alt="" coords="5,79,177,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="317,37,138,81,137,76,316,31"/>
+<area shape="rect" id="Node000003" href="$gtkfilechooserentry_8h.html" title=" " alt="" coords="201,79,360,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="351,41,298,81,295,76,348,37"/>
+<area shape="rect" id="Node000004" href="$gtkfilechooserprivate_8h.html" title=" " alt="" coords="384,79,556,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="403,37,456,76,453,81,400,41"/>
+<area shape="rect" id="Node000007" href="$gtkpathbar_8h.html" title=" " alt="" coords="581,79,685,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="430,32,592,76,590,81,429,37"/>
+<area shape="rect" id="Node000005" href="$gtkfilechoosersettings_8h.html" title=" " alt="" coords="285,152,463,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="445,114,391,154,388,150,442,110"/>
+<area shape="rect" id="Node000006" href="$gtkfilechooserutils_8h.html" title=" " alt="" coords="487,152,642,177"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="498,110,551,150,548,154,495,114"/>
+</map>

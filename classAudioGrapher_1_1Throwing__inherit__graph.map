@@ -1,0 +1,77 @@
+<map id="AudioGrapher::Throwing&lt; L &gt;" name="AudioGrapher::Throwing&lt; L &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,831,221,857"/>
+<area shape="rect" id="Node000002" href="$classAudioGrapher_1_1CmdPipeWriter.html" title=" " alt="" coords="290,5,507,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,817,125,662,152,433,173,314,198,206,230,116,248,82,267,55,288,40,291,44,271,59,252,85,235,119,203,207,178,315,158,434,131,662,119,818"/>
+<area shape="rect" id="Node000003" href="$classAudioGrapher_1_1Interleaver.html" title=" " alt="" coords="303,69,494,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="114,817,128,674,156,464,177,356,202,256,232,175,249,143,267,119,284,106,302,97,304,102,287,111,271,123,254,146,237,177,207,258,182,357,162,465,133,674,119,818"/>
+<area shape="rect" id="Node000004" href="$classAudioGrapher_1_1ProcessContext.html" title=" " alt="" coords="289,133,509,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="115,817,130,684,161,494,181,396,206,307,235,233,250,205,267,183,287,169,290,173,271,187,255,208,239,236,211,308,187,397,166,495,136,685,120,818"/>
+<area shape="rect" id="Node000005" href="$classAudioGrapher_1_1ProcessContext.html" title=" " alt="" coords="289,197,509,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="115,817,133,696,165,525,186,438,210,358,237,292,252,267,267,247,287,233,290,237,271,251,256,270,242,294,215,359,191,439,170,526,138,697,121,818"/>
+<area shape="rect" id="Node000006" href="$classAudioGrapher_1_1ProcessContext.html" title=" " alt="" coords="269,262,528,287"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="116,817,135,705,167,548,188,469,212,397,238,338,267,298,286,285,289,290,271,302,243,340,217,399,193,470,172,550,140,706,121,818"/>
+<area shape="rect" id="Node000007" href="$classAudioGrapher_1_1SampleFormatConverter.html" title=" " alt="" coords="291,312,506,352"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="112,817,118,730,126,671,139,607,159,541,186,476,222,415,268,362,289,347,292,351,271,366,226,418,191,478,164,543,145,608,131,672,123,730,117,818"/>
+<area shape="rect" id="Node000008" href="$classAudioGrapher_1_1SampleFormatConverter.html" title=" " alt="" coords="291,376,506,416"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="114,817,123,740,148,635,167,578,193,522,226,471,268,426,290,411,293,416,271,430,231,474,198,525,172,580,153,636,128,741,119,818"/>
+<area shape="rect" id="Node000009" href="$classAudioGrapher_1_1SampleFormatConverter.html" title=" " alt="" coords="291,440,506,480"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="116,817,129,751,156,662,176,615,201,569,231,527,268,490,289,476,292,480,271,494,235,530,205,572,181,618,161,664,134,752,121,818"/>
+<area shape="rect" id="Node000010" href="$classAudioGrapher_1_1SilenceTrimmer.html" title=" " alt="" coords="289,504,509,544"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="118,817,135,762,165,691,185,653,208,617,236,583,268,554,287,542,290,547,271,558,240,587,213,620,189,656,170,693,140,764,124,819"/>
+<area shape="rect" id="Node000011" href="$classAudioGrapher_1_1SndfileReader.html" title=" " alt="" coords="294,568,503,608"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="123,817,143,773,175,719,216,664,241,639,268,618,293,604,295,609,271,622,244,643,220,668,179,722,148,776,128,819"/>
+<area shape="rect" id="Node000012" href="$classAudioGrapher_1_1SndfileReader.html" title=" " alt="" coords="294,632,503,672"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="129,819,185,750,224,713,268,682,294,670,296,675,271,686,227,717,189,754,133,822"/>
+<area shape="rect" id="Node000013" href="$classAudioGrapher_1_1SndfileWriter.html" title=" " alt="" coords="297,696,500,736"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="141,821,198,783,268,746,302,734,304,739,270,750,200,787,144,825"/>
+<area shape="rect" id="Node000014" href="$classAudioGrapher_1_1SndfileWriter.html" title=" " alt="" coords="297,760,500,800"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="184,826,308,797,310,803,185,831"/>
+<area shape="rect" id="Node000015" href="$classAudioGrapher_1_1SndfileWriter.html" title=" " alt="" coords="297,824,500,864"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="235,841,297,841,297,847,235,847"/>
+<area shape="rect" id="Node000016" href="$classAudioGrapher_1_1SndfileWriter.html" title=" " alt="" coords="297,888,500,928"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="185,857,310,885,308,891,184,862"/>
+<area shape="rect" id="Node000017" href="$classAudioGrapher_1_1CmdPipeWriter.html" title=" " alt="" coords="271,953,526,978"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="143,863,200,901,270,938,312,950,310,955,268,942,197,906,140,867"/>
+<area shape="rect" id="Node000018" href="$classAudioGrapher_1_1DeInterleaver.html" title="Converts on stream of interleaved data to many streams of uninterleaved data." alt="" coords="275,1002,522,1027"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="135,866,191,928,229,960,271,987,303,999,301,1004,268,992,225,964,187,932,131,870"/>
+<area shape="rect" id="Node000019" href="$classAudioGrapher_1_1DemoNoiseAdder.html" title="Noise injector." alt="" coords="271,1051,526,1077"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="129,868,151,906,183,952,223,998,271,1036,298,1049,296,1054,268,1041,219,1002,178,956,147,909,125,870"/>
+<area shape="rect" id="Node000020" href="$classAudioGrapher_1_1Interleaver.html" title="Interleaves many streams of non&#45;interleaved data into one interleaved stream." alt="" coords="285,1101,513,1126"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="126,869,145,917,175,976,217,1036,243,1063,271,1086,295,1098,292,1103,268,1090,239,1067,213,1040,171,979,140,919,121,871"/>
+<area shape="rect" id="Node000021" href="$classAudioGrapher_1_1Limiter.html" title=" " alt="" coords="305,1150,492,1175"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="123,870,139,926,168,999,188,1037,211,1073,239,1107,271,1135,306,1152,304,1157,268,1140,235,1110,207,1076,183,1039,163,1001,134,928,118,871"/>
+<area shape="rect" id="Node000022" href="$classAudioGrapher_1_1Normalizer.html" title="A class for normalizing to a specified target in dB." alt="" coords="292,1199,505,1225"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="121,870,134,935,161,1021,181,1066,205,1110,235,1150,271,1185,293,1198,290,1202,268,1189,231,1154,201,1113,176,1068,156,1023,129,936,116,871"/>
+<area shape="rect" id="Node000023" href="$classAudioGrapher_1_1ProcessContext.html" title=" " alt="" coords="269,1249,528,1274"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="119,870,130,944,154,1043,174,1095,200,1147,232,1194,271,1234,291,1246,288,1251,268,1238,228,1197,195,1149,169,1098,149,1044,124,945,114,871"/>
+<area shape="rect" id="Node000026" href="$classAudioGrapher_1_1SampleFormatConverter.html" title=" " alt="" coords="291,1299,506,1339"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="118,870,127,951,136,1004,150,1062,169,1122,195,1181,229,1236,271,1283,292,1298,289,1302,268,1287,225,1239,191,1184,164,1124,145,1064,131,1005,121,952,113,871"/>
+<area shape="rect" id="Node000027" href="$classAudioGrapher_1_1SampleRateConverter.html" title="Samplerate converter." alt="" coords="299,1363,498,1403"/>
+<area shape="poly" id="edge26_Node000001_Node000027" title=" " alt="" coords="117,870,121,962,129,1023,141,1091,160,1161,188,1229,224,1293,271,1349,300,1367,297,1372,268,1353,220,1296,183,1232,155,1162,136,1092,123,1024,116,962,112,871"/>
+<area shape="rect" id="Node000028" href="$classAudioGrapher_1_1SilenceTrimmer.html" title="Removes and adds silent samples to beginning and/or end of stream." alt="" coords="269,1427,528,1453"/>
+<area shape="poly" id="edge27_Node000001_Node000028" title=" " alt="" coords="121,870,139,987,171,1151,191,1235,215,1311,242,1372,256,1395,271,1413,289,1425,285,1429,268,1417,252,1399,237,1375,210,1312,186,1236,165,1153,133,988,116,871"/>
+<area shape="rect" id="Node000029" href="$classAudioGrapher_1_1SndfileReader.html" title=" " alt="" coords="275,1526,522,1551"/>
+<area shape="poly" id="edge28_Node000001_Node000029" title=" " alt="" coords="120,870,134,1005,164,1199,185,1298,209,1389,238,1463,254,1491,271,1511,288,1524,285,1528,267,1515,250,1494,233,1465,204,1390,179,1299,159,1200,129,1005,114,871"/>
+<area shape="rect" id="Node000036" href="$classAudioGrapher_1_1SndfileWriter.html" title=" " alt="" coords="278,1477,519,1502"/>
+<area shape="poly" id="edge35_Node000001_Node000036" title=" " alt="" coords="120,870,137,997,167,1175,188,1267,212,1350,240,1417,255,1443,271,1462,288,1474,285,1479,268,1466,251,1446,235,1420,207,1352,183,1268,162,1177,131,997,115,871"/>
+<area shape="rect" id="Node000024" href="$classAudioGrapher_1_1AllocatingProcessContext.html" title=" " alt="" coords="579,1209,782,1249"/>
+<area shape="poly" id="edge23_Node000023_Node000024" title=" " alt="" coords="524,1244,579,1238,579,1243,524,1250"/>
+<area shape="rect" id="Node000025" href="$classAudioGrapher_1_1AllocatingProcessContext.html" title="A process context that allocates and owns it&#39;s data buffer." alt="" coords="589,1273,773,1313"/>
+<area shape="poly" id="edge24_Node000023_Node000025" title=" " alt="" coords="524,1273,589,1280,588,1286,524,1278"/>
+<area shape="rect" id="Node000030" href="$classAudioGrapher_1_1TmpFile.html" title=" " alt="" coords="591,1401,770,1441"/>
+<area shape="poly" id="edge29_Node000029_Node000030" title=" " alt="" coords="512,1519,526,1511,542,1498,550,1483,559,1467,574,1451,596,1439,599,1444,578,1455,563,1470,555,1485,546,1501,530,1516,514,1523"/>
+<area shape="rect" id="Node000031" href="$classAudioGrapher_1_1TmpFile.html" title=" " alt="" coords="595,1465,766,1505"/>
+<area shape="poly" id="edge30_Node000029_Node000031" title=" " alt="" coords="480,1521,595,1499,596,1504,481,1526"/>
+<area shape="rect" id="Node000032" href="$classAudioGrapher_1_1Sndfile.html" title=" " alt="" coords="580,1530,781,1555"/>
+<area shape="poly" id="edge31_Node000029_Node000032" title=" " alt="" coords="536,1538,580,1539,580,1544,536,1543"/>
+<area shape="rect" id="Node000033" href="$classAudioGrapher_1_1TmpFile.html" title="A temporary file deleted after this class is destructed." alt="" coords="576,1579,785,1605"/>
+<area shape="poly" id="edge32_Node000029_Node000033" title=" " alt="" coords="480,1551,613,1577,612,1582,479,1557"/>
+<area shape="rect" id="Node000034" href="$classAudioGrapher_1_1TmpFileRt.html" title=" " alt="" coords="842,1554,1065,1579"/>
+<area shape="poly" id="edge33_Node000033_Node000034" title=" " alt="" coords="799,1578,842,1574,842,1580,799,1584"/>
+<area shape="rect" id="Node000035" href="$classAudioGrapher_1_1TmpFileSync.html" title="A temporary file deleted after this class is destructed." alt="" coords="833,1603,1073,1629"/>
+<area shape="poly" id="edge34_Node000033_Node000035" title=" " alt="" coords="799,1600,833,1603,833,1608,799,1605"/>
+<area shape="poly" id="edge36_Node000036_Node000030" title=" " alt="" coords="482,1471,527,1461,612,1439,613,1444,529,1467,483,1477"/>
+<area shape="poly" id="edge37_Node000036_Node000031" title=" " alt="" coords="533,1485,595,1484,595,1489,534,1490"/>
+<area shape="poly" id="edge38_Node000036_Node000032" title=" " alt="" coords="482,1502,529,1511,615,1527,614,1533,527,1516,481,1507"/>
+<area shape="poly" id="edge39_Node000036_Node000033" title=" " alt="" coords="516,1504,529,1511,545,1524,554,1538,563,1552,577,1564,605,1577,603,1582,575,1569,559,1555,550,1541,541,1528,527,1516,513,1509"/>
+</map>

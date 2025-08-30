@@ -1,0 +1,11 @@
+<map id="AudioGrapher::Normalizer" name="AudioGrapher::Normalizer">
+<area shape="rect" id="Node000001" title="A class for normalizing to a specified target in dB." alt="" coords="519,77,709,102"/>
+<area shape="rect" id="Node000002" href="$classAudioGrapher_1_1ListedSource.html" title=" " alt="" coords="261,5,464,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="456,46,564,74,562,79,455,51"/>
+<area shape="rect" id="Node000003" href="$classAudioGrapher_1_1Source.html" title=" " alt="" coords="5,13,207,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="220,23,261,23,261,28,220,28"/>
+<area shape="rect" id="Node000004" href="$classAudioGrapher_1_1Sink.html" title=" " alt="" coords="289,69,436,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="450,87,518,87,518,92,450,92"/>
+<area shape="rect" id="Node000005" href="$classAudioGrapher_1_1Throwing.html" title=" " alt="" coords="255,134,471,159"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="432,128,557,99,558,105,433,133"/>
+</map>

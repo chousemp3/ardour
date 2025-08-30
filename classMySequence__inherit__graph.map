@@ -1,0 +1,13 @@
+<map id="MySequence&lt; Time &gt;" name="MySequence&lt; Time &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="103,299,271,324"/>
+<area shape="rect" id="Node000002" href="$classEvoral_1_1Sequence.html" title=" " alt="" coords="88,225,285,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,264,189,299,184,299,184,264"/>
+<area shape="rect" id="Node000003" href="$classEvoral_1_1ControlSet.html" title=" " alt="" coords="117,152,256,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="189,191,189,225,184,225,184,191"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,79,155,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="110,109,171,150,168,154,107,114"/>
+<area shape="rect" id="Node000005" href="$structTemporal_1_1TimeDomainSwapper.html" title=" " alt="" coords="179,79,410,104"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="267,114,206,154,203,150,265,109"/>
+<area shape="rect" id="Node000006" href="$classPBD_1_1Destructible.html" title=" " alt="" coords="227,5,363,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="297,44,297,79,292,79,292,44"/>
+</map>

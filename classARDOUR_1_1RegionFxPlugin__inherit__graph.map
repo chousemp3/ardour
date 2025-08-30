@@ -1,0 +1,35 @@
+<map id="ARDOUR::RegionFxPlugin" name="ARDOUR::RegionFxPlugin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1035,205,1223,231"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1SessionObject.html" title=" " alt="" coords="532,55,711,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="725,78,852,102,921,120,988,141,1056,172,1109,203,1106,208,1053,177,986,146,919,125,851,107,724,83"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1SessionHandleRef.html" title=" " alt="" coords="266,5,471,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="448,31,556,52,555,57,447,36"/>
+<area shape="rect" id="Node000004" href="$classPBD_1_1ScopedConnectionList.html" title=" " alt="" coords="5,5,205,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="219,15,266,15,266,21,219,21"/>
+<area shape="rect" id="Node000005" href="$classPBD_1_1StatefulDestructible.html" title=" " alt="" coords="275,55,462,80"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="476,65,532,65,532,70,476,70"/>
+<area shape="rect" id="Node000006" href="$classPBD_1_1Stateful.html" title=" " alt="" coords="51,55,159,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="173,65,275,65,275,70,173,70"/>
+<area shape="rect" id="Node000007" href="$classPBD_1_1Destructible.html" title=" " alt="" coords="37,105,173,131"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="185,100,301,77,302,83,186,105"/>
+<area shape="rect" id="Node000008" href="$classARDOUR_1_1PlugInsertBase.html" title=" " alt="" coords="781,156,965,181"/>
+<area shape="poly" id="edge12_Node000008_Node000007" title=" " alt="" coords="187,116,422,122,566,129,711,141,802,153,802,159,710,146,566,134,422,127,187,121"/>
+<area shape="rect" id="Node000011" href="$structTemporal_1_1TimeDomainSwapper.html" title=" " alt="" coords="253,156,484,181"/>
+<area shape="poly" id="edge11_Node000011_Node000007" title=" " alt="" coords="186,131,302,153,301,159,185,136"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="953,181,1062,203,1061,208,952,187"/>
+<area shape="rect" id="Node000009" href="$classEvoral_1_1ControlSet.html" title=" " alt="" coords="552,156,691,181"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="705,166,781,166,781,171,705,171"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="294,205,443,231"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="447,200,555,179,556,184,448,205"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="498,166,552,166,552,171,498,171"/>
+<area shape="rect" id="Node000012" href="$classARDOUR_1_1Latent.html" title=" " alt="" coords="809,205,937,231"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="951,215,1034,215,1034,221,951,221"/>
+<area shape="rect" id="Node000013" href="$classARDOUR_1_1HasLatency.html" title=" " alt="" coords="540,205,703,231"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="716,215,808,215,808,221,716,221"/>
+<area shape="rect" id="Node000014" href="$classARDOUR_1_1TailTime.html" title=" " alt="" coords="801,255,944,280"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="952,249,1061,228,1062,233,953,255"/>
+<area shape="rect" id="Node000015" href="$classARDOUR_1_1HasTailTime.html" title=" " alt="" coords="538,255,705,280"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="718,265,801,265,801,270,718,270"/>
+<area shape="rect" id="Node000016" href="$classTemporal_1_1TimeDomainProvider.html" title=" " alt="" coords="759,304,987,329"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="956,298,986,289,1053,259,1106,228,1108,233,1055,263,988,294,958,303"/>
+</map>

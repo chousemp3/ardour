@@ -1,0 +1,20 @@
+<map id="PluginTreeStore" name="PluginTreeStore">
+<area shape="rect" id="Node000001" title=" " alt="" coords="279,225,401,251"/>
+<area shape="rect" id="Node000002" href="$classGtk_1_1TreeStore.html" title=" " alt="" coords="283,152,397,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="343,191,343,225,337,225,337,191"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,79,104,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="114,105,294,149,293,154,113,110"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1TreeModel.html" title=" " alt="" coords="128,79,248,104"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="226,107,316,149,314,154,223,112"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="367,5,481,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="374,37,227,81,225,76,372,32"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1TreeSortable.html" title=" " alt="" coords="273,79,407,104"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="402,42,355,80,352,76,398,38"/>
+<area shape="rect" id="Node000007" href="$classGtk_1_1TreeDragSource.html" title=" " alt="" coords="432,79,587,104"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="450,37,497,76,494,80,446,41"/>
+<area shape="rect" id="Node000008" href="$classGtk_1_1TreeDragDest.html" title=" " alt="" coords="611,79,752,104"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="479,32,640,76,639,81,478,37"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="343,118,343,152,337,152,337,118"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="471,112,369,154,367,149,468,107"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="614,109,396,155,395,149,613,104"/>
+</map>

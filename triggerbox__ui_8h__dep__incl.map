@@ -1,0 +1,9 @@
+<map id="triggerbox_ui.h" name="triggerbox_ui.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="77,5,197,31"/>
+<area shape="rect" id="Node000002" href="$mixer__strip_8h.html" title=" " alt="" coords="17,79,123,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,43,83,80,79,77,114,39"/>
+<area shape="rect" id="Node000004" href="$trigger__strip_8h.html" title=" " alt="" coords="148,79,261,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="159,39,196,77,192,80,155,42"/>
+<area shape="rect" id="Node000003" href="$strip__selection_8h.html" title=" " alt="" coords="5,152,135,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="73,118,73,152,67,152,67,118"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="emscale.h" name="emscale.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="142,5,231,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,56,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,33,70,75,68,70,161,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="80,79,139,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,33,134,71,130,67,172,29"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="163,79,365,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="201,29,243,67,239,71,197,33"/>
+<area shape="rect" id="Node000005" href="$gtkmm2ext_2gtkmm2ext_2visibility_8h.html" title=" " alt="" coords="389,79,557,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="232,28,414,73,413,78,231,33"/>
+</map>

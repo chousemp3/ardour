@@ -1,0 +1,19 @@
+<map id="Gtk::RecentChooserMenu" name="Gtk::RecentChooserMenu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="45,445,231,471"/>
+<area shape="rect" id="Node000002" href="$classGtk_1_1Menu.html" title=" " alt="" coords="21,372,111,397"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,405,128,443,124,447,86,409"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1MenuShell.html" title=" " alt="" coords="5,299,127,324"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="69,338,69,372,63,372,63,338"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Container.html" title=" " alt="" coords="8,225,124,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="69,264,69,299,63,299,63,264"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Widget.html" title=" " alt="" coords="17,152,115,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="69,191,69,225,63,225,63,191"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1Object.html" title=" " alt="" coords="19,79,113,104"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="69,118,69,152,63,152,63,118"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="17,5,115,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="69,44,69,79,63,79,63,44"/>
+<area shape="rect" id="Node000008" href="$classGtk_1_1RecentChooser.html" title=" " alt="" coords="135,372,285,397"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="190,409,152,447,148,443,186,405"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="153,299,267,324"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="213,338,213,372,207,372,207,338"/>
+</map>

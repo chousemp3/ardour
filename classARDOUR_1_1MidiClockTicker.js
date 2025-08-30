@@ -1,0 +1,25 @@
+var classARDOUR_1_1MidiClockTicker =
+[
+    [ "MidiClockTicker", "classARDOUR_1_1MidiClockTicker.html#a29d8cf5fbda9daa44c8a0762e3f28250", null ],
+    [ "MidiClockTicker", "classARDOUR_1_1MidiClockTicker.html#ac1f049abdd648f14eeb183a8d7343310", null ],
+    [ "~MidiClockTicker", "classARDOUR_1_1MidiClockTicker.html#ab9884f2cd1588ddc2dd00a9e4d7f2963", null ],
+    [ "one_ppqn_in_samples", "classARDOUR_1_1MidiClockTicker.html#a12b999e66cbf8197d60b113b7837f652", null ],
+    [ "operator=", "classARDOUR_1_1MidiClockTicker.html#a1734841c02d79b73e2d100b9a8d60cdf", null ],
+    [ "reset", "classARDOUR_1_1MidiClockTicker.html#aead21e99edaea6f4ed8a1e6757e502ef", null ],
+    [ "resync_latency", "classARDOUR_1_1MidiClockTicker.html#af7d02894320af56f713a5e482fa8f5c6", null ],
+    [ "send_continue_event", "classARDOUR_1_1MidiClockTicker.html#a85fa9da020fc6ece360d001167ca019d", null ],
+    [ "send_midi_clock_event", "classARDOUR_1_1MidiClockTicker.html#a7bf6aa43a6240f92c6053d059b1a7b1f", null ],
+    [ "send_position_event", "classARDOUR_1_1MidiClockTicker.html#a53d7239a0ebde2872932ef1b12331839", null ],
+    [ "send_start_event", "classARDOUR_1_1MidiClockTicker.html#a9bc1a6c9bd993adfb901eff5d267d930", null ],
+    [ "send_stop_event", "classARDOUR_1_1MidiClockTicker.html#a8554a7b9b312f99309f17804be2ad0c2", null ],
+    [ "tick", "classARDOUR_1_1MidiClockTicker.html#a546210bf017bacb00143ee61a78f0ab3", null ],
+    [ "_beat_pos", "classARDOUR_1_1MidiClockTicker.html#aae34c03cc8de2fb84dfc3a5fbe7bace8", null ],
+    [ "_clock_cnt", "classARDOUR_1_1MidiClockTicker.html#aa5555b437de167b564743c4584473dbc", null ],
+    [ "_latency_connection", "classARDOUR_1_1MidiClockTicker.html#ac1f28e8786abf9f77a07d7e12b86c9ea", null ],
+    [ "_mclk_out_latency", "classARDOUR_1_1MidiClockTicker.html#a97262a39fa53cac8745335e28e63f130", null ],
+    [ "_midi_port", "classARDOUR_1_1MidiClockTicker.html#a4edce7ba5a66305d3bab5c1c29f5e6d7", null ],
+    [ "_next_tick", "classARDOUR_1_1MidiClockTicker.html#a4fe1a3fda04d8189efdeb5bf44cff749", null ],
+    [ "_rolling", "classARDOUR_1_1MidiClockTicker.html#a49238303fcb48a652197d3baf6cfe776", null ],
+    [ "_session", "classARDOUR_1_1MidiClockTicker.html#aebff926bafe0b51ed134e8be9ab61c55", null ],
+    [ "_transport_pos", "classARDOUR_1_1MidiClockTicker.html#a0831c7eb3a55b51ada34ba2bf8332ceb", null ]
+];

@@ -1,0 +1,9 @@
+<map id="Steinberg::HostMessage" name="Steinberg::HostMessage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="51,152,231,177"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,119,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,111,130,150,126,154,83,115"/>
+<area shape="rect" id="Node000003" href="$classSteinberg_1_1RefObject.html" title=" " alt="" coords="143,79,299,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,115,156,154,152,150,196,111"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="175,5,266,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="223,44,223,79,218,79,218,44"/>
+</map>

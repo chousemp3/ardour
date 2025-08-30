@@ -1,0 +1,26 @@
+<map id="canvas_vars.inc.h" name="canvas_vars.inc.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="292,5,431,31"/>
+<area shape="rect" id="Node000002" href="$gtk2__ardour_2ui__config_8h.html" title=" " alt="" coords="315,79,407,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="364,44,364,79,359,79,359,44"/>
+<area shape="rect" id="Node000003" href="$gtk2__ardour_2actions_8h.html" title=" " alt="" coords="321,152,402,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="364,118,364,152,359,152,359,118"/>
+<area shape="rect" id="Node000005" href="$color__theme__manager_8h.html" title=" " alt="" coords="5,299,184,324"/>
+<area shape="poly" id="edge9_Node000002_Node000005" title=" " alt="" coords="339,115,111,300,107,296,335,110"/>
+<area shape="rect" id="Node000010" href="$note__base_8h.html" title=" " alt="" coords="427,152,528,177"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="393,109,460,149,457,154,390,113"/>
+<area shape="rect" id="Node000004" href="$option__editor_8h.html" title="Base class for option editing dialog boxes." alt="" coords="305,225,423,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="365,191,366,225,361,225,360,191"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="308,257,139,301,138,296,307,252"/>
+<area shape="rect" id="Node000006" href="$rc__option__editor_8h.html" title="Editing of options which are obtained from and written back to one of the .rc files." alt="" coords="208,299,347,324"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="341,261,293,301,290,296,338,257"/>
+<area shape="rect" id="Node000007" href="$search__path__option_8h.html" title=" " alt="" coords="371,299,533,324"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="390,257,439,296,436,301,387,261"/>
+<area shape="rect" id="Node000008" href="$session__dialog_8h.html" title=" " alt="" coords="557,299,688,324"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="419,252,581,296,580,301,418,257"/>
+<area shape="rect" id="Node000009" href="$session__option__editor_8h.html" title=" " alt="" coords="713,299,887,324"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="438,249,730,296,729,301,437,254"/>
+<area shape="rect" id="Node000011" href="$hit_8h.html" title=" " alt="" coords="451,225,501,251"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="480,191,479,225,474,225,474,191"/>
+<area shape="rect" id="Node000012" href="$gtk2__ardour_2note_8h.html" title=" " alt="" coords="526,225,589,251"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="502,184,546,223,542,227,498,188"/>
+</map>

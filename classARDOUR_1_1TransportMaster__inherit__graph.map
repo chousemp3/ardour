@@ -1,0 +1,17 @@
+<map id="ARDOUR::TransportMaster" name="ARDOUR::TransportMaster">
+<area shape="rect" id="Node000001" title="The TransportMaster interface can be used to sync ARDOURs tempo to an external source like MTC,..." alt="" coords="161,77,353,102"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1Engine__TransportMaster.html" title=" " alt="" coords="412,5,611,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="321,71,430,43,432,48,323,76"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1MIDIClock__TransportMaster.html" title=" " alt="" coords="401,69,621,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="367,87,401,87,401,92,367,92"/>
+<area shape="rect" id="Node000006" href="$classARDOUR_1_1TimecodeTransportMaster.html" title=" " alt="" coords="406,133,617,173"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="323,103,432,131,430,136,321,108"/>
+<area shape="rect" id="Node000002" href="$classPBD_1_1Stateful.html" title=" " alt="" coords="5,77,113,102"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,87,161,87,161,92,127,92"/>
+<area shape="rect" id="Node000005" href="$classARDOUR_1_1MclkTestMaster.html" title=" " alt="" coords="688,77,877,102"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="635,87,688,87,688,92,635,92"/>
+<area shape="rect" id="Node000007" href="$classARDOUR_1_1LTC__TransportMaster.html" title=" " alt="" coords="672,133,893,158"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="630,147,672,146,672,151,631,152"/>
+<area shape="rect" id="Node000008" href="$classARDOUR_1_1MTC__TransportMaster.html" title=" " alt="" coords="669,182,896,207"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="631,169,699,179,698,185,630,174"/>
+</map>

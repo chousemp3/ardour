@@ -1,0 +1,7 @@
+<map id="ArdourSurface::FP8::ShadowButton" name="ArdourSurface::FP8::ShadowButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="9,181,156,221"/>
+<area shape="rect" id="Node000002" href="$classArdourSurface_1_1FP8_1_1FP8ButtonBase.html" title=" " alt="" coords="9,93,156,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,147,85,181,80,181,80,147"/>
+<area shape="rect" id="Node000003" href="$classArdourSurface_1_1FP8_1_1FP8ButtonInterface.html" title=" " alt="" coords="5,5,160,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="85,59,85,93,80,93,80,59"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="AudioGrapher::TmpFileSync&lt; T &gt;" name="AudioGrapher::TmpFileSync&lt; T &gt;">
+<area shape="rect" id="Node000001" title="A temporary file deleted after this class is destructed." alt="" coords="1151,129,1391,155"/>
+<area shape="rect" id="Node000002" href="$classAudioGrapher_1_1TmpFile.html" title="A temporary file deleted after this class is destructed." alt="" coords="893,129,1103,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1116,139,1150,139,1150,145,1116,145"/>
+<area shape="rect" id="Node000003" href="$classAudioGrapher_1_1SndfileWriter.html" title=" " alt="" coords="601,104,843,129"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="857,126,894,130,893,135,856,132"/>
+<area shape="rect" id="Node000004" href="$classAudioGrapher_1_1SndfileBase.html" title="Base class for all classes using libsndfile." alt="" coords="322,104,517,129"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="530,114,601,114,601,119,530,119"/>
+<area shape="rect" id="Node000010" href="$classAudioGrapher_1_1SndfileReader.html" title=" " alt="" coords="599,153,845,179"/>
+<area shape="poly" id="edge10_Node000010_Node000004" title=" " alt="" coords="512,129,644,151,643,156,511,134"/>
+<area shape="rect" id="Node000005" href="$classAudioGrapher_1_1SndfileHandle.html" title=" " alt="" coords="18,104,227,129"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="241,114,322,114,322,119,241,119"/>
+<area shape="rect" id="Node000006" href="$classAudioGrapher_1_1Sink.html" title=" " alt="" coords="327,55,512,80"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="512,80,644,101,643,107,511,85"/>
+<area shape="rect" id="Node000007" href="$classAudioGrapher_1_1Throwing.html" title=" " alt="" coords="311,153,527,179"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="511,148,643,127,644,132,512,154"/>
+<area shape="poly" id="edge13_Node000010_Node000007" title=" " alt="" coords="541,163,598,163,598,169,541,169"/>
+<area shape="rect" id="Node000008" href="$classAudioGrapher_1_1FlagDebuggable.html" title="A debugging class for nodes that support a certain set of flags." alt="" coords="288,5,551,31"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="519,31,551,39,633,71,698,102,695,106,631,75,550,45,518,36"/>
+<area shape="rect" id="Node000009" href="$classAudioGrapher_1_1Debuggable.html" title=" " alt="" coords="5,5,240,31"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="254,15,288,15,288,21,254,21"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="859,151,893,148,894,154,859,157"/>
+<area shape="rect" id="Node000011" href="$classAudioGrapher_1_1ListedSource.html" title="An generic Source that uses a std::list for managing outputs." alt="" coords="299,203,539,228"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="511,198,643,176,644,181,512,203"/>
+<area shape="rect" id="Node000012" href="$classAudioGrapher_1_1Source.html" title=" " alt="" coords="22,203,223,228"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="237,213,299,213,299,218,237,218"/>
+</map>

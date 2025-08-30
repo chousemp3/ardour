@@ -1,0 +1,27 @@
+var classTemporal_1_1TempoPoint =
+[
+    [ "TempoPoint", "classTemporal_1_1TempoPoint.html#adc867eeea73ba9f9e334e2e87afcdf69", null ],
+    [ "TempoPoint", "classTemporal_1_1TempoPoint.html#a889c434372eecf31c7a48721c657cd6c", null ],
+    [ "TempoPoint", "classTemporal_1_1TempoPoint.html#a37c3d97c89344448a5e6b2ebad811b8f", null ],
+    [ "~TempoPoint", "classTemporal_1_1TempoPoint.html#a2b01e997e872167cb40c6b8aebec97d1", null ],
+    [ "actually_ramped", "classTemporal_1_1TempoPoint.html#ab4223c49fb04c22c9e24a80d054ae67b", null ],
+    [ "compute_omega_from_distance_and_next_tempo", "classTemporal_1_1TempoPoint.html#adb3967790f5a67fa5e729a86e8fb97e5", null ],
+    [ "compute_omega_from_next_tempo", "classTemporal_1_1TempoPoint.html#a3d9bbc9d70e665126cade48f0d730cfb", null ],
+    [ "compute_omega_from_quarter_duration", "classTemporal_1_1TempoPoint.html#acb62e257d6de91c89c8afd269f82b922", null ],
+    [ "get_state", "classTemporal_1_1TempoPoint.html#a8820fffca6a53b1b61df52e605f818a1", null ],
+    [ "note_types_per_minute_at_DOUBLE", "classTemporal_1_1TempoPoint.html#ab35f520e6387a37fc10146997c4f9ac1", null ],
+    [ "omega", "classTemporal_1_1TempoPoint.html#aaa12fe520bc28603d0208bd4db8823a6", null ],
+    [ "operator!=", "classTemporal_1_1TempoPoint.html#abf3f3075a213686880cf6a40a8e9c971", null ],
+    [ "operator=", "classTemporal_1_1TempoPoint.html#a1b70c67e6a5ebb19c41891b4ee603f3a", null ],
+    [ "operator==", "classTemporal_1_1TempoPoint.html#a0c711cc5164e5a0e8b1717a447ce7fac", null ],
+    [ "quarters_at_sample", "classTemporal_1_1TempoPoint.html#a18795b95c831416786d8e2ea2dd25568", null ],
+    [ "quarters_at_superclock", "classTemporal_1_1TempoPoint.html#aefa2ba0f2b8c26686190d95ace1bac79", null ],
+    [ "sample_at", "classTemporal_1_1TempoPoint.html#a358d9b915d143501f7f6da855b6d11ef", null ],
+    [ "set_omega", "classTemporal_1_1TempoPoint.html#aecf817735de15af10e54b427c8d3f31a", null ],
+    [ "set_state", "classTemporal_1_1TempoPoint.html#ae41dd84b943ad996b312ebcd7dea9eb0", null ],
+    [ "superclock_at", "classTemporal_1_1TempoPoint.html#a45280cf9e109d06a3c4a2c272a3d63a2", null ],
+    [ "superclocks_per_note_type_at", "classTemporal_1_1TempoPoint.html#af204482a48744728407d1d0a5b4c8ea8", null ],
+    [ "time", "classTemporal_1_1TempoPoint.html#a25f1c87b10eff601491e8643a05f4f21", null ],
+    [ "_omega", "classTemporal_1_1TempoPoint.html#a20428a845c9b65ef5a93e89b4631fc06", null ],
+    [ "TempoMap", "classTemporal_1_1TempoPoint.html#abe19dbbe0e2ea7a58fd03e8864258640", null ]
+];

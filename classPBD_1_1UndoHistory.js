@@ -1,0 +1,26 @@
+var classPBD_1_1UndoHistory =
+[
+    [ "UndoHistory", "classPBD_1_1UndoHistory.html#a5889f8a089e0009ec7484ae45607452f", null ],
+    [ "~UndoHistory", "classPBD_1_1UndoHistory.html#a3eb631dea290e390d3079cf711b9937a", null ],
+    [ "add", "classPBD_1_1UndoHistory.html#aac035547a2be440555b086fe13da5b11", null ],
+    [ "clear", "classPBD_1_1UndoHistory.html#afa9d35b2a17274565989679aa7723710", null ],
+    [ "clear_redo", "classPBD_1_1UndoHistory.html#aee61c3a0550acf556e99325e8ccf843c", null ],
+    [ "clear_undo", "classPBD_1_1UndoHistory.html#a721fcca9c0e39e0fee34b98f8792bde2", null ],
+    [ "get_state", "classPBD_1_1UndoHistory.html#a17ac2cbfa9f09a0f124b981c707980cf", null ],
+    [ "next_redo", "classPBD_1_1UndoHistory.html#ad63bec0d486ad70c6ab4b0ad7f2982b8", null ],
+    [ "next_undo", "classPBD_1_1UndoHistory.html#acd62c8523584949f0dd09c0239666ea2", null ],
+    [ "redo", "classPBD_1_1UndoHistory.html#a78046bdf532d99a081704a257349954c", null ],
+    [ "redo_depth", "classPBD_1_1UndoHistory.html#a6487a1958c0c939b216fd0e882116416", null ],
+    [ "remove", "classPBD_1_1UndoHistory.html#a4db58053eafa1a7b1fb41b1eaf688def", null ],
+    [ "save_state", "classPBD_1_1UndoHistory.html#a6936947aadd0f67ca24b6825415cc9cf", null ],
+    [ "set_depth", "classPBD_1_1UndoHistory.html#a92f78298860fc01d6af9b3d488dd249a", null ],
+    [ "undo", "classPBD_1_1UndoHistory.html#a95ad4e4d1387f423f3a75151a7f4cfd4", null ],
+    [ "undo_depth", "classPBD_1_1UndoHistory.html#af5200d7c9e1660042882c2a75402428b", null ],
+    [ "_clearing", "classPBD_1_1UndoHistory.html#a945f462441f2ca13a466bff26e4566b7", null ],
+    [ "_depth", "classPBD_1_1UndoHistory.html#a839768a94f5b971f669df5cc4384a900", null ],
+    [ "BeginUndoRedo", "classPBD_1_1UndoHistory.html#a5d0f42cf205f9f9b6ece4599b5800e88", null ],
+    [ "Changed", "classPBD_1_1UndoHistory.html#ae7611bc0e6c18914366156463d2910bd", null ],
+    [ "EndUndoRedo", "classPBD_1_1UndoHistory.html#a682cf77e0cee281f335c46445033b8a5", null ],
+    [ "RedoList", "classPBD_1_1UndoHistory.html#afded21b483002e95d3440cb3e47802b8", null ],
+    [ "UndoList", "classPBD_1_1UndoHistory.html#ac646cb203e78b545e55ce11e0a4d18e8", null ]
+];

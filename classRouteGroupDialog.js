@@ -1,0 +1,26 @@
+var classRouteGroupDialog =
+[
+    [ "RouteGroupDialog", "classRouteGroupDialog.html#a88e4e4fb0d54653d772157b5262ea401", null ],
+    [ "gain_toggled", "classRouteGroupDialog.html#a975c22d0e1dc60dfde6c4fd2d353401a", null ],
+    [ "group", "classRouteGroupDialog.html#a819c3e26f6f609f9df62309009dc9502", null ],
+    [ "name_check", "classRouteGroupDialog.html#aecc523be8b6417d66cf5ee5a519b229a", null ],
+    [ "unique_name", "classRouteGroupDialog.html#aea00a94f8667fa2f67240268d4c65981", null ],
+    [ "update", "classRouteGroupDialog.html#af32e283cdb3974eb95bb16577077f93b", null ],
+    [ "_active", "classRouteGroupDialog.html#a7218d7c3f93ef99b2ea31508f3bae829", null ],
+    [ "_color", "classRouteGroupDialog.html#a3c0a6bcf0961df0c812a9c065994a0c2", null ],
+    [ "_edit", "classRouteGroupDialog.html#a6056bde206d4b50bf4d0e5aff9bdbf25", null ],
+    [ "_gain", "classRouteGroupDialog.html#a40f51d0cde202969cb4b2e3a511d85ea", null ],
+    [ "_group", "classRouteGroupDialog.html#a2e9bab082be6d7f7c227bdcce622c1be", null ],
+    [ "_group_connection", "classRouteGroupDialog.html#ad34eca5674447e716321110873f1244b", null ],
+    [ "_initial_name", "classRouteGroupDialog.html#a46f29b50986f305d63ec7571caa271af", null ],
+    [ "_mute", "classRouteGroupDialog.html#a335757bd2a3d2e9693d8202d3894177f", null ],
+    [ "_name", "classRouteGroupDialog.html#a5f94a207c7f164d4e58e4cd439f16d65", null ],
+    [ "_rec_enable", "classRouteGroupDialog.html#a8740b22b95bac700b9f3cf4273c527b2", null ],
+    [ "_relative", "classRouteGroupDialog.html#a081c7b976bb5aa8b9ed95d036100aeb0", null ],
+    [ "_route_active", "classRouteGroupDialog.html#a046cf98cb9eb0ca90d91349cb29f01de", null ],
+    [ "_select", "classRouteGroupDialog.html#a979976db9baa02f80d94497986d90f90", null ],
+    [ "_share_color", "classRouteGroupDialog.html#af079ceeea6158a75835db7691930ab1d", null ],
+    [ "_share_monitoring", "classRouteGroupDialog.html#a0d19ad264309c207919f9bd272e8314b", null ],
+    [ "_solo", "classRouteGroupDialog.html#a70e01ee825654a73a71e44911b838933", null ],
+    [ "_sursend_enable", "classRouteGroupDialog.html#a2d16328750c8423d65b1c593affc2f05", null ]
+];

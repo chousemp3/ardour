@@ -1,0 +1,15 @@
+<map id="FloatingTextEntry" name="FloatingTextEntry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,445,141,471"/>
+<area shape="rect" id="Node000002" href="$classGtk_1_1Window.html" title=" " alt="" coords="21,372,126,397"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,411,76,445,71,445,71,411"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1Bin.html" title=" " alt="" coords="36,299,111,324"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="76,338,76,372,71,372,71,338"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Container.html" title=" " alt="" coords="15,225,131,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="76,264,76,299,71,299,71,264"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Widget.html" title=" " alt="" coords="24,152,123,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="76,191,76,225,71,225,71,191"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1Object.html" title=" " alt="" coords="26,79,121,104"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="76,118,76,152,71,152,71,118"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="24,5,123,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="76,44,76,79,71,79,71,44"/>
+</map>

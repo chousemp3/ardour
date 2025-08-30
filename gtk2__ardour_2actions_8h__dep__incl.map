@@ -1,0 +1,15 @@
+<map id="actions.h" name="actions.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="411,5,493,31"/>
+<area shape="rect" id="Node000002" href="$option__editor_8h.html" title="Base class for option editing dialog boxes." alt="" coords="393,79,511,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="455,44,455,79,449,79,449,44"/>
+<area shape="rect" id="Node000003" href="$color__theme__manager_8h.html" title=" " alt="" coords="5,152,184,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="382,109,153,155,152,149,381,104"/>
+<area shape="rect" id="Node000004" href="$rc__option__editor_8h.html" title="Editing of options which are obtained from and written back to one of the .rc files." alt="" coords="208,152,347,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="412,112,307,154,305,149,410,107"/>
+<area shape="rect" id="Node000005" href="$search__path__option_8h.html" title=" " alt="" coords="371,152,533,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="455,118,455,152,449,152,449,118"/>
+<area shape="rect" id="Node000006" href="$session__dialog_8h.html" title=" " alt="" coords="557,152,688,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="493,107,596,149,594,154,491,112"/>
+<area shape="rect" id="Node000007" href="$session__option__editor_8h.html" title=" " alt="" coords="713,152,887,177"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="522,104,744,149,743,155,521,109"/>
+</map>

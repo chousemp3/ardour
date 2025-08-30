@@ -1,0 +1,15 @@
+<map id="ArdourCanvas::Box" name="ArdourCanvas::Box">
+<area shape="rect" id="Node000001" title=" " alt="" coords="99,225,246,251"/>
+<area shape="rect" id="Node000006" href="$classArdourCanvas_1_1HBox.html" title=" " alt="" coords="5,299,161,324"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="149,261,100,301,96,296,146,257"/>
+<area shape="rect" id="Node000007" href="$classArdourCanvas_1_1VBox.html" title=" " alt="" coords="186,299,341,324"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="200,257,250,296,247,301,197,261"/>
+<area shape="rect" id="Node000002" href="$classArdourCanvas_1_1Rectangle.html" title=" " alt="" coords="79,152,266,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,191,175,225,170,225,170,191"/>
+<area shape="rect" id="Node000003" href="$classArdourCanvas_1_1Item.html" title=" " alt="" coords="97,79,248,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="175,118,175,152,170,152,170,118"/>
+<area shape="rect" id="Node000004" href="$classArdourCanvas_1_1Fill.html" title=" " alt="" coords="13,5,153,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="110,37,160,76,156,81,107,41"/>
+<area shape="rect" id="Node000005" href="$classArdourCanvas_1_1Outline.html" title=" " alt="" coords="178,5,346,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="239,41,189,81,186,76,235,37"/>
+</map>

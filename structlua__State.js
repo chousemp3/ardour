@@ -1,0 +1,28 @@
+var structlua__State =
+[
+    [ "allowhook", "structlua__State.html#ac2903d4a712ca1c2d114f541636490f5", null ],
+    [ "base_ci", "structlua__State.html#a8c707493c7e45c7e0467381f5a80175d", null ],
+    [ "basehookcount", "structlua__State.html#a5d760c922e94390cd270ebb4ca4bc848", null ],
+    [ "ci", "structlua__State.html#a7fbb5727050853f411ad64b4be9ab5c8", null ],
+    [ "errfunc", "structlua__State.html#a09de3a7c6d3bcb6c2b0d26a81bb8d44b", null ],
+    [ "errorJmp", "structlua__State.html#ae4bbd2199ffd804fe64142c3d5ecb249", null ],
+    [ "gclist", "structlua__State.html#a0d446661e92287c8409076c970771217", null ],
+    [ "hook", "structlua__State.html#ad4c84ca6425b0073ab2d83f05a05e788", null ],
+    [ "hookcount", "structlua__State.html#a8824aded162dcdb9d3a142a90819e372", null ],
+    [ "hookmask", "structlua__State.html#ae6017d3c713e6ded26f2c7e735f18385", null ],
+    [ "l_G", "structlua__State.html#a63c9e91949432bcef6251366fbac6c9e", null ],
+    [ "marked", "structlua__State.html#a3d55f9e76c3d678c5c91c90738d95da4", null ],
+    [ "nCcalls", "structlua__State.html#ac388127d044b54d2e9779beb44398845", null ],
+    [ "nci", "structlua__State.html#affc91cc87a077d30cc812fed4769d967", null ],
+    [ "next", "structlua__State.html#a94c68cc7acfc55df5489b84082788e33", null ],
+    [ "nny", "structlua__State.html#a24099a91bbfa23048f1b940f26819f44", null ],
+    [ "oldpc", "structlua__State.html#a432a65b4dfa167b9e80ca0abe1fc119e", null ],
+    [ "openupval", "structlua__State.html#aa1f4a24dc6645e10ba8d6f2713e446bc", null ],
+    [ "stack", "structlua__State.html#a27e1d5122ef7fffae7542814c72fdd2f", null ],
+    [ "stack_last", "structlua__State.html#a797a585a2bdb638bd1ca78c15bbe46fb", null ],
+    [ "stacksize", "structlua__State.html#a44530127453a374634f7ad22eee9ec6c", null ],
+    [ "status", "structlua__State.html#a563f8f114867e0b03405680633672102", null ],
+    [ "top", "structlua__State.html#a195f448e76fd404953fa1962d28212a3", null ],
+    [ "tt", "structlua__State.html#ab9d9ecdafb192a9c0dd5909a08400dfc", null ],
+    [ "twups", "structlua__State.html#ae1da80ba9fa9d9adad4deb8ae5b42ba0", null ]
+];

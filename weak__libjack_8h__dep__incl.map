@@ -1,0 +1,9 @@
+<map id="weak_libjack.h" name="weak_libjack.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="199,5,317,31"/>
+<area shape="rect" id="Node000002" href="$jack__audiobackend_8h.html" title=" " alt="" coords="5,79,164,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,38,114,81,112,76,217,33"/>
+<area shape="rect" id="Node000003" href="$jack__connection_8h.html" title=" " alt="" coords="189,79,327,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="261,44,261,79,255,79,255,44"/>
+<area shape="rect" id="Node000004" href="$jack__session_8h.html" title=" " alt="" coords="351,79,469,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="296,34,386,76,384,81,293,39"/>
+</map>

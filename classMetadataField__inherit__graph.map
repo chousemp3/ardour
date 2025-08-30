@@ -1,0 +1,11 @@
+<map id="MetadataField" name="MetadataField">
+<area shape="rect" id="Node000001" title="Wraps a metadata field to be used in a GUI." alt="" coords="214,5,329,31"/>
+<area shape="rect" id="Node000002" href="$classEAN13MetadataField.html" title="MetadataField that accepts EAN&#45;13 data only." alt="" coords="5,79,164,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,38,116,81,114,76,228,33"/>
+<area shape="rect" id="Node000003" href="$classNumberMetadataField.html" title="MetadataField that accepts only numbers." alt="" coords="188,79,355,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="274,44,274,79,269,79,269,44"/>
+<area shape="rect" id="Node000004" href="$classTextMetadataField.html" title="MetadataField that contains text." alt="" coords="379,79,521,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="313,33,422,76,420,81,312,38"/>
+<area shape="rect" id="Node000005" href="$classLongTextMetadataField.html" title="MetadataField that contains longform text." alt="" coords="363,152,537,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="453,118,453,152,447,152,447,118"/>
+</map>

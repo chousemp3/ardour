@@ -1,0 +1,10 @@
+<map id="alsa_midi.h" name="alsa_midi.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="93,5,191,31"/>
+<area shape="rect" id="Node000002" href="$alsa__rawmidi_8h.html" title=" " alt="" coords="5,79,127,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,42,80,80,77,76,118,38"/>
+<area shape="rect" id="Node000004" href="$alsa__sequencer_8h.html" title=" " alt="" coords="151,79,285,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="166,38,207,76,204,80,162,42"/>
+<area shape="rect" id="Node000003" href="$alsa__audiobackend_8h.html" title=" " alt="" coords="63,152,221,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,111,131,150,128,154,86,115"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="198,115,156,154,153,150,194,111"/>
+</map>

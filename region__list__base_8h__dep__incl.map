@@ -1,0 +1,16 @@
+<map id="region_list_base.h" name="region_list_base.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="167,5,307,31"/>
+<area shape="rect" id="Node000002" href="$editor__regions_8h.html" title=" " alt="" coords="15,79,141,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,39,105,81,103,76,198,34"/>
+<area shape="rect" id="Node000003" href="$source__list__base_8h.html" title=" " alt="" coords="165,79,308,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,44,239,79,234,79,234,44"/>
+<area shape="rect" id="Node000007" href="$trigger__region__list_8h.html" title=" " alt="" coords="338,152,490,177"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="267,37,321,77,404,150,400,154,318,81,264,41"/>
+<area shape="rect" id="Node000004" href="$editor__sources_8h.html" title=" " alt="" coords="5,152,135,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="198,112,98,154,96,149,196,107"/>
+<area shape="rect" id="Node000005" href="$trigger__source__list_8h.html" title=" " alt="" coords="159,152,314,177"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="239,118,239,152,234,152,234,118"/>
+<area shape="rect" id="Node000006" href="$trigger__page_8h.html" title=" " alt="" coords="267,225,383,251"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="263,184,312,223,309,227,260,188"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="391,188,341,227,338,223,387,184"/>
+</map>

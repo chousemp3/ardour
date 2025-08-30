@@ -1,0 +1,19 @@
+<map id="Gtk::ComboBoxText" name="Gtk::ComboBoxText">
+<area shape="rect" id="Node000001" title=" " alt="" coords="57,445,208,471"/>
+<area shape="rect" id="Node000002" href="$classGtk_1_1ComboBox.html" title=" " alt="" coords="71,372,195,397"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,411,135,445,130,445,130,411"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1Bin.html" title=" " alt="" coords="34,299,109,324"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,333,125,370,121,374,88,336"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Container.html" title=" " alt="" coords="5,225,121,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="69,264,73,298,67,299,64,265"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Widget.html" title=" " alt="" coords="14,152,113,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="66,191,66,225,61,225,61,191"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1Object.html" title=" " alt="" coords="16,79,111,104"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="66,118,66,152,61,152,61,118"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="14,5,113,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="66,44,66,79,61,79,61,44"/>
+<area shape="rect" id="Node000008" href="$classGtk_1_1CellLayout.html" title=" " alt="" coords="137,299,259,324"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="180,336,145,374,141,370,176,333"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="146,225,261,251"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="204,265,202,299,196,298,199,264"/>
+</map>

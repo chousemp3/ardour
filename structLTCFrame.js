@@ -1,0 +1,26 @@
+var structLTCFrame =
+[
+    [ "binary_group_flag_bit0", "structLTCFrame.html#a6503b01ce4cda5cd9758bef3da9e3a26", null ],
+    [ "binary_group_flag_bit1", "structLTCFrame.html#ad1962f5eca00a2fecc4feb66703f41a1", null ],
+    [ "binary_group_flag_bit2", "structLTCFrame.html#a9da8bdceccbc4c8c7d60d005d72380f6", null ],
+    [ "biphase_mark_phase_correction", "structLTCFrame.html#a374773ff711166efc529a88911d5235e", null ],
+    [ "col_frame", "structLTCFrame.html#a71311d8f860051ac0720f92ce0657f67", null ],
+    [ "dfbit", "structLTCFrame.html#aae3b62d98a52478317057b87ba180b72", null ],
+    [ "frame_tens", "structLTCFrame.html#a4c3c93dd7ca47a998559160540996daf", null ],
+    [ "frame_units", "structLTCFrame.html#a366bad40272c1d606f3d3b642ee21ac1", null ],
+    [ "hours_tens", "structLTCFrame.html#a61509094f22a88907793ec4c2f97fe93", null ],
+    [ "hours_units", "structLTCFrame.html#afeec3b032379a1494e9178d8d328d32c", null ],
+    [ "mins_tens", "structLTCFrame.html#ac87197d4ec0534af5b7b6d0391ec049f", null ],
+    [ "mins_units", "structLTCFrame.html#aa6cf6b0c89755cca15d789605a981b7f", null ],
+    [ "secs_tens", "structLTCFrame.html#ac665de0697c9149b95657cf36dd94a02", null ],
+    [ "secs_units", "structLTCFrame.html#a53d8851b240297fb37628e8842c3a6f5", null ],
+    [ "sync_word", "structLTCFrame.html#a7b7a3d153997c77313a2731e332bc1ad", null ],
+    [ "user1", "structLTCFrame.html#adb86bb9e718d919724c349d774fe6a6f", null ],
+    [ "user2", "structLTCFrame.html#a7e4aa5ff0571596f675f0cf8f92c013c", null ],
+    [ "user3", "structLTCFrame.html#a3abe4a679e0ca343a8b9a9a54c0336c6", null ],
+    [ "user4", "structLTCFrame.html#a33eb7fae4d5aa352c78908d6cb4534e8", null ],
+    [ "user5", "structLTCFrame.html#aeaaad259f8d58abf78eb433c8807b1d5", null ],
+    [ "user6", "structLTCFrame.html#a818092b5dc6592f8a68a5a773b342cf3", null ],
+    [ "user7", "structLTCFrame.html#a2691b47442ce7cea176c5ca3289e485a", null ],
+    [ "user8", "structLTCFrame.html#a5bf42653935c89b25f3b99281a377756", null ]
+];

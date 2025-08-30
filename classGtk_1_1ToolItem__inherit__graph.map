@@ -1,0 +1,23 @@
+<map id="Gtk::ToolItem" name="Gtk::ToolItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="122,372,231,397"/>
+<area shape="rect" id="Node000007" href="$classGtk_1_1SeparatorToolItem.html" title=" " alt="" coords="5,445,177,471"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="154,408,107,447,104,443,151,404"/>
+<area shape="rect" id="Node000008" href="$classGtk_1_1ToolButton.html" title=" " alt="" coords="202,445,325,471"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="203,404,251,443,247,447,199,408"/>
+<area shape="rect" id="Node000002" href="$classGtk_1_1Bin.html" title=" " alt="" coords="139,299,214,324"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,338,179,372,174,372,174,338"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1Container.html" title=" " alt="" coords="119,225,235,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="179,264,179,299,174,299,174,264"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Widget.html" title=" " alt="" coords="127,152,226,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="179,191,179,225,174,225,174,191"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Object.html" title=" " alt="" coords="129,79,224,104"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="179,118,179,152,174,152,174,118"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="127,5,226,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="179,44,179,79,174,79,174,44"/>
+<area shape="rect" id="Node000009" href="$classGtk_1_1MenuToolButton.html" title=" " alt="" coords="91,519,249,544"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="239,481,187,521,184,516,236,477"/>
+<area shape="rect" id="Node000010" href="$classGtk_1_1ToggleToolButton.html" title=" " alt="" coords="273,519,437,544"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="290,477,342,516,339,521,287,481"/>
+<area shape="rect" id="Node000011" href="$classGtk_1_1RadioToolButton.html" title=" " alt="" coords="276,592,435,617"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="358,558,358,592,353,592,353,558"/>
+</map>

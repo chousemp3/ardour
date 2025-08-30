@@ -1,0 +1,13 @@
+<map id="ARDOUR::RouteGroupMember" name="ARDOUR::RouteGroupMember">
+<area shape="rect" id="Node000001" title=" " alt="" coords="157,5,375,31"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1Route.html" title=" " alt="" coords="203,79,329,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,44,269,79,263,79,263,44"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1Track.html" title=" " alt="" coords="205,152,327,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="269,118,269,152,263,152,263,118"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1AudioTrack.html" title=" " alt="" coords="5,225,164,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="225,185,115,228,113,223,223,180"/>
+<area shape="rect" id="Node000005" href="$classARDOUR_1_1Auditioner.html" title=" " alt="" coords="189,225,343,251"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="269,191,269,225,263,225,263,191"/>
+<area shape="rect" id="Node000006" href="$classARDOUR_1_1MidiTrack.html" title=" " alt="" coords="367,225,517,251"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="308,180,414,223,412,228,306,185"/>
+</map>

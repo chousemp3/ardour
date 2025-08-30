@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classARDOUR_1_1LogCurve.html" title=" " alt="" coords="5,31,153,56"/>
+<area shape="rect" id="Node000001" href="$classARDOUR_1_1LogCurveIn.html" title=" " alt="" coords="207,5,367,31"/>
+<area shape="poly" id="edge60_Node000000_Node000001" title=" " alt="" coords="167,30,206,25,207,30,167,35"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1LogCurveOut.html" title=" " alt="" coords="201,55,372,80"/>
+<area shape="poly" id="edge61_Node000000_Node000002" title=" " alt="" coords="167,51,202,55,201,60,166,56"/>
+</map>

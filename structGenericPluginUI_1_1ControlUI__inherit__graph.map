@@ -1,0 +1,15 @@
+<map id="GenericPluginUI::ControlUI" name="GenericPluginUI::ControlUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,445,200,471"/>
+<area shape="rect" id="Node000002" href="$classGtk_1_1HBox.html" title=" " alt="" coords="59,372,147,397"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,411,105,445,100,445,100,411"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1Box.html" title=" " alt="" coords="63,299,142,324"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,338,105,372,100,372,100,338"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Container.html" title=" " alt="" coords="45,225,161,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="105,264,105,299,100,299,100,264"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Widget.html" title=" " alt="" coords="53,152,152,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="105,191,105,225,100,225,100,191"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1Object.html" title=" " alt="" coords="55,79,150,104"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="105,118,105,152,100,152,100,118"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="53,5,152,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="105,44,105,79,100,79,100,44"/>
+</map>

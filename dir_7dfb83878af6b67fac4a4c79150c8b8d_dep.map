@@ -1,0 +1,37 @@
+<map id="ardour" name="ardour">
+<area shape="rect" id="node2" href="dir_8ca5ac040234e55974adba55a120a4fe.html" title="vestige" alt="" coords="38,136,109,161"/>
+<area shape="poly" id="edge8" href="dir_000004_000103.html" alt="" coords="79,88,77,123,72,122,74,88"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000004_000103.html" title="2" alt="" coords="79,111,88,126"/>
+<area shape="rect" id="node3" href="dir_1a89c6b13f2b159fdd556f73fb63fa3f.html" title="ctrl&#45;interface" alt="" coords="141,136,248,161"/>
+<area shape="poly" id="edge1" href="dir_000004_000021.html" alt="" coords="98,86,165,126,162,131,95,90"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000004_000021.html" title="1" alt="" coords="160,112,169,127"/>
+<area shape="rect" id="node4" href="dir_230531339f28f0fbea814c6bef5a11e5.html" title="lua" alt="" coords="272,136,315,161"/>
+<area shape="poly" id="edge2" href="dir_000004_000048.html" alt="" coords="111,85,260,133,258,138,109,90"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000004_000048.html" title="4" alt="" coords="253,119,262,134"/>
+<area shape="rect" id="node5" href="dir_5c9d3db6aee033062f6a7174fac34d52.html" title="zita&#45;resampler" alt="" coords="339,136,456,161"/>
+<area shape="poly" id="edge3" href="dir_000004_000122.html" alt="" coords="110,81,333,130,332,136,109,86"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000004_000122.html" title="2" alt="" coords="325,116,335,131"/>
+<area shape="rect" id="node6" href="dir_810cb028c20d4e7e54eb659f243b6513.html" title="zita&#45;convolver" alt="" coords="480,136,595,161"/>
+<area shape="poly" id="edge4" href="dir_000004_000120.html" alt="" coords="110,79,467,133,466,138,109,84"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000004_000120.html" title="1" alt="" coords="459,119,468,134"/>
+<area shape="rect" id="node7" href="dir_819215e2bc5d94e684711f346339f33a.html" title="audiographer" alt="" coords="619,136,727,161"/>
+<area shape="poly" id="edge5" href="dir_000004_000007.html" alt="" coords="110,77,314,98,606,133,605,139,314,103,109,82"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000004_000007.html" title="7" alt="" coords="598,120,607,134"/>
+<area shape="rect" id="node8" href="dir_88f6b72fda1762b008a2b477b341ed63.html" title="libltc" alt="" coords="751,136,806,161"/>
+<area shape="poly" id="edge6" href="dir_000004_000043.html" alt="" coords="109,75,213,78,366,88,549,105,738,133,737,139,548,111,366,93,213,84,109,80"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000004_000043.html" title="3" alt="" coords="730,120,739,134"/>
+<area shape="rect" id="node9" href="dir_89f63984a62c2b4aee0df15bab90aa64.html" title="pbd" alt="" coords="830,136,877,161"/>
+<area shape="poly" id="edge7" href="dir_000004_000064.html" alt="" coords="110,74,224,76,397,83,603,101,711,115,817,134,816,139,710,121,603,107,397,89,224,81,109,79"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000004_000064.html" title="258" alt="" coords="801,120,826,134"/>
+<area shape="rect" id="node10" href="dir_c998d96fe2a02ef09f7e79ca6d837636.html" title="temporal" alt="" coords="901,136,982,161"/>
+<area shape="poly" id="edge9" href="dir_000004_000086.html" alt="" coords="110,75,423,89,651,106,888,133,887,139,650,111,423,94,110,80"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000004_000086.html" title="51" alt="" coords="875,120,892,134"/>
+<area shape="rect" id="node11" href="dir_d6b4c34ca0e5a9454c83dfc575fe240b.html" title="evoral" alt="" coords="1006,136,1069,161"/>
+<area shape="poly" id="edge10" href="dir_000004_000025.html" alt="" coords="110,74,248,75,463,82,723,100,859,115,993,133,992,139,858,120,722,106,463,88,248,80,110,79"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000004_000025.html" title="52" alt="" coords="981,120,998,134"/>
+<area shape="rect" id="node12" href="dir_feb524cdd247acc7b8a972fe3439a14f.html" title="midi++2" alt="" coords="1093,136,1174,161"/>
+<area shape="poly" id="edge11" href="dir_000004_000057.html" alt="" coords="110,74,259,76,495,84,781,102,931,116,1079,133,1078,139,931,121,781,107,495,90,259,82,110,79"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000004_000057.html" title="14" alt="" coords="1067,120,1084,134"/>
+<area shape="rect" id="clust2" href="dir_7dfb83878af6b67fac4a4c79150c8b8d.html" alt="" coords="27,52,120,172"/>
+<area shape="rect" id="clust1" href="dir_e551ebda0baecb30d3d2e6aae42e8387.html" title="ardour" alt="" coords="16,16,131,183"/>
+</map>

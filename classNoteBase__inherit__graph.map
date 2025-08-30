@@ -1,0 +1,9 @@
+<map id="NoteBase" name="NoteBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="21,79,106,104"/>
+<area shape="rect" id="Node000003" href="$classHit.html" title=" " alt="" coords="7,152,48,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="54,117,36,153,31,151,49,115"/>
+<area shape="rect" id="Node000004" href="$classNote.html" title=" " alt="" coords="73,152,126,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="78,115,96,151,91,153,73,117"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,121,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,44,66,79,61,79,61,44"/>
+</map>

@@ -1,0 +1,45 @@
+var classArdourSurface_1_1Push2Knob =
+[
+    [ "Element", "classArdourSurface_1_1Push2Knob.html#aa5b1300bfbee282f257d5cd9f31f2fbd", [
+      [ "Arc", "classArdourSurface_1_1Push2Knob.html#aa5b1300bfbee282f257d5cd9f31f2fbda20fe1f2701304178040d342470c3229a", null ],
+      [ "Bevel", "classArdourSurface_1_1Push2Knob.html#aa5b1300bfbee282f257d5cd9f31f2fbda75b931a0382664c0fb2d91e8c19bc87c", null ],
+      [ "unused2", "classArdourSurface_1_1Push2Knob.html#aa5b1300bfbee282f257d5cd9f31f2fbda7d4a5d71508a49fd87f3506991e8166d", null ],
+      [ "unused3", "classArdourSurface_1_1Push2Knob.html#aa5b1300bfbee282f257d5cd9f31f2fbda805aa59969e827d168bf195ecd6c5cd1", null ],
+      [ "unused4", "classArdourSurface_1_1Push2Knob.html#aa5b1300bfbee282f257d5cd9f31f2fbda86e92dd5be9e9fd4e12ef2bbd95672b3", null ],
+      [ "unused5", "classArdourSurface_1_1Push2Knob.html#aa5b1300bfbee282f257d5cd9f31f2fbda602b699c5e70c2e74572ea7d0ef6593d", null ]
+    ] ],
+    [ "Flags", "classArdourSurface_1_1Push2Knob.html#a8fd5fb6818df552a2ec096d77b77bb82", [
+      [ "NoFlags", "classArdourSurface_1_1Push2Knob.html#a8fd5fb6818df552a2ec096d77b77bb82aed0e0549836ee1d9a34b9a68f5cda64e", null ],
+      [ "Detent", "classArdourSurface_1_1Push2Knob.html#a8fd5fb6818df552a2ec096d77b77bb82acd3f70aa35c085a324272e1869ea4abc", null ],
+      [ "ArcToZero", "classArdourSurface_1_1Push2Knob.html#a8fd5fb6818df552a2ec096d77b77bb82abd23af7d24168c77c673253c45b8d19b", null ]
+    ] ],
+    [ "Push2Knob", "classArdourSurface_1_1Push2Knob.html#a196c07f68666b0bfc3b7151a3b262374", null ],
+    [ "~Push2Knob", "classArdourSurface_1_1Push2Knob.html#a2ffc23183f988eef8197d46d044e3fbe", null ],
+    [ "add_flag", "classArdourSurface_1_1Push2Knob.html#a681dc81f739cb8f24733976414e07018", null ],
+    [ "compute_bounding_box", "classArdourSurface_1_1Push2Knob.html#a22be7734aabd6541baf0ec2e3f416e57", null ],
+    [ "controllable", "classArdourSurface_1_1Push2Knob.html#ab2fd3b1990f747dd10484c1e91d7898f", null ],
+    [ "controllable_changed", "classArdourSurface_1_1Push2Knob.html#a45731936c1f5dfc44514bc50e32a1b72", null ],
+    [ "remove_flag", "classArdourSurface_1_1Push2Knob.html#a0573996826b8a6ff52dcfa1c30c189f1", null ],
+    [ "render", "classArdourSurface_1_1Push2Knob.html#a622ea7abe39d51d4b22aa4783fd189bc", null ],
+    [ "set_arc_end_color", "classArdourSurface_1_1Push2Knob.html#ac5b887b136213d8a526d519b2c3077e6", null ],
+    [ "set_arc_start_color", "classArdourSurface_1_1Push2Knob.html#a6932ccafee8f27301857968e538439f9", null ],
+    [ "set_controllable", "classArdourSurface_1_1Push2Knob.html#acf42e63100536e347485b11e06d0dfad", null ],
+    [ "set_gain_text", "classArdourSurface_1_1Push2Knob.html#a9cf7f95b0cb8a42d32ff4acaa07ffcfe", null ],
+    [ "set_pan_azimuth_text", "classArdourSurface_1_1Push2Knob.html#aa743b49036f6a972ffd210c74a1c85ae", null ],
+    [ "set_pan_width_text", "classArdourSurface_1_1Push2Knob.html#a6a77d969bcd6435833f252596c028ec9", null ],
+    [ "set_radius", "classArdourSurface_1_1Push2Knob.html#a5d9487ce0ee98cbd1faf46069e6a9373", null ],
+    [ "set_text_color", "classArdourSurface_1_1Push2Knob.html#aafafcdf46d96f93c144c3b9860f84d15", null ],
+    [ "_arc_end_color", "classArdourSurface_1_1Push2Knob.html#a4eb192b4737a7c1add827ae1fa8d81d2", null ],
+    [ "_arc_start_color", "classArdourSurface_1_1Push2Knob.html#a79b5af042141d274ea6b2a8f0cba772b", null ],
+    [ "_controllable", "classArdourSurface_1_1Push2Knob.html#a7903801d6f468971f8103b91bb998a70", null ],
+    [ "_elements", "classArdourSurface_1_1Push2Knob.html#a21361b362a69623c2a20f99f73b07d64", null ],
+    [ "_flags", "classArdourSurface_1_1Push2Knob.html#a823181694bcb18181016f146d0dee43f", null ],
+    [ "_normal", "classArdourSurface_1_1Push2Knob.html#a51d13bb1eb3c42206eca41aadaad578d", null ],
+    [ "_p2", "classArdourSurface_1_1Push2Knob.html#a7ce351a8dbb38c9d13bc2d0a2223dbbe", null ],
+    [ "_r", "classArdourSurface_1_1Push2Knob.html#aef285e605441c24dd520c790a52a8134", null ],
+    [ "_text", "classArdourSurface_1_1Push2Knob.html#a4a50dcc0996d65c20c4d05ef9a4a9003", null ],
+    [ "_text_color", "classArdourSurface_1_1Push2Knob.html#af0f9d1245a422585da5fe604fea98edd", null ],
+    [ "_val", "classArdourSurface_1_1Push2Knob.html#a2086d33b847741d21ecfab8015e1c6d4", null ],
+    [ "default_elements", "classArdourSurface_1_1Push2Knob.html#a63995d7ad0f33e0df3c815c7fd93ef1c", null ],
+    [ "watch_connection", "classArdourSurface_1_1Push2Knob.html#a221b968bb3cdae91421ada15817f057b", null ]
+];

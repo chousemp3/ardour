@@ -1,0 +1,25 @@
+var gdkwindow_x11_8h =
+[
+    [ "_GdkWindowImplX11", "struct__GdkWindowImplX11.html", "struct__GdkWindowImplX11" ],
+    [ "_GdkWindowImplX11Class", "struct__GdkWindowImplX11Class.html", "struct__GdkWindowImplX11Class" ],
+    [ "_GdkToplevelX11", "struct__GdkToplevelX11.html", "struct__GdkToplevelX11" ],
+    [ "GDK_IS_WINDOW_IMPL_X11", "gdkwindow-x11_8h.html#a94584ce2a457bd400687f0384a9a2a8b", null ],
+    [ "GDK_IS_WINDOW_IMPL_X11_CLASS", "gdkwindow-x11_8h.html#af9b15109cc01d87f7d2797c5537561a3", null ],
+    [ "GDK_TYPE_WINDOW_IMPL_X11", "gdkwindow-x11_8h.html#a0632a41762c044d86e9d1b54028219dd", null ],
+    [ "GDK_WINDOW_IMPL_X11", "gdkwindow-x11_8h.html#a1efe34bb1c168dec0d563d0ca63b27b0", null ],
+    [ "GDK_WINDOW_IMPL_X11_CLASS", "gdkwindow-x11_8h.html#aef3381ae37df0119c71b9a262db19136", null ],
+    [ "GDK_WINDOW_IMPL_X11_GET_CLASS", "gdkwindow-x11_8h.html#a40bc93bd90b03aeba4b3aeb15e9370f6", null ],
+    [ "GdkToplevelX11", "gdkwindow-x11_8h.html#a8684b1c5ac1c6568631ad4d6a468178f", null ],
+    [ "GdkWindowImplX11", "gdkwindow-x11_8h.html#a77eaf41de3a45cc5fce440af43c3dc91", null ],
+    [ "GdkWindowImplX11Class", "gdkwindow-x11_8h.html#a3364c4c880e7c9ecab27e08a29b71457", null ],
+    [ "GdkXPositionInfo", "gdkwindow-x11_8h.html#a37c6cf4ad625f1262bbde6a9866b317f", null ],
+    [ "_gdk_x11_window_get_cursor", "gdkwindow-x11_8h.html#ab4616e57745c86a4d10c615dd1807d59", null ],
+    [ "_gdk_x11_window_get_offsets", "gdkwindow-x11_8h.html#a64fd79be261f1094fe0bbf4f22c0688f", null ],
+    [ "_gdk_x11_window_get_toplevel", "gdkwindow-x11_8h.html#aefca259bbe18cd386f4a1d7a7952a915", null ],
+    [ "_gdk_x11_window_tmp_reset_bg", "gdkwindow-x11_8h.html#a7e1872056846256ec9ca45da5acc710d", null ],
+    [ "_gdk_x11_window_tmp_reset_parent_bg", "gdkwindow-x11_8h.html#a04e486247f9438771a165b7cb0c2e70a", null ],
+    [ "_gdk_x11_window_tmp_unset_bg", "gdkwindow-x11_8h.html#a0631b957b62b269e0e1e0e60fe693173", null ],
+    [ "_gdk_x11_window_tmp_unset_parent_bg", "gdkwindow-x11_8h.html#ac112b481f2a92231e51c31e1d2c5b993", null ],
+    [ "gdk_window_impl_x11_get_type", "gdkwindow-x11_8h.html#ad92ebef6831575af590f21088be17465", null ],
+    [ "gdk_x11_window_set_user_time", "gdkwindow-x11_8h.html#aa2e4187b513f2807c7f1fdef88caa68f", null ]
+];

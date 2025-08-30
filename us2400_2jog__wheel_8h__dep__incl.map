@@ -1,0 +1,9 @@
+<map id="jog_wheel.h" name="jog_wheel.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="78,5,178,31"/>
+<area shape="rect" id="Node000002" href="$us2400_2surface_8h.html" title=" " alt="" coords="5,79,88,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,42,62,80,58,76,103,38"/>
+<area shape="rect" id="Node000003" href="$us2400__control__protocol_8h.html" title=" " alt="" coords="113,79,306,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,38,198,76,194,80,150,42"/>
+<area shape="rect" id="Node000004" href="$us2400_2strip_8h.html" title=" " alt="" coords="178,152,241,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="212,118,212,152,207,152,207,118"/>
+</map>

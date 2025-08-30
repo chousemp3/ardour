@@ -1,0 +1,27 @@
+var classArdourSurface_1_1C1GUI =
+[
+    [ "MidiPortColumns", "structArdourSurface_1_1C1GUI_1_1MidiPortColumns.html", "structArdourSurface_1_1C1GUI_1_1MidiPortColumns" ],
+    [ "C1GUI", "classArdourSurface_1_1C1GUI.html#a93ab0d28445b8ee12c5ea3c3a07807b6", null ],
+    [ "~C1GUI", "classArdourSurface_1_1C1GUI.html#a1c022b693d57750f67c3fb0721a6f6d8", null ],
+    [ "active_port_changed", "classArdourSurface_1_1C1GUI.html#a5c2ecbf6e8262094824910726556fb2c", null ],
+    [ "build_midi_port_list", "classArdourSurface_1_1C1GUI.html#a07280528eefbabbb7a43ca4cad932d1a", null ],
+    [ "connection_handler", "classArdourSurface_1_1C1GUI.html#a77084bcc6db3adda2e7a5912d48a8471", null ],
+    [ "set_band_q_as_send", "classArdourSurface_1_1C1GUI.html#a0b15c2010cb62dcdd7226d02ef58d07e", null ],
+    [ "set_create_mapping_stubs", "classArdourSurface_1_1C1GUI.html#af359e12b751fbd990b6b41bc2b181080", null ],
+    [ "set_swap_solo_mute", "classArdourSurface_1_1C1GUI.html#a947a8f8ed638c2a96ece9753c6ed90d1", null ],
+    [ "update_port_combos", "classArdourSurface_1_1C1GUI.html#a880e80d95313846493220d12da2112b9", null ],
+    [ "_port_connections", "classArdourSurface_1_1C1GUI.html#a4c88b13bebdc746a9f964c2b4ef09fc0", null ],
+    [ "band_q_as_send_cb", "classArdourSurface_1_1C1GUI.html#a56aa17d52ae4dbc4d82672660fb87f40", null ],
+    [ "c1", "classArdourSurface_1_1C1GUI.html#a7fe99f577bf67365273a4cf865ec92e0", null ],
+    [ "connection_change_connection", "classArdourSurface_1_1C1GUI.html#a21bf95b147958ab2798d74799a2d59db", null ],
+    [ "create_plugin_stubs_btn", "classArdourSurface_1_1C1GUI.html#ae390d07a962746c8b4add87b6ac8a03e", null ],
+    [ "hpacker", "classArdourSurface_1_1C1GUI.html#a61345097915eb4fcef96825a16886ced", null ],
+    [ "ignore_active_change", "classArdourSurface_1_1C1GUI.html#a18d845e900f64118f5742a23f46d0ea9", null ],
+    [ "image", "classArdourSurface_1_1C1GUI.html#ae9790f192fde098cc74979e41023fd19", null ],
+    [ "input_combo", "classArdourSurface_1_1C1GUI.html#a08b429ec08e26da0a03ba0fa272411e4", null ],
+    [ "lcxl_connections", "classArdourSurface_1_1C1GUI.html#a9ef6848b34ba28a2c5b8a96b7a55acad", null ],
+    [ "midi_port_columns", "classArdourSurface_1_1C1GUI.html#a36410a3fb5c74f1b29a779515e9c1dfb", null ],
+    [ "output_combo", "classArdourSurface_1_1C1GUI.html#aec5a4509c142c82969f07f3d2fb0433c", null ],
+    [ "swap_solo_mute_cb", "classArdourSurface_1_1C1GUI.html#a2629d8e4df3f2615f6abcf74a22223e2", null ],
+    [ "table", "classArdourSurface_1_1C1GUI.html#a3bf02bb8d96b1d5356504d7da2f63f78", null ]
+];

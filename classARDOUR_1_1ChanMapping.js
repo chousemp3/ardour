@@ -1,0 +1,28 @@
+var classARDOUR_1_1ChanMapping =
+[
+    [ "Mappings", "classARDOUR_1_1ChanMapping.html#a5429f2b822ac026df84256c5123d4e92", null ],
+    [ "TypeMapping", "classARDOUR_1_1ChanMapping.html#ad07aa28123eae75a7b427b877e34e5b1", null ],
+    [ "ChanMapping", "classARDOUR_1_1ChanMapping.html#ab40eb29dc266b53bf5521bb0d8f7d170", null ],
+    [ "ChanMapping", "classARDOUR_1_1ChanMapping.html#a17de6722e5be087a0b989e336ec0678b", null ],
+    [ "ChanMapping", "classARDOUR_1_1ChanMapping.html#a763a8265ee79388aa1cd79e02f92c68c", null ],
+    [ "ChanMapping", "classARDOUR_1_1ChanMapping.html#aa14cb229900225a86349ee7d22b5a303", null ],
+    [ "count", "classARDOUR_1_1ChanMapping.html#ad578edede0f49edc039d2f9ed8ba3c4f", null ],
+    [ "get", "classARDOUR_1_1ChanMapping.html#aa03f5659cdc0e1f4622963e9e38bdee1", null ],
+    [ "get", "classARDOUR_1_1ChanMapping.html#a08bbced9e86d1ee7cdad097a435a45df", null ],
+    [ "get_src", "classARDOUR_1_1ChanMapping.html#a5e984e75053d4b19e8ad125a1ee881d6", null ],
+    [ "is_identity", "classARDOUR_1_1ChanMapping.html#affcb04b881216f4f0af3734a0812362e", null ],
+    [ "is_monotonic", "classARDOUR_1_1ChanMapping.html#aa426571db084c0e75099ce91c234a036", null ],
+    [ "is_subset", "classARDOUR_1_1ChanMapping.html#a7b58f9fd3fe2c71d074bb3f9047c2722", null ],
+    [ "mappings", "classARDOUR_1_1ChanMapping.html#ac0963e5759e7f87d9c45ff9b4ba819b4", null ],
+    [ "mappings", "classARDOUR_1_1ChanMapping.html#a877a5092872d00a9462d5f234b1c77b3", null ],
+    [ "n_total", "classARDOUR_1_1ChanMapping.html#a2e289f049ceb439a7b155301c99f28bc", null ],
+    [ "offset_from", "classARDOUR_1_1ChanMapping.html#a9ae298b55df3cdb225233e4852d5be20", null ],
+    [ "offset_to", "classARDOUR_1_1ChanMapping.html#a4f436c7a1a5ded96c1c5b18d95b4b9ef", null ],
+    [ "operator!=", "classARDOUR_1_1ChanMapping.html#a1cdd5950e317fea851b4110753dde6e2", null ],
+    [ "operator=", "classARDOUR_1_1ChanMapping.html#a2e18738e28c957a65736a36883a0eef8", null ],
+    [ "operator==", "classARDOUR_1_1ChanMapping.html#a932fbc806a264b5b928dd26d3e07f1b3", null ],
+    [ "set", "classARDOUR_1_1ChanMapping.html#acbce2d9f82ae036a394f8fa87fd9a067", null ],
+    [ "state", "classARDOUR_1_1ChanMapping.html#a138767a5eaed77f70ecafc9d84ddf344", null ],
+    [ "unset", "classARDOUR_1_1ChanMapping.html#a7e57baee30f56f456060ff5b2de9c034", null ],
+    [ "_mappings", "classARDOUR_1_1ChanMapping.html#a1b37d8635c91d0eba3750dd13ac8deaa", null ]
+];

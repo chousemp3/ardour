@@ -1,0 +1,10 @@
+<map id="resources.h" name="resources.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,103,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="41,152,99,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="43,33,17,65,10,84,13,103,26,124,43,141,39,145,21,127,7,105,5,83,12,62,38,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="23,79,85,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="57,31,57,65,51,65,51,31"/>
+<area shape="rect" id="Node000004" href="$manifest_8h.html" title=" " alt="" coords="109,79,201,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="72,28,129,68,126,73,69,33"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="143,106,96,145,93,141,140,102"/>
+</map>

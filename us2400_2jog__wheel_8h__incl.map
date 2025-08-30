@@ -1,0 +1,17 @@
+<map id="jog_wheel.h" name="jog_wheel.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="199,5,299,31"/>
+<area shape="rect" id="Node000002" href="$surfaces_2us2400_2timer_8h.html" title=" " alt="" coords="87,79,155,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,33,156,74,153,69,227,28"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="179,79,237,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="245,32,224,68,219,65,240,30"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="261,79,323,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="259,30,280,66,276,68,254,32"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="347,79,410,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="271,28,346,69,344,74,269,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,64,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,106,61,145,58,141,106,102"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="88,152,155,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="124,104,124,138,119,138,119,104"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="179,152,269,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="139,102,197,142,194,146,136,106"/>
+</map>

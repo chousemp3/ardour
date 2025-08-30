@@ -1,0 +1,11 @@
+<map id="AudioGrapher::CmdPipeWriter&lt; T &gt;" name="AudioGrapher::CmdPipeWriter&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="599,55,853,80"/>
+<area shape="rect" id="Node000002" href="$classAudioGrapher_1_1Sink.html" title=" " alt="" coords="327,5,512,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="513,30,647,52,646,57,512,36"/>
+<area shape="rect" id="Node000003" href="$classAudioGrapher_1_1Throwing.html" title=" " alt="" coords="311,55,527,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="541,65,598,65,598,70,541,70"/>
+<area shape="rect" id="Node000004" href="$classAudioGrapher_1_1FlagDebuggable.html" title="A debugging class for nodes that support a certain set of flags." alt="" coords="288,104,551,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="512,99,646,77,647,83,513,104"/>
+<area shape="rect" id="Node000005" href="$classAudioGrapher_1_1Debuggable.html" title=" " alt="" coords="5,104,240,129"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="254,114,288,114,288,119,254,119"/>
+</map>

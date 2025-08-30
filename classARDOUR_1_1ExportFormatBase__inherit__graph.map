@@ -1,0 +1,25 @@
+<map id="ARDOUR::ExportFormatBase" name="ARDOUR::ExportFormatBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,203,212,228"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1ExportFormat.html" title="Base class for formats." alt="" coords="304,153,479,179"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,198,317,176,318,181,196,203"/>
+<area shape="rect" id="Node000011" href="$classARDOUR_1_1ExportFormatCompatibility.html" title="Allows adding to all sets. A format should be able to test if it is compatible with this." alt="" coords="260,203,523,228"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="226,213,260,213,260,218,226,218"/>
+<area shape="rect" id="Node000012" href="$classARDOUR_1_1ExportFormatSpecification.html" title=" " alt="" coords="262,252,521,277"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="196,228,318,249,317,255,195,233"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1ExportFormatBWF.html" title=" " alt="" coords="589,5,794,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="415,142,482,90,524,63,570,40,604,28,605,33,572,44,527,67,485,94,419,146"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1ExportFormatFFMPEG.html" title=" " alt="" coords="577,55,806,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="430,145,494,116,570,89,614,77,616,83,571,94,496,121,432,150"/>
+<area shape="rect" id="Node000005" href="$classARDOUR_1_1ExportFormatFLAC.html" title=" " alt="" coords="587,104,796,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="482,148,613,127,614,132,483,154"/>
+<area shape="rect" id="Node000006" href="$classARDOUR_1_1ExportFormatLinear.html" title=" " alt="" coords="584,153,799,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="492,163,584,163,584,169,492,169"/>
+<area shape="rect" id="Node000008" href="$classARDOUR_1_1ExportFormatMPEG.html" title=" " alt="" coords="585,203,798,228"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="483,178,614,200,613,205,482,184"/>
+<area shape="rect" id="Node000009" href="$classARDOUR_1_1ExportFormatOggOpus.html" title=" " alt="" coords="574,252,809,277"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="493,175,524,188,540,200,549,213,558,226,572,237,602,250,600,254,569,242,554,229,545,216,536,204,521,192,491,180"/>
+<area shape="rect" id="Node000010" href="$classARDOUR_1_1ExportFormatOggVorbis.html" title=" " alt="" coords="571,301,812,327"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="493,172,524,188,536,200,544,213,549,239,555,264,561,275,572,287,594,299,591,304,569,291,557,279,550,266,544,240,539,215,532,203,521,192,491,176"/>
+<area shape="rect" id="Node000007" href="$classARDOUR_1_1ExportFormatTaggedLinear.html" title=" " alt="" coords="860,146,1081,186"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="813,163,860,163,860,169,813,169"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="dsp_load_calculator.h" name="dsp_load_calculator.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="381,5,543,31"/>
+<area shape="rect" id="Node000002" href="$alsa__audiobackend_8h.html" title=" " alt="" coords="5,79,164,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="389,36,146,81,145,76,388,31"/>
+<area shape="rect" id="Node000003" href="$coreaudio__backend_8h.html" title=" " alt="" coords="188,79,347,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="419,38,300,81,298,76,417,33"/>
+<area shape="rect" id="Node000004" href="$dummy__audiobackend_8h.html" title=" " alt="" coords="371,79,553,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="465,44,465,79,459,79,459,44"/>
+<area shape="rect" id="Node000006" href="$portaudio__backend_8h.html" title=" " alt="" coords="577,79,734,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="507,33,625,76,623,81,505,38"/>
+<area shape="rect" id="Node000007" href="$pulseaudio__backend_8h.html" title=" " alt="" coords="759,79,925,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="537,31,781,76,780,81,536,36"/>
+<area shape="rect" id="Node000005" href="$dummy__midi__seq_8h.html" title=" " alt="" coords="387,152,537,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="465,118,465,152,459,152,459,118"/>
+</map>

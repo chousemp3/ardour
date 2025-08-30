@@ -1,0 +1,11 @@
+<map id="vst_types.h" name="vst_types.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="164,5,261,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,89,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,33,88,76,86,71,185,28"/>
+<area shape="rect" id="Node000003" href="$libardour__visibility_8h.html" title=" " alt="" coords="113,79,312,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,31,215,65,210,65,210,31"/>
+<area shape="rect" id="Node000004" href="$vestige_8h.html" title=" " alt="" coords="336,79,516,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="248,28,379,72,378,77,246,33"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="391,152,461,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="429,104,429,138,423,138,423,104"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="ARDOUR::GraphActivision" name="ARDOUR::GraphActivision">
+<area shape="rect" id="Node000001" title=" " alt="" coords="95,5,285,31"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1GraphNode.html" title=" " alt="" coords="110,79,270,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,44,193,79,187,79,187,44"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1IOPlug.html" title=" " alt="" coords="49,152,179,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="170,115,128,154,125,150,166,111"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1Route.html" title=" " alt="" coords="203,152,329,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="214,111,255,150,252,154,210,115"/>
+<area shape="rect" id="Node000005" href="$classARDOUR_1_1Track.html" title=" " alt="" coords="205,225,327,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="269,191,269,225,263,225,263,191"/>
+<area shape="rect" id="Node000006" href="$classARDOUR_1_1AudioTrack.html" title=" " alt="" coords="5,299,164,324"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="225,258,115,301,113,296,223,253"/>
+<area shape="rect" id="Node000007" href="$classARDOUR_1_1Auditioner.html" title=" " alt="" coords="189,299,343,324"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="269,264,269,299,263,299,263,264"/>
+<area shape="rect" id="Node000008" href="$classARDOUR_1_1MidiTrack.html" title=" " alt="" coords="367,299,517,324"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="308,253,414,296,412,301,306,258"/>
+</map>

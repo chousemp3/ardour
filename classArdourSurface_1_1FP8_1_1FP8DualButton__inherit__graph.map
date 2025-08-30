@@ -1,0 +1,9 @@
+<map id="ArdourSurface::FP8::FP8DualButton" name="ArdourSurface::FP8::FP8DualButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="208,37,355,77"/>
+<area shape="rect" id="Node000003" href="$classArdourSurface_1_1FP8_1_1FP8ARMSensitiveButton.html" title=" " alt="" coords="403,5,589,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="368,42,402,37,403,42,369,47"/>
+<area shape="rect" id="Node000004" href="$classArdourSurface_1_1FP8_1_1FP8ShiftSensitiveButton.html" title=" " alt="" coords="403,69,589,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="369,68,403,73,402,78,368,73"/>
+<area shape="rect" id="Node000002" href="$classArdourSurface_1_1FP8_1_1FP8ButtonInterface.html" title=" " alt="" coords="5,37,160,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,55,207,55,207,60,174,60"/>
+</map>

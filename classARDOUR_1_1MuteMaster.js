@@ -1,0 +1,38 @@
+var classARDOUR_1_1MuteMaster =
+[
+    [ "MutePoint", "classARDOUR_1_1MuteMaster.html#ab8159d797efc30aad82041344206bcca", [
+      [ "PreFader", "classARDOUR_1_1MuteMaster.html#ab8159d797efc30aad82041344206bccaac379f352b0ec6b1152c3865864746a06", null ],
+      [ "PostFader", "classARDOUR_1_1MuteMaster.html#ab8159d797efc30aad82041344206bccaab2e573f0e667f5c2504fd11999183751", null ],
+      [ "Listen", "classARDOUR_1_1MuteMaster.html#ab8159d797efc30aad82041344206bccaac4996cd50539ad232d66d213c016813c", null ],
+      [ "Main", "classARDOUR_1_1MuteMaster.html#ab8159d797efc30aad82041344206bccaabdba7bc7377e21fd22475ff0da0f71e1", null ],
+      [ "SurroundSend", "classARDOUR_1_1MuteMaster.html#ab8159d797efc30aad82041344206bccaa8fc15879e7c0f66ada74ae97b2febf8c", null ]
+    ] ],
+    [ "MuteMaster", "classARDOUR_1_1MuteMaster.html#ac5594e723a1c251d70e9476585ec921d", null ],
+    [ "~MuteMaster", "classARDOUR_1_1MuteMaster.html#a283e4df355816067e65f0b77acd2d78d", null ],
+    [ "get_state", "classARDOUR_1_1MuteMaster.html#a6e2b3e371bf8d1fefa6cf9799a3783dc", null ],
+    [ "mute_at", "classARDOUR_1_1MuteMaster.html#a6cd0c99549d240e9ee1d02f7b8ca90b3", null ],
+    [ "mute_gain_at", "classARDOUR_1_1MuteMaster.html#a17a04045eeed54c2cc9ca01703feace5", null ],
+    [ "mute_points", "classARDOUR_1_1MuteMaster.html#a832024b67c6c24c7ae6d2369a07f68af", null ],
+    [ "muted_by_masters", "classARDOUR_1_1MuteMaster.html#aec0441136b35cae5118559c9455e0a0e", null ],
+    [ "muted_by_masters_at", "classARDOUR_1_1MuteMaster.html#a6296cf8f21332337f0eb348aa9693978", null ],
+    [ "muted_by_others_soloing_at", "classARDOUR_1_1MuteMaster.html#ac007bd42419debcba5c78360bececaf9", null ],
+    [ "muted_by_self", "classARDOUR_1_1MuteMaster.html#a8a7ad3b7fd59f6fb659fa8e7da7998a8", null ],
+    [ "muted_by_self_at", "classARDOUR_1_1MuteMaster.html#af887c104fe99b21f147e5bf62ebe7bb7", null ],
+    [ "set_mute_points", "classARDOUR_1_1MuteMaster.html#a8b30da1a7a14ec61324a7af293919055", null ],
+    [ "set_mute_points", "classARDOUR_1_1MuteMaster.html#a47d6d99df922c4a6d0044effbceebf0d", null ],
+    [ "set_muted_by_masters", "classARDOUR_1_1MuteMaster.html#a15fde5ae3d79571789d51328fbedd372", null ],
+    [ "set_muted_by_self", "classARDOUR_1_1MuteMaster.html#a27672323eb7d2c94e3b3f6f824df5422", null ],
+    [ "set_soloed_by_others", "classARDOUR_1_1MuteMaster.html#a2a18fed02df745c402382b37703e34c6", null ],
+    [ "set_soloed_by_self", "classARDOUR_1_1MuteMaster.html#a5860761b142d0bb8edd36daf20a967f4", null ],
+    [ "set_state", "classARDOUR_1_1MuteMaster.html#a8b1b619bd890bf44bb95f624b6f20341", null ],
+    [ "unmute_at", "classARDOUR_1_1MuteMaster.html#a03e70fb63fd0666ad48a603d51c0dc0c", null ],
+    [ "_mute_point", "classARDOUR_1_1MuteMaster.html#ae45d2f8cd7fe7a6a851689cb398f7696", null ],
+    [ "_muteable", "classARDOUR_1_1MuteMaster.html#a00c60fd1aae962ae104fa37fd6653692", null ],
+    [ "_muted_by_masters", "classARDOUR_1_1MuteMaster.html#ab177d6b347e8d9617d07cff7cdca6011", null ],
+    [ "_muted_by_self", "classARDOUR_1_1MuteMaster.html#a52e7a0e35ef388129ed5d7066dcff8b0", null ],
+    [ "_soloed_by_others", "classARDOUR_1_1MuteMaster.html#a327bbfcb0634b57d02374bb8bb1e6582", null ],
+    [ "_soloed_by_self", "classARDOUR_1_1MuteMaster.html#a8367e9e1a73b83f4c773ff9ad7c15a4b", null ],
+    [ "AllPoints", "classARDOUR_1_1MuteMaster.html#a4ec35db7407aedcfc39945c74106f620", null ],
+    [ "MutePointChanged", "classARDOUR_1_1MuteMaster.html#a7f51f8c4a4198145a3f818fda2d870f5", null ],
+    [ "xml_node_name", "classARDOUR_1_1MuteMaster.html#ab59260061510adbe8fceeb305d0a51b8", null ]
+];

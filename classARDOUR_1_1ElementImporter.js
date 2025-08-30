@@ -1,0 +1,28 @@
+var classARDOUR_1_1ElementImporter =
+[
+    [ "ElementImporter", "classARDOUR_1_1ElementImporter.html#ae243615257ca6935007c3d889c959ddd", null ],
+    [ "~ElementImporter", "classARDOUR_1_1ElementImporter.html#afbf30b97f26bf765c33e0d548960affd", null ],
+    [ "_cancel_move", "classARDOUR_1_1ElementImporter.html#a0869216fa5f52fa116f8bfa4dcab5d96", null ],
+    [ "_move", "classARDOUR_1_1ElementImporter.html#abce5014c00ac8843d2f868682318be56", null ],
+    [ "_prepare_move", "classARDOUR_1_1ElementImporter.html#a27050a416a381316a141e292df98c6eb", null ],
+    [ "broken", "classARDOUR_1_1ElementImporter.html#aaae07423b5fdbd63031bbee9d67d2ecc", null ],
+    [ "cancel_move", "classARDOUR_1_1ElementImporter.html#acc41f609e44593dd8177b4ae5ca07f0a", null ],
+    [ "get_import_status", "classARDOUR_1_1ElementImporter.html#ada619ba67f4ae5eeedd4f23ef1fab5b9", null ],
+    [ "get_info", "classARDOUR_1_1ElementImporter.html#a804e1224870f52f124d11242bd781a4b", null ],
+    [ "get_name", "classARDOUR_1_1ElementImporter.html#a3ff745d63a52a2eac6ec364a673ed8aa", null ],
+    [ "move", "classARDOUR_1_1ElementImporter.html#a0e656a0e8c1f1f95c49bbfea6105f0dd", null ],
+    [ "prepare_move", "classARDOUR_1_1ElementImporter.html#aaa40e8a1337b473410845a3010d4d765", null ],
+    [ "queued", "classARDOUR_1_1ElementImporter.html#a00f3605dd73b614cc5574fc2887b4c28", null ],
+    [ "rate_convert_samples", "classARDOUR_1_1ElementImporter.html#a91a87f30a05a4e02db8f126611734981", null ],
+    [ "rate_convert_samples", "classARDOUR_1_1ElementImporter.html#a2b51e9b6224875ac83e924f59a99b910", null ],
+    [ "set_broken", "classARDOUR_1_1ElementImporter.html#a5abe98162256438848534b849677487d", null ],
+    [ "timecode_to_string", "classARDOUR_1_1ElementImporter.html#aeb0022c211628cc1c7804ee42244c914", null ],
+    [ "_broken", "classARDOUR_1_1ElementImporter.html#a1ac9364b05a9155f7f99392312a3d7fa", null ],
+    [ "_queued", "classARDOUR_1_1ElementImporter.html#abbfa7323db5d016da947cd2f56124a4b", null ],
+    [ "name", "classARDOUR_1_1ElementImporter.html#ab0b654c7a7521e38ddf3899d482c7373", null ],
+    [ "Prompt", "classARDOUR_1_1ElementImporter.html#a8ca12f74d450584b0bf1d72b974ab731", null ],
+    [ "Rename", "classARDOUR_1_1ElementImporter.html#acb1aa0e3f5a2658756e6f92b1618881e", null ],
+    [ "sample_rate", "classARDOUR_1_1ElementImporter.html#aa772302e15f24d1af8061e1cf721b869", null ],
+    [ "session", "classARDOUR_1_1ElementImporter.html#a91bce1f04c71cef660dec41c3d6845a8", null ],
+    [ "source", "classARDOUR_1_1ElementImporter.html#a48f4fa60ce52dcbab491d45158e368a4", null ]
+];

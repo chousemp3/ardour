@@ -1,0 +1,28 @@
+var classDragManager =
+[
+    [ "DragManager", "classDragManager.html#ad37cde07564e41014bd796ec10a6f38a", null ],
+    [ "~DragManager", "classDragManager.html#a5098d9893a903d034a73727fa45f0473", null ],
+    [ "abort", "classDragManager.html#a00c84032b06d82b894b041aa0c70e276", null ],
+    [ "active", "classDragManager.html#a66fab8f2a511e9c49e71b1701ba1ebed", null ],
+    [ "add", "classDragManager.html#a8414c569d9412b2e271d9ece8407a6e9", null ],
+    [ "current_pointer_sample", "classDragManager.html#ad60096cba894f4f785653f1eb980b716", null ],
+    [ "current_pointer_time", "classDragManager.html#a8c1eb627ca654fc38896869d14c2c965", null ],
+    [ "current_pointer_x", "classDragManager.html#a66d49a06e2e1616c1fea96eb450e238f", null ],
+    [ "current_pointer_y", "classDragManager.html#a734456333dfa35d9b6fd9bb66c7f2cc5", null ],
+    [ "end_grab", "classDragManager.html#a4c29d58d2dc1df90b0ffb17a9c50080d", null ],
+    [ "ending", "classDragManager.html#a2dfa173122438b2d250ede6bd83fd8a4", null ],
+    [ "have_item", "classDragManager.html#a47b157834d47e77c6f1aa3c697efd191", null ],
+    [ "mark_double_click", "classDragManager.html#afc8942365448c31ca41958834fc9bc56", null ],
+    [ "mid_drag_key_event", "classDragManager.html#a1406a74a46fb81cb98f2a4a8bd136643", null ],
+    [ "motion_handler", "classDragManager.html#ac53b041d68b59bc27f2f0410d78e0972", null ],
+    [ "preview_video", "classDragManager.html#a05b7c261714ffa2f7d33db7c0348a43a", null ],
+    [ "set", "classDragManager.html#a4003b33f4f4505a1684490bd59740b85", null ],
+    [ "start_grab", "classDragManager.html#a4ac747d9f548cfb067a7bc7b3aca52a1", null ],
+    [ "_current_pointer_time", "classDragManager.html#a2c3c5c11a74f148a13f0f86ab6db2f47", null ],
+    [ "_current_pointer_x", "classDragManager.html#ab4210eb39cb0866d3c79bd87a78c49e5", null ],
+    [ "_current_pointer_y", "classDragManager.html#a783f5997a833426efe21dc1b7955a9ac", null ],
+    [ "_drags", "classDragManager.html#a5512524511bcc41f17b8e5405c28ef6b", null ],
+    [ "_editing_context", "classDragManager.html#a4e1d86270fca70b116af33bf21c6574b", null ],
+    [ "_ending", "classDragManager.html#abfb610d841bc5c8e6fdb23e84c4c999a", null ],
+    [ "_old_follow_playhead", "classDragManager.html#a302680eafe9de27ad71e6e1fdde13931", null ]
+];

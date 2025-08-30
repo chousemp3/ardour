@@ -1,0 +1,31 @@
+<map id="ExportDialog" name="ExportDialog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="289,592,396,617"/>
+<area shape="rect" id="Node000012" href="$classExportRangeDialog.html" title=" " alt="" coords="5,665,152,691"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="288,623,122,668,121,663,286,618"/>
+<area shape="rect" id="Node000013" href="$classExportRegionDialog.html" title=" " alt="" coords="177,665,327,691"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="319,628,268,667,265,663,316,624"/>
+<area shape="rect" id="Node000014" href="$classExportSelectionDialog.html" title=" " alt="" coords="351,665,518,691"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="370,623,421,663,418,667,366,628"/>
+<area shape="rect" id="Node000015" href="$classStemExportDialog.html" title=" " alt="" coords="542,665,682,691"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="400,618,569,663,568,668,398,623"/>
+<area shape="rect" id="Node000002" href="$classArdourDialog.html" title=" " alt="" coords="201,519,308,544"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="281,550,330,590,327,594,278,555"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1Dialog.html" title=" " alt="" coords="122,445,217,471"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="195,477,242,516,239,520,192,481"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Window.html" title=" " alt="" coords="117,372,222,397"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="172,411,172,445,167,445,167,411"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Bin.html" title=" " alt="" coords="132,299,207,324"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="172,338,172,372,167,372,167,338"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1Container.html" title=" " alt="" coords="111,225,227,251"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="172,264,172,299,167,299,167,264"/>
+<area shape="rect" id="Node000007" href="$classGtk_1_1Widget.html" title=" " alt="" coords="120,152,219,177"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="172,191,172,225,167,225,167,191"/>
+<area shape="rect" id="Node000008" href="$classGtk_1_1Object.html" title=" " alt="" coords="122,79,217,104"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="172,118,172,152,167,152,167,118"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="120,5,219,31"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="172,44,172,79,167,79,167,44"/>
+<area shape="rect" id="Node000010" href="$classARDOUR_1_1SessionHandlePtr.html" title=" " alt="" coords="241,445,442,471"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="319,481,271,521,267,516,315,477"/>
+<area shape="rect" id="Node000011" href="$classPBD_1_1ScopedConnectionList.html" title=" " alt="" coords="332,519,532,544"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="409,555,359,594,356,590,405,550"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="ARDOUR::AutomatableSequence&lt; T &gt;" name="ARDOUR::AutomatableSequence&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="253,299,525,324"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1Automatable.html" title=" " alt="" coords="206,225,377,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="320,257,374,296,371,301,317,261"/>
+<area shape="rect" id="Node000003" href="$classEvoral_1_1ControlSet.html" title=" " alt="" coords="425,152,563,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="450,184,325,228,323,223,448,179"/>
+<area shape="rect" id="Node000009" href="$classEvoral_1_1Sequence.html" title=" " alt="" coords="404,225,576,251"/>
+<area shape="poly" id="edge9_Node000009_Node000003" title=" " alt="" coords="495,191,493,225,488,225,490,191"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="311,79,461,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="416,109,478,150,475,154,413,114"/>
+<area shape="rect" id="Node000005" href="$structTemporal_1_1TimeDomainSwapper.html" title=" " alt="" coords="485,79,716,104"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="574,114,513,154,510,150,571,109"/>
+<area shape="rect" id="Node000006" href="$classPBD_1_1Destructible.html" title=" " alt="" coords="533,5,669,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="603,44,603,79,598,79,598,44"/>
+<area shape="rect" id="Node000007" href="$classARDOUR_1_1Slavable.html" title=" " alt="" coords="5,152,148,177"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="125,179,257,223,256,228,123,184"/>
+<area shape="rect" id="Node000008" href="$classTemporal_1_1TimeDomainProvider.html" title=" " alt="" coords="172,152,400,177"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="291,191,293,225,288,225,285,191"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="464,261,407,301,404,296,461,256"/>
+</map>

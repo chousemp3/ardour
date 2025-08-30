@@ -1,0 +1,179 @@
+<map id="PBD::Stateful" name="PBD::Stateful">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,964,113,989"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1ControlProtocol.html" title=" " alt="" coords="190,340,377,365"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="57,950,59,863,71,737,84,666,102,594,127,523,159,457,181,427,207,401,258,363,261,368,211,405,185,430,164,459,132,525,107,595,89,667,77,738,64,863,63,950"/>
+<area shape="rect" id="Node000021" href="$classARDOUR_1_1ControlProtocolManager.html" title=" " alt="" coords="161,471,405,496"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="60,950,69,852,88,719,101,651,117,590,137,540,159,506,174,494,178,498,163,509,141,542,122,591,106,652,93,720,75,853,65,951"/>
+<area shape="rect" id="Node000022" href="$classARDOUR_1_1CoreSelection.html" title=" " alt="" coords="195,520,372,545"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="61,950,72,861,91,743,105,683,120,629,139,585,159,555,175,543,193,535,195,540,178,548,163,559,143,587,125,631,110,685,97,744,77,862,66,951"/>
+<area shape="rect" id="Node000023" href="$classARDOUR_1_1MixerScene.html" title=" " alt="" coords="202,569,365,595"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="62,950,74,871,95,767,123,668,141,630,159,604,179,591,200,583,202,588,181,596,163,608,145,633,128,670,100,768,79,872,67,951"/>
+<area shape="rect" id="Node000024" href="$classARDOUR_1_1MuteMaster.html" title=" " alt="" coords="201,619,366,644"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="58,950,62,889,76,809,89,766,106,725,130,687,160,653,178,641,200,633,201,638,181,645,163,657,134,690,111,727,94,768,81,810,67,890,63,950"/>
+<area shape="rect" id="Node000025" href="$classARDOUR_1_1Pannable.html" title=" " alt="" coords="210,668,357,693"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="60,950,66,898,83,831,96,795,112,761,133,730,160,703,183,688,209,680,210,686,185,693,163,707,138,733,117,764,100,797,88,832,72,899,65,951"/>
+<area shape="rect" id="Node000026" href="$classARDOUR_1_1Panner.html" title=" " alt="" coords="218,717,349,743"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="62,950,72,906,90,852,119,798,137,773,160,752,187,737,217,729,218,734,189,742,163,756,141,777,123,801,95,854,77,907,67,951"/>
+<area shape="rect" id="Node000031" href="$classARDOUR_1_1PresentationInfo.html" title=" " alt="" coords="186,767,381,792"/>
+<area shape="poly" id="edge30_Node000001_Node000031" title=" " alt="" coords="66,950,78,915,98,875,125,835,160,801,185,788,187,793,163,805,129,838,102,878,83,918,71,952"/>
+<area shape="rect" id="Node000032" href="$classARDOUR_1_1SceneChange.html" title=" " alt="" coords="196,816,371,841"/>
+<area shape="poly" id="edge31_Node000001_Node000032" title=" " alt="" coords="72,950,107,899,131,872,160,850,194,836,197,841,163,855,135,876,111,902,76,953"/>
+<area shape="rect" id="Node000034" href="$classARDOUR_1_1Speakers.html" title=" " alt="" coords="210,865,357,891"/>
+<area shape="poly" id="edge33_Node000001_Node000034" title=" " alt="" coords="82,953,117,925,160,900,209,884,210,890,162,904,120,929,86,957"/>
+<area shape="rect" id="Node000035" href="$classARDOUR_1_1Step.html" title=" " alt="" coords="225,915,341,940"/>
+<area shape="poly" id="edge34_Node000001_Node000035" title=" " alt="" coords="122,958,161,949,224,935,225,941,162,954,123,963"/>
+<area shape="rect" id="Node000036" href="$classARDOUR_1_1StepSequence.html" title=" " alt="" coords="194,964,373,989"/>
+<area shape="poly" id="edge35_Node000001_Node000036" title=" " alt="" coords="127,974,194,974,194,979,127,979"/>
+<area shape="rect" id="Node000037" href="$classARDOUR_1_1StepSequencer.html" title=" " alt="" coords="191,1013,375,1039"/>
+<area shape="poly" id="edge36_Node000001_Node000037" title=" " alt="" coords="127,990,162,998,220,1011,219,1016,161,1003,125,995"/>
+<area shape="rect" id="Node000038" href="$classARDOUR_1_1SurroundPannable.html" title=" " alt="" coords="181,1063,385,1088"/>
+<area shape="poly" id="edge37_Node000001_Node000038" title=" " alt="" coords="86,997,121,1024,162,1048,199,1060,197,1065,160,1052,118,1028,83,1001"/>
+<area shape="rect" id="Node000039" href="$classARDOUR_1_1TransportMaster.html" title="The TransportMaster interface can be used to sync ARDOURs tempo to an external source like MTC,..." alt="" coords="187,1112,379,1137"/>
+<area shape="poly" id="edge38_Node000001_Node000039" title=" " alt="" coords="76,1000,111,1050,135,1076,163,1097,190,1109,188,1114,160,1102,131,1080,107,1053,72,1003"/>
+<area shape="rect" id="Node000046" href="$classARDOUR_1_1Trigger.html" title=" " alt="" coords="218,1161,349,1187"/>
+<area shape="poly" id="edge45_Node000001_Node000046" title=" " alt="" coords="71,1001,83,1035,103,1075,129,1114,163,1146,189,1160,218,1168,217,1173,187,1165,160,1151,125,1117,98,1077,79,1037,66,1003"/>
+<area shape="rect" id="Node000049" href="$classARDOUR_1_1UserBundle.html" title=" " alt="" coords="202,1211,365,1236"/>
+<area shape="poly" id="edge48_Node000001_Node000049" title=" " alt="" coords="67,1002,77,1045,95,1098,123,1151,142,1175,163,1196,182,1207,203,1215,201,1220,179,1212,160,1200,138,1179,119,1154,90,1100,72,1047,62,1004"/>
+<area shape="rect" id="Node000050" href="$classGtkmm2ext_1_1Keyboard.html" title=" " alt="" coords="199,1260,368,1285"/>
+<area shape="poly" id="edge49_Node000001_Node000050" title=" " alt="" coords="65,1003,72,1055,88,1121,101,1155,117,1188,138,1219,163,1245,180,1256,199,1264,197,1269,177,1261,160,1249,134,1222,113,1191,96,1157,83,1122,67,1056,60,1004"/>
+<area shape="rect" id="Node000052" href="$classMIDIControllable.html" title=" " alt="" coords="218,1309,349,1335"/>
+<area shape="poly" id="edge51_Node000001_Node000052" title=" " alt="" coords="63,1003,67,1063,81,1143,94,1184,111,1225,134,1262,163,1295,189,1310,219,1318,217,1324,187,1315,160,1299,130,1265,107,1227,89,1186,76,1144,62,1064,58,1003"/>
+<area shape="rect" id="Node000053" href="$classMIDIInvokable.html" title=" " alt="" coords="226,1359,341,1384"/>
+<area shape="poly" id="edge52_Node000001_Node000053" title=" " alt="" coords="67,1003,79,1082,100,1184,129,1282,145,1319,163,1344,192,1361,226,1369,225,1374,191,1366,160,1348,141,1322,124,1284,95,1186,74,1082,62,1003"/>
+<area shape="rect" id="Node000056" href="$classOSCControllable.html" title=" " alt="" coords="219,1408,347,1433"/>
+<area shape="poly" id="edge55_Node000001_Node000056" title=" " alt="" coords="66,1003,77,1091,97,1209,126,1321,143,1365,163,1393,189,1410,220,1418,219,1423,187,1415,159,1397,139,1367,121,1323,92,1210,72,1092,61,1004"/>
+<area shape="rect" id="Node000058" href="$classPBD_1_1Configuration.html" title=" " alt="" coords="211,1483,355,1508"/>
+<area shape="poly" id="edge57_Node000001_Node000058" title=" " alt="" coords="66,1003,77,1100,97,1231,126,1358,144,1408,163,1443,191,1466,223,1480,221,1485,188,1470,159,1446,139,1411,121,1360,92,1232,72,1101,61,1004"/>
+<area shape="rect" id="Node000063" href="$classPBD_1_1StatefulDestructible.html" title=" " alt="" coords="190,1949,377,1975"/>
+<area shape="poly" id="edge62_Node000001_Node000063" title=" " alt="" coords="67,1002,103,1216,132,1366,164,1519,231,1778,281,1948,275,1950,226,1779,159,1520,126,1367,98,1217,62,1003"/>
+<area shape="rect" id="Node000003" href="$classArdourSurface_1_1ArdourWebsockets.html" title=" " alt="" coords="461,5,704,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="288,325,306,265,338,187,360,146,386,107,416,71,452,40,472,29,474,33,455,44,420,74,390,110,364,149,343,190,311,267,293,327"/>
+<area shape="rect" id="Node000004" href="$classArdourSurface_1_1CC121.html" title=" " alt="" coords="501,55,665,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="291,326,312,275,346,211,392,145,420,116,452,90,475,78,500,71,501,76,477,83,455,95,424,120,396,149,350,214,317,278,296,328"/>
+<area shape="rect" id="Node000005" href="$classArdourSurface_1_1ContourDesignControlProtocol.html" title=" " alt="" coords="473,105,692,145"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="296,327,321,288,356,242,401,194,452,154,476,142,478,147,455,159,404,198,360,245,326,292,301,330"/>
+<area shape="rect" id="Node000006" href="$classArdourSurface_1_1FP8_1_1FaderPort8.html" title=" " alt="" coords="509,169,656,209"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="305,329,367,273,408,244,452,218,508,199,510,204,454,223,411,248,371,277,308,333"/>
+<area shape="rect" id="Node000007" href="$classArdourSurface_1_1LaunchControlXL.html" title=" " alt="" coords="467,233,698,259"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="317,331,379,298,452,267,495,256,497,261,454,273,381,303,319,335"/>
+<area shape="rect" id="Node000008" href="$classArdourSurface_1_1Maschine2.html" title=" " alt="" coords="487,283,679,308"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="364,335,515,305,516,311,365,340"/>
+<area shape="rect" id="Node000009" href="$classArdourSurface_1_1NS__MCU_1_1MackieControlProtocol.html" title=" " alt="" coords="493,333,672,373"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="391,350,493,350,493,355,391,355"/>
+<area shape="rect" id="Node000010" href="$classArdourSurface_1_1OSC.html" title=" " alt="" coords="508,397,657,423"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="365,365,516,395,515,400,364,371"/>
+<area shape="rect" id="Node000011" href="$classArdourSurface_1_1US2400Protocol.html" title=" " alt="" coords="470,447,695,472"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="320,370,381,401,454,431,501,444,500,449,452,437,379,406,317,375"/>
+<area shape="rect" id="Node000012" href="$classGenericMidiControlProtocol.html" title=" " alt="" coords="483,496,683,521"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="308,373,370,428,411,457,454,481,491,493,489,498,452,486,408,461,367,432,305,377"/>
+<area shape="rect" id="Node000013" href="$classMIDISurface.html" title=" " alt="" coords="532,545,633,571"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="315,372,360,409,407,456,421,478,429,497,438,514,455,530,492,547,532,555,531,560,491,552,452,535,434,517,424,499,417,480,403,460,357,413,312,376"/>
+<area shape="rect" id="Node000020" href="$classWiimoteControlProtocol.html" title=" " alt="" coords="494,595,671,620"/>
+<area shape="poly" id="edge19_Node000002_Node000020" title=" " alt="" coords="317,371,363,408,387,431,408,456,418,475,423,492,428,523,434,552,442,566,455,580,473,592,494,600,492,605,471,596,452,584,438,569,429,554,422,524,418,493,413,477,403,460,383,434,360,412,314,375"/>
+<area shape="rect" id="Node000014" href="$classArdourSurface_1_1Console1.html" title=" " alt="" coords="782,407,965,432"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="647,554,680,546,710,530,721,521,727,510,734,487,740,464,747,452,758,441,780,429,783,434,762,445,751,456,745,466,739,489,732,512,725,524,714,535,682,551,648,559"/>
+<area shape="rect" id="Node000015" href="$classArdourSurface_1_1FaderPort.html" title=" " alt="" coords="782,456,965,481"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="647,549,679,542,711,530,725,521,734,512,744,501,759,492,793,479,795,484,761,496,747,505,738,515,728,525,713,535,681,547,648,554"/>
+<area shape="rect" id="Node000016" href="$classArdourSurface_1_1LP__X_1_1LaunchKey4.html" title=" " alt="" coords="797,506,950,546"/>
+<area shape="poly" id="edge15_Node000013_Node000016" title=" " alt="" coords="647,548,796,532,797,537,648,554"/>
+<area shape="rect" id="Node000017" href="$classArdourSurface_1_1LP__X_1_1LaunchPadX.html" title=" " alt="" coords="797,570,950,610"/>
+<area shape="poly" id="edge16_Node000013_Node000017" title=" " alt="" coords="648,562,797,579,796,584,647,568"/>
+<area shape="rect" id="Node000018" href="$classArdourSurface_1_1LaunchPadPro.html" title=" " alt="" coords="767,635,979,660"/>
+<area shape="poly" id="edge17_Node000013_Node000018" title=" " alt="" coords="648,561,681,568,713,580,728,589,738,600,747,610,761,620,794,632,792,637,759,624,744,614,734,604,725,594,711,584,679,573,647,566"/>
+<area shape="rect" id="Node000019" href="$classArdourSurface_1_1Push2.html" title=" " alt="" coords="793,684,954,709"/>
+<area shape="poly" id="edge18_Node000013_Node000019" title=" " alt="" coords="648,556,682,564,714,580,725,591,732,602,739,626,745,649,751,659,762,669,794,685,791,690,758,674,747,662,740,651,734,627,727,604,721,594,710,584,680,569,647,561"/>
+<area shape="rect" id="Node000027" href="$classARDOUR_1_1Panner1in2out.html" title=" " alt="" coords="493,644,673,669"/>
+<area shape="poly" id="edge26_Node000026_Node000027" title=" " alt="" coords="361,714,404,702,428,690,452,678,495,667,496,672,454,683,430,695,406,707,363,719"/>
+<area shape="rect" id="Node000028" href="$classARDOUR_1_1Panner2in2out.html" title=" " alt="" coords="493,693,673,719"/>
+<area shape="poly" id="edge27_Node000026_Node000028" title=" " alt="" coords="362,721,492,711,492,716,363,726"/>
+<area shape="rect" id="Node000029" href="$classARDOUR_1_1Pannerbalance.html" title=" " alt="" coords="491,743,674,768"/>
+<area shape="poly" id="edge28_Node000026_Node000029" title=" " alt="" coords="362,734,491,745,491,750,362,739"/>
+<area shape="rect" id="Node000030" href="$classARDOUR_1_1VBAPanner.html" title=" " alt="" coords="503,792,662,817"/>
+<area shape="poly" id="edge29_Node000026_Node000030" title=" " alt="" coords="363,739,406,752,431,764,454,777,504,790,502,796,452,782,428,769,404,756,361,745"/>
+<area shape="rect" id="Node000033" href="$classARDOUR_1_1MIDISceneChange.html" title=" " alt="" coords="480,841,685,867"/>
+<area shape="poly" id="edge32_Node000032_Node000033" title=" " alt="" coords="385,835,480,843,479,848,384,840"/>
+<area shape="rect" id="Node000040" href="$classARDOUR_1_1Engine__TransportMaster.html" title=" " alt="" coords="483,969,682,1009"/>
+<area shape="poly" id="edge39_Node000039_Node000040" title=" " alt="" coords="391,1105,404,1097,420,1079,427,1059,434,1039,452,1019,481,1002,484,1007,455,1023,439,1041,432,1061,425,1082,407,1101,393,1110"/>
+<area shape="rect" id="Node000041" href="$classARDOUR_1_1MIDIClock__TransportMaster.html" title=" " alt="" coords="473,1033,693,1073"/>
+<area shape="poly" id="edge40_Node000039_Node000041" title=" " alt="" coords="363,1107,405,1097,453,1082,498,1070,499,1075,454,1087,406,1102,364,1112"/>
+<area shape="rect" id="Node000043" href="$classARDOUR_1_1TimecodeTransportMaster.html" title=" " alt="" coords="477,1097,688,1137"/>
+<area shape="poly" id="edge42_Node000039_Node000043" title=" " alt="" coords="393,1119,477,1117,477,1122,393,1124"/>
+<area shape="rect" id="Node000042" href="$classARDOUR_1_1MclkTestMaster.html" title=" " alt="" coords="779,1040,968,1065"/>
+<area shape="poly" id="edge41_Node000041_Node000042" title=" " alt="" coords="706,1050,779,1050,779,1055,706,1055"/>
+<area shape="rect" id="Node000044" href="$classARDOUR_1_1LTC__TransportMaster.html" title=" " alt="" coords="763,1096,984,1121"/>
+<area shape="poly" id="edge43_Node000043_Node000044" title=" " alt="" coords="702,1111,763,1109,763,1114,702,1116"/>
+<area shape="rect" id="Node000045" href="$classARDOUR_1_1MTC__TransportMaster.html" title=" " alt="" coords="760,1145,987,1171"/>
+<area shape="poly" id="edge44_Node000043_Node000045" title=" " alt="" coords="702,1131,784,1143,783,1148,701,1136"/>
+<area shape="rect" id="Node000047" href="$classARDOUR_1_1AudioTrigger.html" title=" " alt="" coords="499,1161,667,1187"/>
+<area shape="poly" id="edge46_Node000046_Node000047" title=" " alt="" coords="362,1171,498,1171,498,1177,362,1177"/>
+<area shape="rect" id="Node000048" href="$classARDOUR_1_1MIDITrigger.html" title=" " alt="" coords="502,1211,663,1236"/>
+<area shape="poly" id="edge47_Node000046_Node000048" title=" " alt="" coords="362,1184,505,1208,504,1213,362,1189"/>
+<area shape="rect" id="Node000051" href="$classArdourKeyboard.html" title=" " alt="" coords="519,1260,646,1285"/>
+<area shape="poly" id="edge50_Node000050_Node000051" title=" " alt="" coords="382,1270,519,1270,519,1275,382,1275"/>
+<area shape="rect" id="Node000054" href="$classMIDIAction.html" title=" " alt="" coords="536,1309,629,1335"/>
+<area shape="poly" id="edge53_Node000053_Node000054" title=" " alt="" coords="354,1357,535,1327,536,1332,355,1362"/>
+<area shape="rect" id="Node000055" href="$classMIDIFunction.html" title=" " alt="" coords="529,1359,636,1384"/>
+<area shape="poly" id="edge54_Node000053_Node000055" title=" " alt="" coords="354,1369,529,1369,529,1374,354,1374"/>
+<area shape="rect" id="Node000057" href="$classOSCRouteControllable.html" title=" " alt="" coords="499,1408,666,1433"/>
+<area shape="poly" id="edge56_Node000056_Node000057" title=" " alt="" coords="361,1418,499,1418,499,1423,361,1423"/>
+<area shape="rect" id="Node000059" href="$classARDOUR_1_1RCConfiguration.html" title=" " alt="" coords="487,1457,679,1483"/>
+<area shape="poly" id="edge58_Node000058_Node000059" title=" " alt="" coords="369,1485,486,1475,487,1481,369,1491"/>
+<area shape="rect" id="Node000060" href="$classARDOUR_1_1SessionConfiguration.html" title=" " alt="" coords="471,1507,695,1532"/>
+<area shape="poly" id="edge59_Node000058_Node000060" title=" " alt="" coords="369,1500,471,1508,470,1513,369,1505"/>
+<area shape="rect" id="Node000061" href="$classArdourWidgets_1_1UIConfigurationBase.html" title=" " alt="" coords="453,1556,712,1581"/>
+<area shape="poly" id="edge60_Node000058_Node000061" title=" " alt="" coords="339,1509,454,1541,512,1553,511,1558,453,1546,338,1514"/>
+<area shape="rect" id="Node000062" href="$classUIConfiguration.html" title=" " alt="" coords="812,1543,935,1568"/>
+<area shape="poly" id="edge61_Node000061_Node000062" title=" " alt="" coords="726,1559,812,1555,812,1561,726,1565"/>
+<area shape="rect" id="Node000064" href="$classARDOUR_1_1AutomationList.html" title=" " alt="" coords="489,1629,676,1655"/>
+<area shape="poly" id="edge63_Node000063_Node000064" title=" " alt="" coords="289,1936,307,1878,340,1804,362,1765,387,1728,417,1693,452,1664,488,1647,490,1652,455,1668,421,1697,392,1731,366,1768,345,1806,312,1880,294,1937"/>
+<area shape="rect" id="Node000065" href="$classARDOUR_1_1Location.html" title=" " alt="" coords="511,1679,654,1704"/>
+<area shape="poly" id="edge64_Node000063_Node000065" title=" " alt="" coords="292,1935,313,1887,347,1826,393,1764,421,1737,452,1713,480,1700,511,1692,512,1697,482,1705,455,1718,425,1741,398,1768,352,1829,318,1889,297,1938"/>
+<area shape="rect" id="Node000066" href="$classARDOUR_1_1Locations.html" title=" " alt="" coords="508,1728,657,1753"/>
+<area shape="poly" id="edge65_Node000063_Node000066" title=" " alt="" coords="296,1936,320,1897,355,1849,400,1802,452,1762,479,1750,507,1743,509,1748,481,1755,455,1767,403,1806,359,1853,324,1900,300,1939"/>
+<area shape="rect" id="Node000067" href="$classARDOUR_1_1Plugin.html" title=" " alt="" coords="519,1777,646,1803"/>
+<area shape="poly" id="edge66_Node000063_Node000067" title=" " alt="" coords="302,1937,364,1873,406,1840,452,1812,485,1799,519,1792,520,1797,487,1805,454,1816,409,1844,368,1877,306,1940"/>
+<area shape="rect" id="Node000077" href="$classARDOUR_1_1Session.html" title=" " alt="" coords="514,1827,651,1852"/>
+<area shape="poly" id="edge73_Node000063_Node000077" title=" " alt="" coords="312,1939,374,1899,413,1878,452,1861,513,1845,514,1850,454,1866,415,1883,377,1903,315,1943"/>
+<area shape="rect" id="Node000078" href="$classARDOUR_1_1SessionMetadata.html" title=" " alt="" coords="483,1876,682,1901"/>
+<area shape="poly" id="edge74_Node000063_Node000078" title=" " alt="" coords="336,1943,453,1910,506,1899,507,1904,454,1915,338,1948"/>
+<area shape="rect" id="Node000079" href="$classARDOUR_1_1SessionObject.html" title=" " alt="" coords="493,1925,672,1951"/>
+<area shape="poly" id="edge75_Node000063_Node000079" title=" " alt="" coords="390,1951,493,1942,493,1948,391,1956"/>
+<area shape="rect" id="Node000138" href="$classARDOUR_1_1VCAManager.html" title=" " alt="" coords="497,1975,668,2000"/>
+<area shape="poly" id="edge81_Node000063_Node000138" title=" " alt="" coords="391,1968,497,1977,497,1983,390,1974"/>
+<area shape="rect" id="Node000139" href="$classAutomationLine.html" title=" " alt="" coords="520,2024,645,2049"/>
+<area shape="poly" id="edge82_Node000063_Node000139" title=" " alt="" coords="338,1976,454,2009,520,2023,519,2028,453,2014,337,1981"/>
+<area shape="rect" id="Node000145" href="$classGtkmm2ext_1_1WindowProxy.html" title=" " alt="" coords="484,2073,681,2099"/>
+<area shape="poly" id="edge83_Node000063_Node000145" title=" " alt="" coords="315,1981,377,2021,415,2042,454,2059,492,2071,491,2076,452,2065,412,2047,374,2026,312,1985"/>
+<area shape="rect" id="Node000186" href="$classPBD_1_1Command.html" title=" " alt="" coords="521,2123,645,2148"/>
+<area shape="poly" id="edge84_Node000063_Node000186" title=" " alt="" coords="306,1984,367,2048,409,2081,454,2109,487,2121,521,2128,520,2133,486,2126,452,2114,406,2086,364,2051,302,1987"/>
+<area shape="rect" id="Node000196" href="$classPBD_1_1Controllable.html" title=" " alt="" coords="515,2172,651,2197"/>
+<area shape="poly" id="edge85_Node000063_Node000196" title=" " alt="" coords="300,1985,324,2024,359,2072,403,2119,455,2158,484,2171,515,2178,514,2183,482,2176,452,2163,399,2123,355,2075,320,2027,296,1988"/>
+<area shape="rect" id="Node000226" href="$classSelectionMemento.html" title=" " alt="" coords="511,2221,655,2247"/>
+<area shape="poly" id="edge86_Node000063_Node000226" title=" " alt="" coords="297,1987,318,2035,352,2096,397,2157,425,2185,455,2208,482,2221,511,2228,510,2233,480,2226,452,2212,421,2189,393,2161,347,2099,313,2037,292,1989"/>
+<area shape="rect" id="Node000227" href="$classTemporal_1_1TempoMap.html" title=" " alt="" coords="502,2271,663,2296"/>
+<area shape="poly" id="edge87_Node000063_Node000227" title=" " alt="" coords="294,1987,312,2044,344,2118,366,2157,391,2194,421,2228,455,2257,478,2269,503,2277,501,2282,475,2274,452,2262,417,2232,387,2198,361,2160,340,2121,307,2046,289,1989"/>
+<area shape="rect" id="Node000228" href="$classVideoTimeLine.html" title="video&#45;timline controller and display" alt="" coords="523,2320,642,2345"/>
+<area shape="poly" id="edge88_Node000063_Node000228" title=" " alt="" coords="292,1988,307,2054,338,2141,359,2187,386,2231,418,2272,455,2306,488,2323,524,2330,523,2335,486,2328,452,2311,414,2276,381,2234,355,2189,333,2143,302,2055,287,1989"/>
+<area shape="rect" id="Node000068" href="$classARDOUR_1_1AUPlugin.html" title=" " alt="" coords="800,1592,947,1617"/>
+<area shape="poly" id="edge67_Node000067_Node000068" title=" " alt="" coords="659,1785,686,1777,710,1763,724,1747,731,1731,733,1697,736,1661,744,1644,758,1627,777,1614,799,1607,800,1612,780,1619,762,1631,748,1646,742,1663,739,1697,736,1732,728,1750,714,1767,689,1782,661,1791"/>
+<area shape="rect" id="Node000069" href="$classARDOUR_1_1LV2Plugin.html" title=" " alt="" coords="798,1641,949,1667"/>
+<area shape="poly" id="edge68_Node000067_Node000069" title=" " alt="" coords="659,1784,686,1776,710,1763,727,1743,734,1721,740,1698,758,1676,777,1665,797,1658,799,1663,779,1670,762,1680,745,1700,739,1722,732,1745,714,1767,688,1781,660,1789"/>
+<area shape="rect" id="Node000070" href="$classARDOUR_1_1LadspaPlugin.html" title=" " alt="" coords="787,1691,960,1716"/>
+<area shape="poly" id="edge69_Node000067_Node000070" title=" " alt="" coords="659,1779,711,1762,725,1754,734,1744,744,1734,759,1725,790,1714,792,1719,761,1730,747,1738,738,1748,728,1758,713,1767,660,1784"/>
+<area shape="rect" id="Node000071" href="$classARDOUR_1_1LuaProc.html" title=" " alt="" coords="804,1740,943,1765"/>
+<area shape="poly" id="edge70_Node000067_Node000071" title=" " alt="" coords="659,1778,804,1759,804,1764,660,1783"/>
+<area shape="rect" id="Node000072" href="$classARDOUR_1_1VST3Plugin.html" title=" " alt="" coords="793,1789,953,1815"/>
+<area shape="poly" id="edge71_Node000067_Node000072" title=" " alt="" coords="660,1790,793,1796,793,1801,660,1796"/>
+<area shape="rect" id="Node000073" href="$classARDOUR_1_1VSTPlugin.html" title=" " alt="" coords="797,1839,949,1864"/>
+<area shape="poly" id="edge72_Node000067_Node000073" title=" " alt="" coords="660,1801,713,1811,761,1823,815,1836,814,1841,759,1829,711,1817,659,1806"/>
+<area shape="rect" id="Node000080" href="$classARDOUR_1_1IO.html" title=" " alt="" coords="823,1888,924,1913"/>
+<area shape="poly" id="edge76_Node000079_Node000080" title=" " alt="" coords="686,1922,822,1904,823,1910,686,1927"/>
+<area shape="rect" id="Node000082" href="$classARDOUR_1_1IOPlug.html" title=" " alt="" coords="809,1937,938,1963"/>
+<area shape="poly" id="edge77_Node000079_Node000082" title=" " alt="" coords="686,1940,809,1945,808,1950,686,1945"/>
+<area shape="rect" id="Node000083" href="$classARDOUR_1_1PannerShell.html" title=" " alt="" coords="792,1987,955,2012"/>
+<area shape="poly" id="edge78_Node000079_Node000083" title=" " alt="" coords="670,1951,713,1959,761,1971,815,1984,814,1989,759,1977,711,1965,669,1956"/>
+<area shape="rect" id="Node000084" href="$classARDOUR_1_1Playlist.html" title=" " alt="" coords="806,2036,941,2061"/>
+<area shape="poly" id="edge79_Node000079_Node000084" title=" " alt="" coords="686,1947,713,1960,730,1975,738,1991,746,2007,762,2021,783,2032,806,2039,805,2044,781,2037,758,2026,742,2010,734,1994,726,1978,711,1964,684,1952"/>
+<area shape="rect" id="Node000087" href="$classARDOUR_1_1Processor.html" title=" " alt="" coords="798,2085,949,2111"/>
+<area shape="poly" id="edge80_Node000079_Node000087" title=" " alt="" coords="687,1945,714,1960,727,1974,734,1988,739,2017,743,2046,750,2059,762,2072,779,2083,798,2090,797,2095,777,2088,758,2076,745,2062,738,2048,734,2018,729,1990,722,1977,710,1964,684,1949"/>
+</map>

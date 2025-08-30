@@ -1,0 +1,37 @@
+var classARDOUR_1_1DSP_1_1Biquad =
+[
+    [ "Type", "classARDOUR_1_1DSP_1_1Biquad.html#a1e9a4fe33fb00b5e6dd12ed40b45a419", [
+      [ "LowPass", "classARDOUR_1_1DSP_1_1Biquad.html#a1e9a4fe33fb00b5e6dd12ed40b45a419a72c8fa51ca1b6989e4318bbc28b74392", null ],
+      [ "HighPass", "classARDOUR_1_1DSP_1_1Biquad.html#a1e9a4fe33fb00b5e6dd12ed40b45a419a5caefe3b38b36372e789e6a8bc43c968", null ],
+      [ "BandPassSkirt", "classARDOUR_1_1DSP_1_1Biquad.html#a1e9a4fe33fb00b5e6dd12ed40b45a419a2c6551799f6ddb950c31f0959f46d082", null ],
+      [ "BandPass0dB", "classARDOUR_1_1DSP_1_1Biquad.html#a1e9a4fe33fb00b5e6dd12ed40b45a419a50d5b266d390db3788c31bc6beab0199", null ],
+      [ "Notch", "classARDOUR_1_1DSP_1_1Biquad.html#a1e9a4fe33fb00b5e6dd12ed40b45a419a788d513cee77aabfb2892f0709484115", null ],
+      [ "AllPass", "classARDOUR_1_1DSP_1_1Biquad.html#a1e9a4fe33fb00b5e6dd12ed40b45a419a3ab6814c881a65a9886f5493d861e4d8", null ],
+      [ "Peaking", "classARDOUR_1_1DSP_1_1Biquad.html#a1e9a4fe33fb00b5e6dd12ed40b45a419a5a7195e358e2ef358e22f5d0b258219e", null ],
+      [ "LowShelf", "classARDOUR_1_1DSP_1_1Biquad.html#a1e9a4fe33fb00b5e6dd12ed40b45a419a958d08bc3898c0732c3137741708ae7b", null ],
+      [ "HighShelf", "classARDOUR_1_1DSP_1_1Biquad.html#a1e9a4fe33fb00b5e6dd12ed40b45a419a5ed672b8ab5ded7aa963159269f96229", null ],
+      [ "MatchedLowPass", "classARDOUR_1_1DSP_1_1Biquad.html#a1e9a4fe33fb00b5e6dd12ed40b45a419a73078bd42712a4c73c6469a39b27f843", null ],
+      [ "MatchedHighPass", "classARDOUR_1_1DSP_1_1Biquad.html#a1e9a4fe33fb00b5e6dd12ed40b45a419a8213e7dcf0118dc7d2609795df1b5a2f", null ],
+      [ "MatchedBandPass0dB", "classARDOUR_1_1DSP_1_1Biquad.html#a1e9a4fe33fb00b5e6dd12ed40b45a419a98d73e4b7e15a6db6b8ce0c99c48c713", null ],
+      [ "MatchedPeaking", "classARDOUR_1_1DSP_1_1Biquad.html#a1e9a4fe33fb00b5e6dd12ed40b45a419a19dd3c89c6161924cac64c060ef6600d", null ]
+    ] ],
+    [ "Biquad", "classARDOUR_1_1DSP_1_1Biquad.html#a64f146d07c0b326b1d5300f3566a4411", null ],
+    [ "Biquad", "classARDOUR_1_1DSP_1_1Biquad.html#a9aaf7766e9cb9f55db8c674a0f02d0b2", null ],
+    [ "calc_vicanek", "classARDOUR_1_1DSP_1_1Biquad.html#a621a5015f94297c072ed4d58548248ec", null ],
+    [ "coefficients", "classARDOUR_1_1DSP_1_1Biquad.html#a74cdf833ff98e6d13c364bf47ca65893", null ],
+    [ "compute", "classARDOUR_1_1DSP_1_1Biquad.html#a6a6986aa806f1550102a56272284b0c1", null ],
+    [ "configure", "classARDOUR_1_1DSP_1_1Biquad.html#ace30d1e500915aed51116a70440edb98", null ],
+    [ "configure", "classARDOUR_1_1DSP_1_1Biquad.html#acf0c98470707d57587114a19906b7201", null ],
+    [ "dB_at_freq", "classARDOUR_1_1DSP_1_1Biquad.html#ad8be227625065b95dcd1000a8030e884", null ],
+    [ "reset", "classARDOUR_1_1DSP_1_1Biquad.html#a14da8611acf7e29747fb7ed7641fe032", null ],
+    [ "run", "classARDOUR_1_1DSP_1_1Biquad.html#a6f80312c3b479da22d52be7ee981bd5c", null ],
+    [ "set_vicanek_poles", "classARDOUR_1_1DSP_1_1Biquad.html#a4b8f1226d78a54e50e3add0f3b8f129c", null ],
+    [ "_a1", "classARDOUR_1_1DSP_1_1Biquad.html#a2312e8fc1ea29b134859276de70d2a36", null ],
+    [ "_a2", "classARDOUR_1_1DSP_1_1Biquad.html#a1225bd830791f03cb0e07087e60708da", null ],
+    [ "_b0", "classARDOUR_1_1DSP_1_1Biquad.html#a34b8d78b2ca7203353f8a521c24089bf", null ],
+    [ "_b1", "classARDOUR_1_1DSP_1_1Biquad.html#aa3850fa45f1417d41b9d174a9c4c677a", null ],
+    [ "_b2", "classARDOUR_1_1DSP_1_1Biquad.html#a2d34abcc890c87c12314cf11968bf39e", null ],
+    [ "_rate", "classARDOUR_1_1DSP_1_1Biquad.html#af8aa9fa8fcee1d8550e156f6372a85f9", null ],
+    [ "_z1", "classARDOUR_1_1DSP_1_1Biquad.html#a7fd661988731c36819a083fb1a8c4ad7", null ],
+    [ "_z2", "classARDOUR_1_1DSP_1_1Biquad.html#a4dcc006eeb4cad919abb5a669f5817b3", null ]
+];

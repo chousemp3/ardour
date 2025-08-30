@@ -1,0 +1,25 @@
+var classArdourWidgets_1_1ArdourSpinner =
+[
+    [ "ArdourSpinner", "classArdourWidgets_1_1ArdourSpinner.html#a56e61a4f847ba2a09486573eac25a8c1", null ],
+    [ "~ArdourSpinner", "classArdourWidgets_1_1ArdourSpinner.html#a42a81a785e16a25081ce9a90a75a8f18", null ],
+    [ "controllable_changed", "classArdourWidgets_1_1ArdourSpinner.html#a3ea26a36e5081e3cc06f5a6763749217", null ],
+    [ "ctrl_adjusted", "classArdourWidgets_1_1ArdourSpinner.html#aa7ce107a3ad706fbf4e9644a6e1b3e83", null ],
+    [ "entry_activated", "classArdourWidgets_1_1ArdourSpinner.html#a3746894379576a4b73319172f122cc1b", null ],
+    [ "entry_focus_out", "classArdourWidgets_1_1ArdourSpinner.html#a4952e21225a8ce195040b4ad45ac5b63", null ],
+    [ "on_button_press_event", "classArdourWidgets_1_1ArdourSpinner.html#a78e86858d1d16e50114524a53fdbb375", null ],
+    [ "on_button_release_event", "classArdourWidgets_1_1ArdourSpinner.html#a0e7e8fc3c9d26a4c7be6073a6b2d7df8", null ],
+    [ "on_scroll_event", "classArdourWidgets_1_1ArdourSpinner.html#a2365e7da04972ba5299ca2eeebed33cc", null ],
+    [ "spin_adjusted", "classArdourWidgets_1_1ArdourSpinner.html#a88c4be423fca52b350aab13edf096f0b", null ],
+    [ "switch_to_button", "classArdourWidgets_1_1ArdourSpinner.html#a94cce2db1c4f894246a96e8f538f89b3", null ],
+    [ "switch_to_spinner", "classArdourWidgets_1_1ArdourSpinner.html#a8269ee86c33e6c704a221887df24b72a", null ],
+    [ "_btn", "classArdourWidgets_1_1ArdourSpinner.html#af29ee07eaeae11fc9f7e3e52e12fdc02", null ],
+    [ "_controllable", "classArdourWidgets_1_1ArdourSpinner.html#ad4b3aff659c897b298dc4f0f33e7a3a1", null ],
+    [ "_ctrl_adj", "classArdourWidgets_1_1ArdourSpinner.html#a9878cc9657ccd3d22ca5c72fd165fbdf", null ],
+    [ "_ctrl_ignore", "classArdourWidgets_1_1ArdourSpinner.html#a8785d47e02ec20a45695678503f7691f", null ],
+    [ "_spin_adj", "classArdourWidgets_1_1ArdourSpinner.html#afc61b1df486337a45779e34c9af3d00c", null ],
+    [ "_spin_ignore", "classArdourWidgets_1_1ArdourSpinner.html#a266dab1c87f8d705de5e5581095d4b8a", null ],
+    [ "_spinner", "classArdourWidgets_1_1ArdourSpinner.html#af0864f0668294c5209ffd3e4504c4b2a", null ],
+    [ "_switch_on_release", "classArdourWidgets_1_1ArdourSpinner.html#a11da52b4f8c41e19c560f976b87e70ab", null ],
+    [ "_switching", "classArdourWidgets_1_1ArdourSpinner.html#a99582e5c7e2d371b3651b54c18020885", null ],
+    [ "watch_connection", "classArdourWidgets_1_1ArdourSpinner.html#a375b8278d34a0f2931b2e00e7f78dbf4", null ]
+];

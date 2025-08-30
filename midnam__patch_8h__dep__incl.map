@@ -1,0 +1,9 @@
+<map id="midnam_patch.h" name="midnam_patch.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="124,5,255,31"/>
+<area shape="rect" id="Node000002" href="$midi__patch__manager_8h.html" title=" " alt="" coords="5,79,176,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,41,108,81,105,76,161,36"/>
+<area shape="rect" id="Node000003" href="$patch__change__widget_8h.html" title=" " alt="" coords="201,79,375,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,36,273,76,270,81,214,41"/>
+<area shape="rect" id="Node000004" href="$slot__properties__box_8h.html" title=" " alt="" coords="207,152,369,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="291,118,291,152,285,152,285,118"/>
+</map>

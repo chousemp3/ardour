@@ -1,0 +1,9 @@
+<map id="OptionEditorMiniPage" name="OptionEditorMiniPage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="104,79,267,104"/>
+<area shape="rect" id="Node000004" href="$classColorThemeManager.html" title=" " alt="" coords="106,152,265,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="188,118,188,152,183,152,183,118"/>
+<area shape="rect" id="Node000002" href="$classOptionEditorComponent.html" title=" " alt="" coords="5,5,184,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,37,172,76,169,81,119,41"/>
+<area shape="rect" id="Node000003" href="$classOptionEditorPage.html" title=" " alt="" coords="209,5,343,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,41,202,81,199,76,249,37"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structArdourSurface_1_1LaunchControlXL_1_1Button.html" title=" " alt="" coords="5,88,220,128"/>
+<area shape="rect" id="Node000001" href="$structArdourSurface_1_1LaunchControlXL_1_1ControllerButton.html" title=" " alt="" coords="268,152,483,192"/>
+<area shape="poly" id="edge118_Node000000_Node000001" title=" " alt="" coords="209,129,293,149,292,154,208,134"/>
+<area shape="rect" id="Node000009" href="$structArdourSurface_1_1LaunchControlXL_1_1NoteButton.html" title=" " alt="" coords="268,24,483,64"/>
+<area shape="poly" id="edge120_Node000000_Node000009" title=" " alt="" coords="208,82,292,61,293,66,209,87"/>
+<area shape="rect" id="Node000002" href="$structArdourSurface_1_1LaunchControlXL_1_1SelectButton.html" title=" " alt="" coords="531,152,745,192"/>
+<area shape="poly" id="edge119_Node000001_Node000002" title=" " alt="" coords="496,169,530,169,530,174,496,174"/>
+<area shape="rect" id="Node000008" href="$structArdourSurface_1_1LaunchControlXL_1_1TrackButton.html" title=" " alt="" coords="793,12,1008,52"/>
+<area shape="poly" id="edge121_Node000009_Node000008" title=" " alt="" coords="471,18,530,9,638,3,746,9,793,13,793,19,745,14,638,8,531,14,471,24"/>
+<area shape="rect" id="Node000010" href="$structArdourSurface_1_1LaunchControlXL_1_1TrackStateButton.html" title=" " alt="" coords="531,24,745,64"/>
+<area shape="poly" id="edge122_Node000009_Node000010" title=" " alt="" coords="496,41,530,41,530,46,496,46"/>
+<area shape="rect" id="Node000006" href="$structArdourSurface_1_1LaunchControlXL_1_1Controller.html" title=" " alt="" coords="531,216,745,256"/>
+<area shape="rect" id="Node000007" href="$structArdourSurface_1_1LaunchControlXL_1_1Fader.html" title=" " alt="" coords="793,216,1008,256"/>
+<area shape="poly" id="edge123_Node000006_Node000007" title=" " alt="" coords="759,233,793,233,793,238,759,238"/>
+<area shape="rect" id="Node000005" href="$structArdourSurface_1_1LaunchControlXL_1_1Knob.html" title=" " alt="" coords="793,120,1008,160"/>
+<area shape="poly" id="edge124_Node000006_Node000005" title=" " alt="" coords="721,209,744,201,853,158,855,162,746,206,723,214"/>
+<area shape="rect" id="Node000003" href="$structArdourSurface_1_1LaunchControlXL_1_1LED.html" title=" " alt="" coords="268,88,483,128"/>
+<area shape="poly" id="edge128_Node000003_Node000002" title=" " alt="" coords="472,129,556,149,555,154,471,134"/>
+<area shape="poly" id="edge129_Node000003_Node000010" title=" " alt="" coords="471,82,555,61,556,66,472,87"/>
+<area shape="rect" id="Node000004" href="$structArdourSurface_1_1LaunchControlXL_1_1MultiColorLED.html" title=" " alt="" coords="531,88,745,128"/>
+<area shape="poly" id="edge125_Node000003_Node000004" title=" " alt="" coords="496,105,530,105,530,110,496,110"/>
+<area shape="poly" id="edge127_Node000004_Node000008" title=" " alt="" coords="720,81,830,49,831,54,722,86"/>
+<area shape="poly" id="edge126_Node000004_Node000005" title=" " alt="" coords="759,120,793,124,793,129,758,125"/>
+</map>

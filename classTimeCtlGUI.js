@@ -1,0 +1,28 @@
+var classTimeCtlGUI =
+[
+    [ "TimeCtlGUI", "classTimeCtlGUI.html#a4c77191bcdf581eaab452840d1cdc3a6", null ],
+    [ "TimeCtlGUI", "classTimeCtlGUI.html#aa1fdb86b2d6e90490f37d82dbfbfe4a3", null ],
+    [ "~TimeCtlGUI", "classTimeCtlGUI.html#ab75c5471d22a5f8e6e209795959f1d79", null ],
+    [ "change_from_button", "classTimeCtlGUI.html#adfcb3a56a5e4eee288d1396acaa3f670", null ],
+    [ "finish", "classTimeCtlGUI.html#a31d41c19443a6a1f591892c263f7ebf4", null ],
+    [ "init", "classTimeCtlGUI.html#af2550e95cd9fcbee6dacd1929f44b4fc", null ],
+    [ "refresh", "classTimeCtlGUI.html#ab1dc2c72311c3738e2cc2bb1c848aba7", null ],
+    [ "reset", "classTimeCtlGUI.html#aebb31251670f9b004218ec49164a966c", null ],
+    [ "TimeCtlBarController", "classTimeCtlGUI.html#a76016070323d913de7d98cf27574b8ca", null ],
+    [ "TimeCtlGUIControllable", "classTimeCtlGUI.html#a41aed8caa1c3aab232645eee95a209dc", null ],
+    [ "_ignore_change", "classTimeCtlGUI.html#abd60c1248b5e5afecd5ae71fab1a6afb", null ],
+    [ "_latent", "classTimeCtlGUI.html#aa12c36cb9a1dffa176938727c4f5d9cd", null ],
+    [ "_tailtime", "classTimeCtlGUI.html#a9baecb4b18ab72524b8bbff98fc00003", null ],
+    [ "adjustment", "classTimeCtlGUI.html#afd874e651e69263f4ca004cc8cf3b442", null ],
+    [ "bc", "classTimeCtlGUI.html#ac85fc984e3bbcdb0489538feac0ecd73", null ],
+    [ "hbbox", "classTimeCtlGUI.html#ace8f3f831dbc2fcd459311ae85e61d80", null ],
+    [ "hbox1", "classTimeCtlGUI.html#ad7736eeaf66bba9a3c1e7e0f8b942ac1", null ],
+    [ "hbox2", "classTimeCtlGUI.html#a8eeef9f47a9138a2b4dc23588c6c638f", null ],
+    [ "minus_button", "classTimeCtlGUI.html#adbefbb9ba17f55f3088c43eccf943a6b", null ],
+    [ "period_size", "classTimeCtlGUI.html#aefd47999baed0b1fd0b2621280d2b068", null ],
+    [ "plus_button", "classTimeCtlGUI.html#a1afe4669de1f9ec0a320fd0811117617", null ],
+    [ "reset_button", "classTimeCtlGUI.html#abc017779a96d71a104866c86258ef681", null ],
+    [ "sample_rate", "classTimeCtlGUI.html#a2c6bc9028999567c268787cc438bb58e", null ],
+    [ "unit_strings", "classTimeCtlGUI.html#acf7ac1a8b84c2155eadaa0d1090ed7f4", null ],
+    [ "units_combo", "classTimeCtlGUI.html#a36a60226bc9dca92669eac6555df1b67", null ]
+];

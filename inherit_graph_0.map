@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,5,165,31"/>
+<area shape="rect" id="Node000001" href="$interfaceGdkQuartzView.html" title=" " alt="" coords="213,31,336,56"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="180,28,214,33,213,38,179,33"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="49,55,121,80"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="134,59,213,48,213,54,135,64"/>
+</map>

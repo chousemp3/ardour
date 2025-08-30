@@ -1,0 +1,13 @@
+<map id="toolitem_p.h" name="toolitem_p.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="119,5,223,31"/>
+<area shape="rect" id="Node000002" href="$separatortoolitem__p_8h.html" title=" " alt="" coords="5,79,172,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,42,104,80,100,76,146,38"/>
+<area shape="rect" id="Node000003" href="$toolbutton__p_8h.html" title=" " alt="" coords="196,79,312,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,38,242,76,239,80,193,42"/>
+<area shape="rect" id="Node000004" href="$menutoolbutton__p_8h.html" title=" " alt="" coords="88,152,241,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="231,115,181,154,178,150,227,110"/>
+<area shape="rect" id="Node000005" href="$toggletoolbutton__p_8h.html" title=" " alt="" coords="266,152,423,177"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="281,110,331,150,328,154,278,115"/>
+<area shape="rect" id="Node000006" href="$radiotoolbutton__p_8h.html" title=" " alt="" coords="270,225,419,251"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="347,191,347,225,342,225,342,191"/>
+</map>

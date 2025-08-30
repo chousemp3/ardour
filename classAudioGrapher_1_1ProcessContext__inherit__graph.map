@@ -1,0 +1,9 @@
+<map id="AudioGrapher::ProcessContext&lt; T &gt;" name="AudioGrapher::ProcessContext&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="269,45,528,70"/>
+<area shape="rect" id="Node000003" href="$classAudioGrapher_1_1AllocatingProcessContext.html" title=" " alt="" coords="576,5,779,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="523,40,575,34,576,40,523,46"/>
+<area shape="rect" id="Node000004" href="$classAudioGrapher_1_1AllocatingProcessContext.html" title="A process context that allocates and owns it&#39;s data buffer." alt="" coords="585,69,769,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="523,69,586,76,585,81,523,74"/>
+<area shape="rect" id="Node000002" href="$classAudioGrapher_1_1Throwing.html" title=" " alt="" coords="5,45,221,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,55,269,55,269,60,235,60"/>
+</map>

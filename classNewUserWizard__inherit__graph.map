@@ -1,0 +1,17 @@
+<map id="NewUserWizard" name="NewUserWizard">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,519,132,544"/>
+<area shape="rect" id="Node000002" href="$classGtk_1_1Assistant.html" title=" " alt="" coords="12,445,125,471"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,484,71,519,66,519,66,484"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1Window.html" title=" " alt="" coords="16,372,121,397"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="71,411,71,445,66,445,66,411"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Bin.html" title=" " alt="" coords="31,299,106,324"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="71,338,71,372,66,372,66,338"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Container.html" title=" " alt="" coords="11,225,127,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="71,264,71,299,66,299,66,264"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1Widget.html" title=" " alt="" coords="19,152,118,177"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="71,191,71,225,66,225,66,191"/>
+<area shape="rect" id="Node000007" href="$classGtk_1_1Object.html" title=" " alt="" coords="21,79,116,104"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="71,118,71,152,66,152,66,118"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="19,5,118,31"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="71,44,71,79,66,79,66,44"/>
+</map>

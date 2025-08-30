@@ -1,0 +1,7 @@
+<map id="VelocityDisplay" name="VelocityDisplay">
+<area shape="rect" id="Node000001" title=" " alt="" coords="130,5,253,31"/>
+<area shape="rect" id="Node000002" href="$classPianorollVelocityDisplay.html" title=" " alt="" coords="5,79,185,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,41,113,81,109,76,163,37"/>
+<area shape="rect" id="Node000003" href="$classVelocityGhostRegion.html" title=" " alt="" coords="210,79,367,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,37,274,76,271,81,217,41"/>
+</map>

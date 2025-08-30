@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classARDOUR_1_1MidiOperator.html" title=" " alt="" coords="5,80,177,105"/>
+<area shape="rect" id="Node000001" href="$classARDOUR_1_1Legatize.html" title=" " alt="" coords="230,5,373,31"/>
+<area shape="poly" id="edge63_Node000000_Node000001" title=" " alt="" coords="136,72,224,39,258,28,260,33,226,45,138,77"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1Quantize.html" title=" " alt="" coords="229,55,374,80"/>
+<area shape="poly" id="edge64_Node000000_Node000002" title=" " alt="" coords="191,78,228,73,228,79,191,83"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1Transform.html" title=" " alt="" coords="225,104,377,129"/>
+<area shape="poly" id="edge65_Node000000_Node000003" title=" " alt="" coords="191,101,225,105,225,111,191,107"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1Transpose.html" title=" " alt="" coords="225,153,377,179"/>
+<area shape="poly" id="edge66_Node000000_Node000004" title=" " alt="" coords="141,108,226,138,263,151,261,156,224,143,139,113"/>
+</map>

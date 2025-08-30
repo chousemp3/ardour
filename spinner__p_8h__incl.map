@@ -1,0 +1,16 @@
+<map id="spinner_p.h" name="spinner_p.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="211,5,308,31"/>
+<area shape="rect" id="Node000002" href="$drawingarea__p_8h.html" title=" " alt="" coords="68,79,299,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,33,208,71,204,67,245,29"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="224,299,345,324"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="276,29,297,50,314,78,322,106,325,135,322,193,310,246,297,287,292,285,305,245,316,193,320,135,316,107,309,80,293,53,272,33"/>
+<area shape="rect" id="Node000003" href="$widget__p_8h.html" title=" " alt="" coords="54,152,249,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="180,105,164,141,160,139,176,103"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="208,102,237,122,263,151,278,185,286,221,289,285,284,285,281,222,273,187,258,153,234,126,205,106"/>
+<area shape="rect" id="Node000004" href="$object__p_8h.html" title=" " alt="" coords="7,225,197,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="145,179,120,216,116,213,141,176"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="165,176,211,224,267,286,264,290,207,227,161,180"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,299,199,324"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="105,251,105,285,99,285,99,251"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="132,248,243,291,241,296,130,253"/>
+</map>

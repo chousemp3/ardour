@@ -1,0 +1,26 @@
+var classVideoServerDialog =
+[
+    [ "VideoServerDialog", "classVideoServerDialog.html#a66fc77324a23d84113177bb077fd8460", null ],
+    [ "~VideoServerDialog", "classVideoServerDialog.html#a45b4e35cdf8c8313267e73898b9999a1", null ],
+    [ "get_cachesize", "classVideoServerDialog.html#add2fa765be592c8f32ba286dcc454cfd", null ],
+    [ "get_docroot", "classVideoServerDialog.html#acecbfe82975468dd8d21cb2db23c0e2a", null ],
+    [ "get_exec_path", "classVideoServerDialog.html#aac08dbe05db14e6770eff4db899c45d7", null ],
+    [ "get_listenaddr", "classVideoServerDialog.html#a80c7b45b022de0c0b7e0e8774e43beaa", null ],
+    [ "get_listenport", "classVideoServerDialog.html#a8f9213c8eb2a03bc6bf1bc80c8f4147a", null ],
+    [ "on_show", "classVideoServerDialog.html#a95321e8b62234e6c50ff1cd8668d0bc9", null ],
+    [ "open_docroot_dialog", "classVideoServerDialog.html#a54bc8350b298b50d85da50e23bbebbfa", null ],
+    [ "open_path_dialog", "classVideoServerDialog.html#a2e27260abfcf738c4fe2e035bada6bee", null ],
+    [ "show_again", "classVideoServerDialog.html#a249902f23c033236dedb38e3a33a914f", null ],
+    [ "cachesize_adjustment", "classVideoServerDialog.html#a94ad12755f91cacee9f4051559889672", null ],
+    [ "cachesize_spinner", "classVideoServerDialog.html#a48aefc430937663f96a65196bcf6bada", null ],
+    [ "docroot_browse_button", "classVideoServerDialog.html#a6d0ffec0f3913cb521da5b9b97715dd1", null ],
+    [ "docroot_entry", "classVideoServerDialog.html#a578a17cb4bd20a69003f33b1052d9912", null ],
+    [ "docroot_label", "classVideoServerDialog.html#ab0052e750b2e0dcec2a800d0f7e8efd3", null ],
+    [ "listenaddr_combo", "classVideoServerDialog.html#a9fb038f4b965abc6997aacda733b728b", null ],
+    [ "listenport_adjustment", "classVideoServerDialog.html#a0044890e95c5fa2ee9efaed56f37ba52", null ],
+    [ "listenport_spinner", "classVideoServerDialog.html#a524b3fa904e286ae118df9172d3d16fa", null ],
+    [ "path_browse_button", "classVideoServerDialog.html#add22ec0a3dc0223c915cd234ef10c9b7", null ],
+    [ "path_entry", "classVideoServerDialog.html#ab61a24ebded75a0ccced54a479808d6e", null ],
+    [ "path_label", "classVideoServerDialog.html#a0f4c016986c5811fd100b2a6bdd129d2", null ],
+    [ "showagain_checkbox", "classVideoServerDialog.html#a30dfb457df3f3751f28601eaeb73a6f5", null ]
+];

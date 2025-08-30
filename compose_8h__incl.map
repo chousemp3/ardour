@@ -1,0 +1,13 @@
+<map id="compose.h" name="compose.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="161,5,255,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,80,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,33,83,76,81,71,180,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="104,79,163,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,33,157,71,154,67,194,29"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="187,79,229,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="211,31,211,65,205,65,205,31"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="253,79,304,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="222,29,260,67,256,71,218,33"/>
+<area shape="rect" id="Node000006" href="$libpbd__visibility_8h.html" title=" " alt="" coords="328,79,491,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="241,28,365,71,363,77,239,33"/>
+</map>

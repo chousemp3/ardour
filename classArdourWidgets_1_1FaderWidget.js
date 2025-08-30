@@ -1,0 +1,45 @@
+var classArdourWidgets_1_1FaderWidget =
+[
+    [ "Orientation", "classArdourWidgets_1_1FaderWidget.html#a60e1c3f9fee4f98c617557e7101cb92a", [
+      [ "VERT", "classArdourWidgets_1_1FaderWidget.html#a60e1c3f9fee4f98c617557e7101cb92aa4d869216bbf19cb85be396fa9ee80434", null ],
+      [ "HORIZ", "classArdourWidgets_1_1FaderWidget.html#a60e1c3f9fee4f98c617557e7101cb92aa01e665cd91778430f93495f5a3d9617f", null ]
+    ] ],
+    [ "Tweaks", "classArdourWidgets_1_1FaderWidget.html#a91a452af16e6cc8a501ee17199b7dc21", [
+      [ "NoShowUnityLine", "classArdourWidgets_1_1FaderWidget.html#a91a452af16e6cc8a501ee17199b7dc21a444e06aadaf9c318138e5ee356a609f9", null ],
+      [ "NoButtonForward", "classArdourWidgets_1_1FaderWidget.html#a91a452af16e6cc8a501ee17199b7dc21a15c52d3c43d94212a8edd6b17bf1625b", null ],
+      [ "NoVerticalScroll", "classArdourWidgets_1_1FaderWidget.html#a91a452af16e6cc8a501ee17199b7dc21accbf6bf9dd7d4602f95f6cad22f05cb5", null ],
+      [ "DoubleClickReset", "classArdourWidgets_1_1FaderWidget.html#a91a452af16e6cc8a501ee17199b7dc21a898cba4d08d32f2e14ed10ebf1d903a2", null ]
+    ] ],
+    [ "FaderWidget", "classArdourWidgets_1_1FaderWidget.html#ae11b962709c1ffc1e1548c2f4fdd6788", null ],
+    [ "~FaderWidget", "classArdourWidgets_1_1FaderWidget.html#ad9249251d167a5650202f2a5388eb08e", null ],
+    [ "adjustment_changed", "classArdourWidgets_1_1FaderWidget.html#a8700c84e345f4834e9e080bf51a67782", null ],
+    [ "on_button_press_event", "classArdourWidgets_1_1FaderWidget.html#ad5fba03a9ef07b09859b6bdcc8a8444a", null ],
+    [ "on_button_release_event", "classArdourWidgets_1_1FaderWidget.html#aaef65d1489627d9378a1ddead19d64c0", null ],
+    [ "on_enter_notify_event", "classArdourWidgets_1_1FaderWidget.html#a83fe3f170a968d09e415520528a4a04d", null ],
+    [ "on_grab_broken_event", "classArdourWidgets_1_1FaderWidget.html#a3c930ac3d8eb461a5738a877dd2f466f", null ],
+    [ "on_leave_notify_event", "classArdourWidgets_1_1FaderWidget.html#a9ed9c6ba066ccb1776626d9297d357cc", null ],
+    [ "on_scroll_event", "classArdourWidgets_1_1FaderWidget.html#abcdfe5a27f8633a6c84900a36dcb7092", null ],
+    [ "on_touch_begin_event", "classArdourWidgets_1_1FaderWidget.html#a972f9b4d3f80bae86a90a1c1862bfbca", null ],
+    [ "on_touch_end_event", "classArdourWidgets_1_1FaderWidget.html#a63052826d76813fd93ef198a38316ab1", null ],
+    [ "orientation", "classArdourWidgets_1_1FaderWidget.html#adeb09feb60f00dad5321835a4cbb9d5e", null ],
+    [ "set_adjustment_from_event", "classArdourWidgets_1_1FaderWidget.html#a08acde65614f7a367f8a69683689c5b0", null ],
+    [ "set_bg", "classArdourWidgets_1_1FaderWidget.html#a4520cea7032e3165df7efcdc3c8a28a2", null ],
+    [ "set_default_value", "classArdourWidgets_1_1FaderWidget.html#a571f417d4b6492b159a7c26d2f07bb1e", null ],
+    [ "set_fg", "classArdourWidgets_1_1FaderWidget.html#a5ef62bff05df8c84dfe957f543c7b6a2", null ],
+    [ "set_tweaks", "classArdourWidgets_1_1FaderWidget.html#aacdcee8adb2725d008e6000049bd4010", null ],
+    [ "tweaks", "classArdourWidgets_1_1FaderWidget.html#a187532b5f485622f9195729eede79586", null ],
+    [ "unset_bg", "classArdourWidgets_1_1FaderWidget.html#ad095a30e65178b8ddf701308629732e7", null ],
+    [ "unset_fg", "classArdourWidgets_1_1FaderWidget.html#a002356ab0db4f2d4431310ed8fea3ce4", null ],
+    [ "_adjustment", "classArdourWidgets_1_1FaderWidget.html#ab0f8878e0ba90edcf628435031b53312", null ],
+    [ "_default_value", "classArdourWidgets_1_1FaderWidget.html#a63150bda48dd49328fb36d14a27e0c03", null ],
+    [ "_dragging", "classArdourWidgets_1_1FaderWidget.html#a8176f67b68daf57ee71edbf3888c648b", null ],
+    [ "_grab_loc", "classArdourWidgets_1_1FaderWidget.html#a562a1ccb6b8fb910cc31313cfdb5be7f", null ],
+    [ "_grab_start", "classArdourWidgets_1_1FaderWidget.html#a3be91446ff2f38e2b2d6402f1cfb3ad8", null ],
+    [ "_grab_window", "classArdourWidgets_1_1FaderWidget.html#a56c694154e8a62097dc5317049e340d1", null ],
+    [ "_hovering", "classArdourWidgets_1_1FaderWidget.html#a4d308941c1a10351cbcd79cf30979bd0", null ],
+    [ "_orien", "classArdourWidgets_1_1FaderWidget.html#a78d20f52b40d384d26a6154833cd14ce", null ],
+    [ "_tweaks", "classArdourWidgets_1_1FaderWidget.html#a827447ee61b8fe35c0f23ce9ba11eeba", null ],
+    [ "OnExpose", "classArdourWidgets_1_1FaderWidget.html#a158682cd19fe39197369f0cc89a709ec", null ],
+    [ "StartGesture", "classArdourWidgets_1_1FaderWidget.html#a5238c57315c9265f91997375af4dbe61", null ],
+    [ "StopGesture", "classArdourWidgets_1_1FaderWidget.html#aa70d8bbe24bf6ef1fb53fb2eacbda930", null ]
+];

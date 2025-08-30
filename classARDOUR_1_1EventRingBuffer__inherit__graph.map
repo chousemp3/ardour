@@ -1,0 +1,9 @@
+<map id="ARDOUR::EventRingBuffer&lt; Time &gt;" name="ARDOUR::EventRingBuffer&lt; Time &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="71,93,263,133"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1MidiRingBuffer.html" title=" " alt="" coords="76,181,259,221"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="170,147,170,181,165,181,165,147"/>
+<area shape="rect" id="Node000002" href="$classPBD_1_1RingBufferNPT.html" title=" " alt="" coords="5,5,156,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,53,150,91,146,95,108,57"/>
+<area shape="rect" id="Node000003" href="$classEvoral_1_1EventSink.html" title=" " alt="" coords="181,5,327,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,57,188,95,185,91,223,53"/>
+</map>

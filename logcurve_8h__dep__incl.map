@@ -1,0 +1,29 @@
+<map id="logcurve.h" name="logcurve.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="194,5,285,31"/>
+<area shape="rect" id="Node000002" href="$audioregion_8h.html" title=" " alt="" coords="184,79,295,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,44,242,79,237,79,237,44"/>
+<area shape="rect" id="Node000003" href="$analysis__graph_8h.html" title=" " alt="" coords="5,152,137,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="201,112,100,154,98,149,199,107"/>
+<area shape="rect" id="Node000004" href="$audio__region__view_8h.html" title=" " alt="" coords="162,152,317,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="242,118,242,152,237,152,237,118"/>
+<area shape="rect" id="Node000005" href="$lua__api_8h.html" title=" " alt="" coords="341,152,423,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="276,108,360,149,357,154,273,112"/>
+<area shape="rect" id="Node000006" href="$luaproc_8h.html" title=" " alt="" coords="341,225,423,251"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="385,191,385,225,379,225,379,191"/>
+<area shape="rect" id="Node000007" href="$processor__box_8h.html" title=" " alt="" coords="318,299,446,324"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="385,264,385,299,379,299,379,264"/>
+<area shape="rect" id="Node000008" href="$foldback__strip_8h.html" title=" " alt="" coords="31,372,157,397"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="323,330,141,374,140,369,322,325"/>
+<area shape="rect" id="Node000009" href="$mixer__strip_8h.html" title=" " alt="" coords="182,372,289,397"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="348,332,260,374,258,369,345,327"/>
+<area shape="rect" id="Node000011" href="$monitor__section_8h.html" title=" " alt="" coords="313,372,451,397"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="385,338,385,372,379,372,379,338"/>
+<area shape="rect" id="Node000013" href="$route__params__ui_8h.html" title=" " alt="" coords="476,372,619,397"/>
+<area shape="poly" id="edge12_Node000007_Node000013" title=" " alt="" coords="422,327,521,369,519,374,420,332"/>
+<area shape="rect" id="Node000014" href="$trigger__strip_8h.html" title=" " alt="" coords="643,372,756,397"/>
+<area shape="poly" id="edge13_Node000007_Node000014" title=" " alt="" coords="447,324,649,369,647,374,446,330"/>
+<area shape="rect" id="Node000010" href="$strip__selection_8h.html" title=" " alt="" coords="171,445,300,471"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="238,411,238,445,233,445,233,411"/>
+<area shape="rect" id="Node000012" href="$mixer__ui_8h.html" title=" " alt="" coords="337,445,427,471"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="385,411,385,445,379,445,379,411"/>
+</map>

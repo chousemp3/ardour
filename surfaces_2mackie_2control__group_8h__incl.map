@@ -1,0 +1,11 @@
+<map id="control_group.h" name="control_group.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="59,5,181,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,64,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,33,61,72,57,68,105,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="89,79,151,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="123,31,123,65,117,65,117,31"/>
+<area shape="rect" id="Node000004" href="$surfaces_2mackie_2types_8h.html" title=" " alt="" coords="175,79,246,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="136,29,187,68,183,72,133,33"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="171,152,251,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="213,104,213,138,208,138,208,104"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="Gtk::VButtonBox" name="Gtk::VButtonBox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,445,136,471"/>
+<area shape="rect" id="Node000002" href="$classGtk_1_1ButtonBox.html" title=" " alt="" coords="10,372,131,397"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,411,73,445,68,445,68,411"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1Box.html" title=" " alt="" coords="31,299,110,324"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="73,338,73,372,68,372,68,338"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Container.html" title=" " alt="" coords="13,225,129,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="73,264,73,299,68,299,68,264"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Widget.html" title=" " alt="" coords="21,152,120,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="73,191,73,225,68,225,68,191"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1Object.html" title=" " alt="" coords="23,79,118,104"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="73,118,73,152,68,152,68,118"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="21,5,120,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="73,44,73,79,68,79,68,44"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="ArdourWidgets::PathsDialog" name="ArdourWidgets::PathsDialog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,519,208,544"/>
+<area shape="rect" id="Node000002" href="$classGtk_1_1Dialog.html" title=" " alt="" coords="59,445,154,471"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,484,109,519,104,519,104,484"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1Window.html" title=" " alt="" coords="54,372,159,397"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,411,109,445,104,445,104,411"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Bin.html" title=" " alt="" coords="69,299,144,324"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="109,338,109,372,104,372,104,338"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Container.html" title=" " alt="" coords="49,225,165,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="109,264,109,299,104,299,104,264"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1Widget.html" title=" " alt="" coords="57,152,156,177"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="109,191,109,225,104,225,104,191"/>
+<area shape="rect" id="Node000007" href="$classGtk_1_1Object.html" title=" " alt="" coords="59,79,154,104"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="109,118,109,152,104,152,104,118"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="57,5,156,31"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="109,44,109,79,104,79,104,44"/>
+</map>

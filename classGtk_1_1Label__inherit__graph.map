@@ -1,0 +1,13 @@
+<map id="Gtk::Label" name="Gtk::Label">
+<area shape="rect" id="Node000001" title=" " alt="" coords="23,299,111,324"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1AccelLabel.html" title=" " alt="" coords="5,372,128,397"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="69,338,69,372,64,372,64,338"/>
+<area shape="rect" id="Node000002" href="$classGtk_1_1Misc.html" title=" " alt="" coords="25,225,108,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,264,69,299,64,299,64,264"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1Widget.html" title=" " alt="" coords="17,152,116,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="69,191,69,225,64,225,64,191"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Object.html" title=" " alt="" coords="19,79,114,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="69,118,69,152,64,152,64,118"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="17,5,116,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="69,44,69,79,64,79,64,44"/>
+</map>

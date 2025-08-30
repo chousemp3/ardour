@@ -1,0 +1,37 @@
+<map id="Gtk::DrawingArea" name="Gtk::DrawingArea">
+<area shape="rect" id="Node000001" title=" " alt="" coords="441,228,579,253"/>
+<area shape="rect" id="Node000005" href="$classAPianoKeyboard.html" title=" " alt="" coords="664,5,792,31"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="516,214,531,175,553,128,585,80,625,40,643,29,663,23,664,28,645,34,628,44,589,83,558,130,536,177,521,216"/>
+<area shape="rect" id="Node000006" href="$classArdourWidgets_1_1Scroomer.html" title=" " alt="" coords="634,55,822,80"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="521,215,561,151,591,118,625,89,648,78,651,82,628,94,594,121,566,155,526,217"/>
+<area shape="rect" id="Node000007" href="$classFFTGraph.html" title=" " alt="" coords="686,104,770,129"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="530,216,571,176,597,155,625,138,655,127,685,119,686,125,657,132,628,143,600,160,575,180,533,219"/>
+<area shape="rect" id="Node000008" href="$classGtk_1_1Spinner.html" title=" " alt="" coords="677,153,779,179"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="549,220,626,189,676,175,677,180,628,194,551,225"/>
+<area shape="rect" id="Node000009" href="$classPanner2d.html" title=" " alt="" coords="687,203,769,228"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="592,228,686,217,687,223,593,234"/>
+<area shape="rect" id="Node000010" href="$classPannerInterface.html" title=" " alt="" coords="666,252,790,277"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="593,247,666,255,666,261,592,252"/>
+<area shape="rect" id="Node000013" href="$classPianoRollHeader.html" title=" " alt="" coords="663,301,793,327"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="551,257,628,287,667,299,666,304,626,293,549,262"/>
+<area shape="rect" id="Node000014" href="$classPluginDisplay.html" title=" " alt="" coords="673,351,783,376"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="534,262,575,301,600,320,628,337,673,353,672,358,626,342,597,325,571,305,530,265"/>
+<area shape="rect" id="Node000017" href="$classProcessorEntry_1_1PortIcon.html" title=" " alt="" coords="639,400,817,425"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="526,264,566,326,595,359,628,386,651,397,648,402,625,391,591,363,562,330,522,267"/>
+<area shape="rect" id="Node000018" href="$classProcessorEntry_1_1RoutingIcon.html" title=" " alt="" coords="627,449,829,475"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="522,266,536,304,558,351,589,397,628,436,648,447,646,452,625,440,585,400,554,353,531,307,517,268"/>
+<area shape="rect" id="Node000002" href="$classGtk_1_1Widget.html" title=" " alt="" coords="295,228,393,253"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="407,238,441,238,441,243,407,243"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1Object.html" title=" " alt="" coords="152,228,247,253"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="260,238,294,238,294,243,260,243"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,228,104,253"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="117,238,152,238,152,243,117,243"/>
+<area shape="rect" id="Node000011" href="$classMonoPanner.html" title=" " alt="" coords="927,224,1030,249"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="803,254,927,240,928,245,804,259"/>
+<area shape="rect" id="Node000012" href="$classStereoPanner.html" title=" " alt="" coords="925,273,1033,299"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="804,268,925,279,924,284,803,274"/>
+<area shape="rect" id="Node000015" href="$classProcessorEntry_1_1PluginInlineDisplay.html" title=" " alt="" coords="877,343,1080,383"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="797,361,877,361,877,366,797,366"/>
+<area shape="rect" id="Node000016" href="$classProcessorEntry_1_1LuaPluginDisplay.html" title=" " alt="" coords="1128,343,1317,383"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="1094,361,1128,361,1128,366,1094,366"/>
+</map>

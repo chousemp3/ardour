@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,129,92,155"/>
+<area shape="rect" id="Node000001" href="$classGdk_1_1PixbufError.html" title=" " alt="" coords="169,5,297,31"/>
+<area shape="poly" id="edge618_Node000000_Node000001" title=" " alt="" coords="64,116,95,77,116,57,139,40,168,27,170,32,141,44,119,61,99,80,68,119"/>
+<area shape="rect" id="Node000002" href="$classGtk_1_1BuilderError.html" title=" " alt="" coords="168,55,299,80"/>
+<area shape="poly" id="edge619_Node000000_Node000002" title=" " alt="" coords="79,120,139,89,173,78,175,83,141,94,82,124"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1FileChooserError.html" title=" " alt="" coords="153,104,313,129"/>
+<area shape="poly" id="edge620_Node000000_Node000003" title=" " alt="" coords="105,132,153,125,154,130,106,137"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1IconThemeError.html" title=" " alt="" coords="155,153,311,179"/>
+<area shape="poly" id="edge621_Node000000_Node000004" title=" " alt="" coords="106,147,155,153,155,158,105,152"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1RecentChooserError.html" title=" " alt="" coords="142,203,325,228"/>
+<area shape="poly" id="edge622_Node000000_Node000005" title=" " alt="" coords="84,159,141,188,179,200,177,205,139,192,82,164"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1RecentManagerError.html" title=" " alt="" coords="140,252,327,277"/>
+<area shape="poly" id="edge623_Node000000_Node000006" title=" " alt="" coords="68,164,99,202,141,237,169,250,167,254,139,242,96,206,64,168"/>
+</map>

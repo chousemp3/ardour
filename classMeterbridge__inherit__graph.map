@@ -1,0 +1,23 @@
+<map id="Meterbridge" name="Meterbridge">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1028,80,1129,105"/>
+<area shape="rect" id="Node000002" href="$classGtk_1_1Window.html" title=" " alt="" coords="822,5,927,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="941,28,981,39,1022,58,1058,77,1055,82,1020,63,979,45,940,33"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1Bin.html" title=" " alt="" coords="626,5,701,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="715,15,822,15,822,21,715,21"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Container.html" title=" " alt="" coords="441,5,557,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="571,15,626,15,626,21,571,21"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Widget.html" title=" " alt="" coords="295,5,393,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="407,15,441,15,441,21,407,21"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1Object.html" title=" " alt="" coords="152,5,247,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="260,15,294,15,294,21,260,21"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="5,5,104,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="117,15,152,15,152,21,117,21"/>
+<area shape="rect" id="Node000008" href="$classPBD_1_1ScopedConnectionList.html" title=" " alt="" coords="775,55,975,80"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="989,79,1028,84,1027,89,988,84"/>
+<area shape="rect" id="Node000009" href="$classARDOUR_1_1SessionHandlePtr.html" title=" " alt="" coords="774,104,975,129"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="989,101,1028,96,1028,101,989,106"/>
+<area shape="rect" id="Node000010" href="$classGtkmm2ext_1_1VisibilityTracker.html" title=" " alt="" coords="769,153,980,179"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="955,147,979,140,1020,122,1055,103,1057,108,1022,127,981,144,956,152"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="605,153,721,179"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="735,163,769,163,769,169,735,169"/>
+</map>

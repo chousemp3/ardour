@@ -1,0 +1,15 @@
+<map id="ArdourSurface::NS_MCU::Control" name="ArdourSurface::NS_MCU::Control">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,127,184,167"/>
+<area shape="rect" id="Node000002" href="$classArdourSurface_1_1NS__MCU_1_1Button.html" title=" " alt="" coords="247,5,426,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,116,178,85,231,55,261,43,263,48,233,60,180,89,134,121"/>
+<area shape="rect" id="Node000003" href="$classArdourSurface_1_1NS__MCU_1_1Fader.html" title=" " alt="" coords="247,69,426,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,121,251,107,252,112,194,126"/>
+<area shape="rect" id="Node000004" href="$classArdourSurface_1_1NS__MCU_1_1Led.html" title=" " alt="" coords="232,134,441,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="198,144,232,144,232,149,198,149"/>
+<area shape="rect" id="Node000005" href="$classArdourSurface_1_1NS__MCU_1_1Meter.html" title=" " alt="" coords="247,184,426,224"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="194,167,252,181,251,187,192,172"/>
+<area shape="rect" id="Node000006" href="$classArdourSurface_1_1NS__MCU_1_1Pot.html" title=" " alt="" coords="233,249,440,274"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="134,173,180,205,233,234,269,246,268,251,231,238,177,209,130,177"/>
+<area shape="rect" id="Node000007" href="$classArdourSurface_1_1NS__MCU_1_1Jog.html" title=" " alt="" coords="489,249,696,274"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="454,259,489,259,489,264,454,264"/>
+</map>

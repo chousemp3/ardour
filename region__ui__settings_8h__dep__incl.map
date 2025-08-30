@@ -1,0 +1,13 @@
+<map id="region_ui_settings.h" name="region_ui_settings.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="37,5,191,31"/>
+<area shape="rect" id="Node000002" href="$ardour__ui_8h.html" title=" " alt="" coords="5,79,100,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,43,65,80,61,77,93,40"/>
+<area shape="rect" id="Node000003" href="$cue__editor_8h.html" title=" " alt="" coords="125,79,226,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,40,167,77,163,80,131,43"/>
+<area shape="rect" id="Node000004" href="$audio__clip__editor_8h.html" title=" " alt="" coords="33,152,177,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="156,116,118,154,114,150,152,112"/>
+<area shape="rect" id="Node000006" href="$pianoroll_8h.html" title=" " alt="" coords="201,152,291,177"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="199,112,236,150,233,154,195,116"/>
+<area shape="rect" id="Node000005" href="$trigger__page_8h.html" title=" " alt="" coords="47,225,163,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="107,191,107,225,102,225,102,191"/>
+</map>

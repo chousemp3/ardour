@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classArdourSurface_1_1MACKIE__NAMESPACE_1_1Subview.html" title=" " alt="" coords="5,165,179,205"/>
+<area shape="rect" id="Node000001" href="$classArdourSurface_1_1MACKIE__NAMESPACE_1_1DynamicsSubview.html" title=" " alt="" coords="227,5,465,45"/>
+<area shape="poly" id="edge142_Node000000_Node000001" title=" " alt="" coords="115,153,163,103,193,77,225,55,252,43,254,48,228,60,196,81,166,106,119,157"/>
+<area shape="rect" id="Node000002" href="$classArdourSurface_1_1MACKIE__NAMESPACE_1_1EQSubview.html" title=" " alt="" coords="251,69,441,109"/>
+<area shape="poly" id="edge143_Node000000_Node000002" title=" " alt="" coords="141,157,226,119,262,107,264,112,228,124,144,162"/>
+<area shape="rect" id="Node000003" href="$classArdourSurface_1_1MACKIE__NAMESPACE_1_1NoneSubview.html" title=" " alt="" coords="243,133,449,173"/>
+<area shape="poly" id="edge144_Node000000_Node000003" title=" " alt="" coords="192,170,242,164,243,169,193,175"/>
+<area shape="rect" id="Node000004" href="$classArdourSurface_1_1MACKIE__NAMESPACE_1_1PluginSubview.html" title=" " alt="" coords="240,197,452,237"/>
+<area shape="poly" id="edge145_Node000000_Node000004" title=" " alt="" coords="193,195,240,201,240,207,192,201"/>
+<area shape="rect" id="Node000005" href="$classArdourSurface_1_1MACKIE__NAMESPACE_1_1SendsSubview.html" title=" " alt="" coords="241,261,451,301"/>
+<area shape="poly" id="edge146_Node000000_Node000005" title=" " alt="" coords="144,209,228,247,264,259,262,264,226,252,141,214"/>
+<area shape="rect" id="Node000006" href="$classArdourSurface_1_1MACKIE__NAMESPACE_1_1TrackViewSubview.html" title=" " alt="" coords="227,325,465,365"/>
+<area shape="poly" id="edge147_Node000000_Node000006" title=" " alt="" coords="119,214,166,264,196,290,228,311,254,323,252,328,225,316,193,294,163,268,115,218"/>
+</map>

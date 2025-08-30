@@ -1,0 +1,20 @@
+<map id="lobject.h" name="lobject.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="98,5,177,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,225,80,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,32,56,213,51,211,130,30"/>
+<area shape="rect" id="Node000003" href="$llimits_8h.html" title=" " alt="" coords="216,79,291,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,28,224,69,221,74,155,33"/>
+<area shape="rect" id="Node000006" href="$lua-5_83_85_2lua_8h.html" title=" " alt="" coords="110,152,165,177"/>
+<area shape="poly" id="edge11_Node000001_Node000006" title=" " alt="" coords="140,31,140,138,135,138,135,31"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="274,299,345,324"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="266,103,282,124,296,151,306,187,311,223,313,285,308,285,306,224,300,188,291,153,277,127,262,106"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="159,299,233,324"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="258,104,265,168,262,210,252,252,239,273,224,291,220,287,235,270,247,250,257,210,259,168,253,105"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="236,106,169,147,167,142,233,102"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="124,179,71,219,68,215,121,175"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="139,178,138,211,146,250,158,270,174,287,170,291,154,273,142,252,133,211,133,177"/>
+<area shape="rect" id="Node000007" href="$luaconf_8h.html" title=" " alt="" coords="155,225,237,251"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="149,176,180,213,176,217,145,179"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="216,248,281,289,278,294,213,253"/>
+<area shape="poly" id="edge10_Node000007_Node000005" title=" " alt="" coords="199,251,199,285,193,285,193,251"/>
+</map>

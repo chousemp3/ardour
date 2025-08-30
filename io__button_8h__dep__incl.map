@@ -1,0 +1,21 @@
+<map id="io_button.h" name="io_button.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="483,5,577,31"/>
+<area shape="rect" id="Node000002" href="$foldback__strip_8h.html" title=" " alt="" coords="5,79,132,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="469,31,133,83,132,78,469,26"/>
+<area shape="rect" id="Node000003" href="$io__plugin__window_8h.html" title=" " alt="" coords="157,79,306,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="469,36,280,81,279,76,468,31"/>
+<area shape="rect" id="Node000004" href="$mixer__strip_8h.html" title=" " alt="" coords="330,79,437,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="496,39,408,81,406,76,493,34"/>
+<area shape="rect" id="Node000006" href="$monitor__section_8h.html" title=" " alt="" coords="461,79,599,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="533,44,533,79,527,79,527,44"/>
+<area shape="rect" id="Node000008" href="$surround__strip_8h.html" title=" " alt="" coords="624,79,751,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="569,34,663,76,661,81,567,39"/>
+<area shape="rect" id="Node000009" href="$track__record__axis_8h.html" title=" " alt="" coords="775,79,925,104"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="591,30,799,76,798,81,590,35"/>
+<area shape="rect" id="Node000010" href="$trigger__strip_8h.html" title=" " alt="" coords="949,79,1063,104"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="592,25,937,76,950,78,949,83,936,81,591,31"/>
+<area shape="rect" id="Node000005" href="$strip__selection_8h.html" title=" " alt="" coords="319,152,448,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="386,118,386,152,381,152,381,118"/>
+<area shape="rect" id="Node000007" href="$mixer__ui_8h.html" title=" " alt="" coords="485,152,575,177"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="533,118,533,152,527,152,527,118"/>
+</map>

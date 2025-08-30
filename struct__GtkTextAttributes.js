@@ -1,0 +1,27 @@
+var struct__GtkTextAttributes =
+[
+    [ "appearance", "struct__GtkTextAttributes.html#aec41ff447d882437a990e434394283c7", null ],
+    [ "bg_full_height", "struct__GtkTextAttributes.html#ac638b8ffde9ae2a1a0aca662adf0637d", null ],
+    [ "direction", "struct__GtkTextAttributes.html#a5ae11e0e737993e2d0454ce4e81fca59", null ],
+    [ "editable", "struct__GtkTextAttributes.html#a1b82441f409c5b9362649c43cdfdfada", null ],
+    [ "font", "struct__GtkTextAttributes.html#a8e53082d4de232b90da6182079a46e2a", null ],
+    [ "font_scale", "struct__GtkTextAttributes.html#a0b2ac937ad42e120b283c47ffdf7db01", null ],
+    [ "indent", "struct__GtkTextAttributes.html#af803d242ae932544047101f16bf6e9a0", null ],
+    [ "invisible", "struct__GtkTextAttributes.html#a9ca025e9e4d7ddd1c469321b5d14a7a8", null ],
+    [ "justification", "struct__GtkTextAttributes.html#a08a253ae2e4ea0bed6518714b9ea46f7", null ],
+    [ "language", "struct__GtkTextAttributes.html#a219e0cd715940cad987244e07c29eb23", null ],
+    [ "left_margin", "struct__GtkTextAttributes.html#aaccf60255eae7b0f2b0dcbd8c84310b4", null ],
+    [ "pad1", "struct__GtkTextAttributes.html#a2c6f574a2e6b64bcdd82b7b0fbb21893", null ],
+    [ "pad2", "struct__GtkTextAttributes.html#a0620ad97f23357960ca4fb0b9aaacad5", null ],
+    [ "pad3", "struct__GtkTextAttributes.html#aef11cefd286ca6c9d746be363f7fc8cd", null ],
+    [ "pad4", "struct__GtkTextAttributes.html#a7946f6d2c99b2ab39703aa801235acf5", null ],
+    [ "pg_bg_color", "struct__GtkTextAttributes.html#a91e9dcd5560c6462f46c1b0477757dfe", null ],
+    [ "pixels_above_lines", "struct__GtkTextAttributes.html#a076fc0ca369e2041931c82323e04dc35", null ],
+    [ "pixels_below_lines", "struct__GtkTextAttributes.html#a154af85f88fcfe87d980418707c9192d", null ],
+    [ "pixels_inside_wrap", "struct__GtkTextAttributes.html#ad9cd5ba032445214b0380de1147b6a84", null ],
+    [ "realized", "struct__GtkTextAttributes.html#a5b1039da670486b78219e017bc302ebb", null ],
+    [ "refcount", "struct__GtkTextAttributes.html#ad3858c87c54f241180a5ba22945b7b14", null ],
+    [ "right_margin", "struct__GtkTextAttributes.html#aef7cf2954c56e0e408dbee1103165275", null ],
+    [ "tabs", "struct__GtkTextAttributes.html#aa0454ba117766312c0597ede6436ca36", null ],
+    [ "wrap_mode", "struct__GtkTextAttributes.html#a3c1afea6e3b3e90978206280458f77d5", null ]
+];

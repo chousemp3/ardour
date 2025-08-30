@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structArdourSurface_1_1Push2_1_1LED.html" title=" " alt="" coords="5,74,200,99"/>
+<area shape="rect" id="Node000001" href="$structArdourSurface_1_1Push2_1_1Button.html" title=" " alt="" coords="263,37,425,77"/>
+<area shape="poly" id="edge155_Node000000_Node000001" title=" " alt="" coords="213,71,263,64,264,70,214,76"/>
+<area shape="rect" id="Node000004" href="$structArdourSurface_1_1Push2_1_1Pad.html" title=" " alt="" coords="248,102,440,127"/>
+<area shape="poly" id="edge158_Node000000_Node000004" title=" " alt="" coords="214,97,248,101,248,106,213,102"/>
+<area shape="rect" id="Node000002" href="$structArdourSurface_1_1Push2_1_1ColorButton.html" title=" " alt="" coords="488,5,649,45"/>
+<area shape="poly" id="edge156_Node000001_Node000002" title=" " alt="" coords="438,41,488,34,488,39,439,47"/>
+<area shape="rect" id="Node000003" href="$structArdourSurface_1_1Push2_1_1WhiteButton.html" title=" " alt="" coords="488,69,649,109"/>
+<area shape="poly" id="edge157_Node000001_Node000003" title=" " alt="" coords="439,68,488,75,488,81,438,73"/>
+</map>

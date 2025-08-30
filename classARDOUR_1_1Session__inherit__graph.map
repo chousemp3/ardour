@@ -1,0 +1,19 @@
+<map id="ARDOUR::Session" name="ARDOUR::Session">
+<area shape="rect" id="Node000001" title=" " alt="" coords="468,129,605,155"/>
+<area shape="rect" id="Node000002" href="$classPBD_1_1HistoryOwner.html" title=" " alt="" coords="231,5,378,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="392,28,421,40,454,60,484,84,527,127,523,131,480,88,451,64,419,44,390,33"/>
+<area shape="rect" id="Node000003" href="$classPBD_1_1StatefulDestructible.html" title=" " alt="" coords="211,55,398,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="391,81,421,89,470,107,511,127,509,132,468,112,419,94,390,86"/>
+<area shape="rect" id="Node000004" href="$classPBD_1_1Stateful.html" title=" " alt="" coords="19,31,127,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="142,48,211,55,211,60,141,53"/>
+<area shape="rect" id="Node000005" href="$classPBD_1_1Destructible.html" title=" " alt="" coords="5,80,141,105"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="155,81,211,75,211,80,155,86"/>
+<area shape="rect" id="Node000006" href="$classPBD_1_1ScopedConnectionList.html" title=" " alt="" coords="205,104,405,129"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="419,126,468,132,467,137,418,132"/>
+<area shape="rect" id="Node000007" href="$classARDOUR_1_1SessionEventManager.html" title=" " alt="" coords="189,153,420,179"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="434,150,467,146,468,152,434,155"/>
+<area shape="rect" id="Node000008" href="$classARDOUR_1_1TransportAPI.html" title=" " alt="" coords="221,203,389,228"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="390,197,419,189,467,171,508,152,510,157,469,176,421,194,391,202"/>
+<area shape="rect" id="Node000009" href="$classTemporal_1_1TimeDomainProvider.html" title=" " alt="" coords="191,252,419,277"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="402,245,419,238,451,219,480,196,522,153,526,157,483,200,454,223,421,243,404,250"/>
+</map>

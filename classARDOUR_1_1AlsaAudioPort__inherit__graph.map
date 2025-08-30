@@ -1,0 +1,7 @@
+<map id="ARDOUR::AlsaAudioPort" name="ARDOUR::AlsaAudioPort">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,152,184,177"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1BackendPort.html" title=" " alt="" coords="11,79,179,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,118,97,152,92,152,92,118"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1ProtoPort.html" title=" " alt="" coords="21,5,168,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,44,97,79,92,79,92,44"/>
+</map>

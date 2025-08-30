@@ -1,0 +1,9 @@
+<map id="ARDOUR::SceneChanger" name="ARDOUR::SceneChanger">
+<area shape="rect" id="Node000001" title=" " alt="" coords="21,152,201,177"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1MIDISceneChanger.html" title=" " alt="" coords="5,225,216,251"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="113,191,113,225,108,225,108,191"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1SessionHandleRef.html" title=" " alt="" coords="8,79,213,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,118,113,152,108,152,108,118"/>
+<area shape="rect" id="Node000003" href="$classPBD_1_1ScopedConnectionList.html" title=" " alt="" coords="11,5,211,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,44,113,79,108,79,108,44"/>
+</map>

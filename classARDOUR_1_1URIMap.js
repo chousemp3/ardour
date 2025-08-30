@@ -1,0 +1,25 @@
+var classARDOUR_1_1URIMap =
+[
+    [ "URIDs", "structARDOUR_1_1URIMap_1_1URIDs.html", "structARDOUR_1_1URIMap_1_1URIDs" ],
+    [ "Map", "classARDOUR_1_1URIMap.html#a9fa2b2fc54902816ca9f25a13b5e106c", null ],
+    [ "Unmap", "classARDOUR_1_1URIMap.html#ac3456375f920f2dc10a4bb7f6e480028", null ],
+    [ "URIMap", "classARDOUR_1_1URIMap.html#a2a348afeddfbab98f16fe6d79bfecb48", null ],
+    [ "URIMap", "classARDOUR_1_1URIMap.html#a4b246dc3a39c44214a0e4487a7a08da4", null ],
+    [ "id_to_uri", "classARDOUR_1_1URIMap.html#a886f10aa08a5a13e5b5f9ce631ba0473", null ],
+    [ "instance", "classARDOUR_1_1URIMap.html#ab70471bfcb81ce63e7daaee3ee5faf72", null ],
+    [ "operator=", "classARDOUR_1_1URIMap.html#aea265a1423cdcef4bdaca379b87a6018", null ],
+    [ "uri_to_id", "classARDOUR_1_1URIMap.html#a3f9ee0875364e17202c3b279054fc476", null ],
+    [ "urid_map", "classARDOUR_1_1URIMap.html#ac93bd5586a5495aa91a0f06c9b0dd1aa", null ],
+    [ "urid_map_feature", "classARDOUR_1_1URIMap.html#a1363ef28087017c16ae8f360c9c2a214", null ],
+    [ "urid_unmap", "classARDOUR_1_1URIMap.html#acac3aad60da3e16a0866df832dc85b2b", null ],
+    [ "urid_unmap_feature", "classARDOUR_1_1URIMap.html#ae159916b5786e30457e99ddb857844b6", null ],
+    [ "_lock", "classARDOUR_1_1URIMap.html#a87cba1b0dfb90e9a75780ef4502c6059", null ],
+    [ "_map", "classARDOUR_1_1URIMap.html#acadc7a45f3811340b2fc1d0a51a46d7e", null ],
+    [ "_unmap", "classARDOUR_1_1URIMap.html#ad574f2387d62ab228cbbf6d9fe58b34a", null ],
+    [ "_urid_map_feature", "classARDOUR_1_1URIMap.html#a1609133b8aeac4f68a350575d54118f3", null ],
+    [ "_urid_map_feature_data", "classARDOUR_1_1URIMap.html#ab188fa32fe2359881a4c94efd90177e2", null ],
+    [ "_urid_unmap_feature", "classARDOUR_1_1URIMap.html#afde06ba1636f885f19824122c8c61852", null ],
+    [ "_urid_unmap_feature_data", "classARDOUR_1_1URIMap.html#a6137bf91b71425930ca87982894a5a1d", null ],
+    [ "uri_map", "classARDOUR_1_1URIMap.html#aa1ed81c2f79b09325419f42cdae51c2f", null ],
+    [ "urids", "classARDOUR_1_1URIMap.html#aa98a03905451bb2782d8a0f7d96985f3", null ]
+];

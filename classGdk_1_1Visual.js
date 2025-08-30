@@ -1,0 +1,27 @@
+var classGdk_1_1Visual =
+[
+    [ "~Visual", "classGdk_1_1Visual.html#a3e1b56ed29c8c6b4a9b54a4bc14a64a8", null ],
+    [ "Visual", "classGdk_1_1Visual.html#a04412275c902225a6bd103d0a5f3ad2e", null ],
+    [ "get_best", "classGdk_1_1Visual.html#af718b4db7c1c82393904a5be090cb514", null ],
+    [ "get_best", "classGdk_1_1Visual.html#a792a5aa41a4d5d07c0020b276d5c8578", null ],
+    [ "get_best", "classGdk_1_1Visual.html#a53b577495f6e262c4aeacfbdb036251f", null ],
+    [ "get_best", "classGdk_1_1Visual.html#a7b0f2b5f575ba9407cb1ab9abf05d30c", null ],
+    [ "get_best_depth", "classGdk_1_1Visual.html#a4033654c987ba7208b7f1ab8e53c04a2", null ],
+    [ "get_best_type", "classGdk_1_1Visual.html#a9653abce581c94fca4dca322ffb4e16d", null ],
+    [ "get_bits_per_rgb", "classGdk_1_1Visual.html#ae25a771050c9b3c1c37d5c47bab64876", null ],
+    [ "get_blue_pixel_details", "classGdk_1_1Visual.html#a8c686d3a6a7974351d9817bc186f0221", null ],
+    [ "get_byte_order", "classGdk_1_1Visual.html#a3df15d1041143c6f20075e1469034d3a", null ],
+    [ "get_colormap_size", "classGdk_1_1Visual.html#adf6b856fbd6a58394f153424a8de8349", null ],
+    [ "get_depth", "classGdk_1_1Visual.html#a52626e4bdafaa34f520a0c8e0d10b504", null ],
+    [ "get_green_pixel_details", "classGdk_1_1Visual.html#a72fe5b071fd244149ce3673fe859e45b", null ],
+    [ "get_red_pixel_details", "classGdk_1_1Visual.html#a236297a536fa9f8d2f11f70eff6aaa71", null ],
+    [ "get_screen", "classGdk_1_1Visual.html#ad42e72860db7d9e1263d9ff2f54d9c92", null ],
+    [ "get_screen", "classGdk_1_1Visual.html#a675c5a3dcda504eb5b5a00ff02506493", null ],
+    [ "get_system", "classGdk_1_1Visual.html#a6bdde081238b26f07ef5ebf16971f662", null ],
+    [ "get_type", "classGdk_1_1Visual.html#ab951289196c93a123e0f19f55b8be5e3", null ],
+    [ "get_visual_type", "classGdk_1_1Visual.html#a82b292479a271fdf4f91430d9ebf61a6", null ],
+    [ "gobj", "classGdk_1_1Visual.html#abcbae1e1c175bf82461aa26b42acad2d", null ],
+    [ "gobj", "classGdk_1_1Visual.html#afb06cc7b49feeacb1f75f34429a966e6", null ],
+    [ "gobj_copy", "classGdk_1_1Visual.html#a5a7aadce249b7d6465220fc09de1ef9f", null ],
+    [ "wrap", "classGdk_1_1Visual.html#a151170bd9f613ba53f811871166a6f55", null ]
+];

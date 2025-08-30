@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,95,135,121"/>
+<area shape="rect" id="Node000001" href="$structARDOUR_1_1AudioTrigger_1_1AudioData.html" title=" " alt="" coords="183,5,351,45"/>
+<area shape="poly" id="edge2377_Node000000_Node000001" title=" " alt="" coords="109,87,182,55,211,43,213,48,184,60,112,92"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1IOVector.html" title=" " alt="" coords="195,70,338,95"/>
+<area shape="poly" id="edge2378_Node000000_Node000002" title=" " alt="" coords="148,95,195,89,196,94,149,101"/>
+<area shape="rect" id="Node000003" href="$classMidiByteArray.html" title=" " alt="" coords="209,119,324,145"/>
+<area shape="poly" id="edge2379_Node000000_Node000003" title=" " alt="" coords="149,115,209,122,209,128,148,120"/>
+<area shape="rect" id="Node000004" href="$classPBD_1_1Searchpath.html" title=" " alt="" coords="201,169,332,194"/>
+<area shape="poly" id="edge2380_Node000000_Node000004" title=" " alt="" coords="112,124,184,154,221,166,220,171,182,158,110,129"/>
+</map>

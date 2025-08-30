@@ -1,0 +1,28 @@
+<map id="system_exec.h" name="system_exec.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="425,5,544,31"/>
+<area shape="rect" id="Node000002" href="$ardour_2ardour_2system__exec_8h.html" title=" " alt="" coords="425,79,544,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="487,44,487,79,482,79,482,44"/>
+<area shape="rect" id="Node000003" href="$alsa__audiobackend_8h.html" title=" " alt="" coords="5,152,164,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,108,150,155,149,149,411,103"/>
+<area shape="rect" id="Node000004" href="$ardour__ui_8h.html" title=" " alt="" coords="491,299,585,324"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="412,102,303,121,257,135,240,144,229,154,214,178,209,202,214,225,229,249,246,262,272,273,342,290,421,300,490,305,490,311,420,305,341,295,270,278,243,267,225,252,209,227,204,202,209,176,225,150,237,140,255,130,302,115,411,97"/>
+<area shape="rect" id="Node000005" href="$cmdpipe__writer_8h.html" title=" " alt="" coords="240,152,375,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="444,112,337,154,335,149,442,107"/>
+<area shape="rect" id="Node000006" href="$ffmpegfileimportable_8h.html" title=" " alt="" coords="399,152,570,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="487,118,487,152,482,152,482,118"/>
+<area shape="rect" id="Node000008" href="$transcode__ffmpeg_8h.html" title=" " alt="" coords="595,152,745,177"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="528,106,641,149,639,154,526,111"/>
+<area shape="rect" id="Node000011" href="$video__monitor_8h.html" title=" " alt="" coords="769,152,896,177"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="555,104,777,149,776,155,553,109"/>
+<area shape="rect" id="Node000013" href="$zeroconf_8h.html" title=" " alt="" coords="920,152,1009,177"/>
+<area shape="poly" id="edge13_Node000002_Node000013" title=" " alt="" coords="558,99,719,120,909,149,920,151,919,157,908,155,719,126,557,104"/>
+<area shape="rect" id="Node000007" href="$ffmpegfilesource_8h.html" title=" " alt="" coords="240,225,383,251"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="445,185,341,228,339,223,443,180"/>
+<area shape="rect" id="Node000009" href="$export__video__dialog_8h.html" title=" " alt="" coords="407,225,573,251"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="630,185,520,228,518,223,628,180"/>
+<area shape="rect" id="Node000010" href="$transcode__video__dialog_8h.html" title=" " alt="" coords="597,225,785,251"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="680,190,690,224,685,226,675,192"/>
+<area shape="rect" id="Node000012" href="$video__timeline_8h.html" title=" " alt="" coords="810,225,941,251"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="849,188,871,224,866,227,844,191"/>
+<area shape="poly" id="edge12_Node000012_Node000004" title=" " alt="" coords="809,256,586,303,585,297,807,251"/>
+</map>

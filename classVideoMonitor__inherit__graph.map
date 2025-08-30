@@ -1,0 +1,9 @@
+<map id="VideoMonitor" name="VideoMonitor">
+<area shape="rect" id="Node000001" title="communication with xjadeo&#39;s remote&#45;control interface" alt="" coords="191,79,301,104"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,121,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,33,217,76,215,81,104,38"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1SessionHandlePtr.html" title=" " alt="" coords="145,5,347,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,44,249,79,243,79,243,44"/>
+<area shape="rect" id="Node000004" href="$classPBD_1_1ScopedConnectionList.html" title=" " alt="" coords="371,5,571,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="423,37,283,81,282,76,421,32"/>
+</map>

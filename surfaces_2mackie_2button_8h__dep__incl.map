@@ -1,0 +1,15 @@
+<map id="button.h" name="button.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="199,5,275,31"/>
+<area shape="rect" id="Node000002" href="$mackie_2device__info_8h.html" title=" " alt="" coords="183,79,292,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,44,240,79,235,79,235,44"/>
+<area shape="rect" id="Node000005" href="$mackie_2device__profile_8h.html" title=" " alt="" coords="33,79,159,104"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="204,39,120,81,118,76,201,34"/>
+<area shape="rect" id="Node000006" href="$mackie_2gui_8h.html" title=" " alt="" coords="317,79,371,104"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="267,36,328,76,325,81,264,40"/>
+<area shape="rect" id="Node000003" href="$mackie__control__protocol_8h.html" title=" " alt="" coords="5,152,200,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="205,113,126,154,123,149,202,108"/>
+<area shape="rect" id="Node000004" href="$mackie_2strip_8h.html" title=" " alt="" coords="138,225,201,251"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="235,118,227,148,214,179,198,205,182,227,177,224,194,202,210,176,222,146,230,117"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="125,186,160,223,157,227,121,190"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="101,118,104,152,99,152,96,118"/>
+</map>

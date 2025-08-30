@@ -1,0 +1,8 @@
+<map id="device_info.h" name="device_info.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,115,31"/>
+<area shape="rect" id="Node000002" href="$us2400_2strip_8h.html" title=" " alt="" coords="29,152,91,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="41,43,24,72,20,87,21,103,34,129,51,150,47,153,30,132,16,105,14,87,19,69,37,40"/>
+<area shape="rect" id="Node000003" href="$us2400__control__protocol_8h.html" title=" " alt="" coords="31,79,225,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="82,39,119,77,115,80,79,42"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="109,116,73,154,69,150,106,112"/>
+</map>

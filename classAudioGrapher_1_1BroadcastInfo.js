@@ -1,0 +1,27 @@
+var classAudioGrapher_1_1BroadcastInfo =
+[
+    [ "BroadcastInfo", "classAudioGrapher_1_1BroadcastInfo.html#a9595016bb91142b3b41be0976d90c01f", null ],
+    [ "~BroadcastInfo", "classAudioGrapher_1_1BroadcastInfo.html#ac65aebd7958ae925bfd779ba280c970e", null ],
+    [ "get_description", "classAudioGrapher_1_1BroadcastInfo.html#a2f25a3925378a1f0885b71ae087c330e", null ],
+    [ "get_error", "classAudioGrapher_1_1BroadcastInfo.html#a7bb7d7b46e5f60782c0cc0863b81e59e", null ],
+    [ "get_origination_time", "classAudioGrapher_1_1BroadcastInfo.html#ac4e376032a581dc2fa587c2ee6498df6", null ],
+    [ "get_originator", "classAudioGrapher_1_1BroadcastInfo.html#a28d2c5ab8f1cf3c0dcb221d559907f23", null ],
+    [ "get_originator_ref", "classAudioGrapher_1_1BroadcastInfo.html#a551b638a8bcb00b817702e2f6161af5d", null ],
+    [ "get_time_reference", "classAudioGrapher_1_1BroadcastInfo.html#a7adabe334cee0a7245c26a679c638572", null ],
+    [ "has_info", "classAudioGrapher_1_1BroadcastInfo.html#a0c6d99dca4d9b6b5bbbf805b58a894f2", null ],
+    [ "load_from_file", "classAudioGrapher_1_1BroadcastInfo.html#a10cf49babe855afb6c68e53d4fa4bf8f", null ],
+    [ "load_from_file", "classAudioGrapher_1_1BroadcastInfo.html#a19c168c5e67555f28a4ac08640ffca91", null ],
+    [ "set_description", "classAudioGrapher_1_1BroadcastInfo.html#ab839969b4e64291015afadada7d146d6", null ],
+    [ "set_origination_time", "classAudioGrapher_1_1BroadcastInfo.html#a418b82040591d9956b9fda4bb806b29c", null ],
+    [ "set_originator", "classAudioGrapher_1_1BroadcastInfo.html#a0e0f781fc7cb7fde7f917e11545b582b", null ],
+    [ "set_originator_ref", "classAudioGrapher_1_1BroadcastInfo.html#a5f2c210cd87dea5b7c9c50b2c8ff0984", null ],
+    [ "set_time_reference", "classAudioGrapher_1_1BroadcastInfo.html#a897cbf20773ef564a8bca6486d5940bb", null ],
+    [ "update_error", "classAudioGrapher_1_1BroadcastInfo.html#a78b598aa2997bd2b9be4a660f46a882d", null ],
+    [ "write_to_file", "classAudioGrapher_1_1BroadcastInfo.html#a28fe0a8e5d2bc154ea431f489bb1dda6", null ],
+    [ "write_to_file", "classAudioGrapher_1_1BroadcastInfo.html#a025c2f1359d97e21b6fbce00abde677c", null ],
+    [ "write_to_file", "classAudioGrapher_1_1BroadcastInfo.html#a4b83d6057a5241e582cd44a6d8e3cceb", null ],
+    [ "_has_info", "classAudioGrapher_1_1BroadcastInfo.html#ae5e36a993a367d551636baa05469b2ab", null ],
+    [ "_time", "classAudioGrapher_1_1BroadcastInfo.html#aea55f29e13719356e2a351652b649385", null ],
+    [ "error", "classAudioGrapher_1_1BroadcastInfo.html#a9c5607ae493d360551048cb5ee82bb1e", null ],
+    [ "info", "classAudioGrapher_1_1BroadcastInfo.html#ac0ec41bbf218f8ff9705db5d8602888b", null ]
+];

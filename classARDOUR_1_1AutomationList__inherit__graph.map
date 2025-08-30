@@ -1,0 +1,16 @@
+<map id="ARDOUR::AutomationList" name="ARDOUR::AutomationList">
+<area shape="rect" id="Node000001" title=" " alt="" coords="657,79,844,104"/>
+<area shape="rect" id="Node000002" href="$classEvoral_1_1ControlList.html" title=" " alt="" coords="468,53,609,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="623,73,658,78,657,83,623,79"/>
+<area shape="rect" id="Node000003" href="$classTemporal_1_1TimeDomainProvider.html" title=" " alt="" coords="191,5,419,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="381,31,477,51,476,56,380,36"/>
+<area shape="rect" id="Node000004" href="$structTemporal_1_1TimeDomainSwapper.html" title=" " alt="" coords="189,55,420,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="434,64,468,64,468,69,434,69"/>
+<area shape="rect" id="Node000005" href="$classPBD_1_1Destructible.html" title=" " alt="" coords="5,55,141,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="155,65,189,65,189,70,155,70"/>
+<area shape="rect" id="Node000006" href="$classPBD_1_1StatefulDestructible.html" title=" " alt="" coords="211,104,398,129"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="146,80,190,90,243,101,242,107,189,95,144,86"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="412,108,657,94,657,99,412,113"/>
+<area shape="rect" id="Node000007" href="$classPBD_1_1Stateful.html" title=" " alt="" coords="19,104,127,129"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="142,114,211,114,211,119,142,119"/>
+</map>

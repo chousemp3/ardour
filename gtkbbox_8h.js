@@ -1,0 +1,26 @@
+var gtkbbox_8h =
+[
+    [ "_GtkButtonBox", "struct__GtkButtonBox.html", "struct__GtkButtonBox" ],
+    [ "_GtkButtonBoxClass", "struct__GtkButtonBoxClass.html", "struct__GtkButtonBoxClass" ],
+    [ "GTK_BUTTON_BOX", "gtkbbox_8h.html#a45b1728e9c032d667f6cb7f8365df056", null ],
+    [ "GTK_BUTTON_BOX_CLASS", "gtkbbox_8h.html#a4b982b992005d3a8eb40017204217c37", null ],
+    [ "GTK_BUTTON_BOX_GET_CLASS", "gtkbbox_8h.html#ad74232f27378b1150fa4373455a1ea40", null ],
+    [ "gtk_button_box_get_spacing", "gtkbbox_8h.html#a753cd60d52715d79024fbcea9f7fd425", null ],
+    [ "gtk_button_box_set_spacing", "gtkbbox_8h.html#ae2a41987fae3fcf6d41260caf7957fa1", null ],
+    [ "GTK_BUTTONBOX_DEFAULT", "gtkbbox_8h.html#a385c925a199930c339d03f732d199e2c", null ],
+    [ "GTK_IS_BUTTON_BOX", "gtkbbox_8h.html#a822d9eca6feee90eff4b761cd165e803", null ],
+    [ "GTK_IS_BUTTON_BOX_CLASS", "gtkbbox_8h.html#a6722c1622e309cf692864346e225af5a", null ],
+    [ "GTK_TYPE_BUTTON_BOX", "gtkbbox_8h.html#acf1ed8fa9a7e6bd6586a2c7967ba6f51", null ],
+    [ "GtkButtonBox", "gtkbbox_8h.html#ace8af78319a3108eab5bd506bcc232d3", null ],
+    [ "GtkButtonBoxClass", "gtkbbox_8h.html#a54c9353b9b49f8b81f29942c9cc46cd3", null ],
+    [ "_gtk_button_box_child_requisition", "gtkbbox_8h.html#a208ad1d18f6edab1323efd57578da542", null ],
+    [ "gtk_button_box_get_child_ipadding", "gtkbbox_8h.html#a21a035c5fb2c01f313356d4cf59fa466", null ],
+    [ "gtk_button_box_get_child_secondary", "gtkbbox_8h.html#a76a208e6eefc8f893b2b617a70dc8199", null ],
+    [ "gtk_button_box_get_child_size", "gtkbbox_8h.html#ad24f0469b39d24a8dfa63a25905e8ec2", null ],
+    [ "gtk_button_box_get_layout", "gtkbbox_8h.html#a6bda9a725b8a11bf319538f89ad6adc0", null ],
+    [ "gtk_button_box_get_type", "gtkbbox_8h.html#aa5796ae9d12a1a303779f2e53ffdf397", null ],
+    [ "gtk_button_box_set_child_ipadding", "gtkbbox_8h.html#ab627aa2bfc82e2e5ffc4473bfd58acf1", null ],
+    [ "gtk_button_box_set_child_secondary", "gtkbbox_8h.html#ae145025c0de01e0073ae6f6b6f9a4dce", null ],
+    [ "gtk_button_box_set_child_size", "gtkbbox_8h.html#a99c543782c4adfb5ea211f4f213effa7", null ],
+    [ "gtk_button_box_set_layout", "gtkbbox_8h.html#afe1cabae2dcb2f36c10be8953580d552", null ]
+];

@@ -1,0 +1,28 @@
+var classSessionMetadataDialog =
+[
+    [ "DataSetList", "classSessionMetadataDialog.html#ad236a64f94fdadb515021ce829ba91d7", null ],
+    [ "DataSetPtr", "classSessionMetadataDialog.html#a4c8664e49ceab3ced36df3a3da5f8d0d", null ],
+    [ "WidgetFunc", "classSessionMetadataDialog.html#a43b0eadc1b7ba0f5d653bad0bae69e47", null ],
+    [ "WidgetList", "classSessionMetadataDialog.html#a4a06834137bf46b55dec99c27f061fcb", null ],
+    [ "WidgetListPtr", "classSessionMetadataDialog.html#a502a887ad14d8ed59c60829d9b114ee9", null ],
+    [ "SessionMetadataDialog", "classSessionMetadataDialog.html#aade0fe29eaaea624735278b7eb653a57", null ],
+    [ "add_widget", "classSessionMetadataDialog.html#a0d6e129aefb320b51cb73915f0afbcbe", null ],
+    [ "end_dialog", "classSessionMetadataDialog.html#ad5ecf065c9dd4f5a765749badc4a855a", null ],
+    [ "get_custom_widgets", "classSessionMetadataDialog.html#a89d8aed552f2f4457972c9b3ac152a63", null ],
+    [ "init_album_data", "classSessionMetadataDialog.html#a7156510169de5238b92de138c16fbde6", null ],
+    [ "init_data", "classSessionMetadataDialog.html#a923d1a3cdabfa3cd337e8ff7b18db286", null ],
+    [ "init_description_data", "classSessionMetadataDialog.html#a9635e48dc0e719756feb8f987730adb1", null ],
+    [ "init_gui", "classSessionMetadataDialog.html#a2c955a072bfcfbe093dcc5fc9e4e701e", null ],
+    [ "init_people_data", "classSessionMetadataDialog.html#ae67459d6a411a40ccd58498800831b0c", null ],
+    [ "init_school_data", "classSessionMetadataDialog.html#a68846dff13fa838fd002b84f1827c6ea", null ],
+    [ "init_track_data", "classSessionMetadataDialog.html#ac6b260559e3545caf878075c3e959bdc", null ],
+    [ "init_user_data", "classSessionMetadataDialog.html#afccbcc82c745eaeb01f6b3ce35df43c7", null ],
+    [ "load_extra_data", "classSessionMetadataDialog.html#a3fdf52653c3a341044518442b9378e17", null ],
+    [ "save_and_close", "classSessionMetadataDialog.html#a56a42142f4cd73e5355626d778d7acc4", null ],
+    [ "save_data", "classSessionMetadataDialog.html#a4b4173fdd1e10b6662d463c335cc9dd2", null ],
+    [ "warn_user", "classSessionMetadataDialog.html#aa6e7f0855d52d243e09b970c5e17c452", null ],
+    [ "cancel_button", "classSessionMetadataDialog.html#a10315aa037c57327d381471bcdd25652", null ],
+    [ "data_list", "classSessionMetadataDialog.html#af7b872b7e0bd649dd86ea40b333e0e4c", null ],
+    [ "notebook", "classSessionMetadataDialog.html#ae2390cb7e46ad38b68c2e576d29c567d", null ],
+    [ "save_button", "classSessionMetadataDialog.html#aec10ede3846840741388cfd91b6c26f1", null ]
+];

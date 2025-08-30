@@ -1,0 +1,36 @@
+var classARDOUR_1_1PluginScanLogEntry =
+[
+    [ "PluginScanResult", "classARDOUR_1_1PluginScanLogEntry.html#afcbb88c9945fa81fdf605263baa72bc9", [
+      [ "OK", "classARDOUR_1_1PluginScanLogEntry.html#afcbb88c9945fa81fdf605263baa72bc9aaffaf06a8eea909f8479166bbf25c110", null ],
+      [ "New", "classARDOUR_1_1PluginScanLogEntry.html#afcbb88c9945fa81fdf605263baa72bc9a223f1720733b59330156b31b861f31f2", null ],
+      [ "Updated", "classARDOUR_1_1PluginScanLogEntry.html#afcbb88c9945fa81fdf605263baa72bc9a0a0ebac68bac949d248fb1a6de174879", null ],
+      [ "Error", "classARDOUR_1_1PluginScanLogEntry.html#afcbb88c9945fa81fdf605263baa72bc9a57fc091c60466c88acbaded2449f9975", null ],
+      [ "Incompatible", "classARDOUR_1_1PluginScanLogEntry.html#afcbb88c9945fa81fdf605263baa72bc9ad5457daf2fab1717c96602fe1a907926", null ],
+      [ "TimeOut", "classARDOUR_1_1PluginScanLogEntry.html#afcbb88c9945fa81fdf605263baa72bc9a171b8b5b44daa0bba225bf41f0a8b145", null ],
+      [ "Blacklisted", "classARDOUR_1_1PluginScanLogEntry.html#afcbb88c9945fa81fdf605263baa72bc9a407258b71325c0783c10d1c4e063949b", null ],
+      [ "Faulty", "classARDOUR_1_1PluginScanLogEntry.html#afcbb88c9945fa81fdf605263baa72bc9ae5ca398fa31049a1cd3554baafd3175a", null ]
+    ] ],
+    [ "PluginScanLogEntry", "classARDOUR_1_1PluginScanLogEntry.html#a62458fcbbef030d62d2f28a4678fd3c9", null ],
+    [ "PluginScanLogEntry", "classARDOUR_1_1PluginScanLogEntry.html#a55d9bd8bc5b6d2e661f6c9d32d09c3da", null ],
+    [ "PluginScanLogEntry", "classARDOUR_1_1PluginScanLogEntry.html#a32ff4dd5ec1d58fcdafe2946ed20c881", null ],
+    [ "add", "classARDOUR_1_1PluginScanLogEntry.html#a9be98cdf2a502212aa423f2979c65023", null ],
+    [ "log", "classARDOUR_1_1PluginScanLogEntry.html#a5bf11c71f1a22b0d152408d79c01793e", null ],
+    [ "msg", "classARDOUR_1_1PluginScanLogEntry.html#a7dad3f3dddefa3e84d8c64efd1b6c183", null ],
+    [ "nfo", "classARDOUR_1_1PluginScanLogEntry.html#a6cf860372bd825de1101a6332359c6fa", null ],
+    [ "operator!=", "classARDOUR_1_1PluginScanLogEntry.html#af3ce2ec39bc509d9bf8b0526b64729bc", null ],
+    [ "operator<", "classARDOUR_1_1PluginScanLogEntry.html#a5094bdfbb9b7cfab937bff05955ffab4", null ],
+    [ "operator==", "classARDOUR_1_1PluginScanLogEntry.html#a7f2769cb281a5a04a0f3b92c114e4367", null ],
+    [ "path", "classARDOUR_1_1PluginScanLogEntry.html#a7ceb32285227761521c9e0f8a9e9c1d3", null ],
+    [ "recent", "classARDOUR_1_1PluginScanLogEntry.html#a250e62c1179746f0173356b159189f71", null ],
+    [ "reset", "classARDOUR_1_1PluginScanLogEntry.html#ad9e6c37229bb0107298921e36acdd9f6", null ],
+    [ "result", "classARDOUR_1_1PluginScanLogEntry.html#a4bf835285a0dad480bd38923f891b89d", null ],
+    [ "set_result", "classARDOUR_1_1PluginScanLogEntry.html#a048671adaa1960bea2d95ba8fee7ff1a", null ],
+    [ "state", "classARDOUR_1_1PluginScanLogEntry.html#af7d85a52317e9572480734a9b8ef013d", null ],
+    [ "type", "classARDOUR_1_1PluginScanLogEntry.html#ac97cff745f68f1e6fb958c3801be47fe", null ],
+    [ "_info", "classARDOUR_1_1PluginScanLogEntry.html#a23844982f881786490f8d038b84f7c89", null ],
+    [ "_path", "classARDOUR_1_1PluginScanLogEntry.html#ab5977c21cbd62cbe6bc5b1ff6ed9663d", null ],
+    [ "_recent", "classARDOUR_1_1PluginScanLogEntry.html#ad2efc0f6efab45097c5975969c937bf0", null ],
+    [ "_result", "classARDOUR_1_1PluginScanLogEntry.html#ad6d4c8e8063a654a971bbfdac834286b", null ],
+    [ "_scan_log", "classARDOUR_1_1PluginScanLogEntry.html#a42b1b3b1a7c585a11eec1d262676f925", null ],
+    [ "_type", "classARDOUR_1_1PluginScanLogEntry.html#a54e28f963088a87387700721cfb0ad78", null ]
+];

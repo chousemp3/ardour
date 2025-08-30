@@ -1,0 +1,25 @@
+var classGainMeter =
+[
+    [ "GainMeter", "classGainMeter.html#a74e7a563dd78ec96af7ef2ca94d50b14", null ],
+    [ "~GainMeter", "classGainMeter.html#a7b92b7b6fce529d96ee30e6b026fbd99", null ],
+    [ "get_gm_width", "classGainMeter.html#a08bb7a187bd0f9823ed25757253dd500", null ],
+    [ "hide_all_meters", "classGainMeter.html#ab0e9b754ec6087b11b64da3e8a6bae43", null ],
+    [ "meter_configuration_changed", "classGainMeter.html#a03eb3bb2a6175d510e6b1221c0f76c18", null ],
+    [ "meter_metrics_expose", "classGainMeter.html#a931008e447b1c344591f6d155bc0bfce", null ],
+    [ "meter_ticks1_expose", "classGainMeter.html#a947f5d97ba0cf9dbdb6c7d498c9e79d1", null ],
+    [ "meter_ticks2_expose", "classGainMeter.html#a00b2de62e510f9d605a82c1e252d69fe", null ],
+    [ "on_style_changed", "classGainMeter.html#a42f939c184277e0d013687b9d0134ff2", null ],
+    [ "redraw_metrics", "classGainMeter.html#afffc2893fd61b65dc455ba23ff788a98", null ],
+    [ "reset_dpi", "classGainMeter.html#a7a150a78c386641106cdebbbf1ab54b5", null ],
+    [ "route_active_changed", "classGainMeter.html#a80ca74470eb941e2bbac391167fd9cb7", null ],
+    [ "set_controls", "classGainMeter.html#a76d011937be022105cd9ea45d653a999", null ],
+    [ "setup_meters", "classGainMeter.html#ac27d54533863df1c0e07a084917e22f2", null ],
+    [ "_types", "classGainMeter.html#ad4758fe5973aea7607145ff1930cb85f", null ],
+    [ "fader_alignment", "classGainMeter.html#aacdd178bc1687d3749c7c5e2ac1ec305", null ],
+    [ "fader_box", "classGainMeter.html#a0ace7350c4643530a11e70126c27dc61", null ],
+    [ "fader_vbox", "classGainMeter.html#ae1924fc7ab5b02fb8293a419461e28bc", null ],
+    [ "gain_display_box", "classGainMeter.html#a67b9957f62a3cf92729ff08c4900ab3b", null ],
+    [ "hbox", "classGainMeter.html#a671fbfcda8a8d244b71f8490f0a39d17", null ],
+    [ "meter_alignment", "classGainMeter.html#ae7fa8e79c4fa2b2aa6a8030597ca82ed", null ],
+    [ "meter_hbox", "classGainMeter.html#a6aeeb44bca3402f6c000bf79d68a0cca", null ]
+];

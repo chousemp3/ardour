@@ -1,0 +1,27 @@
+var gtkentrybuffer_8h =
+[
+    [ "_GtkEntryBuffer", "struct__GtkEntryBuffer.html", "struct__GtkEntryBuffer" ],
+    [ "_GtkEntryBufferClass", "struct__GtkEntryBufferClass.html", "struct__GtkEntryBufferClass" ],
+    [ "GTK_ENTRY_BUFFER", "gtkentrybuffer_8h.html#af3fdc9cb1815d02d359f8840d64f3f95", null ],
+    [ "GTK_ENTRY_BUFFER_CLASS", "gtkentrybuffer_8h.html#a1488f458f30cb40fb9b6b782c06d30c5", null ],
+    [ "GTK_ENTRY_BUFFER_GET_CLASS", "gtkentrybuffer_8h.html#a1a80fee0624bc9a7b429ccadab58b697", null ],
+    [ "GTK_ENTRY_BUFFER_MAX_SIZE", "gtkentrybuffer_8h.html#aaf7822e5aa70899423e599a914248bf1", null ],
+    [ "GTK_IS_ENTRY_BUFFER", "gtkentrybuffer_8h.html#a685290cfff844a55a6990ed45e134ebe", null ],
+    [ "GTK_IS_ENTRY_BUFFER_CLASS", "gtkentrybuffer_8h.html#a7bc26e5329366313bfdef51961e297b0", null ],
+    [ "GTK_TYPE_ENTRY_BUFFER", "gtkentrybuffer_8h.html#a1f44ce33d928fd0fd11bf2014e3cab13", null ],
+    [ "GtkEntryBuffer", "gtkentrybuffer_8h.html#aa7ac3f833354be9e08ee7583b2456512", null ],
+    [ "GtkEntryBufferClass", "gtkentrybuffer_8h.html#aaf45ee13aab8689f1df885dd926b167a", null ],
+    [ "GtkEntryBufferPrivate", "gtkentrybuffer_8h.html#aec7fbe4cef2a5d72517a6dcff911b398", null ],
+    [ "gtk_entry_buffer_delete_text", "gtkentrybuffer_8h.html#acd4fb5f88b8d780d31598f888d3e8fac", null ],
+    [ "gtk_entry_buffer_emit_deleted_text", "gtkentrybuffer_8h.html#a4a0228f1d1a02779888584ca53c7b294", null ],
+    [ "gtk_entry_buffer_emit_inserted_text", "gtkentrybuffer_8h.html#ad9036047c3d0d21a53f81078619aa33b", null ],
+    [ "gtk_entry_buffer_get_bytes", "gtkentrybuffer_8h.html#a16f53505f34e06696a5540299add9756", null ],
+    [ "gtk_entry_buffer_get_length", "gtkentrybuffer_8h.html#af521499c8834d597a73e6d66da6e248b", null ],
+    [ "gtk_entry_buffer_get_max_length", "gtkentrybuffer_8h.html#a9ef8936fc4d22a2e6ea78491eacfd731", null ],
+    [ "gtk_entry_buffer_get_text", "gtkentrybuffer_8h.html#a8c324e3839cd4c0b75db8e24d056193c", null ],
+    [ "gtk_entry_buffer_get_type", "gtkentrybuffer_8h.html#ac61d47812451c10798019b1535d6e706", null ],
+    [ "gtk_entry_buffer_insert_text", "gtkentrybuffer_8h.html#a8386615ecdc6c7b37dd74affac4985e0", null ],
+    [ "gtk_entry_buffer_new", "gtkentrybuffer_8h.html#ac3545eeb11913911fbb5103c6d75b66e", null ],
+    [ "gtk_entry_buffer_set_max_length", "gtkentrybuffer_8h.html#aaee5e137f85c8860273377fba8e98436", null ],
+    [ "gtk_entry_buffer_set_text", "gtkentrybuffer_8h.html#a662177af42c9157dd9428f94cc4ab913", null ]
+];

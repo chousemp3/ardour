@@ -1,0 +1,9 @@
+<map id="RouteListBase" name="RouteListBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="70,79,185,104"/>
+<area shape="rect" id="Node000003" href="$classEditorRoutes.html" title=" " alt="" coords="5,152,111,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="108,116,71,154,67,150,105,112"/>
+<area shape="rect" id="Node000004" href="$classTriggerRouteList.html" title=" " alt="" coords="135,152,261,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="151,112,188,150,185,154,147,116"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1SessionHandlePtr.html" title=" " alt="" coords="27,5,228,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,44,130,79,125,79,125,44"/>
+</map>

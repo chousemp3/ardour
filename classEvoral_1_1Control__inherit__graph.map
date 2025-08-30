@@ -1,0 +1,39 @@
+<map id="Evoral::Control" name="Evoral::Control">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,177,124,202"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1AutomationControl.html" title=" " alt="" coords="172,177,383,202"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,187,172,187,172,192,138,192"/>
+<area shape="rect" id="Node000003" href="$structARDOUR_1_1MidiTrack_1_1MidiControl.html" title=" " alt="" coords="464,5,621,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="297,164,353,110,390,80,429,55,462,41,464,46,432,60,393,85,357,114,301,168"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1PanControllable.html" title=" " alt="" coords="448,70,637,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="308,167,363,135,430,104,468,93,469,98,432,109,366,140,311,172"/>
+<area shape="rect" id="Node000005" href="$classARDOUR_1_1PhaseControl.html" title=" " alt="" coords="456,119,629,145"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="350,171,483,142,484,147,351,176"/>
+<area shape="rect" id="Node000006" href="$classARDOUR_1_1PlugInsertBase_1_1PluginControl.html" title=" " alt="" coords="451,169,635,209"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="397,187,450,187,450,192,397,192"/>
+<area shape="rect" id="Node000008" href="$structARDOUR_1_1PlugInsertBase_1_1PluginPropertyControl.html" title=" " alt="" coords="451,233,635,273"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="345,203,460,231,458,236,344,208"/>
+<area shape="rect" id="Node000009" href="$classARDOUR_1_1SlavableAutomationControl.html" title=" " alt="" coords="433,297,652,337"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="308,208,364,246,432,283,463,295,461,300,430,288,361,250,305,213"/>
+<area shape="rect" id="Node000019" href="$classARDOUR_1_1SurroundControllable.html" title=" " alt="" coords="431,362,655,387"/>
+<area shape="poly" id="edge18_Node000002_Node000019" title=" " alt="" coords="296,212,351,280,389,316,432,347,461,359,459,364,429,352,386,321,347,284,292,215"/>
+<area shape="rect" id="Node000007" href="$structARDOUR_1_1PluginInsert_1_1PIControl.html" title=" " alt="" coords="732,67,896,107"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="635,162,653,154,677,135,701,116,731,104,733,109,704,121,680,139,656,158,637,167"/>
+<area shape="rect" id="Node000010" href="$classARDOUR_1_1GainControl.html" title=" " alt="" coords="732,131,896,157"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="648,288,653,283,665,270,671,255,676,226,680,196,688,180,701,166,730,150,733,155,704,170,692,183,685,197,681,227,676,257,669,272,657,287,651,292"/>
+<area shape="rect" id="Node000011" href="$classARDOUR_1_1MonitorControl.html" title=" " alt="" coords="722,181,906,206"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="645,289,653,283,668,267,676,250,684,232,701,215,724,204,726,208,704,219,689,235,681,252,673,270,656,287,647,293"/>
+<area shape="rect" id="Node000012" href="$classARDOUR_1_1MuteControl.html" title=" " alt="" coords="731,230,897,255"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="629,291,654,283,702,264,746,253,747,258,703,269,656,288,631,296"/>
+<area shape="rect" id="Node000013" href="$classARDOUR_1_1RecordEnableControl.html" title=" " alt="" coords="703,279,925,305"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="665,303,702,300,703,305,666,309"/>
+<area shape="rect" id="Node000014" href="$classARDOUR_1_1RecordSafeControl.html" title=" " alt="" coords="710,329,918,354"/>
+<area shape="poly" id="edge13_Node000009_Node000014" title=" " alt="" coords="666,326,710,329,709,335,665,331"/>
+<area shape="rect" id="Node000015" href="$classARDOUR_1_1SoloControl.html" title=" " alt="" coords="733,378,895,403"/>
+<area shape="poly" id="edge14_Node000009_Node000015" title=" " alt="" coords="629,339,655,347,703,363,753,375,752,380,702,368,654,352,627,344"/>
+<area shape="rect" id="Node000016" href="$classARDOUR_1_1SoloIsolateControl.html" title=" " alt="" coords="711,427,917,453"/>
+<area shape="poly" id="edge15_Node000009_Node000016" title=" " alt="" coords="647,341,656,347,673,364,681,381,689,397,704,412,730,425,727,430,701,417,684,401,676,383,668,367,653,351,644,346"/>
+<area shape="rect" id="Node000017" href="$classARDOUR_1_1SoloSafeControl.html" title=" " alt="" coords="719,477,909,502"/>
+<area shape="poly" id="edge16_Node000009_Node000017" title=" " alt="" coords="651,343,657,347,669,362,676,377,681,407,686,435,692,449,704,462,724,474,721,479,701,466,688,452,681,437,676,408,671,379,665,365,653,351,648,347"/>
+<area shape="rect" id="Node000018" href="$classARDOUR_1_1VelocityControl.html" title=" " alt="" coords="721,526,907,551"/>
+<area shape="poly" id="edge17_Node000009_Node000018" title=" " alt="" coords="653,344,657,348,672,369,680,390,681,433,682,474,689,493,704,513,722,525,719,529,701,517,684,496,677,475,675,433,675,391,668,371,653,351,649,348"/>
+</map>

@@ -1,0 +1,40 @@
+<map id="lobject.h" name="lobject.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="353,5,431,31"/>
+<area shape="rect" id="Node000002" href="$lcode_8h.html" title=" " alt="" coords="19,152,88,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="338,22,253,25,156,34,68,52,35,65,14,80,9,88,8,97,14,116,27,135,42,150,38,154,23,138,9,118,3,97,4,87,10,77,33,60,66,47,155,29,253,20,338,17"/>
+<area shape="rect" id="Node000003" href="$ldo_8h.html" title=" " alt="" coords="291,225,346,251"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="386,45,325,226,320,224,381,43"/>
+<area shape="rect" id="Node000004" href="$lvm_8h.html" title=" " alt="" coords="224,299,283,324"/>
+<area shape="poly" id="edge23_Node000001_Node000004" title=" " alt="" coords="339,29,291,47,270,61,253,80,239,108,231,138,229,170,230,202,240,259,252,298,246,299,235,260,225,202,223,170,226,138,234,106,248,77,266,57,289,42,338,24"/>
+<area shape="rect" id="Node000005" href="$lfunc_8h.html" title=" " alt="" coords="713,79,780,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="445,27,695,76,714,80,712,85,694,81,444,32"/>
+<area shape="rect" id="Node000006" href="$lgc_8h.html" title=" " alt="" coords="607,225,660,251"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="417,38,622,223,618,227,413,42"/>
+<area shape="rect" id="Node000007" href="$lstring_8h.html" title=" " alt="" coords="596,299,671,324"/>
+<area shape="poly" id="edge17_Node000001_Node000007" title=" " alt="" coords="437,33,495,61,562,101,596,127,626,156,653,188,674,224,678,246,671,267,647,300,643,297,667,264,672,245,669,226,649,191,622,159,592,131,559,106,493,65,435,38"/>
+<area shape="rect" id="Node000008" href="$llex_8h.html" title=" " alt="" coords="24,79,83,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="340,31,227,53,95,81,84,84,82,79,94,76,226,48,339,26"/>
+<area shape="rect" id="Node000009" href="$lparser_8h.html" title=" " alt="" coords="107,79,186,104"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="340,37,187,81,185,76,339,32"/>
+<area shape="rect" id="Node000010" href="$lstate_8h.html" title=" " alt="" coords="394,152,465,177"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="401,44,429,151,424,152,396,45"/>
+<area shape="rect" id="Node000013" href="$ltable_8h.html" title=" " alt="" coords="805,79,875,104"/>
+<area shape="poly" id="edge18_Node000001_Node000013" title=" " alt="" coords="445,23,601,44,792,76,805,79,804,84,791,81,600,50,444,28"/>
+<area shape="rect" id="Node000014" href="$ltm_8h.html" title=" " alt="" coords="263,79,319,104"/>
+<area shape="poly" id="edge19_Node000001_Node000014" title=" " alt="" coords="366,41,309,81,306,76,363,36"/>
+<area shape="rect" id="Node000015" href="$lundump_8h.html" title=" " alt="" coords="900,79,991,104"/>
+<area shape="poly" id="edge22_Node000001_Node000015" title=" " alt="" coords="445,22,641,43,888,76,900,78,899,83,887,81,640,48,445,27"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="300,263,266,300,262,297,297,259"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="636,264,636,299,631,299,631,264"/>
+<area shape="poly" id="edge8_Node000008_Node000002" title=" " alt="" coords="56,118,56,152,51,152,51,118"/>
+<area shape="poly" id="edge10_Node000009_Node000002" title=" " alt="" coords="122,114,70,154,67,150,119,110"/>
+<area shape="poly" id="edge14_Node000010_Node000003" title=" " alt="" coords="401,187,338,227,335,223,398,183"/>
+<area shape="poly" id="edge15_Node000010_Node000006" title=" " alt="" coords="476,179,607,225,605,230,474,184"/>
+<area shape="poly" id="edge16_Node000010_Node000007" title=" " alt="" coords="470,181,508,200,545,223,591,262,625,297,621,300,588,266,542,227,505,204,468,186"/>
+<area shape="rect" id="Node000011" href="$lapi_8h.html" title=" " alt="" coords="473,225,532,251"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="453,185,492,223,489,227,449,189"/>
+<area shape="rect" id="Node000012" href="$ldebug_8h.html" title=" " alt="" coords="370,225,449,251"/>
+<area shape="poly" id="edge13_Node000010_Node000012" title=" " alt="" coords="425,191,415,226,410,224,420,190"/>
+<area shape="poly" id="edge21_Node000014_Node000004" title=" " alt="" coords="289,118,258,299,253,298,284,117"/>
+<area shape="poly" id="edge20_Node000014_Node000010" title=" " alt="" coords="326,108,408,149,405,154,324,113"/>
+</map>

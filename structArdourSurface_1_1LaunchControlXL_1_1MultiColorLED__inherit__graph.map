@@ -1,0 +1,9 @@
+<map id="ArdourSurface::LaunchControlXL::MultiColorLED" name="ArdourSurface::LaunchControlXL::MultiColorLED">
+<area shape="rect" id="Node000001" title=" " alt="" coords="124,93,339,133"/>
+<area shape="rect" id="Node000003" href="$structArdourSurface_1_1LaunchControlXL_1_1Knob.html" title=" " alt="" coords="5,181,220,221"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,144,140,183,137,179,192,139"/>
+<area shape="rect" id="Node000004" href="$structArdourSurface_1_1LaunchControlXL_1_1TrackButton.html" title=" " alt="" coords="244,181,459,221"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="271,139,326,179,323,183,268,144"/>
+<area shape="rect" id="Node000002" href="$structArdourSurface_1_1LaunchControlXL_1_1LED.html" title=" " alt="" coords="124,5,339,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,59,234,93,229,93,229,59"/>
+</map>

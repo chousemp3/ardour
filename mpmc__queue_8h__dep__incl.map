@@ -1,0 +1,9 @@
+<map id="mpmc_queue.h" name="mpmc_queue.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="54,5,177,31"/>
+<area shape="rect" id="Node000002" href="$butler_8h.html" title=" " alt="" coords="33,79,104,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,44,78,80,74,77,98,41"/>
+<area shape="rect" id="Node000004" href="$graph_8h.html" title=" " alt="" coords="128,79,199,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="133,41,158,77,153,80,129,44"/>
+<area shape="rect" id="Node000003" href="$rt__safe__delete_8h.html" title=" " alt="" coords="5,152,132,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="71,118,71,152,66,152,66,118"/>
+</map>

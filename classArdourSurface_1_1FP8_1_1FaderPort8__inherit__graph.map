@@ -1,0 +1,21 @@
+<map id="ArdourSurface::FP8::FaderPort8" name="ArdourSurface::FP8::FaderPort8">
+<area shape="rect" id="Node000001" title=" " alt="" coords="717,63,864,103"/>
+<area shape="rect" id="Node000002" href="$classArdourSurface_1_1FP8_1_1FP8Base.html" title=" " alt="" coords="475,5,621,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="635,43,718,63,716,68,634,48"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1ControlProtocol.html" title=" " alt="" coords="455,70,641,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="655,80,717,80,717,85,655,85"/>
+<area shape="rect" id="Node000004" href="$classPBD_1_1Stateful.html" title=" " alt="" coords="225,7,333,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="347,33,379,41,427,55,484,67,482,73,426,60,378,47,345,38"/>
+<area shape="rect" id="Node000005" href="$classPBD_1_1ScopedConnectionList.html" title=" " alt="" coords="179,57,379,82"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="393,72,455,75,454,81,392,78"/>
+<area shape="rect" id="Node000006" href="$classBasicUI.html" title=" " alt="" coords="243,106,314,131"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="327,110,454,92,455,98,328,115"/>
+<area shape="rect" id="Node000007" href="$classAbstractUI.html" title=" " alt="" coords="427,131,669,157"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="612,125,716,99,718,104,613,130"/>
+<area shape="rect" id="Node000008" href="$classBaseUI.html" title=" " alt="" coords="245,155,313,181"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="326,161,426,152,427,157,326,167"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="10,130,126,155"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="140,149,245,161,244,167,139,154"/>
+<area shape="rect" id="Node000010" href="$classPBD_1_1EventLoop.html" title=" " alt="" coords="5,179,131,205"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="144,181,244,169,245,174,145,186"/>
+</map>

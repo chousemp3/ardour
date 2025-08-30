@@ -1,0 +1,9 @@
+<map id="ARDOUR::Trigger" name="ARDOUR::Trigger">
+<area shape="rect" id="Node000001" title=" " alt="" coords="119,79,249,104"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1AudioTrigger.html" title=" " alt="" coords="5,152,173,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,114,106,154,103,150,156,110"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1MIDITrigger.html" title=" " alt="" coords="198,152,359,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="212,110,265,150,262,154,209,114"/>
+<area shape="rect" id="Node000002" href="$classPBD_1_1Stateful.html" title=" " alt="" coords="130,5,238,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,44,187,79,181,79,181,44"/>
+</map>

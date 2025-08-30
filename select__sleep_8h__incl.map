@@ -1,0 +1,9 @@
+<map id="select_sleep.h" name="select_sleep.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="93,5,207,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,76,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,33,72,73,69,69,131,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="101,79,199,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,31,153,65,147,65,147,31"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="224,79,295,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="169,28,231,69,228,73,166,33"/>
+</map>

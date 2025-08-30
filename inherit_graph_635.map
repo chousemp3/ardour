@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classARDOUR_1_1ImportableSource.html" title=" " alt="" coords="5,127,208,152"/>
+<area shape="rect" id="Node000001" href="$classARDOUR_1_1CAImportableSource.html" title=" " alt="" coords="263,5,483,31"/>
+<area shape="poly" id="edge52_Node000000_Node000001" title=" " alt="" coords="132,116,187,78,255,41,294,28,295,33,257,46,190,82,135,121"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1FFMPEGFileImportableSource.html" title=" " alt="" coords="256,55,491,95"/>
+<area shape="poly" id="edge53_Node000000_Node000002" title=" " alt="" coords="174,121,289,93,290,98,175,126"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1Mp3FileImportableSource.html" title=" " alt="" coords="269,119,478,159"/>
+<area shape="poly" id="edge54_Node000000_Node000003" title=" " alt="" coords="222,137,268,137,268,142,222,142"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1ResampledImportableSource.html" title=" " alt="" coords="258,183,489,223"/>
+<area shape="poly" id="edge55_Node000000_Node000004" title=" " alt="" coords="175,153,290,181,289,186,174,158"/>
+<area shape="rect" id="Node000005" href="$classARDOUR_1_1SndFileImportableSource.html" title=" " alt="" coords="271,247,476,287"/>
+<area shape="poly" id="edge56_Node000000_Node000005" title=" " alt="" coords="136,158,190,196,257,233,288,245,286,250,255,238,188,200,133,162"/>
+</map>

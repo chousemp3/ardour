@@ -1,0 +1,13 @@
+<map id="ARDOUR::PortEngineSharedImpl" name="ARDOUR::PortEngineSharedImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,236,129"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1AlsaAudioBackend.html" title=" " alt="" coords="296,5,503,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,95,215,67,283,39,325,28,326,33,285,45,217,72,159,100"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1CoreAudioBackend.html" title=" " alt="" coords="295,55,504,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,99,326,77,327,83,207,104"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1DummyAudioBackend.html" title=" " alt="" coords="284,104,515,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="250,114,284,114,284,119,250,119"/>
+<area shape="rect" id="Node000005" href="$classARDOUR_1_1PortAudioBackend.html" title=" " alt="" coords="297,153,502,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="207,129,327,151,326,156,206,134"/>
+<area shape="rect" id="Node000006" href="$classARDOUR_1_1PulseAudioBackend.html" title=" " alt="" coords="292,203,507,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="159,133,217,161,285,187,331,200,329,205,283,193,215,166,157,138"/>
+</map>

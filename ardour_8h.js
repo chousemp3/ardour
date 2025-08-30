@@ -1,0 +1,27 @@
+var ardour_8h =
+[
+    [ "check_for_old_configuration_files", "ardour_8h.html#a53231c8ef388e0bd241144dc54e0e67f", null ],
+    [ "cleanup", "ardour_8h.html#ac6336728b671daefd124d650f8546dd4", null ],
+    [ "get_available_sync_options", "ardour_8h.html#a5e07c256c276d9e3d1d2167662ff616e", null ],
+    [ "handle_old_configuration_files", "ardour_8h.html#a91a028f1aa522b00944fb201fda39e04", null ],
+    [ "init", "ardour_8h.html#a1e8c43289557d03e16ddb8f3db962a88", null ],
+    [ "init_post_engine", "ardour_8h.html#adcd3f0d6e5e2a7214802b7d9ea3e49ad", null ],
+    [ "make_property_quarks", "ardour_8h.html#ae9c79de6a0b705abd7e8ac2d7720dd02", null ],
+    [ "no_auto_connect", "ardour_8h.html#a48f94cb123c42280e73e2947f987f101", null ],
+    [ "reset_performance_meters", "ardour_8h.html#a79994c9aeefcb08334400984933f2509", null ],
+    [ "set_global_ui_scale_factor", "ardour_8h.html#a7a87332ff89585a78ec707895a41ed2b", null ],
+    [ "set_translations_enabled", "ardour_8h.html#ab363e05c43b3463f657e3b3bb0d6a4c0", null ],
+    [ "setup_fpu", "ardour_8h.html#a8c54a77ed1da89519f6bb6a31cfe5981", null ],
+    [ "translation_enable_path", "ardour_8h.html#a7b984ff7d67d44f9ca993e2c70eee50d", null ],
+    [ "translations_are_enabled", "ardour_8h.html#ae47a15aaade3275a0905d660e9661bdf", null ],
+    [ "ardour_config_info", "ardour_8h.html#af3bd3bc27f3dfa1802c8e1ba984579b2", null ],
+    [ "BootMessage", "ardour_8h.html#a0ce1913c2d19222a80c8f4566ba925f3", null ],
+    [ "bounds_change", "ardour_8h.html#a50f92038f68f99068786684361f9928a", null ],
+    [ "CopyConfigurationFiles", "ardour_8h.html#a7389f0068df1e3087c9ead62e0df9e6e", null ],
+    [ "fft_planner_lock", "ardour_8h.html#acce5c8937df01688b384da9b73d3de97", null ],
+    [ "GUIIdle", "ardour_8h.html#a2e3d1ae8be614d80cb1f19291d6f25b2", null ],
+    [ "PluginScanMessage", "ardour_8h.html#a0ca84c1b9c89880c35aba0826dfa1e41", null ],
+    [ "PluginScanTimeout", "ardour_8h.html#aa73c2dccdd936ca421c81351237a3b07", null ],
+    [ "reserved_io_names", "ardour_8h.html#af4d1514fdf7699f39ea3ed175b039be6", null ],
+    [ "ui_scale_factor", "ardour_8h.html#ace102777722ce0dc892ebd51df544203", null ]
+];

@@ -1,0 +1,38 @@
+var structARDOUR_1_1ParameterDescriptor =
+[
+    [ "NameNumMap", "structARDOUR_1_1ParameterDescriptor.html#a969d5723e7bc7759e88eba74f89fd8be", null ],
+    [ "Unit", "structARDOUR_1_1ParameterDescriptor.html#ae023afad4c0b8f116015ef95397f3fc1", [
+      [ "NONE", "structARDOUR_1_1ParameterDescriptor.html#ae023afad4c0b8f116015ef95397f3fc1acdf8548f98844eaee6a8ee95fe91bafb", null ],
+      [ "DB", "structARDOUR_1_1ParameterDescriptor.html#ae023afad4c0b8f116015ef95397f3fc1a728325e52fd1ea5e518c44e8d4465c75", null ],
+      [ "MIDI_NOTE", "structARDOUR_1_1ParameterDescriptor.html#ae023afad4c0b8f116015ef95397f3fc1ac04fa902d408150efbdd72f8da76665d", null ],
+      [ "HZ", "structARDOUR_1_1ParameterDescriptor.html#ae023afad4c0b8f116015ef95397f3fc1a64fd257a1155fbd9843248313f3caa0b", null ]
+    ] ],
+    [ "ParameterDescriptor", "structARDOUR_1_1ParameterDescriptor.html#afadca2226165edfef917c541f5b6b40c", null ],
+    [ "ParameterDescriptor", "structARDOUR_1_1ParameterDescriptor.html#a14f2cc93befb9bf73f6f68006f383677", null ],
+    [ "apply_delta", "structARDOUR_1_1ParameterDescriptor.html#ab8f6967f6959b8dca2993e56d0d3a296", null ],
+    [ "build_midi_name2num", "structARDOUR_1_1ParameterDescriptor.html#acc4342a3760e17b719113069b077f5ee", null ],
+    [ "compute_delta", "structARDOUR_1_1ParameterDescriptor.html#a70a0a88d41c4843ae67b05413ac55fd4", null ],
+    [ "from_interface", "structARDOUR_1_1ParameterDescriptor.html#ada90c79973e797a75d1bb2f751637021", null ],
+    [ "is_linear", "structARDOUR_1_1ParameterDescriptor.html#a40847aa02ed7252585077c36d476a6ae", null ],
+    [ "midi_note_name", "structARDOUR_1_1ParameterDescriptor.html#aedc6e5289f4ee92d53b00b24eb3e90de", null ],
+    [ "midi_note_num", "structARDOUR_1_1ParameterDescriptor.html#a47dfbca95ea8b15fe6377d6866c96646", null ],
+    [ "normalize_note_name", "structARDOUR_1_1ParameterDescriptor.html#ac1d2a4aeaead1510fdd8e5bada445a79", null ],
+    [ "step_enum", "structARDOUR_1_1ParameterDescriptor.html#a5ee96bbc864c07782e37748433a65ad6", null ],
+    [ "to_interface", "structARDOUR_1_1ParameterDescriptor.html#a3948ea5ac15dc539c978625f72de9f83", null ],
+    [ "update_steps", "structARDOUR_1_1ParameterDescriptor.html#aa76b4823ebe8c0ba6c464dbc0464036e", null ],
+    [ "datatype", "structARDOUR_1_1ParameterDescriptor.html#a7fd38060c2aa48a4dde840163745951b", null ],
+    [ "display_priority", "structARDOUR_1_1ParameterDescriptor.html#ae320eef4b0ae69b61ecd620251d5a8df", null ],
+    [ "enumeration", "structARDOUR_1_1ParameterDescriptor.html#a8d1c4f553b5de6da7d42c321b7f83d0c", null ],
+    [ "inline_ctrl", "structARDOUR_1_1ParameterDescriptor.html#ae33789f463f0a9808a165be7bc714261", null ],
+    [ "integer_step", "structARDOUR_1_1ParameterDescriptor.html#a03ace5a0a3c0d3cecbbc158065a478de", null ],
+    [ "key", "structARDOUR_1_1ParameterDescriptor.html#a8287cd5ab890988a869ea162b81896fb", null ],
+    [ "label", "structARDOUR_1_1ParameterDescriptor.html#a4fb5b4dcf9f41a56e7df2f4d694d74bc", null ],
+    [ "largestep", "structARDOUR_1_1ParameterDescriptor.html#a0eafdafd319d538f2b8f97cb49eff428", null ],
+    [ "print_fmt", "structARDOUR_1_1ParameterDescriptor.html#a1733be2b57d4b12159a3054f59bc0ac5", null ],
+    [ "scale_points", "structARDOUR_1_1ParameterDescriptor.html#a68518a40608abb770b3977dba63c66ae", null ],
+    [ "smallstep", "structARDOUR_1_1ParameterDescriptor.html#ac4d62bba33ca8658d0d7411850c4508c", null ],
+    [ "sr_dependent", "structARDOUR_1_1ParameterDescriptor.html#aff1afb19950d26420dfe9b5393244e81", null ],
+    [ "step", "structARDOUR_1_1ParameterDescriptor.html#aefc49fc204c228d05f02182c52305470", null ],
+    [ "type", "structARDOUR_1_1ParameterDescriptor.html#ada1ddc884ff6f7debb6baef433b25bdc", null ],
+    [ "unit", "structARDOUR_1_1ParameterDescriptor.html#a2f3d097c622f3a86f47ed9bf60bd3f8b", null ]
+];

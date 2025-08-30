@@ -1,0 +1,25 @@
+<map id="VCAMasterStrip" name="VCAMasterStrip">
+<area shape="rect" id="Node000001" title=" " alt="" coords="415,445,539,471"/>
+<area shape="rect" id="Node000002" href="$classAxisView.html" title=" " alt="" coords="375,372,457,397"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="437,406,469,443,465,447,433,410"/>
+<area shape="rect" id="Node000003" href="$classPBD_1_1ScopedConnectionList.html" title=" " alt="" coords="5,299,205,324"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="169,324,375,371,374,377,168,330"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1SessionHandlePtr.html" title=" " alt="" coords="230,299,431,324"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="356,330,404,370,400,374,353,335"/>
+<area shape="rect" id="Node000005" href="$classSelectable.html" title=" " alt="" coords="456,299,547,324"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="479,335,432,374,428,370,476,330"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="434,225,550,251"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="498,264,502,298,497,299,493,265"/>
+<area shape="rect" id="Node000007" href="$classGtk_1_1EventBox.html" title=" " alt="" coords="524,372,639,397"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="555,407,496,447,493,443,552,403"/>
+<area shape="rect" id="Node000008" href="$classGtk_1_1Bin.html" title=" " alt="" coords="587,299,661,324"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="612,337,591,373,586,371,608,334"/>
+<area shape="rect" id="Node000009" href="$classGtk_1_1Container.html" title=" " alt="" coords="574,225,690,251"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="632,265,628,299,623,298,627,264"/>
+<area shape="rect" id="Node000010" href="$classGtk_1_1Widget.html" title=" " alt="" coords="583,152,681,177"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="635,191,635,225,629,225,629,191"/>
+<area shape="rect" id="Node000011" href="$classGtk_1_1Object.html" title=" " alt="" coords="585,79,679,104"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="635,118,635,152,629,152,629,118"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="583,5,681,31"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="635,44,635,79,629,79,629,44"/>
+</map>

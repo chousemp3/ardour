@@ -1,0 +1,15 @@
+<map id="Gtk::OffscreenWindow" name="Gtk::OffscreenWindow">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,445,172,471"/>
+<area shape="rect" id="Node000002" href="$classGtk_1_1Window.html" title=" " alt="" coords="36,372,141,397"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,411,91,445,86,445,86,411"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1Bin.html" title=" " alt="" coords="51,299,126,324"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,338,91,372,86,372,86,338"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Container.html" title=" " alt="" coords="31,225,147,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="91,264,91,299,86,299,86,264"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Widget.html" title=" " alt="" coords="39,152,138,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="91,191,91,225,86,225,86,191"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1Object.html" title=" " alt="" coords="41,79,136,104"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="91,118,91,152,86,152,86,118"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="39,5,138,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="91,44,91,79,86,79,86,44"/>
+</map>

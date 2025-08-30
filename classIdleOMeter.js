@@ -1,0 +1,25 @@
+var classIdleOMeter =
+[
+    [ "IdleOMeter", "classIdleOMeter.html#a2ced72b8fd1de222c4943ab38c7dce4e", null ],
+    [ "~IdleOMeter", "classIdleOMeter.html#ac3ce5034392ac085aa6440cac56eea6a", null ],
+    [ "idle", "classIdleOMeter.html#a6700ae05a8dbbfcc2f8726d6b37a99e4", null ],
+    [ "on_hide", "classIdleOMeter.html#a07278e5c7d4e7466cd0a4e2b4ced4cd5", null ],
+    [ "on_show", "classIdleOMeter.html#a759857100b0a31934501f9329fe2f88f", null ],
+    [ "reset", "classIdleOMeter.html#a747f03a5ba4e8b23d903a6239d6e6f60", null ],
+    [ "_cnt", "classIdleOMeter.html#a70a84370d7cc20b69ff991b818878097", null ],
+    [ "_idle_connection", "classIdleOMeter.html#a8f9c078cdde0ce4d8ee1b5660f9c387d", null ],
+    [ "_label_acq", "classIdleOMeter.html#a3eaaf13dd1ee687379ea8b6295cab2e2", null ],
+    [ "_label_avg", "classIdleOMeter.html#a7918526a8cb580dc60ccaf1ec4736a85", null ],
+    [ "_label_cur", "classIdleOMeter.html#a812e166644ff0249432705cde0a05773", null ],
+    [ "_label_dev", "classIdleOMeter.html#abb688ebac2dd0cacc129ce11e33f0782", null ],
+    [ "_label_max", "classIdleOMeter.html#ad5760681fb6e510893ccf5c083c0833c", null ],
+    [ "_label_min", "classIdleOMeter.html#ae6de6ea79b6b01bd6d901e6bd049d372", null ],
+    [ "_last", "classIdleOMeter.html#a57e1eed8cbc27933b76b86f6d5df9b66", null ],
+    [ "_last_display", "classIdleOMeter.html#ade985bf55862fd664110ef112c680a95", null ],
+    [ "_max", "classIdleOMeter.html#a1805be11a98754e0b5eeea41b9ef1779", null ],
+    [ "_min", "classIdleOMeter.html#a389e9dcc4ad372ce3ffd81e65ea5e5dc", null ],
+    [ "_start", "classIdleOMeter.html#afc0c436f098a134d0f4018b08fe86ba6", null ],
+    [ "_total", "classIdleOMeter.html#ac3aaa105327a8ee7cab5095787a34fb9", null ],
+    [ "_var_m", "classIdleOMeter.html#a1c7e46e0d51d592af953fd7fcb0c21d1", null ],
+    [ "_var_s", "classIdleOMeter.html#a2f60a2dc95c17a912663c86f49d767a9", null ]
+];

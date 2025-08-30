@@ -1,0 +1,21 @@
+<map id="Gtk::MessageDialog" name="Gtk::MessageDialog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="106,519,259,544"/>
+<area shape="rect" id="Node000009" href="$classArdourMessageDialog.html" title=" " alt="" coords="5,592,171,617"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="158,554,105,594,102,590,155,550"/>
+<area shape="rect" id="Node000010" href="$classSimpleProgressDialog.html" title=" " alt="" coords="195,592,360,617"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="210,550,263,590,260,594,207,554"/>
+<area shape="rect" id="Node000002" href="$classGtk_1_1Dialog.html" title=" " alt="" coords="135,445,230,471"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,484,185,519,180,519,180,484"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1Window.html" title=" " alt="" coords="130,372,235,397"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="185,411,185,445,180,445,180,411"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Bin.html" title=" " alt="" coords="145,299,220,324"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="185,338,185,372,180,372,180,338"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Container.html" title=" " alt="" coords="125,225,241,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="185,264,185,299,180,299,180,264"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1Widget.html" title=" " alt="" coords="133,152,232,177"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="185,191,185,225,180,225,180,191"/>
+<area shape="rect" id="Node000007" href="$classGtk_1_1Object.html" title=" " alt="" coords="135,79,230,104"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="185,118,185,152,180,152,180,118"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="133,5,232,31"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="185,44,185,79,180,79,180,44"/>
+</map>

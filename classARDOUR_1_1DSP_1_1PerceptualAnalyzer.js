@@ -1,0 +1,56 @@
+var classARDOUR_1_1DSP_1_1PerceptualAnalyzer =
+[
+    [ "Trace", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer_1_1Trace.html", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer_1_1Trace" ],
+    [ "ProcessMode", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#aaef49b075955772682f4f39e68d90784", [
+      [ "MM_NONE", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#aaef49b075955772682f4f39e68d90784a549cbc220d1a519220cd2177a007f995", null ],
+      [ "MM_PEAK", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#aaef49b075955772682f4f39e68d90784af03b08e6608b5e4f5eb7c6b1b3320ee3", null ],
+      [ "MM_AVER", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#aaef49b075955772682f4f39e68d90784ac5cbb91fc410f94212665de99e28555f", null ]
+    ] ],
+    [ "Speed", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#aa26a5963fbf4bdd75c4812c8fae14f3a", [
+      [ "Rapid", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#aa26a5963fbf4bdd75c4812c8fae14f3aa24b047a40e6b941c33a722d88162b98f", null ],
+      [ "Fast", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#aa26a5963fbf4bdd75c4812c8fae14f3aadabd4739751a11b7a851f6912b19e8b5", null ],
+      [ "Moderate", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#aa26a5963fbf4bdd75c4812c8fae14f3aaf082c60a7fb0e7c483e61687eb5c430b", null ],
+      [ "Slow", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#aa26a5963fbf4bdd75c4812c8fae14f3aac78169e2d3d6d205e5535f519088bc80", null ],
+      [ "Noise", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#aa26a5963fbf4bdd75c4812c8fae14f3aa5725b191e366455ff247d9fcefdb671d", null ]
+    ] ],
+    [ "Warp", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#ad39618afdb328078a8c0f7b90043af50", [
+      [ "Bark", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#ad39618afdb328078a8c0f7b90043af50a3531507eca2c427f072190262826e008", null ],
+      [ "Medium", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#ad39618afdb328078a8c0f7b90043af50a7513ef2b224112b6c14198d589f5b65b", null ],
+      [ "High", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#ad39618afdb328078a8c0f7b90043af50a4b03b0561549d8ea5e376fd3b501f3f1", null ]
+    ] ],
+    [ "PerceptualAnalyzer", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#a53a976686ac33a24986da33d5791d4cd", null ],
+    [ "~PerceptualAnalyzer", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#aa2a81f9a89f1c16871b80aa7cc0e9fbc", null ],
+    [ "PerceptualAnalyzer", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#a5102a2c73fe6e67c5b306e2317fd5431", null ],
+    [ "conv0", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#af80267f5fc0e7867e2718d2cf30c49cf", null ],
+    [ "conv1", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#ae271179b028bd74336e7f813a1a25188", null ],
+    [ "fftlen", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#a50ca416421c8afa50787e4fd936876f0", null ],
+    [ "freq_at_bin", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#a84d2e71d0ce77107be553eae71c89a9e", null ],
+    [ "init", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#acfc7fe6274d0d6923396a938d693dc54", null ],
+    [ "ipdata", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#a577a8a0531b8ad0a9974f277cb0e697a", null ],
+    [ "peakp", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#ad5c0e42ef351d179c9f17a9dadb2b2f3", null ],
+    [ "pmax", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#a438c746857e16ab1b268b66dc09dfdc6", null ],
+    [ "power", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#adfde33142e949927cc29ea86c66f345c", null ],
+    [ "power_at_bin", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#a17f377f555d29c89d33bed473babe24f", null ],
+    [ "process", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#a33390ce0a5aec9fd0cb8bde3ab6c2762", null ],
+    [ "reset", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#ac047abd8dfd510ef27c877fd1ba5f6af", null ],
+    [ "set_speed", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#a7de2e501c1dceeb2a01feca359194717", null ],
+    [ "set_speed", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#a5f90b7df83c7335a677e9795be743b56", null ],
+    [ "set_wfact", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#a48dcc395497186096de6bc637cd7baf4", null ],
+    [ "set_wfact", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#acb4d74bc9ab7a46de7c12e6c00b59077", null ],
+    [ "warp_freq", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#a668fa40bbc1204b559e4162223bfa5e9", null ],
+    [ "_bwcorr", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#a80b0d74f007e33e78d1416172ad4962b", null ],
+    [ "_fftlen", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#aea9bddb58eb50d6c2de23b5893a76c75", null ],
+    [ "_fftplan", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#addcd7ce12a2b63c2ad20395abadd5d3c", null ],
+    [ "_fsamp", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#ac647dbbbe5dda3c75cc6d9184a9e14da", null ],
+    [ "_fscale", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#ac206bdffdf38a88217ce07f48d41adbc", null ],
+    [ "_icount", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#a96b5bc455b2270715851e2fdd45683d8", null ],
+    [ "_ipdata", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#ad4d9ed70a31d86f050c20f05fc7e6977", null ],
+    [ "_ipsize", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#ab5877abb50a66bdccefea03e03d41fe7", null ],
+    [ "_peakp", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#ae23f74adaefff3aad9090ae164646505", null ],
+    [ "_pmax", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#a25ebefb60b0f405f5d507b333ea3d5ba", null ],
+    [ "_power", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#aea8eb726487f8693aaf3280c9f81fd82", null ],
+    [ "_speed", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#ad9ab225deeb167dade458d7f63bc53a9", null ],
+    [ "_trdata", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#a7aa5352055d69579a9ed1d9f0991c3b2", null ],
+    [ "_warped", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#abb0157c8826dd4fe4b0b69582f47d564", null ],
+    [ "_wfact", "classARDOUR_1_1DSP_1_1PerceptualAnalyzer.html#ac70cfeef0eccfab9548eaadc85806831", null ]
+];

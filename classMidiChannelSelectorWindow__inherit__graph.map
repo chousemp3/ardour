@@ -1,0 +1,25 @@
+<map id="MidiChannelSelectorWindow" name="MidiChannelSelectorWindow">
+<area shape="rect" id="Node000001" title=" " alt="" coords="227,519,435,544"/>
+<area shape="rect" id="Node000002" href="$classArdourWindow.html" title=" " alt="" coords="182,445,299,471"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="268,477,318,516,315,521,265,481"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1Window.html" title=" " alt="" coords="11,372,116,397"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,400,213,443,211,448,104,405"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Bin.html" title=" " alt="" coords="26,299,101,324"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="66,338,66,372,61,372,61,338"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Container.html" title=" " alt="" coords="5,225,121,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="66,264,66,299,61,299,61,264"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1Widget.html" title=" " alt="" coords="14,152,113,177"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="66,191,66,225,61,225,61,191"/>
+<area shape="rect" id="Node000007" href="$classGtk_1_1Object.html" title=" " alt="" coords="16,79,111,104"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="66,118,66,152,61,152,61,118"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="14,5,113,31"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="66,44,66,79,61,79,61,44"/>
+<area shape="rect" id="Node000009" href="$classARDOUR_1_1SessionHandlePtr.html" title=" " alt="" coords="140,372,341,397"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="243,411,243,445,238,445,238,411"/>
+<area shape="rect" id="Node000010" href="$classGtkmm2ext_1_1VisibilityTracker.html" title=" " alt="" coords="366,372,577,397"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="422,404,279,448,277,443,420,399"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="413,299,529,324"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="474,338,474,372,469,372,469,338"/>
+<area shape="rect" id="Node000012" href="$classPBD_1_1ScopedConnectionList.html" title=" " alt="" coords="323,445,523,471"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="400,481,348,521,345,516,396,477"/>
+</map>

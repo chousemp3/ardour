@@ -1,0 +1,22 @@
+<map id="meter.h" name="meter.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="170,5,242,31"/>
+<area shape="rect" id="Node000002" href="$foldback__strip_8h.html" title=" " alt="" coords="5,225,132,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,44,78,226,74,223,189,41"/>
+<area shape="rect" id="Node000003" href="$port__insert_8h.html" title=" " alt="" coords="205,79,309,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,41,251,77,246,80,220,44"/>
+<area shape="rect" id="Node000004" href="$processor__box_8h.html" title=" " alt="" coords="219,152,347,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="268,116,282,151,277,153,263,118"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="237,184,104,228,103,223,235,179"/>
+<area shape="rect" id="Node000005" href="$mixer__strip_8h.html" title=" " alt="" coords="157,225,263,251"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="263,189,224,227,220,223,260,185"/>
+<area shape="rect" id="Node000007" href="$monitor__section_8h.html" title=" " alt="" coords="287,225,426,251"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="307,185,347,223,343,227,303,189"/>
+<area shape="rect" id="Node000009" href="$route__params__ui_8h.html" title=" " alt="" coords="451,225,593,251"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="336,179,484,223,483,228,334,184"/>
+<area shape="rect" id="Node000010" href="$trigger__strip_8h.html" title=" " alt="" coords="617,225,731,251"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="360,177,618,224,617,229,359,182"/>
+<area shape="rect" id="Node000006" href="$strip__selection_8h.html" title=" " alt="" coords="145,299,275,324"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="213,264,213,299,207,299,207,264"/>
+<area shape="rect" id="Node000008" href="$mixer__ui_8h.html" title=" " alt="" coords="311,299,402,324"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="359,264,359,299,354,299,354,264"/>
+</map>

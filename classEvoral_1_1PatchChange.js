@@ -1,0 +1,28 @@
+var classEvoral_1_1PatchChange =
+[
+    [ "PatchChange", "classEvoral_1_1PatchChange.html#aacb7683e66f3857db0f804819f0bdd8c", null ],
+    [ "PatchChange", "classEvoral_1_1PatchChange.html#a675b18d04f95212c54359c1046ece045", null ],
+    [ "PatchChange", "classEvoral_1_1PatchChange.html#abe4717e82a0567f7e7f759ccda86d234", null ],
+    [ "bank", "classEvoral_1_1PatchChange.html#a43b6713605ba9c4bd28990fe1a4fbe46", null ],
+    [ "bank_lsb", "classEvoral_1_1PatchChange.html#aea7859e366099d6384640863d575d3d5", null ],
+    [ "bank_msb", "classEvoral_1_1PatchChange.html#ac6f921cbcf05a3a92972986fd6bb3d39", null ],
+    [ "channel", "classEvoral_1_1PatchChange.html#ab1419c0d6ee77d7e8534379510a9f92f", null ],
+    [ "id", "classEvoral_1_1PatchChange.html#aefe08643cf290f35baed03200b02671a", null ],
+    [ "is_set", "classEvoral_1_1PatchChange.html#a608c8bc69796c6e0edb17100e472938d", null ],
+    [ "message", "classEvoral_1_1PatchChange.html#a5135c15060d0bab19f7e9264ab36a497", null ],
+    [ "messages", "classEvoral_1_1PatchChange.html#a0bb9e19448d65be066eb6a0770b145c7", null ],
+    [ "operator<", "classEvoral_1_1PatchChange.html#ae2e74b6df01e559ee510f41dc82b7ec6", null ],
+    [ "operator=", "classEvoral_1_1PatchChange.html#aee00da29c93cadc54d79f5af5acb61c6", null ],
+    [ "operator==", "classEvoral_1_1PatchChange.html#addf5b088a86760175b89487ce1a0d1d1", null ],
+    [ "program", "classEvoral_1_1PatchChange.html#a9ef02d7c750484a89da088eb356c882b", null ],
+    [ "set_bank", "classEvoral_1_1PatchChange.html#a4179da76712f81943415b1b47e9e8bfb", null ],
+    [ "set_channel", "classEvoral_1_1PatchChange.html#a78c398f5f9f990a971f47009c76b24ad", null ],
+    [ "set_id", "classEvoral_1_1PatchChange.html#afc37cbb358eb6c236a3d1331826d8a6e", null ],
+    [ "set_program", "classEvoral_1_1PatchChange.html#a11b140c6cbfee87ea7c58974285078cd", null ],
+    [ "set_time", "classEvoral_1_1PatchChange.html#a6183a3c16eab7bef59fe7b318f87b7a9", null ],
+    [ "time", "classEvoral_1_1PatchChange.html#af69771877aebcdcacd68a834858f2050", null ],
+    [ "unset", "classEvoral_1_1PatchChange.html#a45b51d0f0dd7b09bb7edf8955ae0ca13", null ],
+    [ "_bank_change_lsb", "classEvoral_1_1PatchChange.html#a99589cc01924f2cce9cd4d5f3be33572", null ],
+    [ "_bank_change_msb", "classEvoral_1_1PatchChange.html#a3466e1c195338395cbf941b5d1f577f7", null ],
+    [ "_program_change", "classEvoral_1_1PatchChange.html#a355cdcad70b1b924edbafc7b5f5a520c", null ]
+];

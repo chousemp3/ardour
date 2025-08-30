@@ -1,0 +1,9 @@
+<map id="EditorRegions" name="EditorRegions">
+<area shape="rect" id="Node000001" title=" " alt="" coords="93,152,205,177"/>
+<area shape="rect" id="Node000002" href="$classEditorComponent.html" title=" " alt="" coords="5,79,140,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,111,138,150,134,154,93,115"/>
+<area shape="rect" id="Node000003" href="$classRegionListBase.html" title=" " alt="" coords="165,79,287,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,115,163,154,160,150,202,111"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1SessionHandlePtr.html" title=" " alt="" coords="125,5,327,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="229,44,229,79,223,79,223,44"/>
+</map>

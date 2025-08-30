@@ -1,0 +1,25 @@
+var colors_8h =
+[
+    [ "Gtkmm2ext::SVAModifier", "classGtkmm2ext_1_1SVAModifier.html", "classGtkmm2ext_1_1SVAModifier" ],
+    [ "Gtkmm2ext::HSV", "structGtkmm2ext_1_1HSV.html", "structGtkmm2ext_1_1HSV" ],
+    [ "Color", "colors_8h.html#a640193db329f6dcbab879d53e3280f28", null ],
+    [ "change_alpha", "colors_8h.html#a507c2fa3be684bea200bbf37cb12ad34", null ],
+    [ "color_at_alpha", "colors_8h.html#a872adc3188c879135573c61f767912d7", null ],
+    [ "color_to_hsv", "colors_8h.html#a15f4849157daf97a20be638aea3b2c31", null ],
+    [ "color_to_hsva", "colors_8h.html#af1571ea0a375442ab323eb743ae24a5f", null ],
+    [ "color_to_rgba", "colors_8h.html#a9a469287ffdd007d4e993bd0838bc437", null ],
+    [ "contrasting_text_color", "colors_8h.html#a38adedf72a1e5967c8a77f1c4b12aae8", null ],
+    [ "gdk_color_from_rgb", "colors_8h.html#a5a9f528b7f0397676d8f301a0137feb3", null ],
+    [ "gdk_color_from_rgba", "colors_8h.html#a86f0b8412fcd09fdee89dc33f8b0a436", null ],
+    [ "gdk_color_to_rgba", "colors_8h.html#a89fe6219a93f0f63581466719fc03a77", null ],
+    [ "hsva_to_color", "colors_8h.html#a6181e251ac927fb292c6d18443bc5c98", null ],
+    [ "operator<<", "colors_8h.html#a108e367255541848199f25b277d1baf2", null ],
+    [ "random_color", "colors_8h.html#adc7c010eb53dac3aad998dbb906ba3a3", null ],
+    [ "rgba_to_color", "colors_8h.html#a5553750531cda51c84dc17c36cdecfc8", null ],
+    [ "set_color_from_rgb", "colors_8h.html#a8aa87966e0509ae83d6350d22a14af5f", null ],
+    [ "set_color_from_rgba", "colors_8h.html#aacf3972573434b6ed0cd27b75736575d", null ],
+    [ "set_source_rgb_a", "colors_8h.html#a370f5fa4e71dc5afffddbd165b4368c3", null ],
+    [ "set_source_rgb_a", "colors_8h.html#a9aa37ec975157b608f9d196dc3770143", null ],
+    [ "set_source_rgba", "colors_8h.html#aacdcdd49fccc2604316c18082c039510", null ],
+    [ "set_source_rgba", "colors_8h.html#adbaeb9260e807d10e99fda554562bd4a", null ]
+];

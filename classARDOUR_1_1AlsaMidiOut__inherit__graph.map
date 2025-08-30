@@ -1,0 +1,9 @@
+<map id="ARDOUR::AlsaMidiOut" name="ARDOUR::AlsaMidiOut">
+<area shape="rect" id="Node000001" title=" " alt="" coords="127,79,294,104"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1AlsaRawMidiOut.html" title=" " alt="" coords="5,152,200,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,114,122,154,119,150,181,109"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1AlsaSeqMidiOut.html" title=" " alt="" coords="225,152,415,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="241,109,304,150,301,154,238,114"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1AlsaMidiIO.html" title=" " alt="" coords="132,5,289,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,44,213,79,208,79,208,44"/>
+</map>

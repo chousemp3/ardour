@@ -1,0 +1,18 @@
+<map id="ViewBackground" name="ViewBackground">
+<area shape="rect" id="Node000001" title=" " alt="" coords="291,79,421,104"/>
+<area shape="rect" id="Node000003" href="$classMidiViewBackground.html" title=" " alt="" coords="199,152,358,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="335,115,293,154,290,150,332,111"/>
+<area shape="rect" id="Node000006" href="$classStreamView.html" title=" " alt="" coords="384,152,485,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="381,111,424,150,420,154,377,115"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="298,5,414,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="359,44,359,79,353,79,353,44"/>
+<area shape="rect" id="Node000004" href="$classMidiStreamView.html" title=" " alt="" coords="214,225,343,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="281,191,281,225,276,225,276,191"/>
+<area shape="rect" id="Node000005" href="$classPianorollMidiBackground.html" title=" " alt="" coords="5,225,189,251"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="238,185,128,228,126,223,236,180"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="398,185,305,228,303,223,396,181"/>
+<area shape="rect" id="Node000007" href="$classAudioStreamView.html" title=" " alt="" coords="368,225,507,251"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="438,191,440,225,434,225,433,191"/>
+<area shape="rect" id="Node000008" href="$classAutomationStreamView.html" title=" " alt="" coords="531,225,709,251"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="478,180,591,223,589,228,476,185"/>
+</map>

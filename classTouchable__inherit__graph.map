@@ -1,0 +1,11 @@
+<map id="Touchable" name="Touchable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,84,92,109"/>
+<area shape="rect" id="Node000002" href="$classArdourWidgets_1_1PopUp.html" title=" " alt="" coords="147,5,315,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,74,139,40,172,28,173,33,141,44,80,79"/>
+<area shape="rect" id="Node000003" href="$classDynamicTouchable.html" title=" " alt="" coords="140,55,323,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="105,85,152,77,152,83,106,90"/>
+<area shape="rect" id="Node000004" href="$classDynamicTouchable1.html" title=" " alt="" coords="149,105,313,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="106,103,150,109,149,115,105,108"/>
+<area shape="rect" id="Node000005" href="$classDynamicTouchable2.html" title=" " alt="" coords="149,169,313,209"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="79,115,141,154,168,166,166,171,139,159,76,120"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="gtkbuildable.h" name="gtkbuildable.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="122,5,237,31"/>
+<area shape="rect" id="Node000002" href="$gtkbuilder_8h.html" title=" " alt="" coords="40,79,164,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,33,127,71,123,67,165,29"/>
+<area shape="rect" id="Node000005" href="$gtktypeutils_8h.html" title=" " alt="" coords="188,79,325,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="194,29,236,67,232,71,190,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,103,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="96,106,72,142,67,139,92,103"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="147,225,249,251"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="112,103,185,212,180,215,108,106"/>
+<area shape="rect" id="Node000006" href="$gtktypebuiltins_8h.html" title=" " alt="" coords="178,152,335,177"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="259,104,259,138,254,138,254,104"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="249,179,218,217,214,213,245,176"/>
+</map>

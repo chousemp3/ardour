@@ -1,0 +1,27 @@
+var classARDOUR_1_1AudioBuffer =
+[
+    [ "AudioBuffer", "classARDOUR_1_1AudioBuffer.html#a48848cdc55857dee799db2ba2dbf5fdc", null ],
+    [ "~AudioBuffer", "classARDOUR_1_1AudioBuffer.html#a728471a0542785ba53b1b38689e498f3", null ],
+    [ "accumulate_from", "classARDOUR_1_1AudioBuffer.html#add83fa88549ff37f550410ba7fc07c8e", null ],
+    [ "accumulate_from", "classARDOUR_1_1AudioBuffer.html#aaa57d1b3bf98b0d00715d68e185f007d", null ],
+    [ "accumulate_with_gain_from", "classARDOUR_1_1AudioBuffer.html#a73771207801393e40d4e7995ffd7a432", null ],
+    [ "accumulate_with_gain_from", "classARDOUR_1_1AudioBuffer.html#abe9f1f2c7fbf100d4dd0436e54f59e14", null ],
+    [ "accumulate_with_ramped_gain_from", "classARDOUR_1_1AudioBuffer.html#ade4f7b1fa9e1deb50423bb444ffab41d", null ],
+    [ "apply_gain", "classARDOUR_1_1AudioBuffer.html#a712e042ea1302a9e7808ffc08323c9b2", null ],
+    [ "check_silence", "classARDOUR_1_1AudioBuffer.html#a2aa258987919fa56100dd77dfa2fe804", null ],
+    [ "data", "classARDOUR_1_1AudioBuffer.html#adcdf32e5f68500ed0c1a18d6fd05ec71", null ],
+    [ "data", "classARDOUR_1_1AudioBuffer.html#ae0bf54dd291181945ff41c79af732d22", null ],
+    [ "merge_from", "classARDOUR_1_1AudioBuffer.html#a789d872ba6cdcd232917e5150a652e60", null ],
+    [ "prepare", "classARDOUR_1_1AudioBuffer.html#ab332d873e112700abae93caa71aa5281", null ],
+    [ "read_from", "classARDOUR_1_1AudioBuffer.html#a393b4bb191598a9c34a89a1d7f510929", null ],
+    [ "read_from", "classARDOUR_1_1AudioBuffer.html#ade8d6bfa979bfcdacabc3cc80fd5e86c", null ],
+    [ "resize", "classARDOUR_1_1AudioBuffer.html#af66ca7bc544db901b9cc501e471d50e6", null ],
+    [ "set_data", "classARDOUR_1_1AudioBuffer.html#a53a73c06b7398112a4b7957173205860", null ],
+    [ "set_written", "classARDOUR_1_1AudioBuffer.html#aa5811b2b069c543578b011376dbac71c", null ],
+    [ "silence", "classARDOUR_1_1AudioBuffer.html#ad15d64a3567bb096effba0fb11b73022", null ],
+    [ "silent_data", "classARDOUR_1_1AudioBuffer.html#a266e7ac6267b99313f5cb2189963f650", null ],
+    [ "written", "classARDOUR_1_1AudioBuffer.html#afcb4cb9050b59f9daacabbb95ab09d67", null ],
+    [ "_data", "classARDOUR_1_1AudioBuffer.html#a11e1f15760e3d5e32e019e3d22c07cd9", null ],
+    [ "_owns_data", "classARDOUR_1_1AudioBuffer.html#a2c0423f20e2144957d38f18ffab6ddad", null ],
+    [ "_written", "classARDOUR_1_1AudioBuffer.html#ac1f76e2566be37a3c42277ade0c1564a", null ]
+];

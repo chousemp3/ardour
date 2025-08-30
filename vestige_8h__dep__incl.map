@@ -1,0 +1,17 @@
+<map id="vestige.h" name="vestige.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="349,5,431,31"/>
+<area shape="rect" id="Node000002" href="$vst__plugin_8h.html" title=" " alt="" coords="249,79,350,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="366,41,316,81,313,76,363,37"/>
+<area shape="rect" id="Node000006" href="$vst__types_8h.html" title=" " alt="" coords="519,79,616,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="432,33,539,76,537,81,430,38"/>
+<area shape="rect" id="Node000003" href="$lxvst__plugin_8h.html" title=" " alt="" coords="5,152,119,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="249,110,101,154,100,149,247,105"/>
+<area shape="rect" id="Node000004" href="$mac__vst__plugin_8h.html" title=" " alt="" coords="143,152,279,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="276,115,227,154,224,150,273,110"/>
+<area shape="rect" id="Node000005" href="$windows__vst__plugin_8h.html" title=" " alt="" coords="303,152,469,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="325,110,374,150,370,154,322,115"/>
+<area shape="rect" id="Node000007" href="$linux__vst__support_8h.html" title=" " alt="" coords="493,152,642,177"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="570,118,570,152,565,152,565,118"/>
+<area shape="rect" id="Node000008" href="$mac__vst__support_8h.html" title=" " alt="" coords="667,152,812,177"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="608,107,712,149,710,154,606,112"/>
+</map>

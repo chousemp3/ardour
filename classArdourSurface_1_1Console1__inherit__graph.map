@@ -1,0 +1,21 @@
+<map id="ArdourSurface::Console1" name="ArdourSurface::Console1">
+<area shape="rect" id="Node000001" title=" " alt="" coords="272,299,455,324"/>
+<area shape="rect" id="Node000002" href="$classMIDISurface.html" title=" " alt="" coords="313,225,414,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="366,264,366,299,361,299,361,264"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1ControlProtocol.html" title=" " alt="" coords="149,152,335,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="275,182,345,223,342,227,272,187"/>
+<area shape="rect" id="Node000004" href="$classPBD_1_1Stateful.html" title=" " alt="" coords="5,79,113,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="102,106,213,149,211,154,100,111"/>
+<area shape="rect" id="Node000005" href="$classPBD_1_1ScopedConnectionList.html" title=" " alt="" coords="138,79,338,104"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="242,118,244,152,239,152,237,118"/>
+<area shape="rect" id="Node000006" href="$classBasicUI.html" title=" " alt="" coords="361,79,432,104"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="361,112,268,154,266,149,358,107"/>
+<area shape="rect" id="Node000007" href="$classAbstractUI.html" title=" " alt="" coords="362,152,613,177"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="457,186,385,227,382,223,454,182"/>
+<area shape="rect" id="Node000008" href="$classBaseUI.html" title=" " alt="" coords="456,79,524,104"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="492,118,490,152,485,152,486,118"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="359,5,475,31"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="440,38,480,77,476,80,437,42"/>
+<area shape="rect" id="Node000010" href="$classPBD_1_1EventLoop.html" title=" " alt="" coords="499,5,625,31"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="542,43,504,80,500,77,538,39"/>
+</map>

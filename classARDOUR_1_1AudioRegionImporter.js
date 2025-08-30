@@ -1,0 +1,26 @@
+var classARDOUR_1_1AudioRegionImporter =
+[
+    [ "AudioRegionImporter", "classARDOUR_1_1AudioRegionImporter.html#ae25b0e68174d130d816549bfd4318f0b", null ],
+    [ "~AudioRegionImporter", "classARDOUR_1_1AudioRegionImporter.html#a84ff2cd6f725829041d14c5d251298e7", null ],
+    [ "_cancel_move", "classARDOUR_1_1AudioRegionImporter.html#ab2ae29a013289844f661a347543badd0", null ],
+    [ "_move", "classARDOUR_1_1AudioRegionImporter.html#a4fd57f8852506d6641849f2341b971e0", null ],
+    [ "_prepare_move", "classARDOUR_1_1AudioRegionImporter.html#ab2ebb0a1c2a4c42b352b2ec3ee99739e", null ],
+    [ "add_sources_to_session", "classARDOUR_1_1AudioRegionImporter.html#acb250f577e01d120516eb2225c64ba41", null ],
+    [ "get_import_status", "classARDOUR_1_1AudioRegionImporter.html#a39cd23934e5b5fadead97496b24cd44c", null ],
+    [ "get_info", "classARDOUR_1_1AudioRegionImporter.html#a4db8796515d1435e302023b3d28b25de", null ],
+    [ "get_sound_dir", "classARDOUR_1_1AudioRegionImporter.html#a35338f77f5af32699955e77cc955e590", null ],
+    [ "get_xml", "classARDOUR_1_1AudioRegionImporter.html#a340d07934cd24de990d0feaf2f435083", null ],
+    [ "parse_source_xml", "classARDOUR_1_1AudioRegionImporter.html#a23c15cef9a542e94f9fef91d37e0de81", null ],
+    [ "parse_xml_region", "classARDOUR_1_1AudioRegionImporter.html#a20f5bdcf6ce8142ca30f16e0742fdd86", null ],
+    [ "prepare_region", "classARDOUR_1_1AudioRegionImporter.html#aca01ae9280bd77ad2db321238ba3d53f", null ],
+    [ "prepare_sources", "classARDOUR_1_1AudioRegionImporter.html#a967cf1f907c995bd2219eda411d8e8eb", null ],
+    [ "filenames", "classARDOUR_1_1AudioRegionImporter.html#a31a1524ecedd397feca958c225ac0464", null ],
+    [ "handler", "classARDOUR_1_1AudioRegionImporter.html#abb0844f10a3b3f5a3c370452a1feed5c", null ],
+    [ "id", "classARDOUR_1_1AudioRegionImporter.html#a7a9a92b3c6e727cf7a2526e50d96bc44", null ],
+    [ "old_id", "classARDOUR_1_1AudioRegionImporter.html#a9ee20df683d1795989082b4b0b6637c8", null ],
+    [ "region", "classARDOUR_1_1AudioRegionImporter.html#a3fa7def2ca361d415684bcc092f32286", null ],
+    [ "region_prepared", "classARDOUR_1_1AudioRegionImporter.html#affe58fb84fc0827bea5077b44af35b67", null ],
+    [ "sources_prepared", "classARDOUR_1_1AudioRegionImporter.html#a27160bd5db4b8308c6f4565cd154dbf1", null ],
+    [ "status", "classARDOUR_1_1AudioRegionImporter.html#ae47f3b98e15eb231e10f59f10a39436c", null ],
+    [ "xml_region", "classARDOUR_1_1AudioRegionImporter.html#a5ef548c88fef9f4518e9e04286111691", null ]
+];

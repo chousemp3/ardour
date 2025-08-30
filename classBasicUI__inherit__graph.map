@@ -1,0 +1,41 @@
+<map id="BasicUI" name="BasicUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,312,76,337"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1ControlProtocol.html" title=" " alt="" coords="124,312,311,337"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,322,124,322,124,327,90,327"/>
+<area shape="rect" id="Node000003" href="$classArdourSurface_1_1ArdourWebsockets.html" title=" " alt="" coords="359,5,601,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="221,297,235,243,261,173,279,136,301,100,327,68,357,40,376,29,379,33,360,44,331,71,305,103,284,138,266,175,240,244,226,299"/>
+<area shape="rect" id="Node000004" href="$classArdourSurface_1_1CC121.html" title=" " alt="" coords="398,55,562,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="224,297,241,252,269,195,307,138,331,113,357,90,396,73,399,77,360,95,334,116,311,142,274,198,246,254,229,299"/>
+<area shape="rect" id="Node000005" href="$classArdourSurface_1_1ContourDesignControlProtocol.html" title=" " alt="" coords="371,105,589,145"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="230,299,280,227,316,188,357,154,380,143,383,147,360,159,319,192,284,230,234,302"/>
+<area shape="rect" id="Node000006" href="$classArdourSurface_1_1FP8_1_1FaderPort8.html" title=" " alt="" coords="407,169,553,209"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="241,301,292,259,358,218,406,201,408,206,360,223,295,263,244,305"/>
+<area shape="rect" id="Node000007" href="$classArdourSurface_1_1LaunchControlXL.html" title=" " alt="" coords="365,233,595,259"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="258,304,358,267,404,256,405,261,359,273,260,309"/>
+<area shape="rect" id="Node000008" href="$classArdourSurface_1_1Maschine2.html" title=" " alt="" coords="384,283,576,308"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="324,310,383,303,384,309,324,315"/>
+<area shape="rect" id="Node000009" href="$classArdourSurface_1_1NS__MCU_1_1MackieControlProtocol.html" title=" " alt="" coords="391,333,569,373"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="324,333,391,340,390,346,324,339"/>
+<area shape="rect" id="Node000010" href="$classArdourSurface_1_1OSC.html" title=" " alt="" coords="405,397,555,423"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="258,341,306,362,359,382,408,395,406,400,358,387,304,367,256,346"/>
+<area shape="rect" id="Node000011" href="$classArdourSurface_1_1US2400Protocol.html" title=" " alt="" coords="367,447,593,472"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="242,345,293,390,325,412,360,432,395,444,394,449,358,436,323,417,290,394,239,349"/>
+<area shape="rect" id="Node000012" href="$classGenericMidiControlProtocol.html" title=" " alt="" coords="380,496,580,521"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="235,347,285,415,320,451,360,481,388,493,386,498,357,486,316,455,281,419,231,351"/>
+<area shape="rect" id="Node000013" href="$classMIDISurface.html" title=" " alt="" coords="429,545,531,571"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="231,349,249,390,277,439,314,489,336,511,360,530,394,546,430,553,429,559,392,551,357,535,332,515,310,493,272,442,244,392,226,351"/>
+<area shape="rect" id="Node000020" href="$classWiimoteControlProtocol.html" title=" " alt="" coords="391,595,569,620"/>
+<area shape="poly" id="edge19_Node000002_Node000020" title=" " alt="" coords="228,350,243,400,270,463,308,527,333,555,360,580,392,596,390,601,357,584,329,559,304,530,265,465,238,402,222,352"/>
+<area shape="rect" id="Node000014" href="$classArdourSurface_1_1Console1.html" title=" " alt="" coords="664,407,847,432"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="544,552,573,545,600,531,610,521,617,510,623,487,629,464,636,452,648,441,668,430,670,434,651,445,641,456,634,466,628,489,621,512,614,524,603,535,575,550,545,558"/>
+<area shape="rect" id="Node000015" href="$classArdourSurface_1_1FaderPort.html" title=" " alt="" coords="664,456,847,481"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="544,548,573,541,600,530,614,521,623,512,633,501,648,492,682,479,684,484,651,496,637,506,627,515,618,525,603,535,574,546,545,553"/>
+<area shape="rect" id="Node000016" href="$classArdourSurface_1_1LP__X_1_1LaunchKey4.html" title=" " alt="" coords="679,506,832,546"/>
+<area shape="poly" id="edge15_Node000013_Node000016" title=" " alt="" coords="544,548,678,532,679,538,545,553"/>
+<area shape="rect" id="Node000017" href="$classArdourSurface_1_1LP__X_1_1LaunchPadX.html" title=" " alt="" coords="679,570,832,610"/>
+<area shape="poly" id="edge16_Node000013_Node000017" title=" " alt="" coords="545,563,679,578,678,584,544,568"/>
+<area shape="rect" id="Node000018" href="$classArdourSurface_1_1LaunchPadPro.html" title=" " alt="" coords="649,635,861,660"/>
+<area shape="poly" id="edge17_Node000013_Node000018" title=" " alt="" coords="545,562,574,569,603,580,618,590,627,600,637,610,651,620,683,632,681,637,648,624,633,614,623,604,614,594,600,584,573,574,544,567"/>
+<area shape="rect" id="Node000019" href="$classArdourSurface_1_1Push2.html" title=" " alt="" coords="675,684,836,709"/>
+<area shape="poly" id="edge18_Node000013_Node000019" title=" " alt="" coords="545,558,575,565,603,580,614,591,622,602,628,626,634,648,651,669,676,683,673,688,648,673,630,651,623,627,617,604,610,594,600,584,573,570,544,563"/>
+</map>

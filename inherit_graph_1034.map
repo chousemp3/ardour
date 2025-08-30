@@ -1,0 +1,115 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,1116,159,1141"/>
+<area shape="rect" id="Node000001" href="$classArrowTest.html" title=" " alt="" coords="265,5,351,31"/>
+<area shape="poly" id="edge347_Node000000_Node000001" title=" " alt="" coords="82,1102,94,881,119,543,135,371,155,220,178,104,191,65,205,40,217,29,232,22,264,15,265,20,234,27,220,34,209,44,196,67,183,105,161,220,141,372,124,544,99,881,87,1102"/>
+<area shape="rect" id="Node000002" href="$classAudioEngineTest.html" title=" " alt="" coords="243,55,373,80"/>
+<area shape="poly" id="edge348_Node000000_Node000002" title=" " alt="" coords="82,1102,95,890,120,568,137,405,157,260,179,150,191,113,205,90,222,76,242,68,244,73,225,81,209,93,196,115,184,152,162,261,142,405,125,569,100,891,87,1102"/>
+<area shape="rect" id="Node000003" href="$classAutomationListPropertyTest.html" title=" " alt="" coords="207,104,409,129"/>
+<area shape="poly" id="edge349_Node000000_Node000003" title=" " alt="" coords="82,1102,96,899,122,593,139,438,158,301,180,196,192,161,205,139,218,128,222,132,209,142,197,163,185,198,164,302,144,438,127,593,101,899,88,1102"/>
+<area shape="rect" id="Node000004" href="$classBBTTest.html" title=" " alt="" coords="271,153,345,179"/>
+<area shape="poly" id="edge350_Node000000_Node000004" title=" " alt="" coords="80,1102,81,921,86,789,95,646,109,503,132,371,146,313,163,262,182,220,205,188,219,177,236,169,270,162,271,168,237,174,222,181,209,192,187,223,168,264,151,315,137,372,115,504,100,646,91,789,87,921,86,1102"/>
+<area shape="rect" id="Node000005" href="$classBeatsTest.html" title=" " alt="" coords="265,203,351,228"/>
+<area shape="poly" id="edge351_Node000000_Node000005" title=" " alt="" coords="80,1102,83,929,88,805,98,669,113,534,135,410,149,355,165,308,183,268,205,238,218,227,233,219,265,212,266,218,235,224,221,231,209,241,188,270,170,310,154,357,140,411,118,535,103,670,93,805,88,929,86,1102"/>
+<area shape="rect" id="Node000006" href="$classConvertTest.html" title=" " alt="" coords="259,252,357,277"/>
+<area shape="poly" id="edge352_Node000000_Node000006" title=" " alt="" coords="81,1102,84,938,90,821,100,693,116,566,137,449,167,353,184,315,205,287,229,270,258,263,259,268,232,275,209,291,189,318,172,355,143,450,121,567,106,694,96,821,90,938,86,1102"/>
+<area shape="rect" id="Node000007" href="$classCurveTest.html" title=" " alt="" coords="265,301,351,327"/>
+<area shape="poly" id="edge353_Node000000_Node000007" title=" " alt="" coords="81,1102,86,946,104,716,119,597,140,488,169,398,186,363,205,336,218,326,232,318,264,311,265,316,234,323,220,330,209,340,190,366,174,400,146,489,124,598,109,717,92,946,86,1102"/>
+<area shape="rect" id="Node000008" href="$classDSPLoadCalculatorTest.html" title=" " alt="" coords="223,351,393,376"/>
+<area shape="poly" id="edge354_Node000000_Node000008" title=" " alt="" coords="81,1102,88,955,107,740,122,628,143,527,170,443,187,410,205,385,221,373,224,377,209,389,191,413,175,445,148,528,128,629,112,740,93,955,87,1102"/>
+<area shape="rect" id="Node000009" href="$classFPUTest.html" title=" " alt="" coords="271,400,345,425"/>
+<area shape="poly" id="edge355_Node000000_Node000009" title=" " alt="" coords="82,1102,90,964,110,764,126,660,146,566,172,488,188,458,205,435,219,424,236,416,270,409,271,415,237,421,222,428,209,439,192,461,177,490,151,567,131,661,115,764,95,964,87,1103"/>
+<area shape="rect" id="Node000010" href="$classFilesystemTest.html" title=" " alt="" coords="249,449,367,475"/>
+<area shape="poly" id="edge356_Node000000_Node000010" title=" " alt="" coords="82,1102,91,972,113,787,129,691,149,604,174,533,189,505,205,484,225,470,248,462,249,467,227,475,209,488,193,508,179,535,154,606,134,692,118,787,97,972,87,1102"/>
+<area shape="rect" id="Node000011" href="$classFrameposMinusBeatsTest.html" title=" " alt="" coords="214,499,402,524"/>
+<area shape="poly" id="edge357_Node000000_Node000011" title=" " alt="" coords="83,1102,93,981,116,810,132,723,152,643,176,578,190,553,205,533,220,522,223,526,209,537,194,556,181,580,157,645,137,724,121,811,99,981,88,1102"/>
+<area shape="rect" id="Node000012" href="$classFrameposPlusBeatsTest.html" title=" " alt="" coords="220,548,396,573"/>
+<area shape="poly" id="edge358_Node000000_Node000012" title=" " alt="" coords="83,1102,95,990,119,834,136,755,155,683,178,623,205,583,220,571,223,576,209,586,183,626,160,684,141,756,124,835,101,991,88,1103"/>
+<area shape="rect" id="Node000013" href="$classFramewalkToBeatsTest.html" title=" " alt="" coords="223,597,393,623"/>
+<area shape="poly" id="edge359_Node000000_Node000013" title=" " alt="" coords="84,1102,98,999,122,858,139,787,158,722,180,668,205,632,221,620,224,625,209,636,185,671,163,724,144,788,128,859,103,1000,89,1103"/>
+<area shape="rect" id="Node000014" href="$classGroupTest.html" title=" " alt="" coords="265,647,351,672"/>
+<area shape="poly" id="edge360_Node000000_Node000014" title=" " alt="" coords="84,1102,100,1008,126,882,142,819,161,761,182,714,205,681,233,665,264,657,265,663,235,669,208,685,187,716,166,763,148,820,131,883,105,1009,90,1103"/>
+<area shape="rect" id="Node000015" href="$classItemTest.html" title=" " alt="" coords="269,696,347,721"/>
+<area shape="poly" id="edge361_Node000000_Node000015" title=" " alt="" coords="81,1102,85,1029,102,928,117,875,139,822,168,773,205,731,235,713,268,706,269,712,237,718,208,735,172,776,144,825,123,877,107,930,90,1029,86,1102"/>
+<area shape="rect" id="Node000016" href="$classLoadSessionsTest.html" title=" " alt="" coords="240,745,376,771"/>
+<area shape="poly" id="edge362_Node000000_Node000016" title=" " alt="" coords="82,1102,89,1037,108,950,124,904,145,858,172,817,205,780,221,769,239,762,241,767,223,774,208,784,176,820,150,861,129,906,113,951,94,1038,87,1103"/>
+<area shape="rect" id="Node000017" href="$classMTDMTest.html" title=" " alt="" coords="263,795,353,820"/>
+<area shape="poly" id="edge363_Node000000_Node000017" title=" " alt="" coords="84,1102,94,1045,115,971,131,932,151,895,175,860,205,829,232,814,262,807,263,812,234,819,208,833,180,863,155,897,136,935,120,973,99,1046,89,1103"/>
+<area shape="rect" id="Node000018" href="$classMidnamTest.html" title=" " alt="" coords="257,844,359,869"/>
+<area shape="poly" id="edge364_Node000000_Node000018" title=" " alt="" coords="86,1101,99,1053,122,993,157,931,179,903,205,879,230,865,256,857,258,863,232,870,208,883,183,907,161,934,127,995,104,1055,91,1103"/>
+<area shape="rect" id="Node000019" href="$classMutexTest.html" title=" " alt="" coords="263,893,353,919"/>
+<area shape="poly" id="edge365_Node000000_Node000019" title=" " alt="" coords="90,1102,105,1063,130,1016,163,968,205,928,233,914,263,906,264,912,235,919,208,932,167,971,134,1018,110,1065,94,1104"/>
+<area shape="rect" id="Node000020" href="$classNatSortTest.html" title=" " alt="" coords="259,943,357,968"/>
+<area shape="poly" id="edge366_Node000000_Node000020" title=" " alt="" coords="95,1103,138,1039,169,1005,205,977,231,965,258,958,260,963,233,970,208,982,173,1009,142,1043,99,1106"/>
+<area shape="rect" id="Node000021" href="$classNoteTest.html" title=" " alt="" coords="269,992,347,1017"/>
+<area shape="poly" id="edge367_Node000000_Node000021" title=" " alt="" coords="103,1104,148,1064,176,1044,206,1026,237,1014,268,1007,269,1012,238,1020,208,1031,179,1048,151,1068,107,1108"/>
+<area shape="rect" id="Node000022" href="$classOptimizingLookupTableTest.html" title=" " alt="" coords="209,1041,407,1067"/>
+<area shape="poly" id="edge368_Node000000_Node000022" title=" " alt="" coords="122,1108,206,1075,246,1064,248,1069,208,1081,124,1113"/>
+<area shape="rect" id="Node000023" href="$classPluginsTest.html" title=" " alt="" coords="261,1091,355,1116"/>
+<area shape="poly" id="edge369_Node000000_Node000023" title=" " alt="" coords="172,1116,260,1106,261,1111,173,1121"/>
+<area shape="rect" id="Node000024" href="$classPolygonTest.html" title=" " alt="" coords="258,1140,358,1165"/>
+<area shape="poly" id="edge370_Node000000_Node000024" title=" " alt="" coords="173,1136,258,1145,257,1150,172,1141"/>
+<area shape="rect" id="Node000025" href="$classRCUTest.html" title=" " alt="" coords="270,1189,346,1215"/>
+<area shape="poly" id="edge371_Node000000_Node000025" title=" " alt="" coords="126,1144,207,1174,270,1191,269,1196,206,1179,124,1149"/>
+<area shape="rect" id="Node000026" href="$classRangeTest.html" title=" " alt="" coords="263,1239,353,1264"/>
+<area shape="poly" id="edge372_Node000000_Node000026" title=" " alt="" coords="108,1149,152,1188,208,1224,235,1234,264,1242,262,1247,234,1240,205,1228,149,1192,104,1153"/>
+<area shape="rect" id="Node000027" href="$classReallocPoolTest.html" title=" " alt="" coords="246,1288,370,1313"/>
+<area shape="poly" id="edge373_Node000000_Node000027" title=" " alt="" coords="99,1152,143,1213,173,1246,208,1273,247,1289,244,1294,205,1278,170,1250,139,1217,95,1155"/>
+<area shape="rect" id="Node000028" href="$classRenderTest.html" title=" " alt="" coords="261,1337,355,1363"/>
+<area shape="poly" id="edge374_Node000000_Node000028" title=" " alt="" coords="95,1153,111,1191,135,1237,167,1284,208,1322,233,1336,261,1343,260,1348,232,1341,205,1327,163,1287,130,1240,106,1194,90,1155"/>
+<area shape="rect" id="Node000029" href="$classResampledSourceTest.html" title=" " alt="" coords="225,1387,391,1412"/>
+<area shape="poly" id="edge375_Node000000_Node000029" title=" " alt="" coords="91,1154,105,1201,128,1260,162,1321,183,1348,208,1372,230,1384,227,1389,205,1376,179,1352,157,1324,123,1263,100,1203,86,1156"/>
+<area shape="rect" id="Node000030" href="$classSMFTest.html" title=" " alt="" coords="271,1436,345,1461"/>
+<area shape="poly" id="edge376_Node000000_Node000030" title=" " alt="" coords="89,1155,100,1211,121,1283,136,1321,156,1358,180,1392,208,1421,238,1438,271,1445,270,1450,237,1443,205,1425,176,1395,151,1361,132,1323,116,1285,94,1212,84,1156"/>
+<area shape="rect" id="Node000031" href="$classScalarPropertiesTest.html" title=" " alt="" coords="231,1485,385,1511"/>
+<area shape="poly" id="edge377_Node000000_Node000031" title=" " alt="" coords="87,1155,95,1219,114,1305,130,1350,150,1394,176,1435,208,1471,232,1485,229,1490,205,1475,172,1438,146,1397,125,1352,109,1306,90,1220,82,1155"/>
+<area shape="rect" id="Node000032" href="$classSequenceTest.html" title=" " alt="" coords="253,1535,363,1560"/>
+<area shape="poly" id="edge378_Node000000_Node000032" title=" " alt="" coords="86,1155,91,1227,108,1326,123,1379,145,1430,173,1478,208,1520,229,1534,253,1541,252,1546,227,1538,205,1524,168,1481,140,1433,118,1381,103,1327,85,1228,81,1155"/>
+<area shape="rect" id="Node000033" href="$classSessionTest.html" title=" " alt="" coords="259,1584,357,1609"/>
+<area shape="poly" id="edge379_Node000000_Node000033" title=" " alt="" coords="85,1155,87,1236,92,1289,101,1347,117,1407,139,1467,169,1521,208,1569,232,1584,259,1592,258,1597,230,1589,205,1573,165,1524,134,1469,112,1409,96,1348,87,1290,81,1236,80,1155"/>
+<area shape="rect" id="Node000034" href="$classSha1Test.html" title=" " alt="" coords="268,1633,348,1659"/>
+<area shape="poly" id="edge380_Node000000_Node000034" title=" " alt="" coords="89,1154,103,1256,128,1396,144,1467,163,1531,185,1584,209,1619,221,1629,236,1636,268,1643,267,1648,235,1641,219,1633,205,1622,180,1586,158,1533,139,1468,123,1397,98,1257,84,1155"/>
+<area shape="rect" id="Node000035" href="$classSignalsTest.html" title=" " alt="" coords="261,1683,355,1708"/>
+<area shape="poly" id="edge381_Node000000_Node000035" title=" " alt="" coords="88,1155,101,1266,125,1420,141,1499,161,1571,183,1629,209,1668,233,1684,261,1691,260,1697,231,1689,205,1672,178,1631,155,1572,136,1500,119,1421,96,1266,83,1155"/>
+<area shape="rect" id="Node000036" href="$classStringConvertTest.html" title=" " alt="" coords="239,1732,377,1757"/>
+<area shape="poly" id="edge382_Node000000_Node000036" title=" " alt="" coords="88,1155,99,1275,122,1445,138,1531,158,1610,181,1674,194,1699,209,1717,223,1729,240,1736,238,1741,220,1733,205,1721,190,1702,176,1677,153,1611,133,1532,116,1445,94,1276,83,1155"/>
+<area shape="rect" id="Node000037" href="$classTempoMapCutBufferTest.html" title=" " alt="" coords="218,1781,398,1807"/>
+<area shape="poly" id="edge383_Node000000_Node000037" title=" " alt="" coords="87,1155,97,1284,118,1468,135,1563,155,1649,179,1720,193,1747,209,1767,225,1779,222,1783,205,1771,189,1749,175,1722,150,1650,129,1564,113,1469,92,1285,82,1155"/>
+<area shape="rect" id="Node000038" href="$classTempoMapTest.html" title=" " alt="" coords="249,1831,367,1856"/>
+<area shape="poly" id="edge384_Node000000_Node000038" title=" " alt="" coords="87,1155,95,1293,115,1492,131,1595,152,1688,178,1765,192,1794,209,1816,227,1830,249,1837,248,1842,225,1834,205,1820,188,1797,173,1767,147,1690,126,1596,110,1493,90,1294,82,1156"/>
+<area shape="rect" id="Node000039" href="$classTempoTest.html" title=" " alt="" coords="263,1880,353,1905"/>
+<area shape="poly" id="edge385_Node000000_Node000039" title=" " alt="" coords="87,1155,93,1301,112,1515,128,1626,149,1727,176,1810,191,1842,209,1865,233,1882,263,1889,262,1895,231,1887,205,1869,187,1844,171,1812,144,1728,123,1627,107,1516,88,1302,81,1155"/>
+<area shape="rect" id="Node000040" href="$classTestNeedingSession.html" title=" " alt="" coords="232,1929,384,1955"/>
+<area shape="poly" id="edge386_Node000000_Node000040" title=" " alt="" coords="86,1155,92,1310,109,1539,125,1657,146,1766,174,1855,190,1889,209,1915,233,1931,230,1936,205,1919,186,1892,169,1857,141,1767,120,1658,104,1540,86,1311,81,1155"/>
+<area shape="rect" id="Node000051" href="$classTimelineTest.html" title=" " alt="" coords="255,1979,361,2004"/>
+<area shape="poly" id="edge397_Node000000_Node000051" title=" " alt="" coords="86,1155,90,1318,96,1435,106,1562,122,1689,143,1805,172,1900,189,1937,209,1964,230,1979,256,1987,254,1992,228,1984,205,1968,185,1939,167,1902,138,1806,116,1689,101,1562,91,1435,85,1318,81,1155"/>
+<area shape="rect" id="Node000052" href="$classTimerTest.html" title=" " alt="" coords="265,2028,351,2053"/>
+<area shape="poly" id="edge398_Node000000_Node000052" title=" " alt="" coords="86,1155,89,1327,94,1451,103,1586,118,1720,140,1844,154,1898,170,1945,188,1984,209,2014,220,2024,234,2031,265,2038,264,2043,233,2036,217,2028,205,2017,184,1987,165,1947,149,1899,135,1845,113,1721,98,1586,88,1451,83,1327,81,1155"/>
+<area shape="rect" id="Node000053" href="$classTypesTest.html" title=" " alt="" coords="265,2077,351,2103"/>
+<area shape="poly" id="edge399_Node000000_Node000053" title=" " alt="" coords="86,1155,87,1336,92,1467,100,1609,115,1752,137,1883,152,1940,168,1990,187,2032,209,2063,221,2073,235,2080,266,2087,264,2092,233,2085,218,2077,205,2066,183,2034,163,1992,147,1942,132,1884,110,1752,95,1610,86,1467,82,1336,80,1155"/>
+<area shape="rect" id="Node000054" href="$classWindowsTimerUtilsTest.html" title=" " alt="" coords="221,2127,395,2152"/>
+<area shape="poly" id="edge400_Node000000_Node000054" title=" " alt="" coords="85,1155,85,1344,89,1482,98,1632,112,1783,135,1921,149,1982,166,2035,186,2079,209,2112,224,2125,221,2129,205,2116,181,2082,161,2037,144,1984,129,1922,107,1784,92,1633,84,1482,80,1344,80,1155"/>
+<area shape="rect" id="Node000055" href="$classXMLTest.html" title=" " alt="" coords="271,2176,345,2201"/>
+<area shape="poly" id="edge401_Node000000_Node000055" title=" " alt="" coords="87,1155,100,1366,126,1687,143,1850,162,1994,185,2103,196,2140,209,2162,222,2172,237,2180,271,2187,270,2192,235,2185,219,2177,205,2165,192,2142,179,2104,157,1995,137,1851,120,1688,95,1366,82,1155"/>
+<area shape="rect" id="Node000056" href="$classXPathTest.html" title=" " alt="" coords="265,2225,351,2251"/>
+<area shape="poly" id="edge402_Node000000_Node000056" title=" " alt="" coords="87,1155,99,1376,124,1713,141,1884,161,2036,183,2151,196,2189,209,2212,220,2222,234,2229,266,2236,264,2241,233,2234,218,2227,205,2216,191,2191,178,2152,155,2037,135,1885,119,1714,94,1376,82,1155"/>
+<area shape="rect" id="Node000041" href="$classARDOUR_1_1MIDIClock__Test.html" title=" " alt="" coords="457,1856,644,1881"/>
+<area shape="poly" id="edge387_Node000040_Node000041" title=" " alt="" coords="381,1923,408,1914,456,1890,492,1879,494,1884,458,1895,410,1919,383,1928"/>
+<area shape="rect" id="Node000042" href="$classAudioRegionTest.html" title=" " alt="" coords="485,1905,616,1931"/>
+<area shape="poly" id="edge388_Node000040_Node000042" title=" " alt="" coords="398,1930,485,1922,485,1927,398,1936"/>
+<area shape="rect" id="Node000049" href="$classControlSurfacesTest.html" title=" " alt="" coords="475,1955,626,1980"/>
+<area shape="poly" id="edge395_Node000040_Node000049" title=" " alt="" coords="398,1949,475,1957,475,1962,398,1954"/>
+<area shape="rect" id="Node000050" href="$classLuaScriptTest.html" title=" " alt="" coords="497,2004,605,2029"/>
+<area shape="poly" id="edge396_Node000040_Node000050" title=" " alt="" coords="387,1956,410,1964,435,1976,458,1989,497,2002,496,2007,456,1994,432,1981,408,1968,385,1961"/>
+<area shape="rect" id="Node000043" href="$classAudioRegionReadTest.html" title=" " alt="" coords="719,1781,882,1807"/>
+<area shape="poly" id="edge389_Node000042_Node000043" title=" " alt="" coords="628,1899,642,1891,658,1873,665,1854,673,1834,690,1816,718,1802,720,1807,694,1820,678,1837,670,1856,663,1876,646,1895,630,1904"/>
+<area shape="rect" id="Node000044" href="$classCombineRegionsTest.html" title=" " alt="" coords="721,1831,880,1856"/>
+<area shape="poly" id="edge390_Node000042_Node000044" title=" " alt="" coords="618,1899,643,1890,667,1877,691,1865,729,1853,731,1859,693,1870,669,1882,645,1895,620,1904"/>
+<area shape="rect" id="Node000045" href="$classPlaylistEquivalentRegionsTest.html" title=" " alt="" coords="692,1880,909,1905"/>
+<area shape="poly" id="edge391_Node000042_Node000045" title=" " alt="" coords="629,1907,691,1901,692,1906,630,1913"/>
+<area shape="rect" id="Node000046" href="$classPlaylistLayeringTest.html" title=" " alt="" coords="725,1929,877,1955"/>
+<area shape="poly" id="edge392_Node000042_Node000046" title=" " alt="" coords="630,1923,725,1932,724,1937,630,1928"/>
+<area shape="rect" id="Node000047" href="$classPlaylistReadTest.html" title=" " alt="" coords="736,1979,865,2004"/>
+<area shape="poly" id="edge393_Node000042_Node000047" title=" " alt="" coords="622,1932,645,1940,669,1952,693,1964,736,1976,735,1981,691,1968,667,1956,643,1944,621,1937"/>
+<area shape="rect" id="Node000048" href="$classRegionNamingTest.html" title=" " alt="" coords="729,2028,873,2053"/>
+<area shape="poly" id="edge394_Node000042_Node000048" title=" " alt="" coords="630,1931,646,1940,663,1958,670,1978,678,1996,694,2013,730,2030,727,2034,690,2017,673,1999,665,1980,658,1961,642,1944,628,1936"/>
+</map>

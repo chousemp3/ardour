@@ -1,0 +1,25 @@
+<map id="PannerEditor" name="PannerEditor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="107,592,211,617"/>
+<area shape="rect" id="Node000011" href="$classMonoPannerEditor.html" title=" " alt="" coords="5,665,145,691"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="137,628,91,667,87,663,134,624"/>
+<area shape="rect" id="Node000012" href="$classStereoPannerEditor.html" title=" " alt="" coords="170,665,317,691"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="185,624,231,663,228,667,182,628"/>
+<area shape="rect" id="Node000002" href="$classArdourDialog.html" title=" " alt="" coords="106,519,213,544"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,558,162,592,157,592,157,558"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1Dialog.html" title=" " alt="" coords="27,445,121,471"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="100,477,147,516,144,520,96,481"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Window.html" title=" " alt="" coords="21,372,127,397"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="77,411,77,445,71,445,71,411"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Bin.html" title=" " alt="" coords="37,299,111,324"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="77,338,77,372,71,372,71,338"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1Container.html" title=" " alt="" coords="16,225,132,251"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="77,264,77,299,71,299,71,264"/>
+<area shape="rect" id="Node000007" href="$classGtk_1_1Widget.html" title=" " alt="" coords="25,152,123,177"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="77,191,77,225,71,225,71,191"/>
+<area shape="rect" id="Node000008" href="$classGtk_1_1Object.html" title=" " alt="" coords="27,79,121,104"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="77,118,77,152,71,152,71,118"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="25,5,123,31"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="77,44,77,79,71,79,71,44"/>
+<area shape="rect" id="Node000010" href="$classARDOUR_1_1SessionHandlePtr.html" title=" " alt="" coords="145,445,347,471"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="223,481,175,521,172,516,220,477"/>
+</map>

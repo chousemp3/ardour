@@ -1,0 +1,11 @@
+<map id="application_bar.h" name="application_bar.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="141,5,274,31"/>
+<area shape="rect" id="Node000002" href="$editor_8h.html" title=" " alt="" coords="5,79,76,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,38,69,81,67,76,167,34"/>
+<area shape="rect" id="Node000003" href="$mixer__ui_8h.html" title=" " alt="" coords="101,79,191,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,43,158,80,154,77,186,40"/>
+<area shape="rect" id="Node000004" href="$recorder__ui_8h.html" title=" " alt="" coords="215,79,322,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="228,40,261,77,257,80,224,43"/>
+<area shape="rect" id="Node000005" href="$trigger__page_8h.html" title=" " alt="" coords="347,79,463,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="253,33,373,76,371,81,251,38"/>
+</map>

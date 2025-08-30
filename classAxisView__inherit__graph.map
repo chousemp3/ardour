@@ -1,0 +1,35 @@
+<map id="AxisView" name="AxisView">
+<area shape="rect" id="Node000001" title=" " alt="" coords="321,152,404,177"/>
+<area shape="rect" id="Node000006" href="$classMeterStrip.html" title=" " alt="" coords="5,225,96,251"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="308,181,97,229,96,224,307,176"/>
+<area shape="rect" id="Node000007" href="$classMixerStrip.html" title=" " alt="" coords="120,225,208,251"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="319,184,197,228,196,223,317,179"/>
+<area shape="rect" id="Node000008" href="$classTimeAxisView.html" title=" " alt="" coords="232,225,347,251"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="343,189,303,227,299,223,339,185"/>
+<area shape="rect" id="Node000015" href="$classTrackRecordAxis.html" title=" " alt="" coords="371,225,501,251"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="386,185,426,223,422,227,383,189"/>
+<area shape="rect" id="Node000016" href="$classTriggerStrip.html" title=" " alt="" coords="525,225,621,251"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="410,179,540,223,538,228,408,184"/>
+<area shape="rect" id="Node000017" href="$classVCAMasterStrip.html" title=" " alt="" coords="646,225,770,251"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="418,175,653,223,652,228,417,180"/>
+<area shape="rect" id="Node000002" href="$classPBD_1_1ScopedConnectionList.html" title=" " alt="" coords="37,79,237,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,106,327,149,325,154,186,111"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1SessionHandlePtr.html" title=" " alt="" coords="262,79,463,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="365,118,365,152,360,152,360,118"/>
+<area shape="rect" id="Node000004" href="$classSelectable.html" title=" " alt="" coords="488,79,579,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="494,112,392,154,390,149,492,107"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="475,5,591,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="536,44,536,79,531,79,531,44"/>
+<area shape="rect" id="Node000009" href="$classAutomationTimeAxisView.html" title=" " alt="" coords="90,299,281,324"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="263,261,204,301,201,296,260,256"/>
+<area shape="rect" id="Node000010" href="$classStripableTimeAxisView.html" title=" " alt="" coords="305,299,479,324"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="319,256,377,296,374,301,316,261"/>
+<area shape="rect" id="Node000011" href="$classRouteTimeAxisView.html" title=" " alt="" coords="230,372,383,397"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="370,335,322,374,319,370,366,330"/>
+<area shape="rect" id="Node000014" href="$classVCATimeAxisView.html" title=" " alt="" coords="408,372,549,397"/>
+<area shape="poly" id="edge13_Node000010_Node000014" title=" " alt="" coords="418,330,466,370,463,374,415,335"/>
+<area shape="rect" id="Node000012" href="$classAudioTimeAxisView.html" title=" " alt="" coords="145,445,297,471"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="284,408,237,447,234,443,281,404"/>
+<area shape="rect" id="Node000013" href="$classMidiTimeAxisView.html" title=" " alt="" coords="322,445,465,471"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="333,404,381,443,377,447,329,408"/>
+</map>

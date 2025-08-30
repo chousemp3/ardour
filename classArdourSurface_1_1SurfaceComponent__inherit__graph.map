@@ -1,0 +1,13 @@
+<map id="ArdourSurface::SurfaceComponent" name="ArdourSurface::SurfaceComponent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,252,129"/>
+<area shape="rect" id="Node000002" href="$classArdourSurface_1_1ArdourFeedback.html" title=" " alt="" coords="300,5,527,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,95,227,67,299,39,341,28,343,33,301,45,229,72,168,100"/>
+<area shape="rect" id="Node000003" href="$classArdourSurface_1_1ArdourMixer.html" title=" " alt="" coords="313,55,514,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,99,339,77,340,83,217,104"/>
+<area shape="rect" id="Node000004" href="$classArdourSurface_1_1ArdourTransport.html" title=" " alt="" coords="301,104,526,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="266,114,300,114,300,119,266,119"/>
+<area shape="rect" id="Node000005" href="$classArdourSurface_1_1WebsocketsDispatcher.html" title=" " alt="" coords="314,154,513,194"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="206,129,314,151,313,157,205,135"/>
+<area shape="rect" id="Node000006" href="$classArdourSurface_1_1WebsocketsServer.html" title=" " alt="" coords="314,218,513,258"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="164,134,226,169,301,204,334,215,333,220,299,208,224,173,161,139"/>
+</map>

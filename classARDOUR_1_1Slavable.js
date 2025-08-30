@@ -1,0 +1,26 @@
+var classARDOUR_1_1Slavable =
+[
+    [ "Slavable", "classARDOUR_1_1Slavable.html#a2c24cd0c6165bf2cb7d8e0e9164e6849", null ],
+    [ "~Slavable", "classARDOUR_1_1Slavable.html#a996b995416349c607c94d65a4a7b4e3c", null ],
+    [ "assign", "classARDOUR_1_1Slavable.html#ac48fcd62158783849795e8098ce1353e", null ],
+    [ "assign_control", "classARDOUR_1_1Slavable.html#adb1dac869fafb173052b39310d0702b8", null ],
+    [ "assign_controls", "classARDOUR_1_1Slavable.html#a1036b891d9d710e239a2a4b075adff0f", null ],
+    [ "assigned_to", "classARDOUR_1_1Slavable.html#a375f2faa2667815e81089c41abaff936", null ],
+    [ "automation_control", "classARDOUR_1_1Slavable.html#a93656968dce6b8672966a4049fd5bf39", null ],
+    [ "do_assign", "classARDOUR_1_1Slavable.html#a286a7c070126992ba8dbfbab53c13fb4", null ],
+    [ "get_state", "classARDOUR_1_1Slavable.html#aa54956c825dfedea5391416eb826799b", null ],
+    [ "masters", "classARDOUR_1_1Slavable.html#a9f349133aa94c5d7644ddcfa58263801", null ],
+    [ "set_state", "classARDOUR_1_1Slavable.html#a19640af4dd9bb825dfbe66855d91d8a4", null ],
+    [ "slavables", "classARDOUR_1_1Slavable.html#a0a2a4d4192b596facaa87e08d57b9015", null ],
+    [ "unassign", "classARDOUR_1_1Slavable.html#a630288343b8b0c9e660a067d1ae622b5", null ],
+    [ "unassign_control", "classARDOUR_1_1Slavable.html#a823b68340a2da22b7e0335978ba4147b", null ],
+    [ "unassign_controls", "classARDOUR_1_1Slavable.html#acdfda17a1ce2a26811ab783c05b99736", null ],
+    [ "weak_unassign", "classARDOUR_1_1Slavable.html#afd8d926067202bf854b5c9ef1f434ad7", null ],
+    [ "_masters", "classARDOUR_1_1Slavable.html#afdd74e2fbf516f31803bcf800564cdbf", null ],
+    [ "Assign", "classARDOUR_1_1Slavable.html#a602da44fce42f1688b87eb03b834a7dc", null ],
+    [ "assign_connection", "classARDOUR_1_1Slavable.html#a1c175ed556c295eab8ff8bfcc2fc68ab", null ],
+    [ "AssignmentChange", "classARDOUR_1_1Slavable.html#a27e50d626b439badddc608a818b24f55", null ],
+    [ "master_lock", "classARDOUR_1_1Slavable.html#aefde87a90374546cd68f52c38659326f", null ],
+    [ "unassign_connections", "classARDOUR_1_1Slavable.html#af2ec21fddb5da4343164fd7a9d7ea911", null ],
+    [ "xml_node_name", "classARDOUR_1_1Slavable.html#ab04eddbbee89d1f439e6096b06ef24e3", null ]
+];

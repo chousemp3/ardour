@@ -1,0 +1,11 @@
+<map id="ARDOUR::TimecodeTransportMaster" name="ARDOUR::TimecodeTransportMaster">
+<area shape="rect" id="Node000001" title=" " alt="" coords="135,152,345,192"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1LTC__TransportMaster.html" title=" " alt="" coords="5,240,227,265"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="200,202,136,242,133,238,197,197"/>
+<area shape="rect" id="Node000005" href="$classARDOUR_1_1MTC__TransportMaster.html" title=" " alt="" coords="251,240,477,265"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="283,197,347,238,344,242,280,202"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1TransportMaster.html" title="The TransportMaster interface can be used to sync ARDOURs tempo to an external source like MTC,..." alt="" coords="144,79,336,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,118,243,152,237,152,237,118"/>
+<area shape="rect" id="Node000003" href="$classPBD_1_1Stateful.html" title=" " alt="" coords="186,5,294,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="243,44,243,79,237,79,237,44"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="PBD::Pool" name="PBD::Pool">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,91,80"/>
+<area shape="rect" id="Node000002" href="$classPBD_1_1CrossThreadPool.html" title=" " alt="" coords="177,5,343,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,49,138,39,189,28,190,33,139,45,105,54"/>
+<area shape="rect" id="Node000003" href="$classPBD_1_1MultiAllocSingleReleasePool.html" title=" " alt="" coords="139,55,381,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="104,65,138,65,138,70,104,70"/>
+<area shape="rect" id="Node000004" href="$classPBD_1_1SingleAllocMultiReleasePool.html" title=" " alt="" coords="139,104,381,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="105,80,139,89,196,101,194,107,138,94,103,85"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="audiographer" name="audiographer">
+<area shape="rect" id="node1" href="dir_89f63984a62c2b4aee0df15bab90aa64.html" title="pbd" alt="" coords="247,209,294,235"/>
+<area shape="rect" id="node2" href="dir_e551ebda0baecb30d3d2e6aae42e8387.html" title="ardour" alt="" coords="319,209,383,235"/>
+<area shape="rect" id="node4" href="dir_9cb6f99036b1b7676f36cf48520ef26d.html" title="audiographer" alt="" coords="117,136,225,161"/>
+<area shape="poly" id="edge1" href="dir_000008_000064.html" alt="" coords="188,159,245,199,242,203,185,164"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000008_000064.html" title="15" alt="" coords="236,184,253,199"/>
+<area shape="poly" id="edge2" href="dir_000008_000003.html" alt="" coords="201,159,310,202,308,207,199,164"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000008_000003.html" title="4" alt="" coords="303,187,312,202"/>
+<area shape="rect" id="node5" href="dir_e4cc69e70345342d3b3512742763ff25.html" title="private" alt="" coords="137,209,205,235"/>
+<area shape="poly" id="edge3" href="dir_000008_000069.html" alt="" coords="166,162,165,196,159,196,161,162"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000008_000069.html" title="3" alt="" coords="165,183,174,197"/>
+<area shape="poly" id="edge4" href="dir_000069_000008.html" alt="" coords="175,209,177,175,182,175,180,209"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000069_000008.html" title="2" alt="" coords="167,173,176,188"/>
+<area shape="rect" id="node6" href="dir_7103d8c9f8d10d5a494fcb51c4542e06.html" title="tests" alt="" coords="38,63,93,88"/>
+<area shape="poly" id="edge5" href="dir_000095_000008.html" alt="" coords="84,86,144,126,141,131,81,90"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000095_000008.html" title="2" alt="" coords="138,111,148,126"/>
+<area shape="rect" id="clust2" href="dir_819215e2bc5d94e684711f346339f33a.html" alt="" coords="27,52,236,245"/>
+<area shape="rect" id="clust1" href="dir_6719ab1f1f7655efc2fa43f7eb574fd1.html" title="libs" alt="" coords="16,16,393,256"/>
+</map>

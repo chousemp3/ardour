@@ -1,0 +1,13 @@
+<map id="boundary.h" name="boundary.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="202,5,295,31"/>
+<area shape="rect" id="Node000002" href="$midi__view_8h.html" title=" " alt="" coords="199,79,299,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,44,251,79,246,79,246,44"/>
+<area shape="rect" id="Node000003" href="$midi__region__view_8h.html" title=" " alt="" coords="15,152,163,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="212,112,116,154,114,149,210,107"/>
+<area shape="rect" id="Node000005" href="$patch__change_8h.html" title=" " alt="" coords="187,152,311,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="251,118,251,152,246,152,246,118"/>
+<area shape="rect" id="Node000006" href="$pianoroll__midi__view_8h.html" title=" " alt="" coords="335,152,499,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="289,107,390,149,388,154,287,112"/>
+<area shape="rect" id="Node000004" href="$selection__templates_8h.html" title=" " alt="" coords="5,225,172,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="91,191,91,225,86,225,86,191"/>
+</map>

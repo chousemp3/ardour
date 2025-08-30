@@ -1,0 +1,15 @@
+<map id="ARDOUR::ExportFormatMPEG" name="ARDOUR::ExportFormatMPEG">
+<area shape="rect" id="Node000001" title=" " alt="" coords="515,116,728,141"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1ExportFormat.html" title="Base class for formats." alt="" coords="276,63,451,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="440,88,560,113,559,119,438,93"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1ExportFormatBase.html" title=" " alt="" coords="5,5,212,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="180,31,307,60,306,65,178,36"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1ExportFormatBase_1_1SelectableCompatible.html" title="Class for managing selection and compatibility states." alt="" coords="5,55,212,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="226,73,276,73,276,78,226,78"/>
+<area shape="rect" id="Node000005" href="$classARDOUR_1_1HasSampleFormat.html" title="Class to be inherited by export formats that have a selectable sample format." alt="" coords="260,116,467,141"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="480,126,514,126,514,131,480,131"/>
+<area shape="rect" id="Node000006" href="$classPBD_1_1ScopedConnectionList.html" title=" " alt="" coords="9,120,209,145"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="222,128,260,128,260,133,222,134"/>
+<area shape="rect" id="Node000007" href="$classARDOUR_1_1HasCodecQuality.html" title=" " alt="" coords="264,165,463,191"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="443,160,554,139,555,144,444,165"/>
+</map>

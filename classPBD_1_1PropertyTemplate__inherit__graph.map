@@ -1,0 +1,39 @@
+<map id="PBD::PropertyTemplate&lt; T &gt;" name="PBD::PropertyTemplate&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="197,419,408,444"/>
+<area shape="rect" id="Node000003" href="$classPBD_1_1Property.html" title=" " alt="" coords="483,5,653,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="303,405,314,332,338,233,358,180,383,129,415,81,454,40,481,24,484,29,458,44,419,84,388,131,362,182,343,234,319,333,309,405"/>
+<area shape="rect" id="Node000004" href="$classPBD_1_1Property.html" title=" " alt="" coords="477,55,659,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="305,405,319,340,345,255,365,210,389,166,419,126,454,91,475,78,478,82,458,95,423,129,394,169,370,212,350,257,324,342,310,406"/>
+<area shape="rect" id="Node000005" href="$classPBD_1_1Property.html" title=" " alt="" coords="475,105,661,145"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="309,404,326,351,356,284,398,214,424,182,454,155,474,142,476,147,458,159,428,186,402,218,361,287,331,353,314,406"/>
+<area shape="rect" id="Node000006" href="$classPBD_1_1Property.html" title=" " alt="" coords="475,169,661,209"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="313,405,334,364,365,314,406,262,454,218,476,206,479,211,458,223,409,266,370,317,339,367,318,407"/>
+<area shape="rect" id="Node000007" href="$classPBD_1_1Property.html" title=" " alt="" coords="483,233,653,259"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="318,405,372,336,411,299,455,268,481,256,484,261,457,272,414,303,376,340,322,409"/>
+<area shape="rect" id="Node000008" href="$classPBD_1_1Property.html" title=" " alt="" coords="471,283,665,308"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="326,407,382,361,417,337,455,317,487,306,489,311,457,322,420,342,385,365,329,411"/>
+<area shape="rect" id="Node000009" href="$classPBD_1_1Property.html" title=" " alt="" coords="475,332,661,357"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="344,410,455,367,502,355,504,360,457,373,346,415"/>
+<area shape="rect" id="Node000010" href="$classPBD_1_1Property.html" title=" " alt="" coords="475,382,661,422"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="421,416,474,410,475,415,422,421"/>
+<area shape="rect" id="Node000011" href="$classPBD_1_1Property.html" title=" " alt="" coords="457,447,679,472"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="422,441,457,445,457,450,421,447"/>
+<area shape="rect" id="Node000012" href="$classPBD_1_1Property.html" title=" " alt="" coords="476,497,660,537"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="352,446,457,482,496,494,494,499,455,487,351,451"/>
+<area shape="rect" id="Node000013" href="$classPBD_1_1Property.html" title=" " alt="" coords="489,561,647,587"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="328,452,384,500,419,525,457,546,492,559,490,564,455,551,417,530,381,504,325,456"/>
+<area shape="rect" id="Node000014" href="$classPBD_1_1Property.html" title=" " alt="" coords="471,611,665,636"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="321,455,344,488,375,526,414,565,457,597,482,608,480,613,455,602,410,569,371,530,340,491,317,458"/>
+<area shape="rect" id="Node000015" href="$classPBD_1_1Property.html" title=" " alt="" coords="475,661,661,701"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="317,456,338,498,369,549,409,602,458,647,478,658,475,663,454,651,405,605,364,552,333,500,312,458"/>
+<area shape="rect" id="Node000016" href="$classPBD_1_1Property.html" title=" " alt="" coords="456,725,680,751"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="313,457,330,511,358,580,378,616,401,651,427,683,458,711,480,723,477,728,454,715,423,687,396,654,373,619,354,582,325,513,308,458"/>
+<area shape="rect" id="Node000017" href="$classPBD_1_1Property.html" title=" " alt="" coords="475,775,661,800"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="311,457,324,520,351,603,370,647,394,689,423,728,458,761,476,772,473,777,454,765,419,731,390,692,366,649,346,605,319,521,305,458"/>
+<area shape="rect" id="Node000018" href="$classPBD_1_1Property.html" title=" " alt="" coords="493,824,643,849"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="309,457,320,529,344,625,364,676,388,725,420,771,458,811,474,821,493,828,491,833,472,826,454,815,415,775,384,728,359,678,339,626,314,530,304,458"/>
+<area shape="rect" id="Node000002" href="$classPBD_1_1PropertyBase.html" title=" " alt="" coords="5,419,149,444"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,429,197,429,197,434,163,434"/>
+<area shape="rect" id="Node000019" href="$classPBD_1_1EnumProperty.html" title=" " alt="" coords="728,824,915,849"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="657,834,728,834,728,839,657,839"/>
+</map>

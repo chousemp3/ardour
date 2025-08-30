@@ -1,0 +1,29 @@
+<map id="Gtk::CellRenderer" name="Gtk::CellRenderer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="295,179,432,204"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1CellRendererPixbuf.html" title=" " alt="" coords="507,5,686,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="374,165,414,102,444,68,479,40,506,27,508,32,481,44,447,72,419,105,379,168"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1CellRendererProgress.html" title=" " alt="" coords="500,55,693,80"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="383,166,425,127,451,107,479,90,513,78,515,83,481,95,454,111,428,131,387,170"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1CellRendererSpinner.html" title=" " alt="" coords="503,104,690,129"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="402,170,479,139,526,127,528,132,481,145,404,175"/>
+<area shape="rect" id="Node000007" href="$classGtk_1_1CellRendererText.html" title=" " alt="" coords="515,153,679,179"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="445,180,514,172,515,178,446,185"/>
+<area shape="rect" id="Node000011" href="$classGtk_1_1CellRendererToggle.html" title=" " alt="" coords="507,203,686,228"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="446,197,508,204,507,209,445,202"/>
+<area shape="rect" id="Node000012" href="$classGtkmm2ext_1_1CellRendererColorSelector.html" title=" " alt="" coords="483,253,710,293"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="405,207,481,238,518,250,517,255,479,243,403,212"/>
+<area shape="rect" id="Node000013" href="$classGtkmm2ext_1_1CellRendererPixbufMulti.html" title=" " alt="" coords="480,317,713,357"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="385,213,426,259,452,282,481,302,506,314,504,319,479,307,449,287,422,263,381,217"/>
+<area shape="rect" id="Node000014" href="$classGtkmm2ext_1_1CellRendererPixbufToggle.html" title=" " alt="" coords="480,381,713,421"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="377,216,392,250,415,291,445,332,482,367,501,378,499,383,478,371,441,335,411,294,388,253,372,218"/>
+<area shape="rect" id="Node000002" href="$classGtk_1_1Object.html" title=" " alt="" coords="152,179,247,204"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,189,294,189,294,194,260,194"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,179,104,204"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,189,152,189,152,194,117,194"/>
+<area shape="rect" id="Node000008" href="$classGtk_1_1CellRendererAccel.html" title=" " alt="" coords="767,104,939,129"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="676,148,785,127,786,132,677,153"/>
+<area shape="rect" id="Node000009" href="$classGtk_1_1CellRendererCombo.html" title=" " alt="" coords="761,153,944,179"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="693,163,761,163,761,169,693,169"/>
+<area shape="rect" id="Node000010" href="$classGtk_1_1CellRendererSpin.html" title=" " alt="" coords="770,203,935,228"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="677,179,786,200,785,205,676,184"/>
+</map>

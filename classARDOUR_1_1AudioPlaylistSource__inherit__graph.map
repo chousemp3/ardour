@@ -1,0 +1,26 @@
+<map id="ARDOUR::AudioPlaylistSource" name="ARDOUR::AudioPlaylistSource">
+<area shape="rect" id="Node000001" title=" " alt="" coords="119,401,335,427"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1PlaylistSource.html" title=" " alt="" coords="236,328,415,353"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="300,363,244,403,241,399,297,359"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1Source.html" title=" " alt="" coords="252,255,383,280"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="323,293,327,328,321,328,318,294"/>
+<area shape="rect" id="Node000011" href="$classARDOUR_1_1AudioSource.html" title=" " alt="" coords="44,328,212,353"/>
+<area shape="poly" id="edge11_Node000011_Node000003" title=" " alt="" coords="275,287,160,330,158,325,273,282"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1SessionObject.html" title=" " alt="" coords="128,167,307,192"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="243,199,305,252,302,256,240,203"/>
+<area shape="rect" id="Node000005" href="$classARDOUR_1_1SessionHandleRef.html" title=" " alt="" coords="5,79,211,104"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="135,111,204,164,201,169,132,115"/>
+<area shape="rect" id="Node000006" href="$classPBD_1_1ScopedConnectionList.html" title=" " alt="" coords="8,5,208,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="111,44,111,79,105,79,105,44"/>
+<area shape="rect" id="Node000007" href="$classPBD_1_1StatefulDestructible.html" title=" " alt="" coords="235,79,421,104"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="304,115,234,169,231,164,300,111"/>
+<area shape="rect" id="Node000008" href="$classPBD_1_1Stateful.html" title=" " alt="" coords="253,5,361,31"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="317,43,327,78,322,79,312,45"/>
+<area shape="rect" id="Node000009" href="$classPBD_1_1Destructible.html" title=" " alt="" coords="385,5,521,31"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="423,40,350,81,347,76,420,35"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="331,152,501,207"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="377,218,333,256,329,252,374,214"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="156,359,212,399,209,403,153,363"/>
+<area shape="rect" id="Node000012" href="$classARDOUR_1_1AudioReadable.html" title=" " alt="" coords="35,255,221,280"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="131,294,131,328,125,328,125,294"/>
+</map>

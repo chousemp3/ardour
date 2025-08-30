@@ -1,0 +1,9 @@
+<map id="Gtk::Menu_Helpers::MenuElem" name="Gtk::Menu_Helpers::MenuElem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="208,37,363,77"/>
+<area shape="rect" id="Node000003" href="$classArdourWidgets_1_1ArdourDropdown_1_1LblMenuElement.html" title=" " alt="" coords="411,5,645,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="376,43,410,38,411,43,377,48"/>
+<area shape="rect" id="Node000004" href="$classArdourWidgets_1_1MetaButton_1_1MetaElement.html" title=" " alt="" coords="427,69,629,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="377,67,427,73,426,79,376,72"/>
+<area shape="rect" id="Node000002" href="$classGtk_1_1Menu__Helpers_1_1Element.html" title=" " alt="" coords="5,37,160,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,55,207,55,207,60,174,60"/>
+</map>

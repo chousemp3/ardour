@@ -1,0 +1,19 @@
+<map id="audio_backend.h" name="audio_backend.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="547,5,678,31"/>
+<area shape="rect" id="Node000002" href="$alsa__audiobackend_8h.html" title=" " alt="" coords="5,79,164,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="534,33,165,82,164,77,533,27"/>
+<area shape="rect" id="Node000003" href="$coreaudio__backend_8h.html" title=" " alt="" coords="188,79,347,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="544,36,324,81,323,76,543,31"/>
+<area shape="rect" id="Node000004" href="$dummy__audiobackend_8h.html" title=" " alt="" coords="371,79,553,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="577,39,488,81,486,76,575,34"/>
+<area shape="rect" id="Node000006" href="$graph_8h.html" title=" " alt="" coords="577,79,648,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="615,44,615,79,610,79,610,44"/>
+<area shape="rect" id="Node000007" href="$jack__audiobackend_8h.html" title=" " alt="" coords="672,79,831,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="648,34,730,76,727,81,646,39"/>
+<area shape="rect" id="Node000008" href="$portaudio__backend_8h.html" title=" " alt="" coords="855,79,1013,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="678,31,883,76,881,81,677,36"/>
+<area shape="rect" id="Node000009" href="$pulseaudio__backend_8h.html" title=" " alt="" coords="1037,79,1204,104"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="692,28,1040,76,1039,81,691,33"/>
+<area shape="rect" id="Node000005" href="$dummy__midi__seq_8h.html" title=" " alt="" coords="387,152,537,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="465,118,465,152,459,152,459,118"/>
+</map>

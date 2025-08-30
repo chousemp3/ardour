@@ -1,0 +1,9 @@
+<map id="ARDOUR::DummyAudioPort" name="ARDOUR::DummyAudioPort">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,225,208,251"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1DummyPort.html" title=" " alt="" coords="24,152,189,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,191,109,225,104,225,104,191"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1BackendPort.html" title=" " alt="" coords="23,79,191,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,118,109,152,104,152,104,118"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1ProtoPort.html" title=" " alt="" coords="33,5,180,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="109,44,109,79,104,79,104,44"/>
+</map>

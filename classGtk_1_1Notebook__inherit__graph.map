@@ -1,0 +1,19 @@
+<map id="Gtk::Notebook" name="Gtk::Notebook">
+<area shape="rect" id="Node000001" title=" " alt="" coords="605,95,721,121"/>
+<area shape="rect" id="Node000006" href="$classArdourSurface_1_1NS__MCU_1_1MackieControlProtocolGUI.html" title=" " alt="" coords="793,5,995,45"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="699,86,768,55,806,43,807,48,770,60,701,91"/>
+<area shape="rect" id="Node000007" href="$classArdourSurface_1_1OSC__GUI.html" title=" " alt="" coords="804,70,984,95"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="735,97,803,90,804,95,736,103"/>
+<area shape="rect" id="Node000008" href="$classArdourSurface_1_1US2400ProtocolGUI.html" title=" " alt="" coords="769,119,1019,145"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="735,113,773,117,772,122,735,118"/>
+<area shape="rect" id="Node000009" href="$classExportFileNotebook.html" title=" " alt="" coords="819,169,969,194"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="701,125,770,155,819,167,818,173,768,160,698,130"/>
+<area shape="rect" id="Node000002" href="$classGtk_1_1Container.html" title=" " alt="" coords="441,95,557,121"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="571,105,605,105,605,111,571,111"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1Widget.html" title=" " alt="" coords="295,95,393,121"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="407,105,441,105,441,111,407,111"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Object.html" title=" " alt="" coords="152,95,247,121"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="260,105,294,105,294,111,260,111"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,95,104,121"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="117,105,152,105,152,111,117,111"/>
+</map>

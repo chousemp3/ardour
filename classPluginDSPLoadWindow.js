@@ -1,0 +1,25 @@
+var classPluginDSPLoadWindow =
+[
+    [ "PluginDSPLoadWindow", "classPluginDSPLoadWindow.html#a0356ef7872f25c9901839c5b8fed0f47", null ],
+    [ "~PluginDSPLoadWindow", "classPluginDSPLoadWindow.html#a874cd05aeda425c5028bd56f5bb8575d", null ],
+    [ "add_pluginsert_to_display", "classPluginDSPLoadWindow.html#a9af66f615f1d9e47948410d42fef3422", null ],
+    [ "add_processor_to_display", "classPluginDSPLoadWindow.html#af506780c7b46843d0401983e22a9cf32", null ],
+    [ "clear_all_stats", "classPluginDSPLoadWindow.html#a757f55ee3915933f95af2a3a51e24802", null ],
+    [ "clear_pluginsert_stats", "classPluginDSPLoadWindow.html#a4ee1ee076180ec42f2388e6ca557a611", null ],
+    [ "clear_processor_stats", "classPluginDSPLoadWindow.html#a255b2b25620eef0ea494638f002b0963", null ],
+    [ "drop_references", "classPluginDSPLoadWindow.html#aa44a119d60bcc29a3ed23af0c81eba6b", null ],
+    [ "on_hide", "classPluginDSPLoadWindow.html#a89897728510e529505fc14d23da59879", null ],
+    [ "on_show", "classPluginDSPLoadWindow.html#aae3fb083d6f3a1deda7a53d79177a628", null ],
+    [ "refill_processors", "classPluginDSPLoadWindow.html#a4a9e86705ff228f5d51caffeb5bca1d5", null ],
+    [ "session_going_away", "classPluginDSPLoadWindow.html#ab773852d49faeb215afca15c7bdea519", null ],
+    [ "set_session", "classPluginDSPLoadWindow.html#a82e2acd4b557d36df4d8b5616f56d0ca", null ],
+    [ "sort_by_stats", "classPluginDSPLoadWindow.html#a062f082d863b07e651645c38a2cd483c", null ],
+    [ "_box", "classPluginDSPLoadWindow.html#a7b3283adcf77c2bd6d77d409c0200112", null ],
+    [ "_ctrlbox", "classPluginDSPLoadWindow.html#a18a1d69b516da11528e2cc0071cd61bb", null ],
+    [ "_processor_connections", "classPluginDSPLoadWindow.html#adb57c002c32dbc798b29dd6f33b5dd81", null ],
+    [ "_reset_button", "classPluginDSPLoadWindow.html#a833c79146646b9bf7717ad9fc34dac7d", null ],
+    [ "_route_connections", "classPluginDSPLoadWindow.html#a2cc76ed7e10c85c2162fee3ba2d30397", null ],
+    [ "_scroller", "classPluginDSPLoadWindow.html#a2284750fb9a4aebc62a5a5089133f48b", null ],
+    [ "_sort_avg_button", "classPluginDSPLoadWindow.html#a0a95c5ac598de232bd7348e9c21d3165", null ],
+    [ "_sort_max_button", "classPluginDSPLoadWindow.html#a4aa5bce221d8d5cf848122c8f94bc5ac", null ]
+];

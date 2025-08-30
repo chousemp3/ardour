@@ -1,0 +1,59 @@
+<map id="EditorDrag" name="EditorDrag">
+<area shape="rect" id="Node000001" title=" " alt="" coords="107,425,197,451"/>
+<area shape="rect" id="Node000003" href="$classBBTMarkerDrag.html" title=" " alt="" coords="264,5,388,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,411,164,328,182,217,208,111,225,69,243,40,262,27,265,31,247,44,230,71,214,112,187,218,169,328,159,412"/>
+<area shape="rect" id="Node000004" href="$classCursorDrag.html" title=" " alt="" coords="279,55,373,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="150,411,151,347,163,261,174,215,191,170,214,127,243,89,259,78,277,71,279,75,262,82,247,93,218,130,196,172,179,217,168,262,157,347,155,412"/>
+<area shape="rect" id="Node000005" href="$classMappingEndDrag.html" title=" " alt="" coords="259,104,393,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="151,412,155,356,169,283,181,244,197,206,217,170,244,139,260,127,263,132,247,143,222,173,201,208,186,246,174,284,161,356,156,412"/>
+<area shape="rect" id="Node000006" href="$classMappingTwistDrag.html" title=" " alt="" coords="255,153,397,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="153,411,160,363,176,304,203,242,221,213,244,188,260,177,263,181,247,192,225,216,207,244,181,305,166,365,158,412"/>
+<area shape="rect" id="Node000007" href="$classMarkerDrag.html" title=" " alt="" coords="277,203,375,228"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="156,411,166,373,183,326,208,278,244,237,275,221,278,225,247,241,213,281,188,328,171,374,161,413"/>
+<area shape="rect" id="Node000008" href="$classMeterMarkerDrag.html" title=" " alt="" coords="258,252,394,277"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="160,411,191,349,214,315,244,287,264,275,266,280,247,291,218,319,195,352,165,414"/>
+<area shape="rect" id="Node000009" href="$classMouseZoomDrag.html" title=" " alt="" coords="259,301,393,327"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="168,412,200,374,244,337,271,324,273,329,247,342,204,378,172,416"/>
+<area shape="rect" id="Node000010" href="$classRangeMarkerBarDrag.html" title=" " alt="" coords="245,351,407,376"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="185,416,244,386,279,374,281,379,246,391,187,421"/>
+<area shape="rect" id="Node000011" href="$classRegionCreateDrag.html" title=" " alt="" coords="255,400,397,425"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="211,427,254,420,255,426,211,432"/>
+<area shape="rect" id="Node000012" href="$classRegionCutDrag.html" title=" " alt="" coords="266,449,386,475"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="212,443,266,451,265,456,211,449"/>
+<area shape="rect" id="Node000013" href="$classRegionDrag.html" title=" " alt="" coords="277,499,375,524"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="187,455,246,485,278,496,276,501,244,490,185,460"/>
+<area shape="rect" id="Node000023" href="$classSelectionDrag.html" title=" " alt="" coords="269,548,383,573"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="172,460,204,499,247,534,270,546,268,550,244,539,200,502,168,464"/>
+<area shape="rect" id="Node000024" href="$classSelectionMarkerDrag.html" title=" " alt="" coords="247,597,405,623"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="165,462,195,524,219,556,247,584,266,595,264,600,244,588,215,560,191,526,160,465"/>
+<area shape="rect" id="Node000025" href="$classTempoCurveDrag.html" title=" " alt="" coords="259,647,393,672"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="161,464,171,502,188,547,213,594,247,633,264,644,262,649,244,637,209,597,183,550,166,503,156,465"/>
+<area shape="rect" id="Node000026" href="$classTempoEndDrag.html" title=" " alt="" coords="266,696,386,721"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="158,464,166,511,181,570,207,631,225,658,247,683,267,695,264,700,244,687,221,662,203,633,176,572,160,512,153,465"/>
+<area shape="rect" id="Node000027" href="$classTempoMarkerDrag.html" title=" " alt="" coords="255,745,397,771"/>
+<area shape="poly" id="edge26_Node000001_Node000027" title=" " alt="" coords="156,464,161,520,174,592,186,630,202,667,222,702,247,732,263,743,260,747,244,736,218,705,197,669,181,632,169,593,156,521,151,465"/>
+<area shape="rect" id="Node000028" href="$classTempoTwistDrag.html" title=" " alt="" coords="261,795,391,820"/>
+<area shape="poly" id="edge27_Node000001_Node000028" title=" " alt="" coords="155,464,157,528,168,613,180,659,196,703,218,745,247,781,263,793,259,797,243,785,214,748,191,705,175,660,163,614,151,529,150,464"/>
+<area shape="rect" id="Node000029" href="$classVideoTimeLineDrag.html" title=" " alt="" coords="251,844,401,869"/>
+<area shape="poly" id="edge28_Node000001_Node000029" title=" " alt="" coords="159,464,169,547,187,657,214,763,230,803,247,831,262,842,258,846,243,834,225,806,209,764,182,658,164,548,153,465"/>
+<area shape="rect" id="Node000002" href="$classDrag.html" title=" " alt="" coords="5,425,59,451"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,435,106,435,106,441,72,441"/>
+<area shape="rect" id="Node000014" href="$classFadeInDrag.html" title=" " alt="" coords="497,351,592,376"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="387,496,405,485,416,474,422,462,428,437,434,412,441,399,453,387,474,374,496,366,498,371,476,379,456,391,446,402,439,414,433,439,427,464,420,477,408,489,390,501"/>
+<area shape="rect" id="Node000015" href="$classFadeOutDrag.html" title=" " alt="" coords="491,400,598,425"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="387,494,405,485,420,473,428,461,438,448,453,436,490,420,492,425,456,440,442,452,433,464,423,477,408,490,390,499"/>
+<area shape="rect" id="Node000016" href="$classRegionBrushDrag.html" title=" " alt="" coords="477,449,612,475"/>
+<area shape="poly" id="edge15_Node000013_Node000016" title=" " alt="" coords="389,495,487,472,488,477,390,500"/>
+<area shape="rect" id="Node000017" href="$classRegionMotionDrag.html" title=" " alt="" coords="473,499,616,524"/>
+<area shape="poly" id="edge16_Node000013_Node000017" title=" " alt="" coords="389,509,473,509,473,514,389,514"/>
+<area shape="rect" id="Node000020" href="$classRegionSlipContentsDrag.html" title=" " alt="" coords="455,548,635,573"/>
+<area shape="poly" id="edge19_Node000013_Node000020" title=" " alt="" coords="390,523,488,545,487,551,389,528"/>
+<area shape="rect" id="Node000021" href="$classTimeFXDrag.html" title=" " alt="" coords="493,597,596,623"/>
+<area shape="poly" id="edge20_Node000013_Node000021" title=" " alt="" coords="389,525,408,534,423,547,433,560,442,572,456,584,494,599,492,604,453,588,438,576,428,563,419,551,405,539,387,530"/>
+<area shape="rect" id="Node000022" href="$classTrimDrag.html" title=" " alt="" coords="504,647,585,672"/>
+<area shape="poly" id="edge21_Node000013_Node000022" title=" " alt="" coords="389,523,408,535,420,547,427,560,433,586,439,610,445,622,456,633,479,646,505,653,503,658,477,651,453,637,441,625,434,612,428,587,422,562,416,550,405,539,386,527"/>
+<area shape="rect" id="Node000018" href="$classRegionInsertDrag.html" title=" " alt="" coords="683,475,817,500"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="629,499,682,493,683,498,630,504"/>
+<area shape="rect" id="Node000019" href="$classRegionMoveDrag.html" title=" " alt="" coords="683,524,817,549"/>
+<area shape="poly" id="edge18_Node000017_Node000019" title=" " alt="" coords="630,519,683,526,682,531,629,524"/>
+</map>

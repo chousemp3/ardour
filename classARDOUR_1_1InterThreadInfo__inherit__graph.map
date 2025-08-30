@@ -1,0 +1,9 @@
+<map id="ARDOUR::InterThreadInfo" name="ARDOUR::InterThreadInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="110,5,297,31"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1ImportStatus.html" title=" " alt="" coords="15,79,186,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,41,119,81,116,76,174,36"/>
+<area shape="rect" id="Node000004" href="$structARDOUR_1_1TimeFXRequest.html" title=" " alt="" coords="211,79,401,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="233,36,291,76,288,81,230,41"/>
+<area shape="rect" id="Node000003" href="$structEditor_1_1EditorImportStatus.html" title=" " alt="" coords="5,152,196,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,118,103,152,98,152,98,118"/>
+</map>

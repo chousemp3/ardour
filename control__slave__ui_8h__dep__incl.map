@@ -1,0 +1,9 @@
+<map id="control_slave_ui.h" name="control_slave_ui.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="75,5,215,31"/>
+<area shape="rect" id="Node000002" href="$mixer__strip_8h.html" title=" " alt="" coords="17,79,123,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,42,84,80,80,77,121,38"/>
+<area shape="rect" id="Node000004" href="$vca__master__strip_8h.html" title=" " alt="" coords="147,79,294,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="169,38,210,76,206,80,165,42"/>
+<area shape="rect" id="Node000003" href="$strip__selection_8h.html" title=" " alt="" coords="5,152,135,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="73,118,73,152,67,152,67,118"/>
+</map>

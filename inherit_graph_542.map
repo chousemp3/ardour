@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classARDOUR_1_1AlsaMidiIO.html" title=" " alt="" coords="5,80,163,105"/>
+<area shape="rect" id="Node000001" href="$classARDOUR_1_1AlsaMidiIn.html" title=" " alt="" coords="226,55,381,80"/>
+<area shape="poly" id="edge7_Node000000_Node000001" title=" " alt="" coords="176,79,225,74,226,79,177,85"/>
+<area shape="rect" id="Node000005" href="$classARDOUR_1_1AlsaMidiOut.html" title=" " alt="" coords="220,104,387,129"/>
+<area shape="poly" id="edge10_Node000000_Node000005" title=" " alt="" coords="177,100,220,105,220,110,176,105"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1AlsaRawMidiIO.html" title=" " alt="" coords="211,5,396,31"/>
+<area shape="poly" id="edge13_Node000000_Node000003" title=" " alt="" coords="125,72,210,39,248,28,250,33,212,45,127,77"/>
+<area shape="rect" id="Node000007" href="$classARDOUR_1_1AlsaSeqMidiIO.html" title=" " alt="" coords="213,153,394,179"/>
+<area shape="poly" id="edge16_Node000000_Node000007" title=" " alt="" coords="130,108,212,138,254,151,252,156,210,143,128,113"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1AlsaRawMidiIn.html" title=" " alt="" coords="450,5,633,31"/>
+<area shape="poly" id="edge8_Node000001_Node000002" title=" " alt="" coords="378,49,479,28,480,33,379,54"/>
+<area shape="rect" id="Node000008" href="$classARDOUR_1_1AlsaSeqMidiIn.html" title=" " alt="" coords="452,104,631,129"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="379,80,480,101,479,107,378,85"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1AlsaRawMidiOut.html" title=" " alt="" coords="444,55,639,80"/>
+<area shape="poly" id="edge11_Node000005_Node000004" title=" " alt="" coords="378,99,479,77,480,83,379,104"/>
+<area shape="rect" id="Node000006" href="$classARDOUR_1_1AlsaSeqMidiOut.html" title=" " alt="" coords="446,153,637,179"/>
+<area shape="poly" id="edge12_Node000005_Node000006" title=" " alt="" coords="379,130,480,151,479,156,378,135"/>
+<area shape="poly" id="edge14_Node000003_Node000002" title=" " alt="" coords="410,15,450,15,450,21,410,21"/>
+<area shape="poly" id="edge15_Node000003_Node000004" title=" " alt="" coords="379,31,480,52,479,57,378,36"/>
+<area shape="poly" id="edge17_Node000007_Node000008" title=" " alt="" coords="378,148,479,127,480,132,379,153"/>
+<area shape="poly" id="edge18_Node000007_Node000006" title=" " alt="" coords="408,163,446,163,446,169,408,169"/>
+</map>

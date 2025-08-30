@@ -1,0 +1,25 @@
+var classPBD_1_1Downloader =
+[
+    [ "Downloader", "classPBD_1_1Downloader.html#acd67e11fcbc45d2f6ffe66574e6faea6", null ],
+    [ "~Downloader", "classPBD_1_1Downloader.html#a4677fc7e2ca0885690b81316aa51eb91", null ],
+    [ "cancel", "classPBD_1_1Downloader.html#a23ef77671fc9e82af368c149fdd771a7", null ],
+    [ "cleanup", "classPBD_1_1Downloader.html#a2860d7e18a39f697a86114e342575363", null ],
+    [ "download", "classPBD_1_1Downloader.html#a84b188997f291c6a3df15c8972394a1f", null ],
+    [ "download_path", "classPBD_1_1Downloader.html#a8b545c1984fbc39f65cf3ac8787cf3f3", null ],
+    [ "download_size", "classPBD_1_1Downloader.html#a3b68cdcce19f72129f6fd541b35199a1", null ],
+    [ "downloaded", "classPBD_1_1Downloader.html#a109c8b58cbca5b8311d5b2056ae2cdb5", null ],
+    [ "progress", "classPBD_1_1Downloader.html#a0c00022db6fb2326d55c7a1dcc17f82f", null ],
+    [ "start", "classPBD_1_1Downloader.html#aa83bfe28754a104292c6cec3e4a19c74", null ],
+    [ "status", "classPBD_1_1Downloader.html#a5073aa120d43ff4377db4b496a1775e3", null ],
+    [ "write", "classPBD_1_1Downloader.html#aa500b759c3361807506471844a60e3ab", null ],
+    [ "_cancel", "classPBD_1_1Downloader.html#a75913efc8690e62b03521e3dcd95b6fc", null ],
+    [ "_ccurl", "classPBD_1_1Downloader.html#af3521d40cccf707365a0448770dae94d", null ],
+    [ "_download_size", "classPBD_1_1Downloader.html#aa7214fb2ae797d702f5c69420726593b", null ],
+    [ "_downloaded", "classPBD_1_1Downloader.html#ab784e7774f609e7b2b8fa08d404ccdd4", null ],
+    [ "_status", "classPBD_1_1Downloader.html#a5762b86e54bb786995106a6ba7ed0ac4", null ],
+    [ "destdir", "classPBD_1_1Downloader.html#ace95d57498c89fc13559281c8355c5df", null ],
+    [ "file", "classPBD_1_1Downloader.html#a1ef8ddc59b15cb1f1da9b43b75f6a014", null ],
+    [ "file_path", "classPBD_1_1Downloader.html#a3a60c4000e84bcc11456f5697177eff9", null ],
+    [ "thread", "classPBD_1_1Downloader.html#a57c58adbd9fee4461c1e0f3d9fc8b893", null ],
+    [ "url", "classPBD_1_1Downloader.html#a17d31c77321b9804118a55e543945e30", null ]
+];

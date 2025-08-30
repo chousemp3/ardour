@@ -1,0 +1,26 @@
+var classAudioStreamView =
+[
+    [ "AudioStreamView", "classAudioStreamView.html#a71b9b8ca5bdddd1ccf11883dd683a441", null ],
+    [ "~AudioStreamView", "classAudioStreamView.html#ab77889352e6aa4b1cae531b68fc1d111", null ],
+    [ "add_region_view_internal", "classAudioStreamView.html#abf12f57535d98df87615e4cf62d5ab48", null ],
+    [ "color_handler", "classAudioStreamView.html#a3a2d2c880e581d8bb531f06a9566cfc1", null ],
+    [ "create_region_view", "classAudioStreamView.html#a10a44eb594287389cb7b77e6601e8ca5", null ],
+    [ "get_amplitude_above_axis", "classAudioStreamView.html#a756e74ff803cb5e8edb6e8795f5d44eb", null ],
+    [ "hide_all_fades", "classAudioStreamView.html#a8510e41d6e80ac3e42b3b33ae1070264", null ],
+    [ "hide_xfades_with", "classAudioStreamView.html#a2a986d3e6b7856ba68788bef8e9b1efd", null ],
+    [ "rec_peak_range_ready", "classAudioStreamView.html#a4dc45e99191cded4cbc894ac088927ac", null ],
+    [ "redisplay_track", "classAudioStreamView.html#aa1b7390319021ed8010c8d50d225c212", null ],
+    [ "region_canvas", "classAudioStreamView.html#a4d72d8b97110d9a740485da2d6a785b8", null ],
+    [ "reload_waves", "classAudioStreamView.html#a5370d9c5626bf4c3e4a53c0001b7aa06", null ],
+    [ "remove_audio_region_view", "classAudioStreamView.html#a9c65fad99be75753c7cafb86a6a59345", null ],
+    [ "set_amplitude_above_axis", "classAudioStreamView.html#aac19dbe9d510f664f178a56d9d5966f6", null ],
+    [ "set_layer_display", "classAudioStreamView.html#ab9a159903e4bef7da48e5a4e1f2f5fed", null ],
+    [ "set_selected_points", "classAudioStreamView.html#aa922a10fda0c530e2ab6ca516f0ba14a", null ],
+    [ "setup_rec_box", "classAudioStreamView.html#aa963368083478e84c5774ef339dce62f", null ],
+    [ "show_all_fades", "classAudioStreamView.html#a1c5ff9e905e4baf85052dd1844c83139", null ],
+    [ "update_rec_regions", "classAudioStreamView.html#a58047e7dcf12f9968be14ddc9c36cd1c", null ],
+    [ "_amplitude_above_axis", "classAudioStreamView.html#a7258f2a1063e4161924a484dbdfddd64", null ],
+    [ "_region_group", "classAudioStreamView.html#aa7e7321c2fd56742c0dead589831986f", null ],
+    [ "outline_region", "classAudioStreamView.html#ae350a4e1604a159f57ea5ee2eea0638a", null ],
+    [ "rec_data_ready_map", "classAudioStreamView.html#a8d967776e6afcf6f467e3aec6f5508ba", null ]
+];

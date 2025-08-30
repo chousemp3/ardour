@@ -1,0 +1,12 @@
+<map id="fp8_button.h" name="fp8_button.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="11,5,115,31"/>
+<area shape="rect" id="Node000002" href="$fp8__controls_8h.html" title=" " alt="" coords="5,152,120,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="57,44,49,79,52,119,61,151,56,153,46,120,44,78,52,43"/>
+<area shape="rect" id="Node000005" href="$fp8__strip_8h.html" title=" " alt="" coords="59,79,149,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="79,41,100,77,95,80,74,44"/>
+<area shape="rect" id="Node000003" href="$faderport8_8h.html" title=" " alt="" coords="11,225,114,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="65,191,65,225,60,225,60,191"/>
+<area shape="rect" id="Node000004" href="$faderport8_2gui_8h.html" title=" " alt="" coords="35,299,90,324"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="65,264,65,299,60,299,60,264"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="93,117,72,153,67,151,88,115"/>
+</map>

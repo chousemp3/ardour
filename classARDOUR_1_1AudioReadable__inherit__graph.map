@@ -1,0 +1,29 @@
+<map id="ARDOUR::AudioReadable" name="ARDOUR::AudioReadable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,191,180"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1AudioRegion.html" title=" " alt="" coords="263,56,432,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,145,179,117,238,90,275,79,277,84,240,95,181,122,132,150"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1AudioRom.html" title=" " alt="" coords="270,105,425,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,149,282,128,283,133,177,155"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1AudioSource.html" title=" " alt="" coords="263,155,431,180"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="204,165,263,165,263,170,204,170"/>
+<area shape="rect" id="Node000013" href="$classARDOUR_1_1DSP_1_1Convolution_1_1ImpData.html" title=" " alt="" coords="248,205,447,245"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="168,181,261,202,259,207,167,186"/>
+<area shape="rect" id="Node000014" href="$classARDOUR_1_1LuaAPI_1_1Rubberband.html" title=" " alt="" coords="239,269,456,295"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="128,186,178,221,240,254,278,267,276,272,238,259,175,226,125,191"/>
+<area shape="rect" id="Node000005" href="$classARDOUR_1_1AudioFileSource.html" title=" " alt="" coords="517,129,707,155"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="445,155,516,148,517,154,445,161"/>
+<area shape="rect" id="Node000012" href="$classARDOUR_1_1AudioPlaylistSource.html" title=" " alt="" coords="504,179,720,204"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="445,174,504,179,504,184,445,179"/>
+<area shape="rect" id="Node000006" href="$classARDOUR_1_1CoreAudioSource.html" title=" " alt="" coords="773,5,971,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="638,119,695,78,767,40,800,28,802,33,769,44,698,83,641,123"/>
+<area shape="rect" id="Node000007" href="$classARDOUR_1_1FFMPEGFileSource.html" title=" " alt="" coords="768,55,976,80"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="661,122,767,89,812,77,813,83,769,94,663,127"/>
+<area shape="rect" id="Node000008" href="$classARDOUR_1_1Mp3FileSource.html" title=" " alt="" coords="781,104,963,129"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="721,129,780,123,781,128,722,134"/>
+<area shape="rect" id="Node000009" href="$classARDOUR_1_1SilentFileSource.html" title=" " alt="" coords="777,153,967,179"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="722,149,777,155,776,160,721,155"/>
+<area shape="rect" id="Node000010" href="$classARDOUR_1_1SndFileSource.html" title=" " alt="" coords="783,203,961,228"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="696,156,721,164,745,176,769,188,811,200,809,205,767,192,743,180,719,168,694,161"/>
+<area shape="rect" id="Node000011" href="$classARDOUR_1_1SrcFileSource.html" title=" " alt="" coords="785,252,959,277"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="712,158,722,164,739,182,747,202,754,220,770,237,793,250,791,254,766,241,749,223,742,204,734,185,718,168,710,163"/>
+</map>

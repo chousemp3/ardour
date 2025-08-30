@@ -1,0 +1,11 @@
+<map id="ArdourCanvas::Circle" name="ArdourCanvas::Circle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="85,225,244,251"/>
+<area shape="rect" id="Node000002" href="$classArdourCanvas_1_1Arc.html" title=" " alt="" coords="93,152,236,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,191,167,225,162,225,162,191"/>
+<area shape="rect" id="Node000003" href="$classArdourCanvas_1_1Item.html" title=" " alt="" coords="89,79,240,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="167,118,167,152,162,152,162,118"/>
+<area shape="rect" id="Node000004" href="$classArdourCanvas_1_1Fill.html" title=" " alt="" coords="5,5,145,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="102,37,152,76,148,81,99,41"/>
+<area shape="rect" id="Node000005" href="$classArdourCanvas_1_1Outline.html" title=" " alt="" coords="170,5,338,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="231,41,181,81,178,76,227,37"/>
+</map>

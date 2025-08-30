@@ -1,0 +1,15 @@
+<map id="logcurve.h" name="logcurve.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="306,5,397,31"/>
+<area shape="rect" id="Node000002" href="$fastlog_8h.html" title=" " alt="" coords="55,79,162,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="313,33,162,77,160,72,312,28"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="187,79,324,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="337,33,284,72,281,68,334,29"/>
+<area shape="rect" id="Node000006" href="$libardour__visibility_8h.html" title=" " alt="" coords="348,79,547,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="368,29,422,68,419,72,365,33"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="570,79,637,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="393,28,557,74,556,79,391,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,73,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,106,62,144,58,140,95,102"/>
+<area shape="rect" id="Node000004" href="$libpbd__visibility_8h.html" title=" " alt="" coords="98,152,261,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="122,102,160,140,156,144,118,106"/>
+</map>

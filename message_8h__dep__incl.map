@@ -1,0 +1,14 @@
+<map id="message.h" name="message.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="65,5,159,31"/>
+<area shape="rect" id="Node000002" href="$client_8h.html" title=" " alt="" coords="77,79,147,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,44,115,79,109,79,109,44"/>
+<area shape="rect" id="Node000003" href="$dispatcher_8h.html" title=" " alt="" coords="5,152,107,177"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="91,43,77,60,66,80,58,119,58,152,52,152,53,118,62,78,73,57,87,39"/>
+<area shape="rect" id="Node000005" href="$server_8h.html" title=" " alt="" coords="131,152,205,177"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="136,39,150,57,161,78,170,118,171,152,166,152,165,119,156,80,145,60,131,42"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="96,117,67,154,63,150,92,113"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="132,113,161,150,157,154,128,117"/>
+<area shape="rect" id="Node000004" href="$ardour__websockets_8h.html" title=" " alt="" coords="33,225,191,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="76,187,105,224,101,227,72,190"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="152,190,123,227,119,224,148,187"/>
+</map>

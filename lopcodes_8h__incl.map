@@ -1,0 +1,18 @@
+<map id="lopcodes.h" name="lopcodes.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="121,5,213,31"/>
+<area shape="rect" id="Node000002" href="$llimits_8h.html" title=" " alt="" coords="130,79,205,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,31,170,65,165,65,165,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,299,76,324"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="150,106,123,126,91,153,61,187,38,226,33,256,36,285,31,286,27,256,33,224,56,184,87,149,120,122,147,102"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="130,299,205,324"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="190,102,230,127,273,163,289,184,300,206,302,229,294,252,279,270,260,284,219,302,217,297,257,279,275,266,289,249,297,228,295,207,285,187,269,167,227,132,187,106"/>
+<area shape="rect" id="Node000005" href="$lua-5_83_85_2lua_8h.html" title=" " alt="" coords="140,152,195,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="170,104,170,138,165,138,165,104"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="170,178,170,285,165,285,165,178"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="205,225,279,251"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="181,175,222,214,218,218,177,179"/>
+<area shape="rect" id="Node000007" href="$luaconf_8h.html" title=" " alt="" coords="48,225,129,251"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="156,179,113,218,110,214,153,175"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="83,253,58,289,54,286,79,250"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="103,249,146,288,143,291,100,253"/>
+</map>

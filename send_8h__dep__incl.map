@@ -1,0 +1,19 @@
+<map id="send.h" name="send.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="379,5,445,31"/>
+<area shape="rect" id="Node000002" href="$internal__send_8h.html" title=" " alt="" coords="237,79,360,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="383,40,319,81,316,76,380,36"/>
+<area shape="rect" id="Node000003" href="$osc_8h.html" title=" " alt="" coords="384,79,440,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="415,44,415,79,409,79,409,44"/>
+<area shape="rect" id="Node000009" href="$surround__send_8h.html" title=" " alt="" coords="465,79,594,104"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="444,35,512,76,509,81,441,40"/>
+<area shape="rect" id="Node000004" href="$osc__cue__observer_8h.html" title=" " alt="" coords="5,152,155,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="371,107,144,155,142,149,370,102"/>
+<area shape="rect" id="Node000005" href="$osc__global__observer_8h.html" title=" " alt="" coords="179,152,346,177"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="377,112,288,154,286,149,375,107"/>
+<area shape="rect" id="Node000006" href="$osc__gui_8h.html" title=" " alt="" coords="371,152,453,177"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="415,118,415,152,409,152,409,118"/>
+<area shape="rect" id="Node000007" href="$osc__route__observer_8h.html" title=" " alt="" coords="477,152,637,177"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="449,108,535,149,532,154,446,112"/>
+<area shape="rect" id="Node000008" href="$osc__select__observer_8h.html" title=" " alt="" coords="661,152,827,177"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="454,101,454,101,682,149,681,155,453,107,452,106"/>
+</map>

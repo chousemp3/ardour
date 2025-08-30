@@ -1,0 +1,17 @@
+<map id="TransportControlUI" name="TransportControlUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="119,445,261,471"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1SessionHandlePtr.html" title=" " alt="" coords="5,372,207,397"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,404,178,443,175,447,128,408"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1HBox.html" title=" " alt="" coords="231,372,319,397"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="253,408,206,447,202,443,250,404"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Box.html" title=" " alt="" coords="236,299,315,324"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="278,338,278,372,273,372,273,338"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Container.html" title=" " alt="" coords="217,225,333,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="278,264,278,299,273,299,273,264"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1Widget.html" title=" " alt="" coords="226,152,325,177"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="278,191,278,225,273,225,273,191"/>
+<area shape="rect" id="Node000007" href="$classGtk_1_1Object.html" title=" " alt="" coords="228,79,323,104"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="278,118,278,152,273,152,273,118"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="226,5,325,31"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="278,44,278,79,273,79,273,44"/>
+</map>

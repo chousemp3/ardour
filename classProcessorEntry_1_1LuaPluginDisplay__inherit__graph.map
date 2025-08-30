@@ -1,0 +1,15 @@
+<map id="ProcessorEntry::LuaPluginDisplay" name="ProcessorEntry::LuaPluginDisplay">
+<area shape="rect" id="Node000001" title=" " alt="" coords="12,460,201,500"/>
+<area shape="rect" id="Node000002" href="$classProcessorEntry_1_1PluginInlineDisplay.html" title=" " alt="" coords="5,372,208,412"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,426,109,460,104,460,104,426"/>
+<area shape="rect" id="Node000003" href="$classPluginDisplay.html" title=" " alt="" coords="51,299,162,324"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,338,109,372,104,372,104,338"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1DrawingArea.html" title=" " alt="" coords="38,225,175,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="109,264,109,299,104,299,104,264"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Widget.html" title=" " alt="" coords="57,152,156,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="109,191,109,225,104,225,104,191"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1Object.html" title=" " alt="" coords="59,79,154,104"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="109,118,109,152,104,152,104,118"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="57,5,156,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="109,44,109,79,104,79,104,44"/>
+</map>

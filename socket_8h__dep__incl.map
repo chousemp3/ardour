@@ -1,0 +1,17 @@
+<map id="socket.h" name="socket.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="161,5,237,31"/>
+<area shape="rect" id="Node000002" href="$plugin__ui_8h.html" title=" " alt="" coords="152,79,245,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,44,201,79,196,79,196,44"/>
+<area shape="rect" id="Node000003" href="$au__pluginui_8h.html" title=" " alt="" coords="5,152,115,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="166,113,84,154,81,149,163,108"/>
+<area shape="rect" id="Node000004" href="$lv2__plugin__ui_8h.html" title=" " alt="" coords="139,152,259,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="201,118,201,152,196,152,196,118"/>
+<area shape="rect" id="Node000005" href="$vst__plugin__ui_8h.html" title=" " alt="" coords="283,152,403,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="235,108,320,149,318,154,233,112"/>
+<area shape="rect" id="Node000006" href="$lxvst__plugin__ui_8h.html" title=" " alt="" coords="109,225,241,251"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="304,185,203,228,201,223,302,180"/>
+<area shape="rect" id="Node000007" href="$mac__vst__plugin__ui_8h.html" title=" " alt="" coords="265,225,420,251"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="345,191,345,225,340,225,340,191"/>
+<area shape="rect" id="Node000008" href="$windows__vst__plugin__ui_8h.html" title=" " alt="" coords="444,225,628,251"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="387,179,505,223,503,228,385,184"/>
+</map>

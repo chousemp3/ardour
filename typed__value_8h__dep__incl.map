@@ -1,0 +1,27 @@
+<map id="typed_value.h" name="typed_value.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="77,5,191,31"/>
+<area shape="rect" id="Node000002" href="$feedback_8h.html" title=" " alt="" coords="5,152,100,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,42,88,80,70,119,58,153,53,151,65,117,84,77,112,39"/>
+<area shape="rect" id="Node000004" href="$mixer_8h.html" title=" " alt="" coords="99,79,169,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="137,44,137,79,131,79,131,44"/>
+<area shape="rect" id="Node000005" href="$state_8h.html" title=" " alt="" coords="206,79,273,104"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="164,36,224,76,221,81,161,41"/>
+<area shape="rect" id="Node000003" href="$ardour__websockets_8h.html" title=" " alt="" coords="96,372,255,397"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="62,189,85,252,102,288,122,323,142,349,164,370,160,374,139,352,117,325,97,290,80,254,57,191"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="112,115,68,154,64,150,109,111"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="139,117,166,324,175,371,170,372,161,324,134,118"/>
+<area shape="rect" id="Node000006" href="$client_8h.html" title=" " alt="" coords="227,225,297,251"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="246,118,263,225,258,226,241,118"/>
+<area shape="rect" id="Node000008" href="$server_8h.html" title=" " alt="" coords="175,299,250,324"/>
+<area shape="poly" id="edge16_Node000005_Node000008" title=" " alt="" coords="236,118,225,168,217,226,215,299,210,298,211,225,220,167,231,117"/>
+<area shape="rect" id="Node000009" href="$message_8h.html" title=" " alt="" coords="286,152,379,177"/>
+<area shape="poly" id="edge12_Node000005_Node000009" title=" " alt="" coords="267,110,319,150,316,154,263,114"/>
+<area shape="rect" id="Node000007" href="$dispatcher_8h.html" title=" " alt="" coords="274,299,375,324"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="283,259,317,297,313,300,279,263"/>
+<area shape="poly" id="edge10_Node000006_Node000008" title=" " alt="" coords="248,264,223,300,218,297,244,261"/>
+<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="290,332,201,374,199,369,287,327"/>
+<area shape="poly" id="edge11_Node000008_Node000003" title=" " alt="" coords="203,337,184,373,179,371,198,335"/>
+<area shape="poly" id="edge13_Node000009_Node000006" title=" " alt="" coords="313,189,275,227,272,223,309,185"/>
+<area shape="poly" id="edge14_Node000009_Node000007" title=" " alt="" coords="348,189,357,219,357,251,347,278,335,300,330,297,342,276,351,250,351,219,342,191"/>
+<area shape="poly" id="edge15_Node000009_Node000008" title=" " alt="" coords="333,192,326,222,311,252,279,282,244,301,241,296,276,277,307,249,321,220,328,190"/>
+</map>

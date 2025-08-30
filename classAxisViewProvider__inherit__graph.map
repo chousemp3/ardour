@@ -1,0 +1,19 @@
+<map id="AxisViewProvider" name="AxisViewProvider">
+<area shape="rect" id="Node000001" title=" " alt="" coords="292,5,428,31"/>
+<area shape="rect" id="Node000002" href="$classEditingContext.html" title=" " alt="" coords="178,79,297,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="330,40,259,81,256,76,327,35"/>
+<area shape="rect" id="Node000008" href="$classMixer__UI.html" title=" " alt="" coords="321,79,399,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="363,44,363,79,357,79,357,44"/>
+<area shape="rect" id="Node000009" href="$classTriggerPage.html" title=" " alt="" coords="423,79,521,104"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="391,36,455,76,452,81,388,40"/>
+<area shape="rect" id="Node000003" href="$classCueEditor.html" title=" " alt="" coords="137,152,223,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="222,116,191,154,187,150,217,113"/>
+<area shape="rect" id="Node000006" href="$classPublicEditor.html" title="Representation of the interface of the Editor class." alt="" coords="247,152,345,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="258,113,289,150,284,154,254,116"/>
+<area shape="rect" id="Node000004" href="$classAudioClipEditor.html" title=" " alt="" coords="5,225,128,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="151,187,87,227,84,223,148,183"/>
+<area shape="rect" id="Node000005" href="$classPianoroll.html" title=" " alt="" coords="153,225,231,251"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="187,191,193,225,187,226,182,192"/>
+<area shape="rect" id="Node000007" href="$classEditor.html" title=" " alt="" coords="266,225,326,251"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="299,191,299,225,293,225,293,191"/>
+</map>

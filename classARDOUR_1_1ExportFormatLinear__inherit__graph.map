@@ -1,0 +1,15 @@
+<map id="ARDOUR::ExportFormatLinear" name="ARDOUR::ExportFormatLinear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="515,92,729,117"/>
+<area shape="rect" id="Node000007" href="$classARDOUR_1_1ExportFormatTaggedLinear.html" title=" " alt="" coords="777,85,999,125"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="743,102,777,102,777,107,743,107"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1ExportFormat.html" title="Base class for formats." alt="" coords="276,63,451,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="465,84,515,90,514,95,464,89"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1ExportFormatBase.html" title=" " alt="" coords="5,5,212,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="180,31,307,60,306,65,178,36"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1ExportFormatBase_1_1SelectableCompatible.html" title="Class for managing selection and compatibility states." alt="" coords="5,55,212,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="226,73,276,73,276,78,226,78"/>
+<area shape="rect" id="Node000005" href="$classARDOUR_1_1HasSampleFormat.html" title="Class to be inherited by export formats that have a selectable sample format." alt="" coords="260,116,467,141"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="480,115,514,112,515,117,481,120"/>
+<area shape="rect" id="Node000006" href="$classPBD_1_1ScopedConnectionList.html" title=" " alt="" coords="9,120,209,145"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="222,128,260,128,260,133,222,134"/>
+</map>

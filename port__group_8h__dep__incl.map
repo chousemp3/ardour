@@ -1,0 +1,36 @@
+<map id="port_group.h" name="port_group.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="261,5,365,31"/>
+<area shape="rect" id="Node000002" href="$global__port__matrix_8h.html" title=" " alt="" coords="5,152,163,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,38,217,56,171,81,127,118,95,153,91,150,123,114,168,76,214,51,261,33"/>
+<area shape="rect" id="Node000003" href="$port__matrix_8h.html" title=" " alt="" coords="182,79,293,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="293,42,252,80,248,76,289,38"/>
+<area shape="rect" id="Node000016" href="$port__matrix__body_8h.html" title=" " alt="" coords="317,79,464,104"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="338,38,380,76,376,80,334,42"/>
+<area shape="rect" id="Node000017" href="$port__matrix__grid_8h.html" title=" " alt="" coords="489,79,631,104"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="367,32,521,76,519,81,365,37"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="202,112,110,154,108,149,199,107"/>
+<area shape="rect" id="Node000004" href="$bundle__manager_8h.html" title=" " alt="" coords="187,152,330,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="247,117,258,151,253,153,242,118"/>
+<area shape="rect" id="Node000005" href="$io__selector_8h.html" title=" " alt="" coords="355,152,459,177"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="278,107,380,149,378,154,276,112"/>
+<area shape="rect" id="Node000006" href="$plugin__pin__dialog_8h.html" title=" " alt="" coords="173,225,321,251"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="370,185,274,228,272,223,368,180"/>
+<area shape="rect" id="Node000007" href="$port__insert__ui_8h.html" title=" " alt="" coords="345,225,468,251"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="409,191,409,225,404,225,404,191"/>
+<area shape="rect" id="Node000008" href="$processor__box_8h.html" title=" " alt="" coords="492,225,620,251"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="444,181,533,223,530,228,442,186"/>
+<area shape="rect" id="Node000009" href="$foldback__strip_8h.html" title=" " alt="" coords="205,299,331,324"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="497,257,315,301,314,296,496,251"/>
+<area shape="rect" id="Node000010" href="$mixer__strip_8h.html" title=" " alt="" coords="356,299,463,324"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="522,259,434,301,432,296,519,254"/>
+<area shape="rect" id="Node000012" href="$monitor__section_8h.html" title=" " alt="" coords="487,299,625,324"/>
+<area shape="poly" id="edge12_Node000008_Node000012" title=" " alt="" coords="559,264,559,299,553,299,553,264"/>
+<area shape="rect" id="Node000014" href="$route__params__ui_8h.html" title=" " alt="" coords="650,299,793,324"/>
+<area shape="poly" id="edge14_Node000008_Node000014" title=" " alt="" coords="596,254,695,296,693,301,594,258"/>
+<area shape="rect" id="Node000015" href="$trigger__strip_8h.html" title=" " alt="" coords="817,299,930,324"/>
+<area shape="poly" id="edge15_Node000008_Node000015" title=" " alt="" coords="621,251,823,296,821,301,620,256"/>
+<area shape="rect" id="Node000011" href="$strip__selection_8h.html" title=" " alt="" coords="345,372,474,397"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="412,338,412,372,407,372,407,338"/>
+<area shape="rect" id="Node000013" href="$mixer__ui_8h.html" title=" " alt="" coords="511,372,601,397"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="559,338,559,372,553,372,553,338"/>
+</map>

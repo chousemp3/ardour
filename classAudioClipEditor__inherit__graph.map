@@ -1,0 +1,17 @@
+<map id="AudioClipEditor" name="AudioClipEditor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="589,109,712,135"/>
+<area shape="rect" id="Node000002" href="$classCueEditor.html" title=" " alt="" coords="456,109,541,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="555,119,589,119,589,125,555,125"/>
+<area shape="rect" id="Node000003" href="$classEditingContext.html" title=" " alt="" coords="275,84,394,109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="408,105,456,113,455,118,407,111"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1SessionHandlePtr.html" title=" " alt="" coords="9,5,210,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="188,32,214,39,266,60,310,81,308,86,264,65,212,45,186,37"/>
+<area shape="rect" id="Node000005" href="$classAxisViewProvider.html" title=" " alt="" coords="41,55,177,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="191,75,276,86,275,92,191,81"/>
+<area shape="rect" id="Node000006" href="$classTemporal_1_1ScopedTempoMapOwner.html" title=" " alt="" coords="5,105,213,145"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="227,107,275,101,276,107,227,113"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="51,169,167,195"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="180,166,212,154,236,137,260,118,287,107,289,112,263,123,239,141,215,159,181,171"/>
+<area shape="rect" id="Node000008" href="$classPBD_1_1HistoryOwner.html" title=" " alt="" coords="261,133,408,159"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="421,131,455,126,456,131,422,136"/>
+</map>

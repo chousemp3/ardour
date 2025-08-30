@@ -1,0 +1,79 @@
+<map id="ARDOUR::HasLatency" name="ARDOUR::HasLatency">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,519,168,544"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1Latent.html" title=" " alt="" coords="216,408,344,433"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,510,255,431,258,436,123,514"/>
+<area shape="rect" id="Node000030" href="$classARDOUR_1_1Plugin.html" title=" " alt="" coords="217,592,343,617"/>
+<area shape="poly" id="edge29_Node000001_Node000030" title=" " alt="" coords="135,546,246,589,244,594,133,551"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1IOPlug.html" title=" " alt="" coords="421,333,551,359"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="317,399,391,367,428,356,430,361,393,373,319,404"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1Processor.html" title=" " alt="" coords="411,383,561,408"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="358,408,410,402,411,407,358,414"/>
+<area shape="rect" id="Node000029" href="$classARDOUR_1_1RegionFxPlugin.html" title=" " alt="" coords="392,432,580,457"/>
+<area shape="poly" id="edge28_Node000002_Node000029" title=" " alt="" coords="358,427,392,431,391,436,358,432"/>
+<area shape="rect" id="Node000005" href="$classARDOUR_1_1Amp.html" title=" " alt="" coords="676,5,793,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="571,375,578,368,593,348,603,328,612,287,609,247,601,206,592,165,589,123,599,82,610,61,626,40,649,24,675,16,676,21,651,29,630,44,614,64,604,84,595,124,597,164,606,205,614,246,617,288,609,330,598,351,582,372,575,378"/>
+<area shape="rect" id="Node000006" href="$classARDOUR_1_1BeatBox.html" title=" " alt="" coords="663,55,806,80"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="571,374,578,368,600,334,608,300,607,265,601,230,594,195,593,160,602,125,626,89,643,77,662,69,664,74,646,81,630,93,607,127,599,161,600,195,606,230,612,265,614,300,605,336,582,372,575,378"/>
+<area shape="rect" id="Node000007" href="$classARDOUR_1_1CapturingProcessor.html" title=" " alt="" coords="628,104,841,129"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="571,374,578,368,597,340,605,312,605,284,601,255,597,226,597,197,606,168,626,139,641,127,644,132,630,143,610,170,602,198,602,226,606,254,610,284,610,313,602,343,582,372,575,378"/>
+<area shape="rect" id="Node000008" href="$classARDOUR_1_1DelayLine.html" title=" " alt="" coords="659,153,811,179"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="571,374,578,368,594,347,601,325,601,280,599,257,601,234,609,211,626,188,641,177,657,170,660,175,644,182,630,192,614,213,606,235,605,257,606,279,606,326,599,349,582,372,575,378"/>
+<area shape="rect" id="Node000009" href="$classARDOUR_1_1DiskIOProcessor.html" title=" " alt="" coords="638,203,831,228"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="571,374,578,368,591,353,598,337,601,304,605,270,612,254,626,237,643,226,646,230,630,241,617,256,610,272,606,305,603,338,596,355,582,372,574,378"/>
+<area shape="rect" id="Node000012" href="$classARDOUR_1_1IOProcessor.html" title=" " alt="" coords="653,252,817,277"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="568,375,578,368,594,349,601,328,609,307,626,287,651,273,654,278,630,291,613,310,606,330,599,351,582,372,571,379"/>
+<area shape="rect" id="Node000019" href="$classARDOUR_1_1InternalReturn.html" title=" " alt="" coords="645,301,825,327"/>
+<area shape="poly" id="edge18_Node000004_Node000019" title=" " alt="" coords="557,376,579,368,602,352,627,336,661,324,662,329,629,340,605,356,581,372,559,381"/>
+<area shape="rect" id="Node000021" href="$classARDOUR_1_1MonitorProcessor.html" title=" " alt="" coords="635,351,835,376"/>
+<area shape="poly" id="edge20_Node000004_Node000021" title=" " alt="" coords="575,381,635,373,636,379,575,387"/>
+<area shape="rect" id="Node000022" href="$classARDOUR_1_1PeakMeter.html" title=" " alt="" coords="656,400,813,425"/>
+<area shape="poly" id="edge21_Node000004_Node000022" title=" " alt="" coords="575,399,656,405,656,410,575,404"/>
+<area shape="rect" id="Node000023" href="$classARDOUR_1_1PluginInsert.html" title=" " alt="" coords="653,449,817,475"/>
+<area shape="poly" id="edge22_Node000004_Node000023" title=" " alt="" coords="554,409,581,417,629,434,676,447,674,452,627,439,579,422,552,414"/>
+<area shape="rect" id="Node000024" href="$classARDOUR_1_1PolarityProcessor.html" title=" " alt="" coords="635,499,835,524"/>
+<area shape="poly" id="edge23_Node000004_Node000024" title=" " alt="" coords="572,411,582,417,598,434,606,452,614,468,630,484,654,496,652,501,626,488,610,471,602,454,594,437,578,421,569,416"/>
+<area shape="rect" id="Node000025" href="$classARDOUR_1_1SurroundReturn.html" title=" " alt="" coords="641,548,829,573"/>
+<area shape="poly" id="edge24_Node000004_Node000025" title=" " alt="" coords="575,412,582,417,595,432,602,447,606,478,611,507,618,521,630,535,647,546,644,550,626,539,613,524,606,509,601,479,597,449,590,435,578,421,572,416"/>
+<area shape="rect" id="Node000026" href="$classARDOUR_1_1SurroundSend.html" title=" " alt="" coords="646,597,823,623"/>
+<area shape="poly" id="edge25_Node000004_Node000026" title=" " alt="" coords="575,411,582,417,598,438,606,460,606,503,607,545,614,565,630,584,647,596,644,600,626,588,610,567,602,546,601,503,600,461,593,441,578,421,571,416"/>
+<area shape="rect" id="Node000027" href="$classARDOUR_1_1TriggerBox.html" title=" " alt="" coords="657,647,813,672"/>
+<area shape="poly" id="edge26_Node000004_Node000027" title=" " alt="" coords="575,411,582,418,601,445,609,473,610,501,606,528,603,555,603,582,611,608,630,633,643,643,658,650,655,655,640,648,626,637,606,610,598,583,598,555,601,527,604,500,604,474,596,447,578,421,571,415"/>
+<area shape="rect" id="Node000028" href="$classARDOUR_1_1UnknownProcessor.html" title=" " alt="" coords="629,696,840,721"/>
+<area shape="poly" id="edge27_Node000004_Node000028" title=" " alt="" coords="575,411,582,418,605,451,613,485,612,519,606,553,601,586,600,619,608,651,630,683,644,694,641,698,626,686,603,653,594,619,595,586,601,552,607,519,608,486,600,453,578,421,571,415"/>
+<area shape="rect" id="Node000010" href="$classARDOUR_1_1DiskReader.html" title=" " alt="" coords="898,104,1061,129"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="823,196,840,188,854,176,863,164,873,151,888,138,913,127,915,132,891,143,876,155,868,167,858,180,843,192,826,200"/>
+<area shape="rect" id="Node000011" href="$classARDOUR_1_1DiskWriter.html" title=" " alt="" coords="901,153,1057,179"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="811,197,915,176,916,181,812,203"/>
+<area shape="rect" id="Node000013" href="$classARDOUR_1_1Delivery.html" title=" " alt="" coords="908,203,1051,228"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="811,247,915,225,916,231,812,252"/>
+<area shape="rect" id="Node000016" href="$classARDOUR_1_1PortInsert.html" title=" " alt="" coords="904,252,1055,277"/>
+<area shape="poly" id="edge15_Node000012_Node000016" title=" " alt="" coords="830,262,904,262,904,267,830,267"/>
+<area shape="rect" id="Node000017" href="$classARDOUR_1_1Return.html" title=" " alt="" coords="914,301,1045,327"/>
+<area shape="poly" id="edge16_Node000012_Node000017" title=" " alt="" coords="812,277,916,299,915,304,811,283"/>
+<area shape="rect" id="Node000018" href="$classARDOUR_1_1SideChain.html" title=" " alt="" coords="903,351,1055,376"/>
+<area shape="poly" id="edge17_Node000012_Node000018" title=" " alt="" coords="829,280,843,286,858,299,868,312,876,324,891,336,918,348,916,353,888,340,873,328,863,315,854,302,840,291,827,284"/>
+<area shape="rect" id="Node000014" href="$classARDOUR_1_1Send.html" title=" " alt="" coords="1117,203,1236,228"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="1064,213,1117,213,1117,218,1064,218"/>
+<area shape="rect" id="Node000015" href="$classARDOUR_1_1InternalSend.html" title=" " alt="" coords="1284,203,1453,228"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="1250,213,1284,213,1284,218,1250,218"/>
+<area shape="rect" id="Node000020" href="$classARDOUR_1_1MonitorReturn.html" title=" " alt="" coords="889,400,1069,425"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="829,329,843,336,858,348,868,361,876,373,891,385,918,397,916,402,888,390,873,377,863,364,854,352,840,340,827,334"/>
+<area shape="rect" id="Node000031" href="$classARDOUR_1_1AUPlugin.html" title=" " alt="" coords="413,493,559,519"/>
+<area shape="poly" id="edge30_Node000030_Node000031" title=" " alt="" coords="307,581,345,554,391,529,426,516,428,521,393,534,348,559,310,586"/>
+<area shape="rect" id="Node000032" href="$classARDOUR_1_1LV2Plugin.html" title=" " alt="" coords="411,543,561,568"/>
+<area shape="poly" id="edge31_Node000030_Node000032" title=" " alt="" coords="346,586,431,565,433,571,347,591"/>
+<area shape="rect" id="Node000033" href="$classARDOUR_1_1LadspaPlugin.html" title=" " alt="" coords="399,592,573,617"/>
+<area shape="poly" id="edge32_Node000030_Node000033" title=" " alt="" coords="357,602,399,602,399,607,357,607"/>
+<area shape="rect" id="Node000034" href="$classARDOUR_1_1LuaProc.html" title=" " alt="" coords="417,641,555,667"/>
+<area shape="poly" id="edge33_Node000030_Node000034" title=" " alt="" coords="347,618,433,639,431,644,346,623"/>
+<area shape="rect" id="Node000035" href="$classARDOUR_1_1VST3Plugin.html" title=" " alt="" coords="406,691,566,716"/>
+<area shape="poly" id="edge34_Node000030_Node000035" title=" " alt="" coords="309,624,347,651,393,677,424,688,422,693,391,682,345,656,306,628"/>
+<area shape="rect" id="Node000036" href="$classARDOUR_1_1VSTPlugin.html" title=" " alt="" coords="410,764,562,789"/>
+<area shape="poly" id="edge35_Node000030_Node000036" title=" " alt="" coords="301,627,341,676,394,727,424,746,455,762,452,766,421,751,390,731,337,680,296,630"/>
+<area shape="rect" id="Node000037" href="$classARDOUR_1_1LXVSTPlugin.html" title=" " alt="" coords="651,745,819,771"/>
+<area shape="poly" id="edge36_Node000036_Node000037" title=" " alt="" coords="575,767,650,762,650,767,576,773"/>
+<area shape="rect" id="Node000038" href="$classARDOUR_1_1MacVSTPlugin.html" title=" " alt="" coords="645,795,824,820"/>
+<area shape="poly" id="edge37_Node000036_Node000038" title=" " alt="" coords="576,785,645,794,645,799,576,790"/>
+<area shape="rect" id="Node000039" href="$classARDOUR_1_1WindowsVSTPlugin.html" title=" " alt="" coords="629,844,840,869"/>
+<area shape="poly" id="edge38_Node000036_Node000039" title=" " alt="" coords="529,792,629,830,671,841,669,846,627,835,527,797"/>
+</map>

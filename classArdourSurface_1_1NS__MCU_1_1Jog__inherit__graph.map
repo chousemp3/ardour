@@ -1,0 +1,7 @@
+<map id="ArdourSurface::NS_MCU::Jog" name="ArdourSurface::NS_MCU::Jog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,167,212,192"/>
+<area shape="rect" id="Node000002" href="$classArdourSurface_1_1NS__MCU_1_1Pot.html" title=" " alt="" coords="5,93,212,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,132,111,167,106,167,106,132"/>
+<area shape="rect" id="Node000003" href="$classArdourSurface_1_1NS__MCU_1_1Control.html" title=" " alt="" coords="19,5,198,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,59,111,93,106,93,106,59"/>
+</map>

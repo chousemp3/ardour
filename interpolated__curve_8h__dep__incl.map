@@ -1,0 +1,15 @@
+<map id="interpolated_curve.h" name="interpolated_curve.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="74,5,230,31"/>
+<area shape="rect" id="Node000002" href="$curve_8h.html" title=" " alt="" coords="57,79,127,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,43,104,80,100,77,131,40"/>
+<area shape="rect" id="Node000005" href="$framed__curve_8h.html" title=" " alt="" coords="157,79,281,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="174,39,210,77,206,80,171,43"/>
+<area shape="rect" id="Node000003" href="$xfade__curve_8h.html" title=" " alt="" coords="25,152,140,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,118,87,152,82,152,86,117"/>
+<area shape="rect" id="Node000004" href="$audio__region__view_8h.html" title=" " alt="" coords="5,225,160,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="85,191,85,225,80,225,80,191"/>
+<area shape="rect" id="Node000006" href="$tempo__curve_8h.html" title=" " alt="" coords="165,152,283,177"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="223,118,226,152,220,152,218,118"/>
+<area shape="rect" id="Node000007" href="$editor_8h.html" title=" " alt="" coords="189,225,259,251"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="227,191,227,225,221,225,221,191"/>
+</map>

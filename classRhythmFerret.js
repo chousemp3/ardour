@@ -1,0 +1,48 @@
+var classRhythmFerret =
+[
+    [ "Action", "classRhythmFerret.html#a3f1247701acbdc03cfdd68549d434030", [
+      [ "SplitRegion", "classRhythmFerret.html#a3f1247701acbdc03cfdd68549d434030aa6e94171a61016249f34f283185af845", null ],
+      [ "SnapRegionsToGrid", "classRhythmFerret.html#a3f1247701acbdc03cfdd68549d434030a7fd4746db5c713e3620405b70860841c", null ],
+      [ "ConformRegion", "classRhythmFerret.html#a3f1247701acbdc03cfdd68549d434030a80917681ab40e08d9f3e6ff6897cc49e", null ]
+    ] ],
+    [ "AnalysisMode", "classRhythmFerret.html#ae05fa41e30c6ebc542290befc8bde5ac", [
+      [ "PercussionOnset", "classRhythmFerret.html#ae05fa41e30c6ebc542290befc8bde5aca5b548c99b4369e52609fa99bc49475ab", null ],
+      [ "NoteOnset", "classRhythmFerret.html#ae05fa41e30c6ebc542290befc8bde5aca849c7c92c6a7e168057a438d43435aba", null ]
+    ] ],
+    [ "RhythmFerret", "classRhythmFerret.html#a4b32d74cdde204575a32bc175e70f033", null ],
+    [ "analysis_mode_changed", "classRhythmFerret.html#a52c213c4723e9df88036f1e0837f1ef7", null ],
+    [ "clear_transients", "classRhythmFerret.html#aa3ca529c89abcc4366cdf763c50cce13", null ],
+    [ "do_action", "classRhythmFerret.html#ad2414c7a131d58e521c292801359d80e", null ],
+    [ "do_region_split", "classRhythmFerret.html#a6be438eec7d8b647a037c7f65f254a92", null ],
+    [ "do_split_action", "classRhythmFerret.html#a5a7cd69aa4a9bf65bb8932349157420d", null ],
+    [ "get_action", "classRhythmFerret.html#aca317f7b1f18a5140acd81d2805391e3", null ],
+    [ "get_analysis_mode", "classRhythmFerret.html#a0b7918d3baf79ba5be38a256f39ecdfd", null ],
+    [ "get_note_onset_function", "classRhythmFerret.html#ad37b69edeb07b1ff8a3b83341c690c6c", null ],
+    [ "on_hide", "classRhythmFerret.html#a4646fd61e662d6e20d9b1fd5ec22c8c7", null ],
+    [ "on_response", "classRhythmFerret.html#a08b80af28f872abfd431a8f9697d830f", null ],
+    [ "run_analysis", "classRhythmFerret.html#ac4f48ebfb4189a991825bda51fe47ed9", null ],
+    [ "run_note_onset_analysis", "classRhythmFerret.html#a6c9e88cb38b4b1b0434c40a6307cf502", null ],
+    [ "run_percussion_onset_analysis", "classRhythmFerret.html#a00d563fb2569350e23a8b3382b4140b9", null ],
+    [ "set_session", "classRhythmFerret.html#a7ce14ac8c62a292ab470b541b36c7178", null ],
+    [ "action_button", "classRhythmFerret.html#a125cc54b920d724e6a2bf2b6d22f22c3", null ],
+    [ "analysis_mode_selector", "classRhythmFerret.html#a99aa72db7229df58484dad2f09aad037", null ],
+    [ "analysis_mode_strings", "classRhythmFerret.html#a1e2f3c8a27b9587046d38e060647d6d3", null ],
+    [ "analyze_button", "classRhythmFerret.html#a8b235044986a0efda9cc64f1fc04ac77", null ],
+    [ "current_results", "classRhythmFerret.html#af2261109d7bae60b25aad926d728b42f", null ],
+    [ "detection_threshold_adjustment", "classRhythmFerret.html#acbc0c9fa73fd8f211a9a924b997163ac", null ],
+    [ "detection_threshold_scale", "classRhythmFerret.html#ab8d25c7f3c4f30ae934a74c2fd41298a", null ],
+    [ "editor", "classRhythmFerret.html#a750a9cda5a7ae439af3594ea57758f1f", null ],
+    [ "onset_detection_function_selector", "classRhythmFerret.html#a60b0b1f1ca2aa3dc3a5a6e98c87a3299", null ],
+    [ "onset_function_strings", "classRhythmFerret.html#aff472eb598c9e88cecf852cba913653f", null ],
+    [ "operation_selector", "classRhythmFerret.html#aa53a9a7000405657898463fe05952a8c", null ],
+    [ "operation_strings", "classRhythmFerret.html#a1b74548d36da21a4ed30bac55866ead4", null ],
+    [ "peak_picker_threshold_adjustment", "classRhythmFerret.html#ae78a330c75ef5a2ddd32aa03ade41f71", null ],
+    [ "peak_picker_threshold_scale", "classRhythmFerret.html#ad2e3ff07aae39ddd119101b6eabe560a", null ],
+    [ "regions_with_transients", "classRhythmFerret.html#a248248ec831e1d7d617c9097f471d8ec", null ],
+    [ "sensitivity_adjustment", "classRhythmFerret.html#a41f1947ed4d253ce74729774e29febbb", null ],
+    [ "sensitivity_scale", "classRhythmFerret.html#a86dd9f9448efbbf31a2a95cefad674fb", null ],
+    [ "silence_threshold_adjustment", "classRhythmFerret.html#ac1e2f94aefeddfcf98545a056109f06d", null ],
+    [ "silence_threshold_scale", "classRhythmFerret.html#ab35798ba1ad3da2de36fac11f05a8d2c", null ],
+    [ "trigger_gap_adjustment", "classRhythmFerret.html#a1ec76080b7672cea8f806ed946ffb052", null ],
+    [ "trigger_gap_spinner", "classRhythmFerret.html#ab6c6239c3fe21daf1a13f136307ed247", null ]
+];

@@ -1,0 +1,16 @@
+<map id="filter.h" name="filter.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="290,5,353,31"/>
+<area shape="rect" id="Node000002" href="$midi__stretch_8h.html" title=" " alt="" coords="5,79,120,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="277,34,105,81,104,76,275,29"/>
+<area shape="rect" id="Node000003" href="$pitch_8h.html" title=" " alt="" coords="144,79,211,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="287,39,202,81,200,76,285,34"/>
+<area shape="rect" id="Node000004" href="$rb__effect_8h.html" title=" " alt="" coords="235,79,325,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="310,44,289,80,284,77,305,41"/>
+<area shape="rect" id="Node000005" href="$stretch_8h.html" title=" " alt="" coords="282,152,361,177"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="332,43,340,78,338,120,328,153,323,151,332,119,335,79,327,44"/>
+<area shape="rect" id="Node000006" href="$reverse_8h.html" title=" " alt="" coords="400,79,483,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="354,35,423,76,420,81,351,40"/>
+<area shape="rect" id="Node000007" href="$strip__silence_8h.html" title=" " alt="" coords="507,79,623,104"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="367,30,527,76,525,81,365,35"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="296,115,317,151,312,153,291,117"/>
+</map>

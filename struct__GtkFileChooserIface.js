@@ -1,0 +1,25 @@
+var struct__GtkFileChooserIface =
+[
+    [ "add_filter", "struct__GtkFileChooserIface.html#a30811b629dea527b55b18626cdd4904a", null ],
+    [ "add_shortcut_folder", "struct__GtkFileChooserIface.html#aefbcf5d2ba84cea5db6d305f99bcd81a", null ],
+    [ "base_iface", "struct__GtkFileChooserIface.html#a51efd056f2c0318cc6704216a7ad03cf", null ],
+    [ "confirm_overwrite", "struct__GtkFileChooserIface.html#a68dd921eea94b08ece38baafebdbe7dc", null ],
+    [ "current_folder_changed", "struct__GtkFileChooserIface.html#a09fe3976eeb1a15fba5b060b257d3378", null ],
+    [ "file_activated", "struct__GtkFileChooserIface.html#aad4c0d4c8f16796dbf222132ea3aa4d2", null ],
+    [ "get_current_folder", "struct__GtkFileChooserIface.html#ab1df032d6c449b8d0010c9e871832706", null ],
+    [ "get_file_system", "struct__GtkFileChooserIface.html#abf047e7ce4447aab49c0f4fdabd1177d", null ],
+    [ "get_files", "struct__GtkFileChooserIface.html#a6ae138948d81a85238960a7ae60c1a21", null ],
+    [ "get_preview_file", "struct__GtkFileChooserIface.html#a9592bcc006623075a1c3f088942ad659", null ],
+    [ "list_filters", "struct__GtkFileChooserIface.html#a0fc8cc12a3ea1864d49c232ec193bf7a", null ],
+    [ "list_shortcut_folders", "struct__GtkFileChooserIface.html#a9343d5badc890d6c1018dfd921bd85eb", null ],
+    [ "remove_filter", "struct__GtkFileChooserIface.html#a256c0fde9deedc8f7ae0ad75b0287c3b", null ],
+    [ "remove_shortcut_folder", "struct__GtkFileChooserIface.html#a6e1323641c26a0fa2c34a3c95e47f948", null ],
+    [ "select_all", "struct__GtkFileChooserIface.html#a1a4e168cd0663ee122a0b1e728daca11", null ],
+    [ "select_file", "struct__GtkFileChooserIface.html#acfbe8866f8cf9ff6dd1d93e7afd55a86", null ],
+    [ "selection_changed", "struct__GtkFileChooserIface.html#a110160c0dc7a0a09c8cfc0f29e106611", null ],
+    [ "set_current_folder", "struct__GtkFileChooserIface.html#a24e0ccd4d191e8f7e84277a5cd191151", null ],
+    [ "set_current_name", "struct__GtkFileChooserIface.html#ad4a9f28ed6035d3a0f69aa9e9a47e653", null ],
+    [ "unselect_all", "struct__GtkFileChooserIface.html#ac616fe4fe26507d87fa2c52e7d193105", null ],
+    [ "unselect_file", "struct__GtkFileChooserIface.html#a41267b5b62fbb22c5044d631093e5282", null ],
+    [ "update_preview", "struct__GtkFileChooserIface.html#a2c6b4b84349265c6b0822d93604dc9cc", null ]
+];

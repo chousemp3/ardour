@@ -1,0 +1,26 @@
+var struct__GtkIMContextClass =
+[
+    [ "_gtk_reserved1", "struct__GtkIMContextClass.html#af646a44a0411cdbcebb842a3376715ce", null ],
+    [ "_gtk_reserved2", "struct__GtkIMContextClass.html#a7e5f50cced1798a39ac46d4347fae488", null ],
+    [ "_gtk_reserved3", "struct__GtkIMContextClass.html#a7a23e8bf9c2334834c2b892dc5cbd71f", null ],
+    [ "_gtk_reserved4", "struct__GtkIMContextClass.html#ade6cac76f359a3c0d77014612fa1ea0e", null ],
+    [ "_gtk_reserved5", "struct__GtkIMContextClass.html#ad680138af39b4f8c77025a1d1287f514", null ],
+    [ "_gtk_reserved6", "struct__GtkIMContextClass.html#a6ba85bf04bcde186bf020d09c5837488", null ],
+    [ "commit", "struct__GtkIMContextClass.html#a727a1af99aa4d861701db33f2d56c38c", null ],
+    [ "delete_surrounding", "struct__GtkIMContextClass.html#a8bfc17e619782c62dde092a58d54b8bf", null ],
+    [ "filter_keypress", "struct__GtkIMContextClass.html#ad9803514ac41ca3c2f385f684cdd44a2", null ],
+    [ "focus_in", "struct__GtkIMContextClass.html#a5bed10c438f8a1d734a77bed0db2a31a", null ],
+    [ "focus_out", "struct__GtkIMContextClass.html#a215a5e6172f59e30f8f4d6ad0af706c9", null ],
+    [ "get_preedit_string", "struct__GtkIMContextClass.html#acf8f15375d4ddf3fdb0cfc4d9552fcab", null ],
+    [ "get_surrounding", "struct__GtkIMContextClass.html#a3a6e1b5820bf94d5a9f20f12f30aa69a", null ],
+    [ "parent_class", "struct__GtkIMContextClass.html#a9952ff170d65e7a7bb08084dde608247", null ],
+    [ "preedit_changed", "struct__GtkIMContextClass.html#ae35c4112ad6f4181538825f039675e4e", null ],
+    [ "preedit_end", "struct__GtkIMContextClass.html#a0b61a24e04c72f4053bffa743505ec86", null ],
+    [ "preedit_start", "struct__GtkIMContextClass.html#ac3fde3578578cc47b12d6113ed3209d3", null ],
+    [ "reset", "struct__GtkIMContextClass.html#ab7f7451ff0ed097e1e81c83ce3699815", null ],
+    [ "retrieve_surrounding", "struct__GtkIMContextClass.html#abec10d88bc8534d95e342f4a6a2f3c18", null ],
+    [ "set_client_window", "struct__GtkIMContextClass.html#a36321e32bb972271d43c225c8939851b", null ],
+    [ "set_cursor_location", "struct__GtkIMContextClass.html#a068f6d534a7b47f4460c20a928105f7b", null ],
+    [ "set_surrounding", "struct__GtkIMContextClass.html#ae6cab5962886d6c289ae446bcbac69a5", null ],
+    [ "set_use_preedit", "struct__GtkIMContextClass.html#ab8942767dcd7765405fb7234a9a39f82", null ]
+];

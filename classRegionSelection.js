@@ -1,0 +1,25 @@
+var classRegionSelection =
+[
+    [ "RegionSelection", "classRegionSelection.html#a53992c810fa20ea25c6a5ce2ccdc3b57", null ],
+    [ "RegionSelection", "classRegionSelection.html#ae49afd304cff22696aba161ffd61733c", null ],
+    [ "add", "classRegionSelection.html#acd07f284b493c6b4c0935dd4f4d28f2e", null ],
+    [ "add_to_layer", "classRegionSelection.html#a42a3d02c4263554f7c320ffbda1cc907", null ],
+    [ "by_layer", "classRegionSelection.html#a53291a707b95001c31860da90c5ff035", null ],
+    [ "by_position", "classRegionSelection.html#a391302cb27d73d341960305a897d2915", null ],
+    [ "by_track", "classRegionSelection.html#aa2d04e506eea8f482a78094336985ccf", null ],
+    [ "clear_all", "classRegionSelection.html#a2210af71e8d6adabcba36cab6d8e51e2", null ],
+    [ "contains", "classRegionSelection.html#ae2460f828dd394d8fc3df1e657c7075d", null ],
+    [ "contains", "classRegionSelection.html#a096dee3b667a8cc5361f447dcee908bf", null ],
+    [ "end_time", "classRegionSelection.html#a0ee5f12b1d29af8bf56e09706fb87b46", null ],
+    [ "involves", "classRegionSelection.html#abd15dfe17e030735ed382dce25e5925d", null ],
+    [ "n_midi_regions", "classRegionSelection.html#a998e22b8908515a8326055debcb262b6", null ],
+    [ "operator=", "classRegionSelection.html#ac801e2976e6f187520bd70267eab6c68", null ],
+    [ "playlists", "classRegionSelection.html#a38ab68d5c202be346b0b601b5821b062", null ],
+    [ "regionlist", "classRegionSelection.html#a51318448aaec6e14eba80c79c34818ab", null ],
+    [ "remove", "classRegionSelection.html#a33b0c96fc44b5ad440f6f98f6d2e576f", null ],
+    [ "remove", "classRegionSelection.html#ad23e1dfd78d55fe415a0e1381ed4a094", null ],
+    [ "sort_by_position_and_track", "classRegionSelection.html#a9765af039751aa8b2be223e75247ce64", null ],
+    [ "start_time", "classRegionSelection.html#a189752a31da57f85649716d0dd9c4616", null ],
+    [ "_bylayer", "classRegionSelection.html#a701e674b221f6f696bd58c7243906dd3", null ],
+    [ "pending", "classRegionSelection.html#a4e4d5bdb2c52fb99d0fdfd232c8e18da", null ]
+];

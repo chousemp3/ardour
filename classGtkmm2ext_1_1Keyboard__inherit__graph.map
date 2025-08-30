@@ -1,0 +1,9 @@
+<map id="Gtkmm2ext::Keyboard" name="Gtkmm2ext::Keyboard">
+<area shape="rect" id="Node000001" title=" " alt="" coords="47,79,216,104"/>
+<area shape="rect" id="Node000004" href="$classArdourKeyboard.html" title=" " alt="" coords="68,152,195,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="134,118,134,152,129,152,129,118"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,121,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,39,122,77,118,80,82,42"/>
+<area shape="rect" id="Node000003" href="$classPBD_1_1Stateful.html" title=" " alt="" coords="145,5,253,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,42,144,80,140,77,177,39"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="ARDOUR::MidiModel" name="ARDOUR::MidiModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="313,387,467,412"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1AutomatableSequence.html" title=" " alt="" coords="273,299,507,339"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="393,352,393,386,387,386,387,352"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1Automatable.html" title=" " alt="" coords="201,225,371,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="314,257,367,296,363,301,311,261"/>
+<area shape="rect" id="Node000004" href="$classEvoral_1_1ControlSet.html" title=" " alt="" coords="425,152,563,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="448,184,321,228,319,223,447,179"/>
+<area shape="rect" id="Node000010" href="$classEvoral_1_1Sequence.html" title=" " alt="" coords="395,225,593,251"/>
+<area shape="poly" id="edge10_Node000010_Node000004" title=" " alt="" coords="497,191,497,225,491,225,491,191"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="311,79,461,104"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="416,109,478,150,475,154,413,114"/>
+<area shape="rect" id="Node000006" href="$structTemporal_1_1TimeDomainSwapper.html" title=" " alt="" coords="485,79,716,104"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="574,114,513,154,510,150,571,109"/>
+<area shape="rect" id="Node000007" href="$classPBD_1_1Destructible.html" title=" " alt="" coords="533,5,669,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="603,44,603,79,598,79,598,44"/>
+<area shape="rect" id="Node000008" href="$classARDOUR_1_1Slavable.html" title=" " alt="" coords="5,152,148,177"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="124,179,253,223,251,228,123,184"/>
+<area shape="rect" id="Node000009" href="$classTemporal_1_1TimeDomainProvider.html" title=" " alt="" coords="172,152,400,177"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="289,191,289,225,283,225,283,191"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="469,261,417,301,413,296,466,257"/>
+</map>

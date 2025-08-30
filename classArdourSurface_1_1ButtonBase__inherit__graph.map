@@ -1,0 +1,7 @@
+<map id="ArdourSurface::ButtonBase" name="ArdourSurface::ButtonBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="123,5,321,31"/>
+<area shape="rect" id="Node000002" href="$classArdourSurface_1_1ButtonAction.html" title=" " alt="" coords="5,79,212,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,40,129,81,126,76,190,36"/>
+<area shape="rect" id="Node000003" href="$classArdourSurface_1_1ButtonJump.html" title=" " alt="" coords="236,79,435,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="254,36,318,76,315,81,251,40"/>
+</map>

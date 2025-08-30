@@ -1,0 +1,9 @@
+<map id="ArdourSurface::LaunchControlXL::NoteButton" name="ArdourSurface::LaunchControlXL::NoteButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="268,37,483,77"/>
+<area shape="rect" id="Node000003" href="$structArdourSurface_1_1LaunchControlXL_1_1TrackButton.html" title=" " alt="" coords="531,5,745,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="496,40,530,36,531,41,496,45"/>
+<area shape="rect" id="Node000004" href="$structArdourSurface_1_1LaunchControlXL_1_1TrackStateButton.html" title=" " alt="" coords="531,69,745,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="496,69,531,74,530,79,496,75"/>
+<area shape="rect" id="Node000002" href="$structArdourSurface_1_1LaunchControlXL_1_1Button.html" title=" " alt="" coords="5,37,220,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,55,268,55,268,60,233,60"/>
+</map>

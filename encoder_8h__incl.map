@@ -1,0 +1,9 @@
+<map id="encoder.h" name="encoder.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="53,5,138,31"/>
+<area shape="rect" id="Node000002" href="$ltc_8h.html" title="libltc &#45; en+decode linear timecode" alt="" coords="60,79,131,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,31,98,65,93,65,93,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,84,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,106,63,142,59,139,85,103"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="109,152,183,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="106,103,132,139,128,142,102,106"/>
+</map>

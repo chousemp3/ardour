@@ -1,0 +1,9 @@
+<map id="Steinberg::HostAttributeList" name="Steinberg::HostAttributeList">
+<area shape="rect" id="Node000001" title=" " alt="" coords="55,152,258,177"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,140,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,111,145,150,141,154,95,115"/>
+<area shape="rect" id="Node000003" href="$classSteinberg_1_1RefObject.html" title=" " alt="" coords="164,79,320,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,115,172,154,169,150,216,110"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="197,5,287,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="245,44,245,79,239,79,239,44"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="RegionView" name="RegionView">
+<area shape="rect" id="Node000001" title=" " alt="" coords="204,225,303,251"/>
+<area shape="rect" id="Node000006" href="$classAudioRegionView.html" title=" " alt="" coords="5,299,141,324"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="213,258,104,301,102,296,211,253"/>
+<area shape="rect" id="Node000007" href="$classAutomationRegionView.html" title=" " alt="" coords="166,299,341,324"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="256,264,256,299,251,299,251,264"/>
+<area shape="rect" id="Node000008" href="$classMidiRegionView.html" title=" " alt="" coords="365,299,491,324"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="295,253,400,296,398,301,293,258"/>
+<area shape="rect" id="Node000002" href="$classTimeAxisViewItem.html" title=" " alt="" coords="181,152,326,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,191,256,225,251,225,251,191"/>
+<area shape="rect" id="Node000003" href="$classSelectable.html" title=" " alt="" coords="124,79,215,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="195,111,241,150,238,154,192,115"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="111,5,227,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="172,44,172,79,167,79,167,44"/>
+<area shape="rect" id="Node000005" href="$classPBD_1_1ScopedConnectionList.html" title=" " alt="" coords="239,79,439,104"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="316,115,269,154,266,150,313,110"/>
+</map>

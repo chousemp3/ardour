@@ -1,0 +1,25 @@
+<map id="types.h" name="types.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="396,5,467,31"/>
+<area shape="rect" id="Node000002" href="$libs_2surfaces_2us2400_2led_8h.html" title=" " alt="" coords="271,79,325,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="399,39,321,81,319,76,397,35"/>
+<area shape="rect" id="Node000005" href="$us2400_2strip_8h.html" title=" " alt="" coords="249,372,312,397"/>
+<area shape="poly" id="edge10_Node000001_Node000005" title=" " alt="" coords="434,44,434,163,434,239,432,267,424,287,392,326,353,355,313,375,311,370,351,351,388,322,419,285,426,265,429,239,429,163,429,44"/>
+<area shape="rect" id="Node000006" href="$us2400__control__protocol_8h.html" title=" " alt="" coords="184,299,377,324"/>
+<area shape="poly" id="edge13_Node000001_Node000006" title=" " alt="" coords="426,45,358,252,331,280,302,301,299,296,327,276,353,249,421,43"/>
+<area shape="rect" id="Node000009" href="$us2400_2surface_8h.html" title=" " alt="" coords="469,79,551,104"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="456,38,499,76,495,80,452,42"/>
+<area shape="rect" id="Node000010" href="$us2400_2surface__port_8h.html" title=" " alt="" coords="575,79,690,104"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="478,33,601,76,599,81,476,38"/>
+<area shape="rect" id="Node000003" href="$surfaces_2us2400_2button_8h.html" title=" " alt="" coords="172,152,248,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="275,115,226,154,223,150,272,110"/>
+<area shape="rect" id="Node000004" href="$us2400_2device__info_8h.html" title=" " alt="" coords="85,225,194,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="191,189,153,227,149,223,187,185"/>
+<area shape="rect" id="Node000007" href="$us2400_2device__profile_8h.html" title=" " alt="" coords="218,225,343,251"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="233,185,271,223,267,227,229,189"/>
+<area shape="rect" id="Node000008" href="$us2400_2gui_8h.html" title=" " alt="" coords="5,225,60,251"/>
+<area shape="poly" id="edge9_Node000003_Node000008" title=" " alt="" coords="170,185,61,228,60,223,168,180"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="147,263,157,293,175,322,192,338,211,351,250,370,248,375,208,356,188,342,171,326,152,296,142,265"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="175,254,259,296,256,301,173,259"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="283,338,283,372,278,372,278,338"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="283,264,283,299,278,299,278,264"/>
+</map>

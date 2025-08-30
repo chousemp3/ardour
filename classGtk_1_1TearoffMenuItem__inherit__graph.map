@@ -1,0 +1,17 @@
+<map id="Gtk::TearoffMenuItem" name="Gtk::TearoffMenuItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,519,168,544"/>
+<area shape="rect" id="Node000002" href="$classGtk_1_1MenuItem.html" title=" " alt="" coords="27,445,146,471"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,484,89,519,84,519,84,484"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1Item.html" title=" " alt="" coords="45,372,128,397"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,411,89,445,84,445,84,411"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Bin.html" title=" " alt="" coords="49,299,124,324"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="89,338,89,372,84,372,84,338"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Container.html" title=" " alt="" coords="29,225,145,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="89,264,89,299,84,299,84,264"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1Widget.html" title=" " alt="" coords="37,152,136,177"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="89,191,89,225,84,225,84,191"/>
+<area shape="rect" id="Node000007" href="$classGtk_1_1Object.html" title=" " alt="" coords="39,79,134,104"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="89,118,89,152,84,152,84,118"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="37,5,136,31"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="89,44,89,79,84,79,84,44"/>
+</map>

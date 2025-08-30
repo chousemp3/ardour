@@ -1,0 +1,9 @@
+<map id="samplepos_plus_beats_test.h" name="samplepos_plus_beats_test.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="158,5,329,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,101,140,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,48,109,97,106,92,205,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="165,101,322,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="246,46,246,87,241,87,241,46"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="347,93,492,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="283,43,370,85,367,90,281,48"/>
+</map>

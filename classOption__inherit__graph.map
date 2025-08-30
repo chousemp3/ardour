@@ -1,0 +1,37 @@
+<map id="Option" name="Option">
+<area shape="rect" id="Node000001" title=" " alt="" coords="232,382,297,407"/>
+<area shape="rect" id="Node000003" href="$classComboOption.html" title=" " alt="" coords="345,5,528,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="266,368,276,296,292,204,315,116,328,81,343,57,359,43,363,48,347,60,333,84,320,118,298,205,281,297,272,369"/>
+<area shape="rect" id="Node000004" href="$classComboOption.html" title=" " alt="" coords="351,70,522,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="263,368,265,314,276,244,286,207,300,170,319,136,344,106,362,93,365,98,347,110,323,139,305,172,291,208,281,245,270,314,268,368"/>
+<area shape="rect" id="Node000005" href="$classComboOption.html" title=" " alt="" coords="345,120,528,160"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="266,368,272,326,286,273,309,219,325,194,343,171,361,158,364,162,347,175,329,197,314,222,291,275,278,327,271,369"/>
+<area shape="rect" id="Node000006" href="$classBoolComboOption.html" title=" " alt="" coords="367,185,507,210"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="268,368,277,334,292,295,314,255,344,221,365,208,368,212,347,225,318,258,297,297,282,336,273,369"/>
+<area shape="rect" id="Node000007" href="$classBoolOption.html" title=" " alt="" coords="389,234,484,259"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="274,368,300,318,320,292,344,270,365,258,388,250,390,256,367,263,347,274,324,296,305,321,278,370"/>
+<area shape="rect" id="Node000009" href="$classClockOption.html" title=" " alt="" coords="386,283,487,309"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="284,370,311,343,344,319,385,303,387,308,347,324,314,347,287,373"/>
+<area shape="rect" id="Node000010" href="$classComboOption.html" title=" " alt="" coords="362,333,511,358"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="310,378,345,368,389,355,390,361,346,373,311,384"/>
+<area shape="rect" id="Node000011" href="$classComboStringOption.html" title=" " alt="" coords="362,382,511,407"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="311,392,362,392,362,397,311,397"/>
+<area shape="rect" id="Node000012" href="$classDirectoryOption.html" title=" " alt="" coords="374,431,499,457"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="311,407,346,417,386,429,385,434,345,423,310,412"/>
+<area shape="rect" id="Node000013" href="$classEntryOption.html" title=" " alt="" coords="387,481,486,506"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="287,416,314,443,347,467,388,483,386,488,344,472,310,447,284,420"/>
+<area shape="rect" id="Node000014" href="$classFaderOption.html" title=" " alt="" coords="387,530,487,555"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="278,419,304,469,324,495,347,517,366,527,387,534,386,539,364,532,344,521,320,498,300,472,273,421"/>
+<area shape="rect" id="Node000015" href="$classHSliderOption.html" title=" " alt="" coords="381,579,493,605"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="273,420,282,454,296,493,318,533,347,566,363,576,381,583,379,588,361,581,344,570,313,536,291,495,277,455,268,421"/>
+<area shape="rect" id="Node000016" href="$classSearchPathOption.html" title=" " alt="" coords="368,629,505,654"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="270,421,276,464,289,516,312,570,328,594,347,615,369,629,366,633,344,619,324,597,307,572,284,518,271,465,265,422"/>
+<area shape="rect" id="Node000017" href="$classSpinOption.html" title=" " alt="" coords="371,678,502,703"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="268,421,271,473,283,538,293,573,306,606,324,637,347,665,372,680,370,685,344,669,320,641,302,609,288,575,277,540,266,473,263,421"/>
+<area shape="rect" id="Node000018" href="$classWidgetOption.html" title=" " alt="" coords="381,727,492,753"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="272,421,281,490,297,578,320,661,333,693,347,714,363,726,382,733,380,738,361,730,343,718,328,695,315,663,292,579,276,491,266,421"/>
+<area shape="rect" id="Node000002" href="$classOptionEditorComponent.html" title=" " alt="" coords="5,382,184,407"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,392,232,392,232,397,198,397"/>
+<area shape="rect" id="Node000008" href="$classRouteDisplayBoolOption.html" title=" " alt="" coords="576,234,757,259"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="498,244,576,244,576,249,498,249"/>
+</map>

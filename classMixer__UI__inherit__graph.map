@@ -1,0 +1,21 @@
+<map id="Mixer_UI" name="Mixer_UI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="919,129,997,155"/>
+<area shape="rect" id="Node000002" href="$classArdourWidgets_1_1Tabbable.html" title=" " alt="" coords="678,55,862,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="846,81,872,90,908,108,939,127,936,131,906,113,870,95,844,86"/>
+<area shape="rect" id="Node000003" href="$classGtkmm2ext_1_1WindowProxy.html" title=" " alt="" coords="424,55,621,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="635,65,678,65,678,70,635,70"/>
+<area shape="rect" id="Node000004" href="$classPBD_1_1StatefulDestructible.html" title=" " alt="" coords="189,29,376,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="390,51,424,54,424,60,389,56"/>
+<area shape="rect" id="Node000005" href="$classPBD_1_1Stateful.html" title=" " alt="" coords="19,5,127,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="141,23,189,29,189,34,141,28"/>
+<area shape="rect" id="Node000006" href="$classPBD_1_1Destructible.html" title=" " alt="" coords="5,55,141,80"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="155,55,189,51,189,56,155,60"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="225,79,341,104"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="354,82,423,75,424,80,355,87"/>
+<area shape="rect" id="Node000008" href="$classPBD_1_1ScopedConnectionList.html" title=" " alt="" coords="670,104,870,129"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="878,129,919,134,918,139,878,134"/>
+<area shape="rect" id="Node000009" href="$classARDOUR_1_1SessionHandlePtr.html" title=" " alt="" coords="669,153,871,179"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="882,149,918,144,919,150,883,154"/>
+<area shape="rect" id="Node000010" href="$classAxisViewProvider.html" title=" " alt="" coords="702,203,838,228"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="848,196,870,189,906,171,936,153,939,157,908,176,872,194,850,201"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="GainMeterBase" name="GainMeterBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="93,79,215,104"/>
+<area shape="rect" id="Node000004" href="$classGainMeter.html" title=" " alt="" coords="109,152,199,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="157,118,157,152,151,152,151,118"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,121,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,37,141,76,138,81,87,41"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1SessionHandlePtr.html" title=" " alt="" coords="145,5,347,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,41,171,81,167,76,219,37"/>
+</map>

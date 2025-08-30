@@ -1,0 +1,11 @@
+<map id="Gtk::Action" name="Gtk::Action">
+<area shape="rect" id="Node000001" title=" " alt="" coords="107,79,202,104"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1RecentAction.html" title=" " alt="" coords="5,152,144,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,115,90,154,86,150,130,111"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1ToggleAction.html" title=" " alt="" coords="168,152,304,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="180,111,224,150,221,154,176,115"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="105,5,204,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,44,157,79,152,79,152,44"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1RadioAction.html" title=" " alt="" coords="171,225,301,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="239,191,239,225,233,225,233,191"/>
+</map>

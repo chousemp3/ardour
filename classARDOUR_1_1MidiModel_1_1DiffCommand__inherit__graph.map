@@ -1,0 +1,21 @@
+<map id="ARDOUR::MidiModel::DiffCommand" name="ARDOUR::MidiModel::DiffCommand">
+<area shape="rect" id="Node000001" title=" " alt="" coords="609,101,772,141"/>
+<area shape="rect" id="Node000007" href="$classARDOUR_1_1MidiModel_1_1NoteDiffCommand.html" title=" " alt="" coords="837,5,999,45"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="740,92,819,55,851,43,853,48,821,60,742,97"/>
+<area shape="rect" id="Node000008" href="$classARDOUR_1_1MidiModel_1_1PatchChangeDiffCommand.html" title=" " alt="" coords="820,69,1016,109"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="786,105,819,100,820,106,786,111"/>
+<area shape="rect" id="Node000009" href="$classARDOUR_1_1MidiModel_1_1ShiftCommand.html" title=" " alt="" coords="837,133,999,173"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="786,132,837,139,836,145,785,137"/>
+<area shape="rect" id="Node000010" href="$classARDOUR_1_1MidiModel_1_1SysExDiffCommand.html" title=" " alt="" coords="837,197,999,237"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="742,146,821,183,853,195,851,200,819,188,740,150"/>
+<area shape="rect" id="Node000002" href="$classPBD_1_1Command.html" title=" " alt="" coords="437,109,561,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="575,119,609,119,609,124,575,124"/>
+<area shape="rect" id="Node000003" href="$classPBD_1_1StatefulDestructible.html" title=" " alt="" coords="196,83,383,109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="397,106,437,111,437,117,396,112"/>
+<area shape="rect" id="Node000004" href="$classPBD_1_1Stateful.html" title=" " alt="" coords="19,59,127,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="141,77,196,83,196,88,141,82"/>
+<area shape="rect" id="Node000005" href="$classPBD_1_1Destructible.html" title=" " alt="" coords="5,109,141,134"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="155,109,196,104,196,110,156,114"/>
+<area shape="rect" id="Node000006" href="$classPBD_1_1ScopedConnectionList.html" title=" " alt="" coords="189,133,389,158"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="403,130,437,126,437,131,403,135"/>
+</map>

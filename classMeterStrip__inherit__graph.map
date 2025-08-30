@@ -1,0 +1,31 @@
+<map id="MeterStrip" name="MeterStrip">
+<area shape="rect" id="Node000001" title=" " alt="" coords="989,107,1080,132"/>
+<area shape="rect" id="Node000002" href="$classGtk_1_1VBox.html" title=" " alt="" coords="855,32,941,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="936,62,1012,104,1009,109,933,67"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1Box.html" title=" " alt="" coords="667,5,745,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="759,23,855,36,854,41,758,28"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Container.html" title=" " alt="" coords="441,5,557,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="571,15,666,15,666,21,571,21"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Widget.html" title=" " alt="" coords="295,5,393,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="407,15,441,15,441,21,407,21"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1Object.html" title=" " alt="" coords="152,5,247,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="260,15,294,15,294,21,260,21"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="5,5,104,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="117,15,152,15,152,21,117,21"/>
+<area shape="rect" id="Node000008" href="$classAxisView.html" title=" " alt="" coords="857,156,939,181"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="946,149,998,130,999,135,947,154"/>
+<area shape="rect" id="Node000009" href="$classPBD_1_1ScopedConnectionList.html" title=" " alt="" coords="606,205,806,231"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="774,200,806,191,856,178,857,183,807,197,775,205"/>
+<area shape="rect" id="Node000013" href="$classRouteUI.html" title=" " alt="" coords="861,107,935,132"/>
+<area shape="poly" id="edge15_Node000013_Node000009" title=" " alt="" coords="792,198,805,192,820,181,830,169,839,157,853,143,871,130,874,134,856,147,843,160,834,172,824,185,808,196,794,203"/>
+<area shape="rect" id="Node000010" href="$classARDOUR_1_1SessionHandlePtr.html" title=" " alt="" coords="605,107,807,132"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="772,133,807,142,857,155,856,160,806,147,770,138"/>
+<area shape="poly" id="edge14_Node000013_Node000010" title=" " alt="" coords="821,117,860,117,860,122,821,122"/>
+<area shape="rect" id="Node000011" href="$classSelectable.html" title=" " alt="" coords="661,156,751,181"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="765,166,856,166,856,171,765,171"/>
+<area shape="poly" id="edge13_Node000013_Node000011" title=" " alt="" coords="764,153,806,142,860,127,861,132,807,147,765,158"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="441,105,557,131"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="564,131,606,142,661,156,660,161,605,147,563,137"/>
+<area shape="poly" id="edge16_Node000013_Node000012" title=" " alt="" coords="559,99,605,91,706,83,807,91,861,104,860,109,806,97,706,88,606,97,560,105"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="949,117,989,117,989,122,949,122"/>
+</map>

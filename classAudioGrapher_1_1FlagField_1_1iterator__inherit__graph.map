@@ -1,0 +1,9 @@
+<map id="AudioGrapher::FlagField::iterator" name="AudioGrapher::FlagField::iterator">
+<area shape="rect" id="Node000001" title="Bi&#45;directional iterator for flag set. Iterates over flags that are set in this field." alt="" coords="265,69,444,109"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,217,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,46,279,67,277,72,200,51"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="38,69,185,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,87,265,87,265,92,199,92"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="10,133,213,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="200,127,277,107,279,112,202,132"/>
+</map>

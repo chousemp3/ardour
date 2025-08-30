@@ -1,0 +1,7 @@
+<map id="ArdourSurface::US2400::Pot" name="ArdourSurface::US2400::Pot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,93,207,119"/>
+<area shape="rect" id="Node000003" href="$classArdourSurface_1_1US2400_1_1Jog.html" title=" " alt="" coords="6,167,206,192"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="109,132,109,167,103,167,103,132"/>
+<area shape="rect" id="Node000002" href="$classArdourSurface_1_1US2400_1_1Control.html" title=" " alt="" coords="20,5,192,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,59,109,93,103,93,103,59"/>
+</map>

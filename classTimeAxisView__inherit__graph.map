@@ -1,0 +1,27 @@
+<map id="TimeAxisView" name="TimeAxisView">
+<area shape="rect" id="Node000001" title=" " alt="" coords="339,225,453,251"/>
+<area shape="rect" id="Node000008" href="$classAutomationTimeAxisView.html" title=" " alt="" coords="198,299,389,324"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="370,261,312,301,309,296,367,256"/>
+<area shape="rect" id="Node000009" href="$classStripableTimeAxisView.html" title=" " alt="" coords="413,299,587,324"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="426,256,484,296,481,301,423,261"/>
+<area shape="rect" id="Node000002" href="$classAxisView.html" title=" " alt="" coords="289,152,372,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="353,186,387,223,383,227,349,189"/>
+<area shape="rect" id="Node000003" href="$classPBD_1_1ScopedConnectionList.html" title=" " alt="" coords="5,79,205,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="155,106,295,149,293,154,154,111"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1SessionHandlePtr.html" title=" " alt="" coords="230,79,431,104"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="333,118,333,152,328,152,328,118"/>
+<area shape="rect" id="Node000005" href="$classSelectable.html" title=" " alt="" coords="456,79,547,104"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="462,112,360,154,358,149,460,107"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="443,5,559,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="504,44,504,79,499,79,499,44"/>
+<area shape="rect" id="Node000007" href="$classSelectableOwner.html" title=" " alt="" coords="397,152,529,177"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="444,190,409,227,405,223,440,186"/>
+<area shape="rect" id="Node000010" href="$classRouteTimeAxisView.html" title=" " alt="" coords="338,372,491,397"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="478,335,430,374,427,370,474,330"/>
+<area shape="rect" id="Node000013" href="$classVCATimeAxisView.html" title=" " alt="" coords="516,372,657,397"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="526,330,574,370,571,374,523,335"/>
+<area shape="rect" id="Node000011" href="$classAudioTimeAxisView.html" title=" " alt="" coords="253,445,405,471"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="392,408,345,447,342,443,389,404"/>
+<area shape="rect" id="Node000012" href="$classMidiTimeAxisView.html" title=" " alt="" coords="430,445,573,471"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="441,404,489,443,485,447,437,408"/>
+</map>

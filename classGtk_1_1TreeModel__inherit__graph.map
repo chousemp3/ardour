@@ -1,0 +1,17 @@
+<map id="Gtk::TreeModel" name="Gtk::TreeModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="168,104,288,129"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1ListStore.html" title=" " alt="" coords="357,5,468,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="253,93,291,66,335,40,363,28,365,33,337,44,293,70,256,98"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1TreeModelFilter.html" title=" " alt="" coords="336,55,489,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="289,98,363,78,365,83,290,103"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1TreeModelSort.html" title=" " alt="" coords="339,104,486,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="302,114,339,114,339,119,302,119"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1TreeStore.html" title=" " alt="" coords="355,153,470,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="290,130,365,151,363,156,289,135"/>
+<area shape="rect" id="Node000008" href="$classStripableTreeModel.html" title=" " alt="" coords="339,203,486,228"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="256,136,293,163,337,189,365,200,363,205,335,194,291,167,253,140"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,104,120,129"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,114,168,114,168,119,134,119"/>
+<area shape="rect" id="Node000007" href="$classPluginTreeStore.html" title=" " alt="" coords="537,153,660,179"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="484,163,537,163,537,169,484,169"/>
+</map>

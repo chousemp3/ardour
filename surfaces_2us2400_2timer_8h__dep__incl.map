@@ -1,0 +1,12 @@
+<map id="timer.h" name="timer.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="131,5,199,31"/>
+<area shape="rect" id="Node000002" href="$us2400_2jog__wheel_8h.html" title=" " alt="" coords="71,79,171,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,44,131,80,126,77,149,41"/>
+<area shape="rect" id="Node000004" href="$us2400__control__protocol_8h.html" title=" " alt="" coords="113,152,306,177"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="176,43,208,151,203,153,170,45"/>
+<area shape="rect" id="Node000003" href="$us2400_2surface_8h.html" title=" " alt="" coords="5,152,88,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,115,61,154,57,150,98,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="148,110,197,150,193,154,144,115"/>
+<area shape="rect" id="Node000005" href="$us2400_2strip_8h.html" title=" " alt="" coords="178,225,241,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="212,191,212,225,207,225,207,191"/>
+</map>

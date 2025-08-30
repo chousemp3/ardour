@@ -1,0 +1,5 @@
+<map id="PBD::SystemExec" name="PBD::SystemExec">
+<area shape="rect" id="Node000001" title="execute an external command" alt="" coords="21,5,157,31"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1SystemExec.html" title=" " alt="" coords="5,79,172,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,44,91,79,86,79,86,44"/>
+</map>

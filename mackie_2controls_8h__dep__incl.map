@@ -1,0 +1,32 @@
+<map id="controls.h" name="controls.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="199,5,285,31"/>
+<area shape="rect" id="Node000002" href="$surfaces_2mackie_2button_8h.html" title=" " alt="" coords="172,152,248,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,27,157,33,128,43,102,59,82,80,76,93,78,104,86,115,99,125,134,141,173,153,171,158,132,146,96,129,82,119,73,106,71,92,77,77,99,55,126,39,156,28,184,21"/>
+<area shape="rect" id="Node000004" href="$mackie__control__protocol_8h.html" title=" " alt="" coords="45,299,239,324"/>
+<area shape="poly" id="edge13_Node000001_Node000004" title=" " alt="" coords="186,28,125,45,96,60,71,81,35,122,13,162,9,182,9,203,15,225,27,249,40,265,57,278,95,296,93,301,54,283,36,269,23,252,10,227,4,204,3,181,8,160,31,119,67,77,93,56,123,40,184,23"/>
+<area shape="rect" id="Node000008" href="$mackie_2fader_8h.html" title=" " alt="" coords="91,79,158,104"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="213,40,145,81,143,76,210,35"/>
+<area shape="rect" id="Node000009" href="$mackie_2jog_8h.html" title=" " alt="" coords="340,152,395,177"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="258,41,303,102,355,150,351,154,299,106,254,44"/>
+<area shape="rect" id="Node000010" href="$libs_2surfaces_2mackie_2led_8h.html" title=" " alt="" coords="183,79,237,104"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="234,44,218,80,213,77,229,42"/>
+<area shape="rect" id="Node000011" href="$surfaces_2mackie_2meter_8h.html" title=" " alt="" coords="313,79,385,104"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="272,36,333,76,330,81,269,40"/>
+<area shape="rect" id="Node000012" href="$mackie_2pot_8h.html" title=" " alt="" coords="409,79,464,104"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="287,33,410,78,408,83,285,38"/>
+<area shape="rect" id="Node000013" href="$mackie_2surface_8h.html" title=" " alt="" coords="489,79,571,104"/>
+<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="300,31,489,77,488,82,298,36"/>
+<area shape="rect" id="Node000003" href="$mackie_2device__info_8h.html" title=" " alt="" coords="266,225,375,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="241,183,304,223,301,227,238,187"/>
+<area shape="rect" id="Node000006" href="$mackie_2device__profile_8h.html" title=" " alt="" coords="37,225,162,251"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="182,187,119,227,116,223,179,183"/>
+<area shape="rect" id="Node000007" href="$mackie_2gui_8h.html" title=" " alt="" coords="187,225,241,251"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="214,191,216,225,211,225,209,191"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="281,258,172,301,170,296,279,253"/>
+<area shape="rect" id="Node000005" href="$mackie_2strip_8h.html" title=" " alt="" coords="177,372,240,397"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="305,263,220,373,216,370,301,260"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="164,333,200,370,196,374,161,336"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="116,261,137,297,133,300,111,264"/>
+<area shape="poly" id="edge12_Node000010_Node000002" title=" " alt="" coords="213,118,213,152,207,152,207,118"/>
+<area shape="poly" id="edge16_Node000012_Node000009" title=" " alt="" coords="418,116,381,154,377,150,414,112"/>
+</map>

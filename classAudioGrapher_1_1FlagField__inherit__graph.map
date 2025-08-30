@@ -1,0 +1,9 @@
+<map id="AudioGrapher::FlagField" name="AudioGrapher::FlagField">
+<area shape="rect" id="Node000001" title=" " alt="" coords="265,77,444,102"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,217,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,46,306,74,305,79,201,52"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="38,69,185,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,87,265,87,265,92,199,92"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="10,133,213,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="201,127,305,100,306,105,202,132"/>
+</map>

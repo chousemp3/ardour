@@ -1,0 +1,9 @@
+<map id="windows_special_dirs.h" name="windows_special_dirs.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="62,5,237,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,96,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,33,79,73,76,68,132,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="120,79,179,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,31,152,65,147,65,147,31"/>
+<area shape="rect" id="Node000004" href="$libpbd__visibility_8h.html" title=" " alt="" coords="203,79,365,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="172,28,251,70,249,74,170,33"/>
+</map>

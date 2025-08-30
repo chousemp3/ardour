@@ -1,0 +1,21 @@
+<map id="lua_api.h" name="lua_api.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="316,5,397,31"/>
+<area shape="rect" id="Node000002" href="$luaproc_8h.html" title=" " alt="" coords="315,79,398,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="359,44,359,79,354,79,354,44"/>
+<area shape="rect" id="Node000003" href="$processor__box_8h.html" title=" " alt="" coords="293,152,421,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="359,118,359,152,354,152,354,118"/>
+<area shape="rect" id="Node000004" href="$foldback__strip_8h.html" title=" " alt="" coords="5,225,132,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="298,183,116,228,115,223,297,178"/>
+<area shape="rect" id="Node000005" href="$mixer__strip_8h.html" title=" " alt="" coords="157,225,263,251"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="322,186,235,228,233,223,320,181"/>
+<area shape="rect" id="Node000007" href="$monitor__section_8h.html" title=" " alt="" coords="287,225,426,251"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="359,191,359,225,354,225,354,191"/>
+<area shape="rect" id="Node000009" href="$route__params__ui_8h.html" title=" " alt="" coords="451,225,593,251"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="397,180,496,223,494,228,395,185"/>
+<area shape="rect" id="Node000010" href="$trigger__strip_8h.html" title=" " alt="" coords="617,225,731,251"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="422,178,623,223,622,228,420,183"/>
+<area shape="rect" id="Node000006" href="$strip__selection_8h.html" title=" " alt="" coords="145,299,275,324"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="213,264,213,299,207,299,207,264"/>
+<area shape="rect" id="Node000008" href="$mixer__ui_8h.html" title=" " alt="" coords="311,299,402,324"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="359,264,359,299,354,299,354,264"/>
+</map>

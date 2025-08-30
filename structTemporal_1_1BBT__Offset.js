@@ -1,0 +1,27 @@
+var structTemporal_1_1BBT__Offset =
+[
+    [ "BBT_Offset", "structTemporal_1_1BBT__Offset.html#ae36de4fa22f7c97bfe0789578b2b4d0c", null ],
+    [ "BBT_Offset", "structTemporal_1_1BBT__Offset.html#a7ceb87835212f8300d4d174812921253", null ],
+    [ "BBT_Offset", "structTemporal_1_1BBT__Offset.html#acaa41ecbd591a93c70d2da46a5ec3110", null ],
+    [ "BBT_Offset", "structTemporal_1_1BBT__Offset.html#aec1cac06125b2550fa30fc1c64b99718", null ],
+    [ "operator bool", "structTemporal_1_1BBT__Offset.html#af2b209b68620a0f4b7b0981cc88d7e50", null ],
+    [ "operator!=", "structTemporal_1_1BBT__Offset.html#aac72edabd1ddd093cead511a6a358e41", null ],
+    [ "operator*=", "structTemporal_1_1BBT__Offset.html#abcc81dc3315765596f86eb8fb24d1da6", null ],
+    [ "operator*=", "structTemporal_1_1BBT__Offset.html#a6e41f910ab00f52ab7cd8dd6db94429a", null ],
+    [ "operator+", "structTemporal_1_1BBT__Offset.html#a14848cf3a676c1f5a9d47adee0552ecb", null ],
+    [ "operator+=", "structTemporal_1_1BBT__Offset.html#abb68e686417d5ce7870f0d4c1b05c3ef", null ],
+    [ "operator-", "structTemporal_1_1BBT__Offset.html#abce8d24679b741cdca654f4977276d44", null ],
+    [ "operator-", "structTemporal_1_1BBT__Offset.html#aa9dda1a506f8fe4b54abd7d0ee66700e", null ],
+    [ "operator-=", "structTemporal_1_1BBT__Offset.html#a202b46b7ffd70d852b3016ee67606bb2", null ],
+    [ "operator/=", "structTemporal_1_1BBT__Offset.html#a4f6486b6c0f09ba26ecab5da6804c032", null ],
+    [ "operator/=", "structTemporal_1_1BBT__Offset.html#aa3a942abce94d83c5219506b84ce0901", null ],
+    [ "operator<", "structTemporal_1_1BBT__Offset.html#aca3358b3d581ddcdd8d7eb76550e4c5b", null ],
+    [ "operator<=", "structTemporal_1_1BBT__Offset.html#a6c911bc3f45b86875cdb7d50c2c4da53", null ],
+    [ "operator==", "structTemporal_1_1BBT__Offset.html#ab5b4205f3424161dd3267f72d7338965", null ],
+    [ "operator>", "structTemporal_1_1BBT__Offset.html#a46dc7e968ddf8bd2dd4a2cf77e8dfa3f", null ],
+    [ "operator>=", "structTemporal_1_1BBT__Offset.html#a2f8792887d79076af79af403b746251a", null ],
+    [ "str", "structTemporal_1_1BBT__Offset.html#ab5d054fd6c71bc040663ae170b9c39c2", null ],
+    [ "bars", "structTemporal_1_1BBT__Offset.html#a358900078b7d46b133c48597dc498cd3", null ],
+    [ "beats", "structTemporal_1_1BBT__Offset.html#a8f9d8c2b9f4278aa84d8e31c501dd551", null ],
+    [ "ticks", "structTemporal_1_1BBT__Offset.html#ae672d136f57b7ad9aa48c50f8c8bbe4c", null ]
+];

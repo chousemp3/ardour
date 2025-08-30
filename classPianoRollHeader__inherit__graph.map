@@ -1,0 +1,15 @@
+<map id="PianoRollHeader" name="PianoRollHeader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="95,299,226,324"/>
+<area shape="rect" id="Node000002" href="$classGtk_1_1DrawingArea.html" title=" " alt="" coords="5,225,143,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,257,148,296,145,301,97,261"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1Widget.html" title=" " alt="" coords="25,152,123,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,191,77,225,71,225,71,191"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Object.html" title=" " alt="" coords="27,79,121,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="77,118,77,152,71,152,71,118"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="25,5,123,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="77,44,77,79,71,79,71,44"/>
+<area shape="rect" id="Node000006" href="$classPianoRollHeaderBase.html" title=" " alt="" coords="167,225,330,251"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="226,261,177,301,173,296,222,257"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="191,152,307,177"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="251,191,251,225,246,225,246,191"/>
+</map>

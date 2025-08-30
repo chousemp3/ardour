@@ -1,0 +1,25 @@
+<map id="ArdourWidgets::Tabbable" name="ArdourWidgets::Tabbable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="201,225,385,251"/>
+<area shape="rect" id="Node000007" href="$classMixer__UI.html" title=" " alt="" coords="5,299,84,324"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="240,257,85,301,83,296,239,252"/>
+<area shape="rect" id="Node000008" href="$classPublicEditor.html" title="Representation of the interface of the Editor class." alt="" coords="109,299,207,324"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="260,259,181,301,179,296,258,255"/>
+<area shape="rect" id="Node000010" href="$classRCOptionEditor.html" title=" " alt="" coords="232,299,353,324"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="295,264,295,299,290,299,290,264"/>
+<area shape="rect" id="Node000011" href="$classRecorderUI.html" title=" " alt="" coords="377,299,472,324"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="327,255,404,296,402,301,324,259"/>
+<area shape="rect" id="Node000012" href="$classTriggerPage.html" title=" " alt="" coords="496,299,593,324"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="347,252,505,296,503,301,346,257"/>
+<area shape="rect" id="Node000002" href="$classGtkmm2ext_1_1WindowProxy.html" title=" " alt="" coords="194,152,391,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="295,191,295,225,290,225,290,191"/>
+<area shape="rect" id="Node000003" href="$classPBD_1_1StatefulDestructible.html" title=" " alt="" coords="111,79,298,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="231,110,280,150,277,154,228,115"/>
+<area shape="rect" id="Node000004" href="$classPBD_1_1Stateful.html" title=" " alt="" coords="77,5,185,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="155,38,195,77,191,80,151,42"/>
+<area shape="rect" id="Node000005" href="$classPBD_1_1Destructible.html" title=" " alt="" coords="210,5,346,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="258,42,218,80,215,77,254,38"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="323,79,439,104"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="358,115,309,154,305,150,354,110"/>
+<area shape="rect" id="Node000009" href="$classEditor.html" title=" " alt="" coords="128,372,188,397"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="161,338,161,372,155,372,155,338"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Userdata" name="Userdata">
+<area shape="rect" id="Node000001" title=" " alt="" coords="170,5,251,31"/>
+<area shape="rect" id="Node000002" href="$classUserdataPtr.html" title=" " alt="" coords="5,79,104,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,39,81,81,79,76,172,34"/>
+<area shape="rect" id="Node000003" href="$classUserdataShared.html" title=" " alt="" coords="128,79,293,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,44,213,79,208,79,208,44"/>
+<area shape="rect" id="Node000004" href="$classUserdataValue.html" title=" " alt="" coords="317,79,472,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="254,33,366,76,364,81,252,38"/>
+</map>

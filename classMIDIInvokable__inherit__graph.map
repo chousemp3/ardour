@@ -1,0 +1,9 @@
+<map id="MIDIInvokable" name="MIDIInvokable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="56,79,171,104"/>
+<area shape="rect" id="Node000003" href="$classMIDIAction.html" title=" " alt="" coords="5,152,99,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="96,116,64,154,60,150,92,113"/>
+<area shape="rect" id="Node000004" href="$classMIDIFunction.html" title=" " alt="" coords="123,152,229,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="135,113,168,150,164,154,131,116"/>
+<area shape="rect" id="Node000002" href="$classPBD_1_1Stateful.html" title=" " alt="" coords="59,5,167,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,44,116,79,111,79,111,44"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="ArdourSurface::US2400ProtocolGUI" name="ArdourSurface::US2400ProtocolGUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,372,255,397"/>
+<area shape="rect" id="Node000002" href="$classGtk_1_1Notebook.html" title=" " alt="" coords="72,299,188,324"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,338,133,372,127,372,127,338"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1Container.html" title=" " alt="" coords="72,225,188,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="133,264,133,299,127,299,127,264"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Widget.html" title=" " alt="" coords="81,152,179,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="133,191,133,225,127,225,127,191"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Object.html" title=" " alt="" coords="83,79,177,104"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="133,118,133,152,127,152,127,118"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="81,5,179,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="133,44,133,79,127,79,127,44"/>
+</map>

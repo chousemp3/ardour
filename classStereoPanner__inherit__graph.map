@@ -1,0 +1,15 @@
+<map id="StereoPanner" name="StereoPanner">
+<area shape="rect" id="Node000001" title=" " alt="" coords="100,372,208,397"/>
+<area shape="rect" id="Node000002" href="$classPannerInterface.html" title=" " alt="" coords="92,299,216,324"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,338,157,372,151,372,151,338"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1DrawingArea.html" title=" " alt="" coords="5,225,143,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,258,143,296,139,300,95,262"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Widget.html" title=" " alt="" coords="25,152,123,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="77,191,77,225,71,225,71,191"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Object.html" title=" " alt="" coords="27,79,121,104"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="77,118,77,152,71,152,71,118"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="25,5,123,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="77,44,77,79,71,79,71,44"/>
+<area shape="rect" id="Node000007" href="$classPBD_1_1Destructible.html" title=" " alt="" coords="167,225,303,251"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="214,262,169,300,166,296,210,258"/>
+</map>

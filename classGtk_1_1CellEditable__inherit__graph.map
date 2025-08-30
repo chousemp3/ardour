@@ -1,0 +1,13 @@
+<map id="Gtk::CellEditable" name="Gtk::CellEditable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="257,79,388,104"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1Entry.html" title=" " alt="" coords="279,152,366,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="325,118,325,152,320,152,320,118"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="265,5,380,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="325,44,325,79,320,79,320,44"/>
+<area shape="rect" id="Node000004" href="$classArdourWidgets_1_1FocusEntry.html" title=" " alt="" coords="5,225,203,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="275,184,140,228,139,223,274,179"/>
+<area shape="rect" id="Node000005" href="$classArdourWidgets_1_1SearchBar.html" title=" " alt="" coords="227,225,419,251"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="325,191,325,225,320,225,320,191"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1SpinButton.html" title=" " alt="" coords="443,225,567,251"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="366,180,476,223,474,228,364,185"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="ArdourCanvas::InterpolatedCurve" name="ArdourCanvas::InterpolatedCurve">
+<area shape="rect" id="Node000001" title=" " alt="" coords="193,5,393,45"/>
+<area shape="rect" id="Node000002" href="$classArdourCanvas_1_1Curve.html" title=" " alt="" coords="5,93,164,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,53,116,96,114,91,229,48"/>
+<area shape="rect" id="Node000003" href="$classArdourCanvas_1_1FramedCurve.html" title=" " alt="" coords="189,93,397,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="295,59,295,93,290,93,290,59"/>
+<area shape="rect" id="Node000004" href="$classArdourCanvas_1_1XFadeCurve.html" title=" " alt="" coords="421,93,620,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="361,47,488,91,486,96,359,52"/>
+</map>

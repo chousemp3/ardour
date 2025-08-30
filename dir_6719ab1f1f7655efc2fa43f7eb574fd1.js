@@ -1,0 +1,25 @@
+var dir_6719ab1f1f7655efc2fa43f7eb574fd1 =
+[
+    [ "ardour", "dir_e551ebda0baecb30d3d2e6aae42e8387.html", "dir_e551ebda0baecb30d3d2e6aae42e8387" ],
+    [ "ardouralsautil", "dir_adc0e32ff50d90c39804b4775d1f5c54.html", "dir_adc0e32ff50d90c39804b4775d1f5c54" ],
+    [ "audiographer", "dir_819215e2bc5d94e684711f346339f33a.html", "dir_819215e2bc5d94e684711f346339f33a" ],
+    [ "backends", "dir_8754af57c30a15126a9142ff51a247e5.html", "dir_8754af57c30a15126a9142ff51a247e5" ],
+    [ "canvas", "dir_b8947dbff728a5db1fcf9f38d26b1ee3.html", "dir_b8947dbff728a5db1fcf9f38d26b1ee3" ],
+    [ "ctrl-interface", "dir_1a89c6b13f2b159fdd556f73fb63fa3f.html", "dir_1a89c6b13f2b159fdd556f73fb63fa3f" ],
+    [ "evoral", "dir_d6b4c34ca0e5a9454c83dfc575fe240b.html", "dir_d6b4c34ca0e5a9454c83dfc575fe240b" ],
+    [ "gtkmm2ext", "dir_a48260a97cb91c20014473cb90f35732.html", "dir_a48260a97cb91c20014473cb90f35732" ],
+    [ "libltc", "dir_88f6b72fda1762b008a2b477b341ed63.html", "dir_88f6b72fda1762b008a2b477b341ed63" ],
+    [ "lua", "dir_230531339f28f0fbea814c6bef5a11e5.html", "dir_230531339f28f0fbea814c6bef5a11e5" ],
+    [ "midi++2", "dir_feb524cdd247acc7b8a972fe3439a14f.html", "dir_feb524cdd247acc7b8a972fe3439a14f" ],
+    [ "panners", "dir_9b3cfbc7f0162ae42f310ec3db937c2e.html", "dir_9b3cfbc7f0162ae42f310ec3db937c2e" ],
+    [ "pbd", "dir_89f63984a62c2b4aee0df15bab90aa64.html", "dir_89f63984a62c2b4aee0df15bab90aa64" ],
+    [ "ptformat", "dir_7bacc77cbfe993a4f32ecefc3793e4af.html", "dir_7bacc77cbfe993a4f32ecefc3793e4af" ],
+    [ "qm-dsp", "dir_b476a806507c572b68d0d1ff04420257.html", "dir_b476a806507c572b68d0d1ff04420257" ],
+    [ "surfaces", "dir_08b4a742c12c8ce10a5fc66e219262fa.html", "dir_08b4a742c12c8ce10a5fc66e219262fa" ],
+    [ "temporal", "dir_c998d96fe2a02ef09f7e79ca6d837636.html", "dir_c998d96fe2a02ef09f7e79ca6d837636" ],
+    [ "tk", "dir_44984c7a5c8048e7d846fd11777c05be.html", "dir_44984c7a5c8048e7d846fd11777c05be" ],
+    [ "waveview", "dir_8d22637bd34c638fba86a8371fec9819.html", "dir_8d22637bd34c638fba86a8371fec9819" ],
+    [ "widgets", "dir_68afcb349d85b81d733ca2c6e825ffc6.html", "dir_68afcb349d85b81d733ca2c6e825ffc6" ],
+    [ "zita-convolver", "dir_810cb028c20d4e7e54eb659f243b6513.html", "dir_810cb028c20d4e7e54eb659f243b6513" ],
+    [ "zita-resampler", "dir_5c9d3db6aee033062f6a7174fac34d52.html", "dir_5c9d3db6aee033062f6a7174fac34d52" ]
+];

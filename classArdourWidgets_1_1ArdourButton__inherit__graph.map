@@ -1,0 +1,37 @@
+<map id="ArdourWidgets::ArdourButton" name="ArdourWidgets::ArdourButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1197,80,1409,105"/>
+<area shape="rect" id="Node000012" href="$classArdourWidgets_1_1ArdourDropdown.html" title=" " alt="" coords="1457,5,1692,31"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1353,73,1457,41,1509,28,1510,33,1458,46,1355,78"/>
+<area shape="rect" id="Node000014" href="$classArdourWidgets_1_1MetaButton.html" title=" " alt="" coords="1473,55,1676,80"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1423,79,1473,74,1473,79,1423,84"/>
+<area shape="rect" id="Node000015" href="$classIOButtonBase.html" title=" " alt="" coords="1519,104,1630,129"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="1424,101,1519,109,1519,114,1423,106"/>
+<area shape="rect" id="Node000018" href="$classShuttleInfoButton.html" title=" " alt="" coords="1507,153,1643,179"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="1354,107,1458,139,1507,151,1506,156,1457,145,1352,112"/>
+<area shape="rect" id="Node000002" href="$classCairoWidget.html" title=" " alt="" coords="1007,55,1109,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1124,71,1198,79,1197,84,1123,77"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1EventBox.html" title=" " alt="" coords="766,5,881,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="895,30,1007,54,1006,59,894,35"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Bin.html" title=" " alt="" coords="605,5,680,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="693,15,766,15,766,21,693,21"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Container.html" title=" " alt="" coords="441,5,557,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="571,15,605,15,605,21,571,21"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1Widget.html" title=" " alt="" coords="295,5,393,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="407,15,441,15,441,21,407,21"/>
+<area shape="rect" id="Node000007" href="$classGtk_1_1Object.html" title=" " alt="" coords="152,5,247,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="260,15,294,15,294,21,260,21"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="5,5,104,31"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="117,15,152,15,152,21,117,21"/>
+<area shape="rect" id="Node000009" href="$classGtkmm2ext_1_1CairoCanvas.html" title=" " alt="" coords="728,55,919,80"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="932,65,1006,65,1006,70,932,70"/>
+<area shape="rect" id="Node000010" href="$classGtkmm2ext_1_1CairoTheme.html" title=" " alt="" coords="730,104,917,129"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="897,99,1006,75,1007,81,898,104"/>
+<area shape="rect" id="Node000011" href="$classGtkmm2ext_1_1Activatable.html" title=" " alt="" coords="967,104,1149,129"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1163,104,1197,100,1197,106,1163,109"/>
+<area shape="rect" id="Node000013" href="$classArdourWidgets_1_1ArdourDisplay.html" title=" " alt="" coords="1740,5,1959,31"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1705,15,1740,15,1740,21,1705,21"/>
+<area shape="rect" id="Node000016" href="$classIOButton.html" title=" " alt="" coords="1810,79,1889,104"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="1644,108,1810,92,1810,98,1644,113"/>
+<area shape="rect" id="Node000017" href="$classIOPluginWindow_1_1IOButton.html" title=" " alt="" coords="1753,128,1945,153"/>
+<area shape="poly" id="edge16_Node000015_Node000017" title=" " alt="" coords="1644,120,1753,130,1753,135,1644,125"/>
+</map>

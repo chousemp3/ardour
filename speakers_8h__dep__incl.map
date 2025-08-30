@@ -1,0 +1,9 @@
+<map id="speakers.h" name="speakers.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="103,5,195,31"/>
+<area shape="rect" id="Node000002" href="$speaker__dialog_8h.html" title=" " alt="" coords="5,79,137,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,42,86,80,82,76,124,38"/>
+<area shape="rect" id="Node000003" href="$vbap__speakers_8h.html" title=" " alt="" coords="162,79,293,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,38,216,76,213,80,170,42"/>
+<area shape="rect" id="Node000004" href="$vbap_8h.html" title=" " alt="" coords="194,152,261,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="230,118,230,152,225,152,225,118"/>
+</map>

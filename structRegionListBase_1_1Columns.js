@@ -1,0 +1,26 @@
+var structRegionListBase_1_1Columns =
+[
+    [ "Columns", "structRegionListBase_1_1Columns.html#ab6b25cd900c2da7c0985e55997408ddd", null ],
+    [ "captd_for", "structRegionListBase_1_1Columns.html#a5767287889e3f5a91fa7f7382f64f8a4", null ],
+    [ "captd_xruns", "structRegionListBase_1_1Columns.html#ad7c150222a255831104eb3a2210e5b8a", null ],
+    [ "channels", "structRegionListBase_1_1Columns.html#addb75ccc2a171e0058e675069eeb190a", null ],
+    [ "color_", "structRegionListBase_1_1Columns.html#a4312b5f4d96972b7723647823c7e4a66", null ],
+    [ "end", "structRegionListBase_1_1Columns.html#a74c06ab7efbc01ac6f5b64e684df59ee", null ],
+    [ "fadein", "structRegionListBase_1_1Columns.html#a1832da910cb0a798cf3af4121fcffee5", null ],
+    [ "fadeout", "structRegionListBase_1_1Columns.html#a01c633b4365cac8d0a5c6c339a0f4442", null ],
+    [ "length", "structRegionListBase_1_1Columns.html#a095c1ce0af901c63c04954915fd59ced", null ],
+    [ "locked", "structRegionListBase_1_1Columns.html#ac0e2a341c143d87a094cf1e025bf7374", null ],
+    [ "muted", "structRegionListBase_1_1Columns.html#a685e144739ed3c4fb0233e8e17796666", null ],
+    [ "name", "structRegionListBase_1_1Columns.html#a1b6acf72d02c74641cca4c79d825c7a3", null ],
+    [ "natural_pos", "structRegionListBase_1_1Columns.html#a0f972f9fa2f73e72edbfe999e0300c45", null ],
+    [ "natural_s", "structRegionListBase_1_1Columns.html#a6ec292b122237310864b7142246aab35", null ],
+    [ "opaque", "structRegionListBase_1_1Columns.html#a865c11fd3e28c1f3b062da2780b915a9", null ],
+    [ "path", "structRegionListBase_1_1Columns.html#a43aa7acba17dce92fe238e6df50935d5", null ],
+    [ "position", "structRegionListBase_1_1Columns.html#a275e7f6be3f9262d2e0ca0e5f7480d07", null ],
+    [ "region", "structRegionListBase_1_1Columns.html#a32e78e4c28305e7d22a24f149a6bb6a0", null ],
+    [ "regionfx", "structRegionListBase_1_1Columns.html#a1f994f0342d9da5e79e7680a99fc7945", null ],
+    [ "start", "structRegionListBase_1_1Columns.html#af939746138cc7d4f0818f002526d9894", null ],
+    [ "sync", "structRegionListBase_1_1Columns.html#a4897c3658e19101481cbff4c4b81443e", null ],
+    [ "tags", "structRegionListBase_1_1Columns.html#ae7eed17917fcc60525199b0c72ca143a", null ],
+    [ "take_id", "structRegionListBase_1_1Columns.html#a2c48c68c3cd0f598d698dbfdeec3825f", null ]
+];

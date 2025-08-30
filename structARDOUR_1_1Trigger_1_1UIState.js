@@ -1,0 +1,26 @@
+var structARDOUR_1_1Trigger_1_1UIState =
+[
+    [ "UIState", "structARDOUR_1_1Trigger_1_1UIState.html#ac353143523dce3b94770341be3c9c104", null ],
+    [ "operator=", "structARDOUR_1_1Trigger_1_1UIState.html#ad5cc9a444a7ab3d65e340d5fa94d408d", null ],
+    [ "allow_patch_changes", "structARDOUR_1_1Trigger_1_1UIState.html#a5d17a9eaada1f50552ef15602fcf6ae3", null ],
+    [ "color", "structARDOUR_1_1Trigger_1_1UIState.html#a9db977af45349c93c553765c0d667b1f", null ],
+    [ "cue_isolated", "structARDOUR_1_1Trigger_1_1UIState.html#aa07f9fd1d8e1e25d14108dfa0369f550", null ],
+    [ "follow_action0", "structARDOUR_1_1Trigger_1_1UIState.html#a99e2992c7cb94629355dffe43e559bad", null ],
+    [ "follow_action1", "structARDOUR_1_1Trigger_1_1UIState.html#af815b1164313a81250724d20b156955c", null ],
+    [ "follow_action_probability", "structARDOUR_1_1Trigger_1_1UIState.html#a0632a86a6e0e4c48d6f0402c87c2d128", null ],
+    [ "follow_count", "structARDOUR_1_1Trigger_1_1UIState.html#adbdc4efceb08cca98b7d8a37cd4345a0", null ],
+    [ "follow_length", "structARDOUR_1_1Trigger_1_1UIState.html#a3f6f6a3aafb0ce7043fded99f331e2b3", null ],
+    [ "gain", "structARDOUR_1_1Trigger_1_1UIState.html#a9bbd994820c4d9f4a7e50adc7ce921fd", null ],
+    [ "generation", "structARDOUR_1_1Trigger_1_1UIState.html#a9a7a8f9d39f7aa87249679f7b4e69ecc", null ],
+    [ "launch_style", "structARDOUR_1_1Trigger_1_1UIState.html#a920fbcabc5dfea6587dc1d24cd3f6fd4", null ],
+    [ "legato", "structARDOUR_1_1Trigger_1_1UIState.html#a59a3d0732e906bedee558bc27f6048d3", null ],
+    [ "name", "structARDOUR_1_1Trigger_1_1UIState.html#a8da39b62d306c8b60574f26abd4dcfde", null ],
+    [ "patch_change", "structARDOUR_1_1Trigger_1_1UIState.html#ae546d9fe676d621abc7ef2f39c3c4fff", null ],
+    [ "quantization", "structARDOUR_1_1Trigger_1_1UIState.html#a3862144f04d65a9ec1e17749a1a237e3", null ],
+    [ "stretch_mode", "structARDOUR_1_1Trigger_1_1UIState.html#a8a093129f40b4fc7a292382675e50324", null ],
+    [ "stretchable", "structARDOUR_1_1Trigger_1_1UIState.html#a922c0361086b90f48977b656703cb333", null ],
+    [ "tempo", "structARDOUR_1_1Trigger_1_1UIState.html#ae4e390dddb2302708bb0304ba64587ff", null ],
+    [ "use_follow_length", "structARDOUR_1_1Trigger_1_1UIState.html#a15734e5ea50c3bce54eccc83def5dfc3", null ],
+    [ "used_channels", "structARDOUR_1_1Trigger_1_1UIState.html#acfb4e46d131c2e9928b3d678acf84dbe", null ],
+    [ "velocity_effect", "structARDOUR_1_1Trigger_1_1UIState.html#a8dd0698e2bdeb16903f86bf44fd8c461", null ]
+];

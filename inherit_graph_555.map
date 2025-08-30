@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classARDOUR_1_1BackendMIDIEvent.html" title=" " alt="" coords="5,104,215,129"/>
+<area shape="rect" id="Node000001" href="$classARDOUR_1_1AlsaMidiEvent.html" title=" " alt="" coords="275,5,455,31"/>
+<area shape="poly" id="edge23_Node000000_Node000001" title=" " alt="" coords="144,95,198,67,262,39,300,28,301,33,264,45,201,71,146,100"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1CoreMidiEvent.html" title=" " alt="" coords="273,55,456,80"/>
+<area shape="poly" id="edge24_Node000000_Node000002" title=" " alt="" coords="189,99,298,77,299,83,190,104"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1DummyMidiEvent.html" title=" " alt="" coords="263,104,467,129"/>
+<area shape="poly" id="edge25_Node000000_Node000003" title=" " alt="" coords="228,114,263,114,263,119,228,119"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1PortMidiEvent.html" title=" " alt="" coords="275,153,454,179"/>
+<area shape="poly" id="edge26_Node000000_Node000004" title=" " alt="" coords="190,129,299,151,298,156,189,135"/>
+<area shape="rect" id="Node000005" href="$classARDOUR_1_1PulseMidiEvent.html" title=" " alt="" coords="271,203,458,228"/>
+<area shape="poly" id="edge27_Node000000_Node000005" title=" " alt="" coords="147,133,201,161,264,187,305,200,303,205,262,193,199,166,144,138"/>
+</map>

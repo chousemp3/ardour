@@ -1,0 +1,19 @@
+<map id="button_p.h" name="button_p.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="377,5,468,31"/>
+<area shape="rect" id="Node000002" href="$colorbutton__p_8h.html" title=" " alt="" coords="5,79,128,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="365,34,125,81,124,76,364,28"/>
+<area shape="rect" id="Node000003" href="$fontbutton__p_8h.html" title=" " alt="" coords="152,79,269,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="377,37,246,81,244,76,375,32"/>
+<area shape="rect" id="Node000004" href="$linkbutton__p_8h.html" title=" " alt="" coords="293,79,408,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="403,43,364,80,360,77,399,39"/>
+<area shape="rect" id="Node000005" href="$optionmenu__p_8h.html" title=" " alt="" coords="433,79,559,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="446,38,486,77,482,80,443,42"/>
+<area shape="rect" id="Node000006" href="$scalebutton__p_8h.html" title=" " alt="" coords="584,79,709,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="472,32,611,76,610,81,471,37"/>
+<area shape="rect" id="Node000007" href="$togglebutton__p_8h.html" title=" " alt="" coords="734,79,866,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="482,28,740,76,739,81,481,33"/>
+<area shape="rect" id="Node000008" href="$checkbutton__p_8h.html" title=" " alt="" coords="735,152,865,177"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="803,118,803,152,797,152,797,118"/>
+<area shape="rect" id="Node000009" href="$radiobutton__p_8h.html" title=" " alt="" coords="738,225,862,251"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="803,191,803,225,797,225,797,191"/>
+</map>

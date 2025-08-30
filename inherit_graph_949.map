@@ -1,0 +1,28 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="480,228,592,253"/>
+<area shape="rect" id="Node000001" href="$classTemporal_1_1MusicTimePoint.html" title=" " alt="" coords="681,179,876,204"/>
+<area shape="poly" id="edge300_Node000000_Node000001" title=" " alt="" coords="605,224,715,201,716,207,606,229"/>
+<area shape="rect" id="Node000009" href="$classTemporal_1_1MapOwned.html" title=" " alt="" coords="5,129,168,155"/>
+<area shape="rect" id="Node000003" href="$classTemporal_1_1Point.html" title=" " alt="" coords="242,153,365,179"/>
+<area shape="poly" id="edge301_Node000009_Node000003" title=" " alt="" coords="182,150,242,157,242,162,181,155"/>
+<area shape="rect" id="Node000002" href="$classTemporal_1_1MeterPoint.html" title=" " alt="" coords="455,179,617,204"/>
+<area shape="poly" id="edge302_Node000003_Node000002" title=" " alt="" coords="379,171,455,180,455,185,378,177"/>
+<area shape="rect" id="Node000004" href="$classTemporal_1_1TempoMapPoint.html" title=" " alt="" coords="439,117,633,143"/>
+<area shape="poly" id="edge304_Node000003_Node000004" title=" " alt="" coords="378,152,453,140,454,145,379,157"/>
+<area shape="rect" id="Node000006" href="$classTemporal_1_1TempoPoint.html" title=" " alt="" coords="453,61,619,87"/>
+<area shape="poly" id="edge305_Node000003_Node000006" title=" " alt="" coords="371,146,389,138,413,121,437,102,483,84,485,89,440,107,416,125,392,143,373,151"/>
+<area shape="poly" id="edge303_Node000002_Node000001" title=" " alt="" coords="631,189,681,189,681,194,631,194"/>
+<area shape="poly" id="edge306_Node000006_Node000001" title=" " alt="" coords="598,88,634,102,705,140,760,176,758,181,703,145,632,107,596,93"/>
+<area shape="rect" id="Node000011" href="$classTemporal_1_1Meter.html" title=" " alt="" coords="239,203,367,228"/>
+<area shape="poly" id="edge307_Node000011_Node000002" title=" " alt="" coords="381,205,455,197,455,202,381,210"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="253,252,353,277"/>
+<area shape="poly" id="edge308_Node000012_Node000002" title=" " alt="" coords="365,246,390,238,438,214,478,201,480,207,440,219,392,243,367,252"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="39,179,134,204"/>
+<area shape="poly" id="edge309_Node000010_Node000003" title=" " alt="" coords="148,182,242,170,242,176,148,187"/>
+<area shape="rect" id="Node000007" href="$classTemporal_1_1Tempo.html" title=" " alt="" coords="237,55,370,80"/>
+<area shape="poly" id="edge310_Node000007_Node000006" title=" " alt="" coords="384,67,452,69,452,74,384,72"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="252,5,355,31"/>
+<area shape="poly" id="edge311_Node000008_Node000006" title=" " alt="" coords="369,31,483,59,482,64,368,36"/>
+<area shape="rect" id="Node000005" href="$classTemporal_1_1TempoMetric.html" title=" " alt="" coords="216,104,391,129"/>
+<area shape="poly" id="edge312_Node000005_Node000004" title=" " alt="" coords="405,120,439,122,438,127,404,125"/>
+</map>

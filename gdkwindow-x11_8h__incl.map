@@ -1,0 +1,35 @@
+<map id="gdkwindow&#45;x11.h" name="gdkwindow&#45;x11.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="363,5,501,31"/>
+<area shape="rect" id="Node000002" href="$gdkdrawable-x11_8h.html" title=" " alt="" coords="351,79,513,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="435,31,435,65,429,65,429,31"/>
+<area shape="rect" id="Node000003" href="$gdkdrawable_8h.html" title=" " alt="" coords="217,167,364,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="399,121,325,162,323,157,397,116"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="388,167,476,192"/>
+<area shape="poly" id="edge17_Node000002_Node000014" title=" " alt="" coords="435,119,435,153,429,153,429,119"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="501,167,689,192"/>
+<area shape="poly" id="edge18_Node000002_Node000015" title=" " alt="" coords="472,116,559,158,557,163,470,121"/>
+<area shape="rect" id="Node000004" href="$gdktypes_8h.html" title=" " alt="" coords="153,387,276,412"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="255,195,214,212,167,237,123,271,104,292,89,315,85,326,86,335,99,354,122,368,152,380,150,385,120,373,95,357,81,337,80,325,84,312,100,288,119,267,164,232,211,207,253,190"/>
+<area shape="rect" id="Node000009" href="$gdkgc_8h.html" title=" " alt="" coords="240,240,341,265"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="293,192,293,226,288,226,288,192"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="333,387,400,412"/>
+<area shape="poly" id="edge16_Node000003_Node000011" title=" " alt="" coords="309,190,334,210,364,238,392,273,412,313,414,330,410,348,391,378,386,375,405,346,409,330,407,314,387,275,360,242,331,214,306,194"/>
+<area shape="rect" id="Node000012" href="$gdkrgb_8h.html" title=" " alt="" coords="99,313,205,339"/>
+<area shape="poly" id="edge13_Node000003_Node000012" title=" " alt="" coords="280,194,230,242,173,304,169,301,226,238,276,190"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="473,240,650,265"/>
+<area shape="poly" id="edge15_Node000003_Node000013" title=" " alt="" coords="335,189,505,234,504,239,333,195"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,460,64,485"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="187,415,78,457,76,452,185,410"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="89,460,207,485"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="206,414,170,452,166,448,202,411"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="231,460,334,485"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="228,410,264,448,260,452,224,414"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="358,460,455,485"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="246,410,363,452,361,457,245,415"/>
+<area shape="poly" id="edge12_Node000009_Node000004" title=" " alt="" coords="287,267,229,376,225,373,282,265"/>
+<area shape="rect" id="Node000010" href="$gdkcolor_8h.html" title=" " alt="" coords="280,313,397,339"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="301,264,326,301,321,304,296,267"/>
+<area shape="poly" id="edge11_Node000010_Node000004" title=" " alt="" coords="320,341,248,382,245,377,317,336"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="346,338,360,373,355,375,341,340"/>
+<area shape="poly" id="edge14_Node000012_Node000004" title=" " alt="" coords="164,337,197,374,193,378,160,341"/>
+</map>

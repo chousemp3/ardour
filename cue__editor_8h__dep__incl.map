@@ -1,0 +1,9 @@
+<map id="cue_editor.h" name="cue_editor.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="97,5,199,31"/>
+<area shape="rect" id="Node000002" href="$audio__clip__editor_8h.html" title=" " alt="" coords="5,79,149,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,43,91,80,87,77,125,39"/>
+<area shape="rect" id="Node000004" href="$pianoroll_8h.html" title=" " alt="" coords="173,79,264,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="171,39,209,77,205,80,167,43"/>
+<area shape="rect" id="Node000003" href="$trigger__page_8h.html" title=" " alt="" coords="19,152,135,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,118,80,152,75,152,75,118"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="ARDOUR::AudioAnalyser" name="ARDOUR::AudioAnalyser">
+<area shape="rect" id="Node000001" title=" " alt="" coords="229,5,410,31"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1EBUr128Analysis.html" title=" " alt="" coords="5,79,204,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="273,37,140,81,139,76,271,32"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1OnsetDetector.html" title=" " alt="" coords="229,79,410,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="322,44,322,79,317,79,317,44"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1TransientDetector.html" title=" " alt="" coords="434,79,637,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="368,32,501,76,500,81,366,37"/>
+</map>

@@ -1,0 +1,26 @@
+var classARDOUR_1_1WinMMEMidiInputDevice =
+[
+    [ "WinMMEMidiInputDevice", "classARDOUR_1_1WinMMEMidiInputDevice.html#a2e3e3831797b0e7fb6cfa5e2696a30a7", null ],
+    [ "~WinMMEMidiInputDevice", "classARDOUR_1_1WinMMEMidiInputDevice.html#a4128db35235384cd472b35add5e0199a", null ],
+    [ "add_sysex_buffer", "classARDOUR_1_1WinMMEMidiInputDevice.html#aa72d046933d68849c2d2dfc45c9674b2", null ],
+    [ "close", "classARDOUR_1_1WinMMEMidiInputDevice.html#a5d4c54689a46438bade2faa94aff9052", null ],
+    [ "dequeue_midi_event", "classARDOUR_1_1WinMMEMidiInputDevice.html#a37452b87185cbcbb3ec55d6088964a2f", null ],
+    [ "enqueue_midi_msg", "classARDOUR_1_1WinMMEMidiInputDevice.html#aedf9fba4279b8a02623fb45770cf187b", null ],
+    [ "get_enabled", "classARDOUR_1_1WinMMEMidiInputDevice.html#a72406027b408f474033067e1e44e102c", null ],
+    [ "get_error_string", "classARDOUR_1_1WinMMEMidiInputDevice.html#a3abc980571769dcdcda04c9fc44c5118", null ],
+    [ "handle_short_msg", "classARDOUR_1_1WinMMEMidiInputDevice.html#ab6e432688870ab89a23add9e608124d6", null ],
+    [ "handle_sysex_msg", "classARDOUR_1_1WinMMEMidiInputDevice.html#ac827e299b3b9a356d531aaab06539487", null ],
+    [ "name", "classARDOUR_1_1WinMMEMidiInputDevice.html#a44aac2ed29e916acab6f7b01b2bb8c27", null ],
+    [ "open", "classARDOUR_1_1WinMMEMidiInputDevice.html#a2a3105ed7a96d32eda066b400e323733", null ],
+    [ "set_device_name", "classARDOUR_1_1WinMMEMidiInputDevice.html#aa813263ecbc5cfecc9b8f69486dab121", null ],
+    [ "set_enabled", "classARDOUR_1_1WinMMEMidiInputDevice.html#a2587188c8ab7152f4d39ecc7a4217a4a", null ],
+    [ "start", "classARDOUR_1_1WinMMEMidiInputDevice.html#ab6e8f6640178390d72f453092a555e41", null ],
+    [ "stop", "classARDOUR_1_1WinMMEMidiInputDevice.html#a34df5e3087b8429d5bb98c778e94f714", null ],
+    [ "winmm_input_callback", "classARDOUR_1_1WinMMEMidiInputDevice.html#ad4921c9d1c725d381d867fb44915db67", null ],
+    [ "m_handle", "classARDOUR_1_1WinMMEMidiInputDevice.html#ac9c2d4fc6de916a72317fe3502affd48", null ],
+    [ "m_midi_buffer", "classARDOUR_1_1WinMMEMidiInputDevice.html#a2cd661306a1968709c5cd0aa88468c47", null ],
+    [ "m_name", "classARDOUR_1_1WinMMEMidiInputDevice.html#a1e4ea2a6a75718921a69e551fe823e02", null ],
+    [ "m_started", "classARDOUR_1_1WinMMEMidiInputDevice.html#a02a249f89350d2991e87c5fe06609902", null ],
+    [ "m_sysex_buffer", "classARDOUR_1_1WinMMEMidiInputDevice.html#ae16c8831a2f7645bab937257e5ac449c", null ],
+    [ "m_sysex_header", "classARDOUR_1_1WinMMEMidiInputDevice.html#a82df90226a1f78c677d1568aae942128", null ]
+];

@@ -1,0 +1,14 @@
+<map id="cairo_packer.h" name="cairo_packer.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="307,5,421,31"/>
+<area shape="rect" id="Node000002" href="$audio__clip__editor_8h.html" title=" " alt="" coords="5,86,149,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="310,37,120,89,118,83,309,32"/>
+<area shape="rect" id="Node000004" href="$audio__region__operations__box_8h.html" title=" " alt="" coords="174,79,357,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="340,41,291,81,287,76,337,37"/>
+<area shape="rect" id="Node000005" href="$slot__properties__box_8h.html" title=" " alt="" coords="381,86,544,111"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="391,37,450,84,446,88,388,41"/>
+<area shape="rect" id="Node000006" href="$time__info__box_8h.html" title=" " alt="" coords="569,86,695,111"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="417,32,594,83,592,89,415,37"/>
+<area shape="rect" id="Node000003" href="$trigger__page_8h.html" title=" " alt="" coords="113,167,229,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,118,159,164,155,168,100,122"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="233,130,187,168,183,164,230,126"/>
+</map>

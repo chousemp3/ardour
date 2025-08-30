@@ -1,0 +1,18 @@
+<map id="state.h" name="state.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="95,5,161,31"/>
+<area shape="rect" id="Node000002" href="$client_8h.html" title=" " alt="" coords="9,152,79,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,42,87,59,72,80,56,118,48,152,43,151,51,117,67,77,83,56,101,38"/>
+<area shape="rect" id="Node000005" href="$server_8h.html" title=" " alt="" coords="131,225,205,251"/>
+<area shape="poly" id="edge10_Node000001_Node000005" title=" " alt="" coords="157,37,175,55,189,78,198,119,195,161,185,199,176,226,171,224,180,197,189,161,192,120,184,80,171,59,154,41"/>
+<area shape="rect" id="Node000006" href="$message_8h.html" title=" " alt="" coords="81,79,175,104"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="131,44,131,79,125,79,125,44"/>
+<area shape="rect" id="Node000003" href="$dispatcher_8h.html" title=" " alt="" coords="5,225,107,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="51,191,57,225,51,226,46,192"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="77,182,149,223,146,227,74,186"/>
+<area shape="rect" id="Node000004" href="$ardour__websockets_8h.html" title=" " alt="" coords="33,299,191,324"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="76,260,105,297,101,300,72,263"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="152,263,123,300,119,297,148,260"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="106,115,59,154,56,150,102,111"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="121,118,93,179,66,226,61,224,88,176,116,116"/>
+<area shape="poly" id="edge9_Node000006_Node000005" title=" " alt="" coords="137,117,167,224,162,226,132,118"/>
+</map>

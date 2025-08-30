@@ -1,0 +1,25 @@
+var classPianoRollHeader =
+[
+    [ "PianoRollHeader", "classPianoRollHeader.html#a8a3466898ee1e5ce95fc7bb5b0422b03", null ],
+    [ "_queue_resize", "classPianoRollHeader.html#a7e68a9b74c40013c017b296d8ba65dd1", null ],
+    [ "cursor_window", "classPianoRollHeader.html#a72f919d687501fc242598dbd208eac02", null ],
+    [ "do_grab", "classPianoRollHeader.html#af1073282ce4b962c74907e032e7019e0", null ],
+    [ "do_ungrab", "classPianoRollHeader.html#aab1b68dd31c69b1dd2d59ba77aeb8a81", null ],
+    [ "draw_transform", "classPianoRollHeader.html#a3a21e97ce9b25919c4f3fdbf6555c822", null ],
+    [ "event_y_to_y", "classPianoRollHeader.html#a4adce195305baf8f35eff898902722d2", null ],
+    [ "height", "classPianoRollHeader.html#a4b145348f5b3352f7a87e97b60173651", null ],
+    [ "instrument_info_change", "classPianoRollHeader.html#a92768b7f8fec6ffcee07f13c0d230c89", null ],
+    [ "midi_track", "classPianoRollHeader.html#ac4e7e9e2bfc5f811e5ecef3a3735b453", null ],
+    [ "on_button_press_event", "classPianoRollHeader.html#a8c7941d7e294a17596d271eefecd4bba", null ],
+    [ "on_button_release_event", "classPianoRollHeader.html#a5bc28f0f25f053d2e161398a0da24a4b", null ],
+    [ "on_enter_notify_event", "classPianoRollHeader.html#a0a31aa0f1d2c9e342bce0e5868e7134a", null ],
+    [ "on_expose_event", "classPianoRollHeader.html#a8a3b8f5dad8364eb4d490889414d54c1", null ],
+    [ "on_leave_notify_event", "classPianoRollHeader.html#a813196a322b9a7176fca66a3eb8548da", null ],
+    [ "on_motion_notify_event", "classPianoRollHeader.html#ab55bdc5a28a7c200a30802fe948cfb47", null ],
+    [ "on_scroll_event", "classPianoRollHeader.html#a3bd7bf48c0f8c76907fd0e9cd9852af6", null ],
+    [ "on_size_request", "classPianoRollHeader.html#a3b474172668ea7a95d7e86c992efcaa7", null ],
+    [ "redraw", "classPianoRollHeader.html#a1184557695ab2dadcaaf6464ca2e2790", null ],
+    [ "redraw", "classPianoRollHeader.html#a48c4d47c669c6c450bb671ecc88cb269", null ],
+    [ "width", "classPianoRollHeader.html#a2bd5b87fe8ddf11b830a04886b53ced1", null ],
+    [ "stream_view", "classPianoRollHeader.html#a60620715d1064ce6e631a707a81fac3b", null ]
+];

@@ -1,0 +1,43 @@
+<map id="ArdourCanvas::Container" name="ArdourCanvas::Container">
+<area shape="rect" id="Node000001" title=" " alt="" coords="420,281,604,307"/>
+<area shape="rect" id="Node000005" href="$classArdourCanvas_1_1Arrow.html" title=" " alt="" coords="687,5,845,31"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="517,267,533,218,560,156,598,93,623,64,651,40,685,23,688,28,653,44,626,68,603,96,564,158,538,220,522,268"/>
+<area shape="rect" id="Node000006" href="$classArdourCanvas_1_1Flag.html" title=" " alt="" coords="691,55,841,80"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="521,267,539,228,567,179,604,130,626,108,651,89,690,72,692,77,653,94,630,112,608,134,572,182,544,230,526,270"/>
+<area shape="rect" id="Node000007" href="$classArdourCanvas_1_1Root.html" title=" " alt="" coords="691,104,841,129"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="526,268,575,203,610,168,651,138,689,123,691,128,653,143,614,172,579,206,530,272"/>
+<area shape="rect" id="Node000008" href="$classArdourCanvas_1_1ScrollGroup.html" title=" " alt="" coords="668,153,864,179"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="534,270,585,228,617,206,651,188,683,176,685,181,653,192,620,210,588,232,538,274"/>
+<area shape="rect" id="Node000009" href="$classArdourSurface_1_1LevelMeter.html" title=" " alt="" coords="669,203,863,228"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="553,273,651,237,696,225,697,231,653,242,555,278"/>
+<area shape="rect" id="Node000010" href="$classArdourSurface_1_1Maschine2Knob.html" title=" " alt="" coords="653,252,879,277"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="617,279,656,275,656,280,618,284"/>
+<area shape="rect" id="Node000011" href="$classArdourSurface_1_1Maschine2Layout.html" title=" " alt="" coords="670,302,862,342"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="618,303,670,309,670,314,617,308"/>
+<area shape="rect" id="Node000012" href="$classArdourSurface_1_1Maschine2Menu.html" title=" " alt="" coords="652,367,880,392"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="552,310,600,331,653,351,699,364,698,369,651,357,598,336,550,315"/>
+<area shape="rect" id="Node000013" href="$structArdourSurface_1_1MixLayout_1_1GainMeter.html" title=" " alt="" coords="671,417,861,457"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="537,314,588,359,620,382,653,402,681,414,679,419,651,407,617,387,585,363,534,318"/>
+<area shape="rect" id="Node000014" href="$classArdourSurface_1_1Push2Knob.html" title=" " alt="" coords="669,481,863,507"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="528,318,548,352,576,393,612,433,653,466,680,479,677,484,651,471,608,437,572,396,544,355,524,320"/>
+<area shape="rect" id="Node000015" href="$classArdourSurface_1_1Push2Layout.html" title=" " alt="" coords="663,531,869,556"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="524,319,541,363,568,417,606,472,628,496,653,517,674,528,672,533,651,522,625,500,601,475,564,420,536,365,519,321"/>
+<area shape="rect" id="Node000021" href="$classArdourSurface_1_1Push2Menu.html" title=" " alt="" coords="667,580,865,605"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="521,319,535,372,561,440,579,475,600,509,625,540,654,567,673,578,670,582,650,571,621,544,595,512,574,478,556,442,530,374,516,321"/>
+<area shape="rect" id="Node000002" href="$classArdourCanvas_1_1Item.html" title=" " alt="" coords="221,281,372,307"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="386,291,420,291,420,297,386,297"/>
+<area shape="rect" id="Node000003" href="$classArdourCanvas_1_1Fill.html" title=" " alt="" coords="19,256,159,281"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="173,276,222,282,221,287,172,281"/>
+<area shape="rect" id="Node000004" href="$classArdourCanvas_1_1Outline.html" title=" " alt="" coords="5,305,173,331"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="187,304,220,300,221,305,188,309"/>
+<area shape="rect" id="Node000016" href="$classArdourSurface_1_1CueLayout.html" title=" " alt="" coords="945,432,1135,457"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="865,523,879,517,893,506,902,493,911,480,927,468,957,455,959,460,929,472,915,484,906,496,897,509,881,522,867,528"/>
+<area shape="rect" id="Node000017" href="$classArdourSurface_1_1MixLayout.html" title=" " alt="" coords="945,481,1135,507"/>
+<area shape="poly" id="edge16_Node000015_Node000017" title=" " alt="" coords="850,526,968,504,969,509,851,531"/>
+<area shape="rect" id="Node000018" href="$classArdourSurface_1_1ScaleLayout.html" title=" " alt="" coords="939,531,1141,556"/>
+<area shape="poly" id="edge17_Node000015_Node000018" title=" " alt="" coords="882,541,939,541,939,546,882,546"/>
+<area shape="rect" id="Node000019" href="$classArdourSurface_1_1SplashLayout.html" title=" " alt="" coords="935,580,1145,605"/>
+<area shape="poly" id="edge18_Node000015_Node000019" title=" " alt="" coords="851,556,969,577,968,583,850,561"/>
+<area shape="rect" id="Node000020" href="$classArdourSurface_1_1TrackMixLayout.html" title=" " alt="" coords="928,629,1152,655"/>
+<area shape="poly" id="edge19_Node000015_Node000020" title=" " alt="" coords="864,558,881,566,897,579,906,592,915,604,929,616,956,627,954,632,927,620,911,608,902,595,893,582,879,571,861,563"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="instrument_selector.h" name="instrument_selector.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="153,5,316,31"/>
+<area shape="rect" id="Node000002" href="$add__route__dialog_8h.html" title=" " alt="" coords="5,79,152,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,39,105,81,103,76,196,34"/>
+<area shape="rect" id="Node000004" href="$sfdb__ui_8h.html" title=" " alt="" coords="194,79,275,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="237,44,237,79,232,79,232,44"/>
+<area shape="rect" id="Node000006" href="$trigger__clip__picker_8h.html" title=" " alt="" coords="320,79,472,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="274,34,371,76,369,81,272,39"/>
+<area shape="rect" id="Node000003" href="$ardour__ui_8h.html" title=" " alt="" coords="14,152,109,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="75,118,67,153,62,151,70,117"/>
+<area shape="rect" id="Node000005" href="$sfdb__freesound__mootcher_8h.html" title=" " alt="" coords="133,152,336,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="237,118,237,152,232,152,232,118"/>
+<area shape="rect" id="Node000007" href="$editor_8h.html" title=" " alt="" coords="361,152,431,177"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="399,118,399,152,393,152,393,118"/>
+<area shape="rect" id="Node000008" href="$trigger__page_8h.html" title=" " alt="" coords="455,152,571,177"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="428,109,496,149,493,154,425,113"/>
+</map>

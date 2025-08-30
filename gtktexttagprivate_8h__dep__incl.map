@@ -1,0 +1,16 @@
+<map id="gtktexttagprivate.h" name="gtktexttagprivate.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="103,5,251,31"/>
+<area shape="rect" id="Node000002" href="$gtktexttypes_8h.html" title=" " alt="" coords="118,79,235,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,44,179,79,174,79,174,44"/>
+<area shape="rect" id="Node000003" href="$gtktextchildprivate_8h.html" title=" " alt="" coords="5,152,164,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="153,114,101,154,98,150,150,110"/>
+<area shape="rect" id="Node000007" href="$gtktextmarkprivate_8h.html" title=" " alt="" coords="188,152,349,177"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="204,110,255,150,252,154,200,114"/>
+<area shape="rect" id="Node000004" href="$gtktextsegment_8h.html" title=" " alt="" coords="107,225,246,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="112,183,163,223,160,227,108,188"/>
+<area shape="rect" id="Node000005" href="$gtktextbtree_8h.html" title=" " alt="" coords="119,299,234,324"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="179,264,179,299,174,299,174,264"/>
+<area shape="rect" id="Node000006" href="$gtktextiterprivate_8h.html" title=" " alt="" coords="102,372,251,397"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="179,338,179,372,174,372,174,338"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="245,188,193,227,190,223,242,183"/>
+</map>

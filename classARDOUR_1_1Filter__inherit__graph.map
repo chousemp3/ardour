@@ -1,0 +1,15 @@
+<map id="ARDOUR::Filter" name="ARDOUR::Filter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,125,129"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1MidiStretch.html" title=" " alt="" coords="175,5,336,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,93,128,66,172,40,201,28,203,33,174,44,131,70,94,98"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1Pitch.html" title=" " alt="" coords="196,55,315,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="127,98,205,78,206,83,129,103"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1RBEffect.html" title=" " alt="" coords="184,104,327,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="139,114,184,114,184,119,139,119"/>
+<area shape="rect" id="Node000006" href="$classARDOUR_1_1Reverse.html" title=" " alt="" coords="185,153,325,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="129,130,206,151,205,156,127,135"/>
+<area shape="rect" id="Node000007" href="$classARDOUR_1_1StripSilence.html" title="A filter to strip silence from regions." alt="" coords="173,203,337,228"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="94,136,131,162,174,188,206,200,204,205,172,192,128,167,91,140"/>
+<area shape="rect" id="Node000005" href="$classARDOUR_1_1RBStretch.html" title=" " alt="" coords="385,104,536,129"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="340,114,385,114,385,119,340,119"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="ArdourWidgets::StatefulToggleButton" name="ArdourWidgets::StatefulToggleButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="95,519,313,559"/>
+<area shape="rect" id="Node000002" href="$classArdourWidgets_1_1StateButton.html" title=" " alt="" coords="5,445,208,471"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,477,182,516,179,521,130,481"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1ToggleButton.html" title=" " alt="" coords="232,445,371,471"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="278,481,229,521,226,516,275,477"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Button.html" title=" " alt="" coords="253,372,349,397"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="304,411,304,445,299,445,299,411"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Bin.html" title=" " alt="" coords="264,299,339,324"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="304,338,304,372,299,372,299,338"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1Container.html" title=" " alt="" coords="243,225,359,251"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="304,264,304,299,299,299,299,264"/>
+<area shape="rect" id="Node000007" href="$classGtk_1_1Widget.html" title=" " alt="" coords="252,152,351,177"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="304,191,304,225,299,225,299,191"/>
+<area shape="rect" id="Node000008" href="$classGtk_1_1Object.html" title=" " alt="" coords="254,79,349,104"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="304,118,304,152,299,152,299,118"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="252,5,351,31"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="304,44,304,79,299,79,299,44"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="audio_trigger_properties_box.h" name="audio_trigger_properties_box.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="65,5,246,45"/>
+<area shape="rect" id="Node000002" href="$midi__trigger__properties__box_8h.html" title=" " alt="" coords="5,93,180,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,58,109,95,104,92,131,55"/>
+<area shape="rect" id="Node000003" href="$trigger__page_8h.html" title=" " alt="" coords="97,181,213,207"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="179,56,195,93,199,113,195,134,183,161,168,182,163,179,178,158,190,133,194,113,190,94,174,58"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="119,143,148,179,144,183,114,146"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="Gtkmm2ext::Activatable" name="Gtkmm2ext::Activatable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,177,188,203"/>
+<area shape="rect" id="Node000002" href="$classArdourWidgets_1_1ArdourButton.html" title=" " alt="" coords="242,104,454,129"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,171,303,127,304,132,155,176"/>
+<area shape="rect" id="Node000010" href="$classArdourWidgets_1_1ArdourCtrlBase.html" title=" " alt="" coords="236,177,460,203"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="202,187,236,187,236,193,202,193"/>
+<area shape="rect" id="Node000012" href="$classCheckOption.html" title=" " alt="" coords="295,227,401,252"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="176,203,295,226,294,232,175,208"/>
+<area shape="rect" id="Node000003" href="$classArdourWidgets_1_1ArdourDropdown.html" title=" " alt="" coords="508,5,743,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="383,95,440,66,507,39,548,28,550,33,509,45,442,71,385,100"/>
+<area shape="rect" id="Node000005" href="$classArdourWidgets_1_1MetaButton.html" title=" " alt="" coords="524,55,727,80"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="433,99,553,77,554,83,434,104"/>
+<area shape="rect" id="Node000006" href="$classIOButtonBase.html" title=" " alt="" coords="570,104,681,129"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="468,114,570,114,570,119,468,119"/>
+<area shape="rect" id="Node000009" href="$classShuttleInfoButton.html" title=" " alt="" coords="557,153,693,179"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="434,129,558,151,557,157,433,134"/>
+<area shape="rect" id="Node000004" href="$classArdourWidgets_1_1ArdourDisplay.html" title=" " alt="" coords="791,5,1009,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="756,15,790,15,790,21,756,21"/>
+<area shape="rect" id="Node000007" href="$classIOButton.html" title=" " alt="" coords="861,79,939,104"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="694,108,860,92,861,98,695,113"/>
+<area shape="rect" id="Node000008" href="$classIOPluginWindow_1_1IOButton.html" title=" " alt="" coords="804,128,996,153"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="695,120,804,130,803,135,694,125"/>
+<area shape="rect" id="Node000011" href="$classArdourWidgets_1_1ArdourKnob.html" title=" " alt="" coords="524,203,727,228"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="474,199,524,203,523,209,473,204"/>
+</map>

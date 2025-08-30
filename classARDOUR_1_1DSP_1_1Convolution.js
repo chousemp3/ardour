@@ -1,0 +1,25 @@
+var classARDOUR_1_1DSP_1_1Convolution =
+[
+    [ "ImpData", "classARDOUR_1_1DSP_1_1Convolution_1_1ImpData.html", "classARDOUR_1_1DSP_1_1Convolution_1_1ImpData" ],
+    [ "Convolution", "classARDOUR_1_1DSP_1_1Convolution.html#abfa5eb3ea6e8bcc7daa07149f2b6e901", null ],
+    [ "~Convolution", "classARDOUR_1_1DSP_1_1Convolution.html#a8e1ff37de0d3ef122604038d6803b6c9", null ],
+    [ "add_impdata", "classARDOUR_1_1DSP_1_1Convolution.html#a1dfa4b277846106a7675fdfd4d7310f4", null ],
+    [ "clear_impdata", "classARDOUR_1_1DSP_1_1Convolution.html#a21713491db90927ab4d9761c8879818d", null ],
+    [ "latency", "classARDOUR_1_1DSP_1_1Convolution.html#a9f8f646ca1023a826b81996a7370df3a", null ],
+    [ "n_inputs", "classARDOUR_1_1DSP_1_1Convolution.html#a9603a379f4f93495004daeec7e95bbe9", null ],
+    [ "n_outputs", "classARDOUR_1_1DSP_1_1Convolution.html#a445ddc5f58e0b3fc12b2fa0282b4ef0b", null ],
+    [ "ready", "classARDOUR_1_1DSP_1_1Convolution.html#a05d649930de5e0a32b703cf76b50baa7", null ],
+    [ "restart", "classARDOUR_1_1DSP_1_1Convolution.html#a8a220bc3f3ecbc87e13f66d83a81ea56", null ],
+    [ "run", "classARDOUR_1_1DSP_1_1Convolution.html#afe0ab8526f23a9d553b96a55dccdc534", null ],
+    [ "run_mono_buffered", "classARDOUR_1_1DSP_1_1Convolution.html#a15be0361b2c662352fae89e8b9fdad37", null ],
+    [ "run_mono_no_latency", "classARDOUR_1_1DSP_1_1Convolution.html#a531eac8c539669592c95aa8fcb080eeb", null ],
+    [ "_configured", "classARDOUR_1_1DSP_1_1Convolution.html#a9dd47f1d92066b06a33be65c27d27833", null ],
+    [ "_convproc", "classARDOUR_1_1DSP_1_1Convolution.html#ab6bce957644a2303b6c163aa72729a54", null ],
+    [ "_impdata", "classARDOUR_1_1DSP_1_1Convolution.html#ada36ffe99bc286aaa040d11a18e78ae3", null ],
+    [ "_max_size", "classARDOUR_1_1DSP_1_1Convolution.html#a0386defae092c60ad2c21121d5e289ed", null ],
+    [ "_n_inputs", "classARDOUR_1_1DSP_1_1Convolution.html#a2e867158a162c37d63b7ef6c8e995d95", null ],
+    [ "_n_outputs", "classARDOUR_1_1DSP_1_1Convolution.html#abec063211ae160f0de3dd6ae546082e3", null ],
+    [ "_n_samples", "classARDOUR_1_1DSP_1_1Convolution.html#afb23368a99dbab5da3f20ebaee843378", null ],
+    [ "_offset", "classARDOUR_1_1DSP_1_1Convolution.html#a241540c326d3751f8103f9451be17ffa", null ],
+    [ "_threaded", "classARDOUR_1_1DSP_1_1Convolution.html#a8e043b99b990d72d626304d0fd413df5", null ]
+];

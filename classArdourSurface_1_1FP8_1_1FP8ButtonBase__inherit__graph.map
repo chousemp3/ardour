@@ -1,0 +1,15 @@
+<map id="ArdourSurface::FP8::FP8ButtonBase" name="ArdourSurface::FP8::FP8ButtonBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="208,101,355,141"/>
+<area shape="rect" id="Node000003" href="$classArdourSurface_1_1FP8_1_1FP8Button.html" title=" " alt="" coords="415,37,562,77"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="359,95,423,75,424,80,360,100"/>
+<area shape="rect" id="Node000006" href="$classArdourSurface_1_1FP8_1_1FP8MomentaryButton.html" title=" " alt="" coords="403,101,575,141"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="368,119,403,119,403,124,368,124"/>
+<area shape="rect" id="Node000007" href="$classArdourSurface_1_1FP8_1_1ShadowButton.html" title=" " alt="" coords="415,165,562,205"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="360,143,424,163,423,168,359,148"/>
+<area shape="rect" id="Node000002" href="$classArdourSurface_1_1FP8_1_1FP8ButtonInterface.html" title=" " alt="" coords="5,101,160,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,119,207,119,207,124,174,124"/>
+<area shape="rect" id="Node000004" href="$classArdourSurface_1_1FP8_1_1FP8ReadOnlyButton.html" title=" " alt="" coords="623,5,783,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="575,42,622,35,623,40,576,47"/>
+<area shape="rect" id="Node000005" href="$classArdourSurface_1_1FP8_1_1FP8RepeatButton.html" title=" " alt="" coords="629,69,776,109"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="576,68,630,76,629,81,575,73"/>
+</map>

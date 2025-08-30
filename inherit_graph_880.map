@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classArdourSurface_1_1US2400_1_1Control.html" title=" " alt="" coords="5,127,177,167"/>
+<area shape="rect" id="Node000001" href="$classArdourSurface_1_1US2400_1_1Button.html" title=" " alt="" coords="241,5,413,45"/>
+<area shape="poly" id="edge164_Node000000_Node000001" title=" " alt="" coords="127,116,172,85,224,55,253,43,255,48,227,60,175,89,130,121"/>
+<area shape="rect" id="Node000002" href="$classArdourSurface_1_1US2400_1_1Fader.html" title=" " alt="" coords="241,69,413,109"/>
+<area shape="poly" id="edge165_Node000000_Node000002" title=" " alt="" coords="187,121,243,107,245,112,188,126"/>
+<area shape="rect" id="Node000003" href="$classArdourSurface_1_1US2400_1_1Led.html" title=" " alt="" coords="225,134,428,159"/>
+<area shape="poly" id="edge166_Node000000_Node000003" title=" " alt="" coords="191,144,225,144,225,149,191,149"/>
+<area shape="rect" id="Node000004" href="$classArdourSurface_1_1US2400_1_1Meter.html" title=" " alt="" coords="241,184,413,224"/>
+<area shape="poly" id="edge167_Node000000_Node000004" title=" " alt="" coords="188,167,245,181,243,187,187,173"/>
+<area shape="rect" id="Node000005" href="$classArdourSurface_1_1US2400_1_1Pot.html" title=" " alt="" coords="226,249,427,274"/>
+<area shape="poly" id="edge168_Node000000_Node000005" title=" " alt="" coords="129,173,174,205,226,234,262,246,260,251,224,238,171,209,126,177"/>
+<area shape="rect" id="Node000006" href="$classArdourSurface_1_1US2400_1_1Jog.html" title=" " alt="" coords="476,249,676,274"/>
+<area shape="poly" id="edge169_Node000005_Node000006" title=" " alt="" coords="441,259,476,259,476,264,441,264"/>
+</map>

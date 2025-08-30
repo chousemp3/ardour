@@ -1,0 +1,28 @@
+<map id="OptionEditorWindow" name="OptionEditorWindow">
+<area shape="rect" id="Node000001" title=" " alt="" coords="75,519,230,544"/>
+<area shape="rect" id="Node000013" href="$classSessionOptionEditor.html" title=" " alt="" coords="76,592,229,617"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="155,558,155,592,150,592,150,558"/>
+<area shape="rect" id="Node000002" href="$classOptionEditor.html" title=" " alt="" coords="35,445,137,471"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,479,144,517,140,520,105,483"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,299,121,324"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="41,335,20,365,16,381,19,396,40,424,66,443,63,447,36,427,14,398,11,380,16,362,37,332"/>
+<area shape="rect" id="Node000012" href="$classGtkmm2ext_1_1VisibilityTracker.html" title=" " alt="" coords="29,372,239,397"/>
+<area shape="poly" id="edge12_Node000012_Node000003" title=" " alt="" coords="87,332,124,370,121,374,83,336"/>
+<area shape="rect" id="Node000004" href="$classArdourWindow.html" title=" " alt="" coords="166,445,283,471"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="205,483,166,520,162,517,201,479"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Window.html" title=" " alt="" coords="263,372,368,397"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="291,408,241,447,238,443,288,404"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1Bin.html" title=" " alt="" coords="278,299,353,324"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="318,338,318,372,313,372,313,338"/>
+<area shape="rect" id="Node000007" href="$classGtk_1_1Container.html" title=" " alt="" coords="257,225,373,251"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="318,264,318,299,313,299,313,264"/>
+<area shape="rect" id="Node000008" href="$classGtk_1_1Widget.html" title=" " alt="" coords="266,152,365,177"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="318,191,318,225,313,225,313,191"/>
+<area shape="rect" id="Node000009" href="$classGtk_1_1Object.html" title=" " alt="" coords="268,79,363,104"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="318,118,318,152,313,152,313,118"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="266,5,365,31"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="318,44,318,79,313,79,313,44"/>
+<area shape="rect" id="Node000011" href="$classARDOUR_1_1SessionHandlePtr.html" title=" " alt="" coords="392,372,593,397"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="437,403,269,448,267,443,435,398"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="161,404,211,443,208,447,158,408"/>
+</map>

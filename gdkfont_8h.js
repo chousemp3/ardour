@@ -1,0 +1,35 @@
+var gdkfont_8h =
+[
+    [ "_GdkFont", "struct__GdkFont.html", "struct__GdkFont" ],
+    [ "GDK_TYPE_FONT", "gdkfont_8h.html#a05daeed02179afb6a984cff3f045bf8b", null ],
+    [ "GdkFontType", "gdkfont_8h.html#a2b69b159c10584fbeb3df294dde7aabf", [
+      [ "GDK_FONT_FONT", "gdkfont_8h.html#a2b69b159c10584fbeb3df294dde7aabfa59a153e7057cc1122622d08db506faec", null ],
+      [ "GDK_FONT_FONTSET", "gdkfont_8h.html#a2b69b159c10584fbeb3df294dde7aabfa6e3c553979556f07e05f72c3de66e1be", null ]
+    ] ],
+    [ "gdk_char_height", "gdkfont_8h.html#ae19cc841b5af28a54df25b474431da16", null ],
+    [ "gdk_char_measure", "gdkfont_8h.html#ad2fe5e60ee006454fed8d672aa15c7c0", null ],
+    [ "gdk_char_width", "gdkfont_8h.html#ace4ac513ad5df1a41fd52c3ab96385f2", null ],
+    [ "gdk_char_width_wc", "gdkfont_8h.html#aa6c91f357deeaedb06da90f01dda465b", null ],
+    [ "gdk_font_equal", "gdkfont_8h.html#aa60b9973067f9fcce89f9b2487e6116f", null ],
+    [ "gdk_font_from_description", "gdkfont_8h.html#a9840f4d9a3eda322640cb34130a17968", null ],
+    [ "gdk_font_from_description_for_display", "gdkfont_8h.html#a901810e50aac5082e2ba196168f48ed5", null ],
+    [ "gdk_font_get_display", "gdkfont_8h.html#a35335f1bedf41524823fe3eba3bfef4c", null ],
+    [ "gdk_font_get_type", "gdkfont_8h.html#aff434e5450d121307a4b5acdc5637b00", null ],
+    [ "gdk_font_id", "gdkfont_8h.html#a938cb1615f07d11adddb07ebc5208eae", null ],
+    [ "gdk_font_load", "gdkfont_8h.html#a4b8553134b1a8976507cbf1d302e98bc", null ],
+    [ "gdk_font_load_for_display", "gdkfont_8h.html#abf8c95679990efd732a225ff1b40ace5", null ],
+    [ "gdk_font_ref", "gdkfont_8h.html#a02f21cee4e3fb7d2621881499ea1724e", null ],
+    [ "gdk_font_unref", "gdkfont_8h.html#a1f17c5e86a157042138ae1e010307222", null ],
+    [ "gdk_fontset_load", "gdkfont_8h.html#abdd363531012ff48f4b1922510152f2a", null ],
+    [ "gdk_fontset_load_for_display", "gdkfont_8h.html#a68eca5525ccce70226cc36f58982b6d8", null ],
+    [ "gdk_string_extents", "gdkfont_8h.html#a9e5f32b2013101d4f8997afbc0b11235", null ],
+    [ "gdk_string_height", "gdkfont_8h.html#ab1560822df0e39da8e9ca443283a2675", null ],
+    [ "gdk_string_measure", "gdkfont_8h.html#a807c4589b4eb2dccf1c673338d64cefb", null ],
+    [ "gdk_string_width", "gdkfont_8h.html#a65c1e0d0f10a4d8f6d84770cae8bec3f", null ],
+    [ "gdk_text_extents", "gdkfont_8h.html#a38fb09c285bc69020a9293236e55292e", null ],
+    [ "gdk_text_extents_wc", "gdkfont_8h.html#a347bf350cd6479285468e8968c50c038", null ],
+    [ "gdk_text_height", "gdkfont_8h.html#a556987ed8fb2a2000df5e5e4f21f2ff2", null ],
+    [ "gdk_text_measure", "gdkfont_8h.html#adb092a8e16ecefe6a2b22306685aa6ba", null ],
+    [ "gdk_text_width", "gdkfont_8h.html#a2f856d67c9ae7de3572e3318dbaf56bc", null ],
+    [ "gdk_text_width_wc", "gdkfont_8h.html#ab43f2b7a8b1ce7776727618e697098b4", null ]
+];

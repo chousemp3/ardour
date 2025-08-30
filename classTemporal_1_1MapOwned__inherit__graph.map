@@ -1,0 +1,14 @@
+<map id="Temporal::MapOwned" name="Temporal::MapOwned">
+<area shape="rect" id="Node000001" title=" " alt="" coords="207,5,370,31"/>
+<area shape="rect" id="Node000002" href="$classTemporal_1_1Point.html" title=" " alt="" coords="227,79,350,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="291,44,291,79,286,79,286,44"/>
+<area shape="rect" id="Node000003" href="$classTemporal_1_1MeterPoint.html" title=" " alt="" coords="5,152,167,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="244,111,120,154,118,149,243,106"/>
+<area shape="rect" id="Node000005" href="$classTemporal_1_1TempoMapPoint.html" title=" " alt="" coords="191,152,386,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="291,118,291,152,286,152,286,118"/>
+<area shape="rect" id="Node000006" href="$classTemporal_1_1TempoPoint.html" title=" " alt="" coords="411,152,577,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="335,106,462,149,460,154,334,111"/>
+<area shape="rect" id="Node000004" href="$classTemporal_1_1MusicTimePoint.html" title=" " alt="" coords="193,225,387,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="132,179,258,223,256,228,131,184"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="449,184,324,228,322,223,448,179"/>
+</map>

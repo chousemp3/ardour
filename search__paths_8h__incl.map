@@ -1,0 +1,13 @@
+<map id="search_paths.h" name="search_paths.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="141,5,261,31"/>
+<area shape="rect" id="Node000002" href="$libardour__visibility_8h.html" title=" " alt="" coords="5,79,204,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,33,133,72,130,68,184,29"/>
+<area shape="rect" id="Node000003" href="$search__path_8h.html" title=" " alt="" coords="227,79,369,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,29,272,68,269,72,215,33"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="183,152,242,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="286,106,239,145,235,141,283,102"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="267,152,329,177"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="301,104,301,138,295,138,295,104"/>
+<area shape="rect" id="Node000006" href="$libpbd__visibility_8h.html" title=" " alt="" coords="354,152,517,177"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="321,102,402,143,400,148,319,106"/>
+</map>

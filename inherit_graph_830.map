@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classArdourSurface_1_1Controller.html" title=" " alt="" coords="5,95,192,121"/>
+<area shape="rect" id="Node000001" href="$classArdourSurface_1_1ControllerButton.html" title=" " alt="" coords="241,5,428,45"/>
+<area shape="poly" id="edge104_Node000000_Node000001" title=" " alt="" coords="147,88,239,55,273,43,275,48,241,60,149,93"/>
+<area shape="rect" id="Node000002" href="$classArdourSurface_1_1Encoder.html" title=" " alt="" coords="247,70,422,95"/>
+<area shape="poly" id="edge105_Node000000_Node000002" title=" " alt="" coords="205,94,247,89,247,95,206,99"/>
+<area shape="rect" id="Node000003" href="$classArdourSurface_1_1Meter.html" title=" " alt="" coords="255,119,415,145"/>
+<area shape="poly" id="edge106_Node000000_Node000003" title=" " alt="" coords="206,116,255,121,254,127,206,122"/>
+<area shape="rect" id="Node000004" href="$classArdourSurface_1_1MultiStateButton.html" title=" " alt="" coords="240,169,429,209"/>
+<area shape="poly" id="edge107_Node000000_Node000004" title=" " alt="" coords="150,123,277,167,275,172,149,128"/>
+</map>

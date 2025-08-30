@@ -1,0 +1,11 @@
+<map id="timer.h" name="timer.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="90,5,158,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,64,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,33,62,72,58,68,108,29"/>
+<area shape="rect" id="Node000003" href="$surfaces_2mackie_2types_8h.html" title=" " alt="" coords="89,79,159,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="127,31,127,65,121,65,121,31"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="184,79,251,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="141,29,193,68,190,72,137,33"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="84,152,164,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="127,104,127,138,121,138,121,104"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="region_naming_test.h" name="region_naming_test.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="37,5,200,31"/>
+<area shape="rect" id="Node000002" href="$audio__region__test_8h.html" title=" " alt="" coords="43,79,194,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,31,121,65,116,65,116,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,83,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,106,68,144,64,141,105,102"/>
+<area shape="rect" id="Node000004" href="$test__needing__session_8h.html" title=" " alt="" coords="107,152,282,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="133,102,174,141,170,144,129,106"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="28,233,185,258"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="183,180,131,226,128,222,180,176"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="210,225,355,265"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="209,176,253,214,250,218,206,180"/>
+</map>

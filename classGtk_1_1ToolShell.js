@@ -1,0 +1,25 @@
+var classGtk_1_1ToolShell =
+[
+    [ "ToolShell", "classGtk_1_1ToolShell.html#aa5f6d04b3a0036da34a56199292b2451", null ],
+    [ "~ToolShell", "classGtk_1_1ToolShell.html#ad1de2812f27af642b75291732b769982", null ],
+    [ "add_interface", "classGtk_1_1ToolShell.html#aba83323bef9d5ada06eef3e54f9eeaec", null ],
+    [ "get_ellipsize_mode", "classGtk_1_1ToolShell.html#a0144c6b5815c2873a558438d4a2cb9ee", null ],
+    [ "get_icon_size", "classGtk_1_1ToolShell.html#a3c501e52fa1d6dbd30fd8685c01e8e70", null ],
+    [ "get_icon_size_vfunc", "classGtk_1_1ToolShell.html#ad6e048accc29fd7d57378bfb0518fd97", null ],
+    [ "get_orientation", "classGtk_1_1ToolShell.html#a0ec96926f0dbca6d54e0cec20019fc73", null ],
+    [ "get_orientation_vfunc", "classGtk_1_1ToolShell.html#aa22316a604b81b64d64ac89dc3c064ea", null ],
+    [ "get_relief_style", "classGtk_1_1ToolShell.html#a449ea40e665a6a9eb94866c273fc2a51", null ],
+    [ "get_relief_style_vfunc", "classGtk_1_1ToolShell.html#a1ade18cc8d5599c3f03d85765cdc37d5", null ],
+    [ "get_style", "classGtk_1_1ToolShell.html#ac90ab36b6c2efdb430e5c1ec033afa68", null ],
+    [ "get_style_vfunc", "classGtk_1_1ToolShell.html#a4f6de040dfa0f4decd727e634a40d329", null ],
+    [ "get_text_alignment", "classGtk_1_1ToolShell.html#a4cbfbfdde3ab9b8e174b7c920fb1b797", null ],
+    [ "get_text_orientation", "classGtk_1_1ToolShell.html#adb62797f7677e7516b5d60187f0580f9", null ],
+    [ "get_text_size_group", "classGtk_1_1ToolShell.html#aeaee54229e600d4d58bea5225fc97671", null ],
+    [ "get_text_size_group", "classGtk_1_1ToolShell.html#a5d0dfd79c65d6b94163c35d5123c400c", null ],
+    [ "get_type", "classGtk_1_1ToolShell.html#af992051a4b3465b1b05f285f69fcee2d", null ],
+    [ "gobj", "classGtk_1_1ToolShell.html#a0db2eb87460c6555ab9bac62c65abe54", null ],
+    [ "gobj", "classGtk_1_1ToolShell.html#ae2e1d1ded9f0ac7c89ff72e6f1b8a157", null ],
+    [ "rebuild_menu", "classGtk_1_1ToolShell.html#a07f2d024678da3f7ea1b43949b1b1cb1", null ],
+    [ "rebuild_menu_vfunc", "classGtk_1_1ToolShell.html#ab7bc31b1a87cace668d8e0eee6381c2e", null ],
+    [ "wrap", "classGtk_1_1ToolShell.html#afcda05e86998bdfb9e03e394e75afe49", null ]
+];

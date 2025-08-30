@@ -1,0 +1,25 @@
+<map id="TestNeedingSession" name="TestNeedingSession">
+<area shape="rect" id="Node000001" title=" " alt="" coords="207,155,359,180"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1MIDIClock__Test.html" title=" " alt="" coords="407,80,593,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="323,147,406,114,444,103,446,108,408,119,325,152"/>
+<area shape="rect" id="Node000004" href="$classAudioRegionTest.html" title=" " alt="" coords="435,129,565,155"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="372,154,434,147,435,152,373,160"/>
+<area shape="rect" id="Node000011" href="$classControlSurfacesTest.html" title=" " alt="" coords="425,179,575,204"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="373,175,425,180,424,186,372,180"/>
+<area shape="rect" id="Node000012" href="$classLuaScriptTest.html" title=" " alt="" coords="446,228,554,253"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="326,183,408,214,447,226,445,231,406,219,324,188"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,155,159,180"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,165,206,165,206,170,172,170"/>
+<area shape="rect" id="Node000005" href="$classAudioRegionReadTest.html" title=" " alt="" coords="669,5,831,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="577,123,592,115,607,97,615,78,622,58,640,40,667,26,670,31,643,44,627,61,620,80,612,100,595,119,580,128"/>
+<area shape="rect" id="Node000006" href="$classCombineRegionsTest.html" title=" " alt="" coords="671,55,829,80"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="567,123,592,114,616,101,640,89,678,77,680,83,642,94,618,106,594,119,569,128"/>
+<area shape="rect" id="Node000007" href="$classPlaylistEquivalentRegionsTest.html" title=" " alt="" coords="641,104,859,129"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="579,131,641,125,641,130,579,137"/>
+<area shape="rect" id="Node000008" href="$classPlaylistLayeringTest.html" title=" " alt="" coords="674,153,826,179"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="579,147,674,156,673,161,579,152"/>
+<area shape="rect" id="Node000009" href="$classPlaylistReadTest.html" title=" " alt="" coords="685,203,815,228"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="573,156,594,164,619,176,642,189,686,201,684,207,640,194,616,181,592,168,571,161"/>
+<area shape="rect" id="Node000010" href="$classRegionNamingTest.html" title=" " alt="" coords="678,252,822,277"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="580,155,595,164,612,183,620,203,627,221,643,238,679,255,677,259,640,243,622,224,615,205,607,186,592,168,577,160"/>
+</map>

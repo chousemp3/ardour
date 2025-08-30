@@ -1,0 +1,25 @@
+var classAudioGrapher_1_1SilenceTrimmer =
+[
+    [ "SilenceTrimmer", "classAudioGrapher_1_1SilenceTrimmer.html#ab5559207e7bd67fb305777cb9b329f58", null ],
+    [ "~SilenceTrimmer", "classAudioGrapher_1_1SilenceTrimmer.html#a6a26c4dcdf3153a41aaf6a8ac6adefa0", null ],
+    [ "add_silence_to_beginning", "classAudioGrapher_1_1SilenceTrimmer.html#a6415c80c878f36fd6ec5503a320e4c3b", null ],
+    [ "add_silence_to_end", "classAudioGrapher_1_1SilenceTrimmer.html#a006ef0894faedecfffed0bf41c49eb05", null ],
+    [ "find_first_non_silent_sample", "classAudioGrapher_1_1SilenceTrimmer.html#ab0f978313de4f643b1bb3e4172c8c1e5", null ],
+    [ "find_last_silent_sample_reverse", "classAudioGrapher_1_1SilenceTrimmer.html#a7735b3708cee0ae307fcdd65b6762e3f", null ],
+    [ "output_silence_samples", "classAudioGrapher_1_1SilenceTrimmer.html#aa39fb451f553386fa596d0a76b4ed7a7", null ],
+    [ "process", "classAudioGrapher_1_1SilenceTrimmer.html#aca1e8a608ae8bbca7f1ddf36773f4122", null ],
+    [ "reset", "classAudioGrapher_1_1SilenceTrimmer.html#a77b1f15a6817765f1d48d406601b65d9", null ],
+    [ "set_trim_beginning", "classAudioGrapher_1_1SilenceTrimmer.html#a41ac36af597b1dd7e9436312012836d5", null ],
+    [ "set_trim_end", "classAudioGrapher_1_1SilenceTrimmer.html#a42c9a6d85f2f95f435f11eea7d4c7873", null ],
+    [ "add_to_beginning", "classAudioGrapher_1_1SilenceTrimmer.html#a219912b066ff06217a6de5417622d47a", null ],
+    [ "add_to_end", "classAudioGrapher_1_1SilenceTrimmer.html#a12eccee230b35f9c50b1f5d4b7098f71", null ],
+    [ "max_output_frames", "classAudioGrapher_1_1SilenceTrimmer.html#a4f0682e7a1b562c3e75fb697f296b631", null ],
+    [ "processed_data", "classAudioGrapher_1_1SilenceTrimmer.html#acd7be7a64122088c1b894af26ceb075b", null ],
+    [ "processing_finished", "classAudioGrapher_1_1SilenceTrimmer.html#ad5dba240dfbe730816363f2fa911ee45", null ],
+    [ "silence_buffer", "classAudioGrapher_1_1SilenceTrimmer.html#a1ca4dff4f37e9288f13560ec8f827dfa", null ],
+    [ "silence_buffer_size", "classAudioGrapher_1_1SilenceTrimmer.html#af989c1cd2e18712fd1bd8e1ec29c2450", null ],
+    [ "silence_samples", "classAudioGrapher_1_1SilenceTrimmer.html#a38f4020a4aa1ebb9ca005c5bf32785c7", null ],
+    [ "tester", "classAudioGrapher_1_1SilenceTrimmer.html#abf2135479e69b6d60f5f77e9d0877b4a", null ],
+    [ "trim_beginning", "classAudioGrapher_1_1SilenceTrimmer.html#a6da9ada1d4ff80edf3155c47e1328790", null ],
+    [ "trim_end", "classAudioGrapher_1_1SilenceTrimmer.html#a6a3da76a79cc38eed35d96f14fa7f498", null ]
+];

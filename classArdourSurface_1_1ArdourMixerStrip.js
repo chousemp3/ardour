@@ -1,0 +1,26 @@
+var classArdourSurface_1_1ArdourMixerStrip =
+[
+    [ "PluginMap", "classArdourSurface_1_1ArdourMixerStrip.html#adca0082de38cb1743725af23539b3ad1", null ],
+    [ "ArdourMixerStrip", "classArdourSurface_1_1ArdourMixerStrip.html#af67b232439483a6a1820c074fe5469e9", null ],
+    [ "~ArdourMixerStrip", "classArdourSurface_1_1ArdourMixerStrip.html#a3871bddcada448534dbab27a883c3f37", null ],
+    [ "from_db", "classArdourSurface_1_1ArdourMixerStrip.html#a0156926eb1a9b83a542e87fd56768604", null ],
+    [ "from_velocity", "classArdourSurface_1_1ArdourMixerStrip.html#a1c7c4b3c1b7f7438eb81a8a3a8886501", null ],
+    [ "gain", "classArdourSurface_1_1ArdourMixerStrip.html#a79413d2449ae3977e0b11cd5f71b5ff4", null ],
+    [ "has_pan", "classArdourSurface_1_1ArdourMixerStrip.html#a87f823474d977c1ab3ea95169fc12b04", null ],
+    [ "is_midi", "classArdourSurface_1_1ArdourMixerStrip.html#a92013fc73f2bd46957fa0ec5d8c0060a", null ],
+    [ "meter_level_db", "classArdourSurface_1_1ArdourMixerStrip.html#a8b089e92c9dc69da5394c5b2d0ba39e3", null ],
+    [ "mute", "classArdourSurface_1_1ArdourMixerStrip.html#a4d45653c3e1f3d8eac1d8a42b0aaa74b", null ],
+    [ "name", "classArdourSurface_1_1ArdourMixerStrip.html#a81b22604fd5d327869566f663a3cf20f", null ],
+    [ "on_drop_plugin", "classArdourSurface_1_1ArdourMixerStrip.html#a2560cce3f353092319154c486b3888a9", null ],
+    [ "pan", "classArdourSurface_1_1ArdourMixerStrip.html#a2660c4f67175089480aeee25bc90cb30", null ],
+    [ "plugin", "classArdourSurface_1_1ArdourMixerStrip.html#ac8dbae9e05e2f255714e3dc74034abb9", null ],
+    [ "plugins", "classArdourSurface_1_1ArdourMixerStrip.html#a337501391566753d844fe6dc7293c4e8", null ],
+    [ "set_gain", "classArdourSurface_1_1ArdourMixerStrip.html#a999e1f6f06cfd978443551750b0a9e22", null ],
+    [ "set_mute", "classArdourSurface_1_1ArdourMixerStrip.html#a0fc15a7decd0a93dfa2da8502dc1b1f1", null ],
+    [ "set_pan", "classArdourSurface_1_1ArdourMixerStrip.html#af268dcb91c9f7e9949c699152d7403f7", null ],
+    [ "stripable", "classArdourSurface_1_1ArdourMixerStrip.html#a568493fb701d67029203703032dec2cf", null ],
+    [ "to_db", "classArdourSurface_1_1ArdourMixerStrip.html#a758f22218b63795f0164b167bb385dcd", null ],
+    [ "to_velocity", "classArdourSurface_1_1ArdourMixerStrip.html#a5985d162fe621d7cafb98656e52baa6b", null ],
+    [ "_plugins", "classArdourSurface_1_1ArdourMixerStrip.html#aab6d563a137c670ce444d331c992503d", null ],
+    [ "_stripable", "classArdourSurface_1_1ArdourMixerStrip.html#a32f4324d9f1d6520b76df63a376e8a66", null ]
+];

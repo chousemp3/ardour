@@ -1,0 +1,24 @@
+<map id="iec2ppmdsp.h" name="iec2ppmdsp.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="149,5,263,31"/>
+<area shape="rect" id="Node000002" href="$ardour_2ardour_2meter_8h.html" title=" " alt="" coords="170,79,242,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,44,209,79,203,79,203,44"/>
+<area shape="rect" id="Node000003" href="$foldback__strip_8h.html" title=" " alt="" coords="5,299,132,324"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="194,117,78,300,74,297,189,114"/>
+<area shape="rect" id="Node000004" href="$port__insert_8h.html" title=" " alt="" coords="205,152,309,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="225,114,251,150,246,153,220,117"/>
+<area shape="rect" id="Node000005" href="$processor__box_8h.html" title=" " alt="" coords="219,225,347,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="268,189,282,224,277,226,263,191"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="237,257,104,301,103,296,235,252"/>
+<area shape="rect" id="Node000006" href="$mixer__strip_8h.html" title=" " alt="" coords="157,299,263,324"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="263,262,224,300,220,297,260,258"/>
+<area shape="rect" id="Node000008" href="$monitor__section_8h.html" title=" " alt="" coords="287,299,426,324"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="307,258,347,297,343,300,303,262"/>
+<area shape="rect" id="Node000010" href="$route__params__ui_8h.html" title=" " alt="" coords="451,299,593,324"/>
+<area shape="poly" id="edge10_Node000005_Node000010" title=" " alt="" coords="336,252,484,296,483,301,334,257"/>
+<area shape="rect" id="Node000011" href="$trigger__strip_8h.html" title=" " alt="" coords="617,299,731,324"/>
+<area shape="poly" id="edge11_Node000005_Node000011" title=" " alt="" coords="360,250,618,297,617,302,359,256"/>
+<area shape="rect" id="Node000007" href="$strip__selection_8h.html" title=" " alt="" coords="145,372,275,397"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="213,338,213,372,207,372,207,338"/>
+<area shape="rect" id="Node000009" href="$mixer__ui_8h.html" title=" " alt="" coords="311,372,402,397"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="359,338,359,372,354,372,354,338"/>
+</map>

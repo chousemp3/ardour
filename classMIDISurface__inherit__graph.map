@@ -1,0 +1,31 @@
+<map id="MIDISurface" name="MIDISurface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="725,144,827,169"/>
+<area shape="rect" id="Node000010" href="$classArdourSurface_1_1Console1.html" title=" " alt="" coords="889,5,1072,31"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="789,130,823,84,847,60,873,40,898,28,900,33,876,44,850,64,828,87,794,134"/>
+<area shape="rect" id="Node000011" href="$classArdourSurface_1_1FaderPort.html" title=" " alt="" coords="889,55,1072,80"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="802,134,835,111,874,90,911,78,913,83,876,95,838,115,805,138"/>
+<area shape="rect" id="Node000012" href="$classArdourSurface_1_1LP__X_1_1LaunchKey4.html" title=" " alt="" coords="904,105,1057,145"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="840,144,903,134,904,139,841,149"/>
+<area shape="rect" id="Node000013" href="$classArdourSurface_1_1LP__X_1_1LaunchPadX.html" title=" " alt="" coords="904,169,1057,209"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="841,164,904,174,903,179,840,169"/>
+<area shape="rect" id="Node000014" href="$classArdourSurface_1_1LaunchPadPro.html" title=" " alt="" coords="875,233,1087,259"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="805,175,838,198,876,218,913,231,911,236,874,223,835,202,802,180"/>
+<area shape="rect" id="Node000015" href="$classArdourSurface_1_1Push2.html" title=" " alt="" coords="900,283,1061,308"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="794,180,828,226,850,250,876,269,901,280,898,285,873,274,847,254,823,230,789,183"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1ControlProtocol.html" title=" " alt="" coords="459,107,645,132"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="643,132,726,146,725,151,642,137"/>
+<area shape="rect" id="Node000003" href="$classPBD_1_1Stateful.html" title=" " alt="" coords="225,44,333,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="347,69,496,104,495,109,345,75"/>
+<area shape="rect" id="Node000004" href="$classPBD_1_1ScopedConnectionList.html" title=" " alt="" coords="179,93,379,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="393,109,458,112,458,117,392,114"/>
+<area shape="rect" id="Node000005" href="$classBasicUI.html" title=" " alt="" coords="243,143,314,168"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="328,146,458,129,459,134,328,152"/>
+<area shape="rect" id="Node000006" href="$classAbstractUI.html" title=" " alt="" coords="427,168,677,193"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="684,164,725,159,725,165,684,169"/>
+<area shape="rect" id="Node000007" href="$classBaseUI.html" title=" " alt="" coords="245,192,313,217"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="327,198,426,189,427,194,327,203"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="10,167,126,192"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="140,185,245,198,244,203,139,191"/>
+<area shape="rect" id="Node000009" href="$classPBD_1_1EventLoop.html" title=" " alt="" coords="5,216,131,241"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="144,217,244,206,245,211,145,223"/>
+</map>

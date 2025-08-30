@@ -1,0 +1,14 @@
+<map id="timefx_request.h" name="timefx_request.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="213,5,347,31"/>
+<area shape="rect" id="Node000002" href="$midi__stretch_8h.html" title=" " alt="" coords="5,79,120,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,37,99,81,97,76,231,32"/>
+<area shape="rect" id="Node000003" href="$pitch_8h.html" title=" " alt="" coords="144,79,211,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="254,41,196,81,193,76,251,36"/>
+<area shape="rect" id="Node000004" href="$rb__effect_8h.html" title=" " alt="" coords="235,79,325,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="283,44,283,79,277,79,277,44"/>
+<area shape="rect" id="Node000005" href="$stretch_8h.html" title=" " alt="" coords="282,152,361,177"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="309,37,326,55,340,78,344,98,342,119,330,153,325,151,337,118,339,98,335,80,322,59,305,41"/>
+<area shape="rect" id="Node000006" href="$time__fx__dialog_8h.html" title=" " alt="" coords="400,79,531,104"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="323,33,436,76,434,81,321,38"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="296,115,317,151,312,153,291,117"/>
+</map>

@@ -1,0 +1,55 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,646,120,671"/>
+<area shape="rect" id="Node000001" href="$classARDOUR_1_1AudioEngine_1_1NoBackendAvailable.html" title=" " alt="" coords="193,5,361,45"/>
+<area shape="poly" id="edge2339_Node000000_Node000001" title=" " alt="" coords="62,632,69,510,86,337,100,249,117,168,139,102,152,76,166,55,191,37,195,41,170,59,156,78,144,104,122,170,105,250,92,338,75,510,68,632"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1ExportFailed.html" title=" " alt="" coords="194,70,361,95"/>
+<area shape="poly" id="edge2340_Node000000_Node000002" title=" " alt="" coords="63,632,70,518,88,360,102,280,119,206,140,146,152,123,166,105,192,88,195,92,170,109,157,126,145,148,124,208,107,281,93,361,76,519,68,632"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1MissingSource.html" title=" " alt="" coords="187,119,368,145"/>
+<area shape="poly" id="edge2341_Node000000_Node000003" title=" " alt="" coords="63,632,73,528,92,385,105,313,122,247,142,193,166,155,185,142,188,146,170,159,147,195,127,248,111,314,97,386,78,528,68,632"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1PortManager_1_1PortRegistrationFailure.html" title=" " alt="" coords="188,169,367,209"/>
+<area shape="poly" id="edge2342_Node000000_Node000004" title=" " alt="" coords="64,632,76,540,97,417,127,298,145,252,166,220,186,204,189,209,170,223,150,254,132,300,102,418,81,541,69,633"/>
+<area shape="rect" id="Node000005" href="$classARDOUR_1_1ProcessorException.html" title=" " alt="" coords="170,234,385,259"/>
+<area shape="poly" id="edge2343_Node000000_Node000005" title=" " alt="" coords="65,632,78,549,99,440,129,337,147,296,166,269,182,257,185,262,170,273,151,299,134,338,105,441,83,550,70,632"/>
+<area shape="rect" id="Node000006" href="$classARDOUR_1_1SessionException.html" title=" " alt="" coords="177,283,378,309"/>
+<area shape="poly" id="edge2344_Node000000_Node000006" title=" " alt="" coords="61,632,65,568,79,483,92,438,111,394,135,354,166,318,183,307,186,311,170,322,139,357,115,397,97,440,84,485,70,569,66,632"/>
+<area shape="rect" id="Node000007" href="$classARDOUR_1_1WrongProgram.html" title=" " alt="" coords="185,333,369,358"/>
+<area shape="poly" id="edge2345_Node000000_Node000007" title=" " alt="" coords="63,632,70,577,86,506,100,468,117,432,139,398,166,369,186,356,189,360,170,373,143,401,122,435,105,470,91,507,75,578,68,633"/>
+<area shape="rect" id="Node000008" href="$classActionManager_1_1MissingActionException.html" title=" " alt="" coords="168,383,387,423"/>
+<area shape="poly" id="edge2346_Node000000_Node000008" title=" " alt="" coords="66,632,77,589,97,535,126,480,144,455,166,433,184,421,187,425,170,437,148,458,130,483,101,537,82,590,71,633"/>
+<area shape="rect" id="Node000009" href="$classArdourSurface_1_1ControlNotFoundException.html" title=" " alt="" coords="181,447,373,487"/>
+<area shape="poly" id="edge2347_Node000000_Node000009" title=" " alt="" coords="71,632,107,564,133,528,166,497,187,485,189,489,170,501,137,531,111,567,76,634"/>
+<area shape="rect" id="Node000010" href="$classArdourSurface_1_1Maschine2Exception.html" title=" " alt="" coords="181,511,373,551"/>
+<area shape="poly" id="edge2348_Node000000_Node000010" title=" " alt="" coords="82,633,119,596,167,560,192,548,195,553,169,565,122,600,86,637"/>
+<area shape="rect" id="Node000011" href="$classArdourSurface_1_1NS__MCU_1_1MackieControlException.html" title=" " alt="" coords="183,575,371,615"/>
+<area shape="poly" id="edge2349_Node000000_Node000011" title=" " alt="" coords="117,639,167,624,207,612,209,617,169,629,119,644"/>
+<area shape="rect" id="Node000012" href="$classArdourSurface_1_1US2400_1_1MackieControlException.html" title=" " alt="" coords="183,639,371,679"/>
+<area shape="poly" id="edge2350_Node000000_Node000012" title=" " alt="" coords="134,656,183,656,183,661,134,661"/>
+<area shape="rect" id="Node000013" href="$classAudioGrapher_1_1Exception.html" title=" " alt="" coords="186,703,369,729"/>
+<area shape="poly" id="edge2351_Node000000_Node000013" title=" " alt="" coords="117,673,169,688,219,701,218,706,167,693,115,678"/>
+<area shape="rect" id="Node000015" href="$classEvoral_1_1SMF_1_1FileError.html" title=" " alt="" coords="197,753,357,778"/>
+<area shape="poly" id="edge2353_Node000000_Node000015" title=" " alt="" coords="88,679,125,710,169,738,203,750,202,755,167,742,122,714,85,683"/>
+<area shape="rect" id="Node000016" href="$classLuaException.html" title=" " alt="" coords="223,802,332,827"/>
+<area shape="poly" id="edge2354_Node000000_Node000016" title=" " alt="" coords="79,682,115,736,140,764,169,787,195,799,223,807,221,812,193,804,167,792,137,768,111,739,75,685"/>
+<area shape="rect" id="Node000017" href="$classPBD_1_1unknown__enumeration.html" title=" " alt="" coords="174,851,381,877"/>
+<area shape="poly" id="edge2355_Node000000_Node000017" title=" " alt="" coords="74,683,87,719,107,760,134,802,170,837,192,849,190,854,166,841,130,805,102,763,82,721,69,685"/>
+<area shape="rect" id="Node000018" href="$structTemporal_1_1IllegalBBTTimeException.html" title=" " alt="" coords="183,901,372,941"/>
+<area shape="poly" id="edge2356_Node000000_Node000018" title=" " alt="" coords="71,685,82,729,101,783,130,838,148,864,170,886,189,899,186,903,166,890,144,867,125,841,96,785,77,730,66,686"/>
+<area shape="rect" id="Node000019" href="$structTemporal_1_1TempoMap_1_1EmptyTempoMapException.html" title=" " alt="" coords="174,965,381,1005"/>
+<area shape="poly" id="edge2357_Node000000_Node000019" title=" " alt="" coords="68,684,75,740,92,812,105,850,122,887,143,921,170,951,186,963,183,967,166,955,139,924,117,889,100,852,87,813,70,741,63,685"/>
+<area shape="rect" id="Node000020" href="$classXMLException.html" title=" " alt="" coords="220,1030,335,1055"/>
+<area shape="poly" id="edge2358_Node000000_Node000020" title=" " alt="" coords="66,685,69,751,82,841,95,888,113,935,138,978,170,1015,193,1030,220,1038,219,1043,191,1035,166,1019,134,981,109,937,90,890,77,842,63,752,61,685"/>
+<area shape="rect" id="Node000021" href="$classfailed__constructor.html" title=" " alt="" coords="208,1079,347,1105"/>
+<area shape="poly" id="edge2359_Node000000_Node000021" title=" " alt="" coords="70,685,82,771,103,885,133,995,150,1037,170,1065,188,1077,208,1085,207,1090,185,1082,166,1069,146,1039,128,996,98,887,77,772,65,685"/>
+<area shape="rect" id="Node000023" href="$structint62__t_1_1flag__mismatch.html" title=" " alt="" coords="192,1129,363,1154"/>
+<area shape="poly" id="edge2361_Node000000_Node000023" title=" " alt="" coords="69,685,80,781,100,910,114,975,130,1034,149,1082,170,1114,193,1130,190,1134,166,1118,144,1084,125,1036,108,976,95,911,75,781,64,686"/>
+<area shape="rect" id="Node000024" title=" " alt="" coords="208,1178,347,1203"/>
+<area shape="poly" id="edge2362_Node000000_Node000024" title=" " alt="" coords="68,685,77,790,96,935,110,1008,127,1074,147,1129,170,1165,188,1177,209,1185,207,1190,185,1182,166,1169,142,1131,121,1076,105,1009,91,935,72,791,63,685"/>
+<area shape="rect" id="Node000026" href="$classunknown__type.html" title=" " alt="" coords="219,1227,336,1253"/>
+<area shape="poly" id="edge2364_Node000000_Node000026" title=" " alt="" coords="68,685,76,800,93,959,107,1040,124,1114,145,1174,157,1197,170,1214,192,1229,219,1237,218,1242,190,1234,166,1218,152,1200,140,1176,119,1115,101,1041,88,960,70,800,63,686"/>
+<area shape="rect" id="Node000014" href="$classAudioGrapher_1_1ThreaderException.html" title="Class that stores exceptions thrown from different threads." alt="" coords="444,703,685,729"/>
+<area shape="poly" id="edge2352_Node000013_Node000014" title=" " alt="" coords="382,713,444,713,444,719,382,719"/>
+<area shape="rect" id="Node000022" href="$classARDOUR_1_1ExportFormatIncompatible.html" title=" " alt="" coords="435,1079,695,1105"/>
+<area shape="poly" id="edge2360_Node000021_Node000022" title=" " alt="" coords="361,1089,434,1089,434,1095,361,1095"/>
+<area shape="rect" id="Node000025" href="$classArdourSurface_1_1ArdourMixerNotFoundException.html" title=" " alt="" coords="464,1171,665,1211"/>
+<area shape="poly" id="edge2363_Node000024_Node000025" title=" " alt="" coords="360,1188,464,1188,464,1193,360,1193"/>
+</map>

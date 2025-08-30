@@ -1,0 +1,13 @@
+<map id="logmeter.h" name="logmeter.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="42,5,134,31"/>
+<area shape="rect" id="Node000002" href="$dB_8h.html" title=" " alt="" coords="39,79,137,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,31,91,65,85,65,85,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,64,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,106,54,143,49,140,77,103"/>
+<area shape="rect" id="Node000004" href="$fastlog_8h.html" title=" " alt="" coords="88,152,195,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="99,103,127,140,122,143,95,106"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="37,225,105,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="132,180,94,218,90,214,128,176"/>
+<area shape="rect" id="Node000006" href="$libpbd__visibility_8h.html" title=" " alt="" coords="129,225,292,251"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="155,176,192,214,188,217,151,180"/>
+</map>

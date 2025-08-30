@@ -1,0 +1,35 @@
+<map id="ARDOUR::FileSource" name="ARDOUR::FileSource">
+<area shape="rect" id="Node000001" title=" " alt="" coords="912,155,1067,180"/>
+<area shape="rect" id="Node000010" href="$classARDOUR_1_1AudioFileSource.html" title=" " alt="" coords="1115,129,1305,155"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1080,154,1114,150,1115,156,1081,160"/>
+<area shape="rect" id="Node000017" href="$classARDOUR_1_1SMFSource.html" title=" " alt="" coords="1131,179,1289,204"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="1081,175,1131,180,1130,185,1080,180"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1Source.html" title=" " alt="" coords="733,155,864,180"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="878,165,912,165,912,170,878,170"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1SessionObject.html" title=" " alt="" coords="507,123,685,148"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="691,148,733,154,732,160,690,153"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1SessionHandleRef.html" title=" " alt="" coords="253,99,459,124"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="472,120,507,124,506,129,472,126"/>
+<area shape="rect" id="Node000005" href="$classPBD_1_1ScopedConnectionList.html" title=" " alt="" coords="5,99,205,124"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="219,109,253,109,253,114,219,114"/>
+<area shape="rect" id="Node000006" href="$classPBD_1_1StatefulDestructible.html" title=" " alt="" coords="263,148,449,173"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="462,147,506,142,507,147,463,152"/>
+<area shape="rect" id="Node000007" href="$classPBD_1_1Stateful.html" title=" " alt="" coords="51,148,159,173"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="173,158,262,158,262,163,173,163"/>
+<area shape="rect" id="Node000008" href="$classPBD_1_1Destructible.html" title=" " alt="" coords="37,197,173,223"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="183,192,290,171,291,176,184,197"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="511,172,681,227"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="695,181,733,175,734,180,695,186"/>
+<area shape="rect" id="Node000011" href="$classARDOUR_1_1CoreAudioSource.html" title=" " alt="" coords="1358,5,1557,31"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1234,118,1286,78,1352,40,1384,28,1386,33,1354,44,1289,82,1238,122"/>
+<area shape="rect" id="Node000012" href="$classARDOUR_1_1FFMPEGFileSource.html" title=" " alt="" coords="1353,55,1561,80"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="1255,122,1353,89,1396,77,1397,83,1354,94,1257,127"/>
+<area shape="rect" id="Node000013" href="$classARDOUR_1_1Mp3FileSource.html" title=" " alt="" coords="1366,104,1549,129"/>
+<area shape="poly" id="edge12_Node000010_Node000013" title=" " alt="" coords="1319,128,1366,123,1366,129,1319,133"/>
+<area shape="rect" id="Node000014" href="$classARDOUR_1_1SilentFileSource.html" title=" " alt="" coords="1362,153,1553,179"/>
+<area shape="poly" id="edge13_Node000010_Node000014" title=" " alt="" coords="1319,150,1362,154,1362,159,1319,155"/>
+<area shape="rect" id="Node000015" href="$classARDOUR_1_1SndFileSource.html" title=" " alt="" coords="1368,203,1547,228"/>
+<area shape="poly" id="edge14_Node000010_Node000015" title=" " alt="" coords="1284,156,1306,164,1331,176,1354,189,1391,200,1389,205,1352,194,1328,181,1304,168,1283,161"/>
+<area shape="rect" id="Node000016" href="$classARDOUR_1_1SrcFileSource.html" title=" " alt="" coords="1370,252,1545,277"/>
+<area shape="poly" id="edge15_Node000010_Node000016" title=" " alt="" coords="1298,158,1307,164,1324,183,1332,202,1339,221,1355,239,1376,250,1373,254,1352,243,1334,224,1327,204,1320,186,1304,168,1295,163"/>
+</map>

@@ -1,0 +1,28 @@
+var classMFCC =
+[
+    [ "MFCC", "classMFCC.html#abe17ad1876868037fe7ea464e64ff5e0", null ],
+    [ "~MFCC", "classMFCC.html#a297a5c8907b616fe34808cdec83d3668", null ],
+    [ "getfftlength", "classMFCC.html#af210159b75fdcc585553112c70335368", null ],
+    [ "process", "classMFCC.html#afedadc7677001ef8cf706ef21a82131b", null ],
+    [ "process", "classMFCC.html#a40333453c74bcf38f1ac55ca46ac3926", null ],
+    [ "ceps", "classMFCC.html#a1f214b3e1de4c3f5a9718b192ac60cab", null ],
+    [ "earMag", "classMFCC.html#a690b41bda0089b8038eefa6de3647d1f", null ],
+    [ "fft", "classMFCC.html#a95e33e0b3684547925e3b7fbb61a6b9c", null ],
+    [ "fftMag", "classMFCC.html#a5a0b0117b9bdc47af2f9075f60b0b9ac", null ],
+    [ "fftSize", "classMFCC.html#a193c14b9accb2f945810050060585409", null ],
+    [ "imagOut", "classMFCC.html#aac0226feefcf804a4f3bf0e100c8e1d4", null ],
+    [ "linearFilters", "classMFCC.html#a74cef6b0aa51298bf34d30768084a3ad", null ],
+    [ "linearSpacing", "classMFCC.html#a19d224fe8169da4b25e01ce502819835", null ],
+    [ "logFilters", "classMFCC.html#a2ab7bbb739608d4e9021cb5ebebf76b2", null ],
+    [ "logPower", "classMFCC.html#abbc2117c03bb2f84c2dab5a896d6ea35", null ],
+    [ "logSpacing", "classMFCC.html#a85339b3e8c8aff6f9d956634c60f581b", null ],
+    [ "lowestFrequency", "classMFCC.html#aac073348a99b3ee9292a428fcbf0390e", null ],
+    [ "mfccDCTMatrix", "classMFCC.html#a2c48cfcdd2c645b82a260ebb414dcd25", null ],
+    [ "mfccFilterWeights", "classMFCC.html#a4a6991310bfc40e6cd6aef5d40de9a45", null ],
+    [ "nceps", "classMFCC.html#a4a0a5c0b24950942b2563bcbf541f3ce", null ],
+    [ "realOut", "classMFCC.html#a50d5bb0a0064baaaee40118c209ccc2c", null ],
+    [ "samplingRate", "classMFCC.html#ae485e678b2eac694f835b7586a934e67", null ],
+    [ "totalFilters", "classMFCC.html#ad029ae91ac4c24635a591632da270ba7", null ],
+    [ "WANT_C0", "classMFCC.html#aaa1dc58902c566461328d463dedf2ad0", null ],
+    [ "window", "classMFCC.html#a077775e1e64f570002d7fa20b7183d4d", null ]
+];

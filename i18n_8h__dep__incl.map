@@ -1,0 +1,24 @@
+<map id="i18n.h" name="i18n.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="545,5,607,31"/>
+<area shape="rect" id="Node000002" href="$mackie_2gui_8h.html" title=" " alt="" coords="358,79,413,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="533,38,414,82,412,77,532,33"/>
+<area shape="rect" id="Node000003" href="$us2400_2gui_8h.html" title=" " alt="" coords="437,79,491,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="548,40,484,81,481,76,545,36"/>
+<area shape="rect" id="Node000004" href="$osc_8h.html" title=" " alt="" coords="516,79,572,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="568,44,552,80,547,77,563,42"/>
+<area shape="rect" id="Node000007" href="$osc__gui_8h.html" title=" " alt="" coords="744,152,827,177"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="590,42,609,73,636,102,662,119,690,133,744,151,743,157,688,138,659,124,633,106,605,76,585,44"/>
+<area shape="rect" id="Node000010" href="$value__as__string_8h.html" title=" " alt="" coords="647,79,783,104"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="612,34,693,76,691,81,609,39"/>
+<area shape="rect" id="Node000011" href="$wrong__program_8h.html" title=" " alt="" coords="807,79,943,104"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="621,27,827,76,826,81,620,32"/>
+<area shape="rect" id="Node000005" href="$osc__cue__observer_8h.html" title=" " alt="" coords="5,152,155,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="504,107,503,107,155,156,155,151,502,101,503,101"/>
+<area shape="rect" id="Node000006" href="$osc__global__observer_8h.html" title=" " alt="" coords="179,152,346,177"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="504,106,503,107,311,155,309,149,502,101,502,101"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="586,102,747,149,746,155,585,107"/>
+<area shape="rect" id="Node000008" href="$osc__route__observer_8h.html" title=" " alt="" coords="371,152,531,177"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="520,114,468,154,464,150,517,110"/>
+<area shape="rect" id="Node000009" href="$osc__select__observer_8h.html" title=" " alt="" coords="555,152,720,177"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="571,110,624,150,620,154,568,114"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="ArdourCanvas::GtkCanvasViewport" name="ArdourCanvas::GtkCanvasViewport">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,445,256,471"/>
+<area shape="rect" id="Node000002" href="$classGtk_1_1Alignment.html" title=" " alt="" coords="71,372,191,397"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,411,133,445,128,445,128,411"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1Bin.html" title=" " alt="" coords="93,299,168,324"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="133,338,133,372,128,372,128,338"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Container.html" title=" " alt="" coords="73,225,189,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="133,264,133,299,128,299,128,264"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Widget.html" title=" " alt="" coords="81,152,180,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="133,191,133,225,128,225,128,191"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1Object.html" title=" " alt="" coords="83,79,178,104"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="133,118,133,152,128,152,128,118"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="81,5,180,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="133,44,133,79,128,79,128,44"/>
+</map>

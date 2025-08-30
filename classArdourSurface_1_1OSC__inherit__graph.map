@@ -1,0 +1,19 @@
+<map id="ArdourSurface::OSC" name="ArdourSurface::OSC">
+<area shape="rect" id="Node000001" title=" " alt="" coords="289,225,438,251"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1ControlProtocol.html" title=" " alt="" coords="158,152,345,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="283,183,346,223,344,227,280,187"/>
+<area shape="rect" id="Node000003" href="$classPBD_1_1Stateful.html" title=" " alt="" coords="5,79,113,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,106,221,149,219,154,102,111"/>
+<area shape="rect" id="Node000004" href="$classPBD_1_1ScopedConnectionList.html" title=" " alt="" coords="138,79,338,104"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="245,117,252,151,247,152,240,118"/>
+<area shape="rect" id="Node000005" href="$classBasicUI.html" title=" " alt="" coords="361,79,432,104"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="362,112,276,154,274,149,360,108"/>
+<area shape="rect" id="Node000006" href="$classAbstractUI.html" title=" " alt="" coords="376,152,591,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="453,187,384,227,382,223,451,182"/>
+<area shape="rect" id="Node000007" href="$classBaseUI.html" title=" " alt="" coords="456,79,524,104"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="490,118,487,152,482,152,485,118"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="359,5,475,31"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="440,38,480,77,476,80,437,42"/>
+<area shape="rect" id="Node000009" href="$classPBD_1_1EventLoop.html" title=" " alt="" coords="499,5,625,31"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="542,43,504,80,500,77,538,39"/>
+</map>

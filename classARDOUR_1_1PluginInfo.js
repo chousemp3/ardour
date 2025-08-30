@@ -1,0 +1,28 @@
+var classARDOUR_1_1PluginInfo =
+[
+    [ "PluginInfo", "classARDOUR_1_1PluginInfo.html#a33447cbaa83ee2ebe98e3b164b850771", null ],
+    [ "~PluginInfo", "classARDOUR_1_1PluginInfo.html#ad26bbd965bf80d969a03fbdd5cdfc8f7", null ],
+    [ "get_presets", "classARDOUR_1_1PluginInfo.html#a56cde72268891bbd981ae4587029be29", null ],
+    [ "is_analyzer", "classARDOUR_1_1PluginInfo.html#a7402bab33bd3421d2c1bfe02a07ff390", null ],
+    [ "is_effect", "classARDOUR_1_1PluginInfo.html#a463ee9ce17a4d060d8ed6df6a8f10a13", null ],
+    [ "is_instrument", "classARDOUR_1_1PluginInfo.html#a73350e58776e80a7a4cb4dc26e746646", null ],
+    [ "is_internal", "classARDOUR_1_1PluginInfo.html#a3995e3f36708a3d3f048efd1bc6d5dc0", null ],
+    [ "is_utility", "classARDOUR_1_1PluginInfo.html#a097a8e69ac920a26d52347c966470f55", null ],
+    [ "load", "classARDOUR_1_1PluginInfo.html#aeca379a6f2269e96bfc35ca097c7fdae", null ],
+    [ "max_configurable_outputs", "classARDOUR_1_1PluginInfo.html#acbfd475334b5ff0e8038112946448cba", null ],
+    [ "needs_midi_input", "classARDOUR_1_1PluginInfo.html#a6a0eef94ed40f0039a39f25c5ab935e6", null ],
+    [ "reconfigurable_io", "classARDOUR_1_1PluginInfo.html#ab4733d2a527c98ca9dd562eced2de784", null ],
+    [ "PluginManager", "classARDOUR_1_1PluginInfo.html#ad0ccd35859b04e162412b22bf5200374", null ],
+    [ "category", "classARDOUR_1_1PluginInfo.html#ae05224356874b5223575d19303ea1c1a", null ],
+    [ "creator", "classARDOUR_1_1PluginInfo.html#a57f40e70a2bd4317e1b786ba23143ca9", null ],
+    [ "index", "classARDOUR_1_1PluginInfo.html#a757a8cb31423bf955958ed26572f8cf2", null ],
+    [ "internal", "classARDOUR_1_1PluginInfo.html#a0f7cdee6ccc01d80dadeec805dced5f3", null ],
+    [ "multichannel_name_ambiguity", "classARDOUR_1_1PluginInfo.html#ad1df5a69b890ed6a830affa2496ea1ca", null ],
+    [ "n_inputs", "classARDOUR_1_1PluginInfo.html#a8f6439bb9bb74c375f1864f94895d1d4", null ],
+    [ "n_outputs", "classARDOUR_1_1PluginInfo.html#a64a6574acb8c2ea25e8302b490274031", null ],
+    [ "name", "classARDOUR_1_1PluginInfo.html#a9078159cef7feadb43826323277fa192", null ],
+    [ "path", "classARDOUR_1_1PluginInfo.html#a961ead029429406cdbb7d5d028e498d7", null ],
+    [ "plugintype_name_ambiguity", "classARDOUR_1_1PluginInfo.html#a7a0b0608e1e5cd0b4eb6a2adb5e0a686", null ],
+    [ "type", "classARDOUR_1_1PluginInfo.html#aa2996fbce531ca61c19a07c4a81d26f7", null ],
+    [ "unique_id", "classARDOUR_1_1PluginInfo.html#a00868e932f850edcb9fb989fa9dcb435", null ]
+];

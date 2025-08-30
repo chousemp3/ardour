@@ -1,0 +1,17 @@
+<map id="CairoVPacker" name="CairoVPacker">
+<area shape="rect" id="Node000001" title=" " alt="" coords="60,445,167,471"/>
+<area shape="rect" id="Node000002" href="$classCairoPacker.html" title=" " alt="" coords="5,372,104,397"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,406,106,444,102,447,71,410"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1VBox.html" title=" " alt="" coords="129,372,215,397"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,410,125,447,121,444,152,406"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Box.html" title=" " alt="" coords="133,299,211,324"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="175,338,175,372,169,372,169,338"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Container.html" title=" " alt="" coords="114,225,230,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="175,264,175,299,169,299,169,264"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1Widget.html" title=" " alt="" coords="123,152,221,177"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="175,191,175,225,169,225,169,191"/>
+<area shape="rect" id="Node000007" href="$classGtk_1_1Object.html" title=" " alt="" coords="125,79,219,104"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="175,118,175,152,169,152,169,118"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="123,5,221,31"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="175,44,175,79,169,79,169,44"/>
+</map>

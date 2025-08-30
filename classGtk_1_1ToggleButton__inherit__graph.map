@@ -1,0 +1,21 @@
+<map id="Gtk::ToggleButton" name="Gtk::ToggleButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="145,445,284,471"/>
+<area shape="rect" id="Node000008" href="$classArdourWidgets_1_1StatefulToggleButton.html" title=" " alt="" coords="5,519,224,559"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="191,481,140,521,137,516,187,477"/>
+<area shape="rect" id="Node000009" href="$classGtk_1_1CheckButton.html" title=" " alt="" coords="248,526,384,551"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="242,477,303,524,299,528,239,481"/>
+<area shape="rect" id="Node000002" href="$classGtk_1_1Button.html" title=" " alt="" coords="167,372,263,397"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,411,217,445,212,445,212,411"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1Bin.html" title=" " alt="" coords="177,299,252,324"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="217,338,217,372,212,372,212,338"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Container.html" title=" " alt="" coords="157,225,273,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="217,264,217,299,212,299,212,264"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Widget.html" title=" " alt="" coords="165,152,264,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="217,191,217,225,212,225,212,191"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1Object.html" title=" " alt="" coords="167,79,262,104"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="217,118,217,152,212,152,212,118"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="165,5,264,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="217,44,217,79,212,79,212,44"/>
+<area shape="rect" id="Node000010" href="$classGtk_1_1RadioButton.html" title=" " alt="" coords="249,607,383,632"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="319,565,319,606,313,606,313,565"/>
+</map>

@@ -1,0 +1,65 @@
+var gdkinput_8h =
+[
+    [ "_GdkDeviceKey", "struct__GdkDeviceKey.html", "struct__GdkDeviceKey" ],
+    [ "_GdkDeviceAxis", "struct__GdkDeviceAxis.html", "struct__GdkDeviceAxis" ],
+    [ "_GdkDevice", "struct__GdkDevice.html", "struct__GdkDevice" ],
+    [ "_GdkTimeCoord", "struct__GdkTimeCoord.html", "struct__GdkTimeCoord" ],
+    [ "GDK_DEVICE", "gdkinput_8h.html#ae3e6fc6485ffa6667af0280545270280", null ],
+    [ "GDK_DEVICE_CLASS", "gdkinput_8h.html#ac6165a23dc79f039c8481d3d42448ac8", null ],
+    [ "GDK_DEVICE_GET_CLASS", "gdkinput_8h.html#a1d2be3f5039c2df8a16ef3b9ed7e7271", null ],
+    [ "GDK_IS_DEVICE", "gdkinput_8h.html#a16f64eb17270dd4570511970284a7542", null ],
+    [ "GDK_IS_DEVICE_CLASS", "gdkinput_8h.html#ab4594b2737e0249d6219fda1482548d6", null ],
+    [ "GDK_MAX_TIMECOORD_AXES", "gdkinput_8h.html#afe4accb0de2191f905854938c9264690", null ],
+    [ "GDK_TYPE_DEVICE", "gdkinput_8h.html#a64dff4241f4cc101ff724ca1fa26dc82", null ],
+    [ "GdkDevice", "gdkinput_8h.html#a63a155f43e53bd813d108d5b2813f214", null ],
+    [ "GdkDeviceAxis", "gdkinput_8h.html#a342ba838c086712f62ed8a0d959958f0", null ],
+    [ "GdkDeviceClass", "gdkinput_8h.html#a3ebcb9c3c4d62bc717756b5c7c2bdb24", null ],
+    [ "GdkDeviceKey", "gdkinput_8h.html#a81575b8ce515751a3225f28e46c86376", null ],
+    [ "GdkTimeCoord", "gdkinput_8h.html#ac15618f7269f5b12ba73bcd859af3d84", null ],
+    [ "GdkAxisUse", "gdkinput_8h.html#a8fff222dcf6d0ea6b8fa308be9db809b", [
+      [ "GDK_AXIS_IGNORE", "gdkinput_8h.html#a8fff222dcf6d0ea6b8fa308be9db809ba27233f8c34bbc2ca5931eb037b5a9327", null ],
+      [ "GDK_AXIS_X", "gdkinput_8h.html#a8fff222dcf6d0ea6b8fa308be9db809ba3b96f9a2616d971434946d8762bde351", null ],
+      [ "GDK_AXIS_Y", "gdkinput_8h.html#a8fff222dcf6d0ea6b8fa308be9db809ba320d2031b6874ed68c3df4ec23698931", null ],
+      [ "GDK_AXIS_PRESSURE", "gdkinput_8h.html#a8fff222dcf6d0ea6b8fa308be9db809bac1c43ebdcbdaaab0706e2d7f2f4d7c1f", null ],
+      [ "GDK_AXIS_XTILT", "gdkinput_8h.html#a8fff222dcf6d0ea6b8fa308be9db809ba781331992e99975b10503780cf7d8979", null ],
+      [ "GDK_AXIS_YTILT", "gdkinput_8h.html#a8fff222dcf6d0ea6b8fa308be9db809bade1790f17f7f75506a880f46ebc821e9", null ],
+      [ "GDK_AXIS_WHEEL", "gdkinput_8h.html#a8fff222dcf6d0ea6b8fa308be9db809baa5325eb696c4d64374f93ed301f8553b", null ],
+      [ "GDK_AXIS_LAST", "gdkinput_8h.html#a8fff222dcf6d0ea6b8fa308be9db809ba5c17a5982abbc4d1702955704f90b50d", null ]
+    ] ],
+    [ "GdkExtensionMode", "gdkinput_8h.html#a81d5ba7238759de68383df5c3de3296a", [
+      [ "GDK_EXTENSION_EVENTS_NONE", "gdkinput_8h.html#a81d5ba7238759de68383df5c3de3296aa250619f1a456111f896ae0338b019e1f", null ],
+      [ "GDK_EXTENSION_EVENTS_ALL", "gdkinput_8h.html#a81d5ba7238759de68383df5c3de3296aaeb810cd7207d2c46c106b3384a67c70f", null ],
+      [ "GDK_EXTENSION_EVENTS_CURSOR", "gdkinput_8h.html#a81d5ba7238759de68383df5c3de3296aab952e9a6519c3c82c2eabb902149814f", null ]
+    ] ],
+    [ "GdkInputMode", "gdkinput_8h.html#a4efdcf141a98afb566bd8ffb488d49ed", [
+      [ "GDK_MODE_DISABLED", "gdkinput_8h.html#a4efdcf141a98afb566bd8ffb488d49eda4ea9a09289295ace659b0d915c8ef90f", null ],
+      [ "GDK_MODE_SCREEN", "gdkinput_8h.html#a4efdcf141a98afb566bd8ffb488d49edacf713e9003497ca6d0bab0cced344335", null ],
+      [ "GDK_MODE_WINDOW", "gdkinput_8h.html#a4efdcf141a98afb566bd8ffb488d49edac493ea0443fc2847ff5416444d39a4f9", null ]
+    ] ],
+    [ "GdkInputSource", "gdkinput_8h.html#a63c474c87aaa41cb6a29e694a425f8b9", [
+      [ "GDK_SOURCE_MOUSE", "gdkinput_8h.html#a63c474c87aaa41cb6a29e694a425f8b9aff215f3ee06b6f0ccbe1719c45fb28ec", null ],
+      [ "GDK_SOURCE_PEN", "gdkinput_8h.html#a63c474c87aaa41cb6a29e694a425f8b9afa6cc71a131b8f63149dd26026bad565", null ],
+      [ "GDK_SOURCE_ERASER", "gdkinput_8h.html#a63c474c87aaa41cb6a29e694a425f8b9a8c2981994e936347a3b24a503aac1574", null ],
+      [ "GDK_SOURCE_CURSOR", "gdkinput_8h.html#a63c474c87aaa41cb6a29e694a425f8b9a42bb329dc3de725fdc4e01ffceece6d6", null ]
+    ] ],
+    [ "gdk_device_free_history", "gdkinput_8h.html#a182719b5fb222b581697a55324fd3722", null ],
+    [ "gdk_device_get_axis", "gdkinput_8h.html#a376cfd79c6e85f8eb8fec867b68c5886", null ],
+    [ "gdk_device_get_axis_use", "gdkinput_8h.html#ad3791229d43324a094bffb30fe9b6aff", null ],
+    [ "gdk_device_get_core_pointer", "gdkinput_8h.html#a20e9b37fa98b027a102e2cae985ec060", null ],
+    [ "gdk_device_get_has_cursor", "gdkinput_8h.html#a90e7e14b12d3f81a703ee6e953ae44b4", null ],
+    [ "gdk_device_get_history", "gdkinput_8h.html#a2eef8135ac58cf789f43bddb7d495edd", null ],
+    [ "gdk_device_get_key", "gdkinput_8h.html#ae7a3d1a6317b216041a831807ca32d1f", null ],
+    [ "gdk_device_get_mode", "gdkinput_8h.html#afd402d36609122cf98176855e997db48", null ],
+    [ "gdk_device_get_n_axes", "gdkinput_8h.html#a1c3a68602e84ca2a329cf5034bac572f", null ],
+    [ "gdk_device_get_n_keys", "gdkinput_8h.html#a2f80096e61042621965d0f2ce156e030", null ],
+    [ "gdk_device_get_name", "gdkinput_8h.html#ab9d6e62aa8bd9f7fb9b8efc936f55acd", null ],
+    [ "gdk_device_get_source", "gdkinput_8h.html#a3e2fb8cdd0aed8f133dcb3ef14ec3abe", null ],
+    [ "gdk_device_get_state", "gdkinput_8h.html#a84954bdcd947d8f9771f46fef3e059d7", null ],
+    [ "gdk_device_get_type", "gdkinput_8h.html#a41cd9cc9eda7ed7792514267ed7646fc", null ],
+    [ "gdk_device_set_axis_use", "gdkinput_8h.html#a5929b8115602763a351cdd5604426fe5", null ],
+    [ "gdk_device_set_key", "gdkinput_8h.html#a1b8276092e19095604d0b547271a40d6", null ],
+    [ "gdk_device_set_mode", "gdkinput_8h.html#a30d0ffabcf118cd1a781619b36e652da", null ],
+    [ "gdk_device_set_source", "gdkinput_8h.html#acd479f23ff32dd550a79981a662dc7b9", null ],
+    [ "gdk_devices_list", "gdkinput_8h.html#a1a5969a44ff3b71b281a44a8b6b8fef3", null ],
+    [ "gdk_input_set_extension_events", "gdkinput_8h.html#ab5d32666644274a70b75a1674c396382", null ]
+];

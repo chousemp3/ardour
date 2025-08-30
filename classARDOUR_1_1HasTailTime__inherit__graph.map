@@ -1,0 +1,27 @@
+<map id="ARDOUR::HasTailTime" name="ARDOUR::HasTailTime">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,228,172,253"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1Plugin.html" title=" " alt="" coords="228,153,355,179"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,221,255,176,257,181,138,226"/>
+<area shape="rect" id="Node000012" href="$classARDOUR_1_1TailTime.html" title=" " alt="" coords="220,252,363,277"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="186,250,220,254,219,259,186,255"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1AUPlugin.html" title=" " alt="" coords="431,5,578,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="307,140,349,89,378,62,409,40,435,28,437,33,412,44,381,67,353,93,311,144"/>
+<area shape="rect" id="Node000004" href="$classARDOUR_1_1LV2Plugin.html" title=" " alt="" coords="429,55,580,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="319,143,360,115,410,89,442,78,444,83,412,94,363,120,322,147"/>
+<area shape="rect" id="Node000005" href="$classARDOUR_1_1LadspaPlugin.html" title=" " alt="" coords="418,104,591,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="360,148,448,127,450,132,361,153"/>
+<area shape="rect" id="Node000006" href="$classARDOUR_1_1LuaProc.html" title=" " alt="" coords="435,153,574,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="368,163,435,163,435,169,368,169"/>
+<area shape="rect" id="Node000007" href="$classARDOUR_1_1VST3Plugin.html" title=" " alt="" coords="425,203,585,228"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="361,179,450,200,448,205,360,184"/>
+<area shape="rect" id="Node000008" href="$classARDOUR_1_1VSTPlugin.html" title=" " alt="" coords="429,252,581,277"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="322,185,364,212,412,237,447,249,446,254,410,242,361,216,319,189"/>
+<area shape="rect" id="Node000009" href="$classARDOUR_1_1LXVSTPlugin.html" title=" " alt="" coords="668,203,836,228"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="582,247,687,225,688,231,583,252"/>
+<area shape="rect" id="Node000010" href="$classARDOUR_1_1MacVSTPlugin.html" title=" " alt="" coords="663,252,841,277"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="594,262,663,262,663,267,594,267"/>
+<area shape="rect" id="Node000011" href="$classARDOUR_1_1WindowsVSTPlugin.html" title=" " alt="" coords="647,301,857,327"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="583,277,688,299,687,304,582,283"/>
+<area shape="rect" id="Node000013" href="$classARDOUR_1_1RegionFxPlugin.html" title=" " alt="" coords="411,301,599,327"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="361,278,450,299,448,304,360,283"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="progress.h" name="progress.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="249,5,340,31"/>
+<area shape="rect" id="Node000002" href="$audio__region__editor_8h.html" title=" " alt="" coords="68,79,231,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,39,174,81,172,76,258,34"/>
+<area shape="rect" id="Node000003" href="$inflater_8h.html" title=" " alt="" coords="255,79,334,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="297,44,297,79,292,79,292,44"/>
+<area shape="rect" id="Node000004" href="$progress__reporter_8h.html" title=" " alt="" coords="358,79,506,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="330,34,411,76,408,81,327,39"/>
+<area shape="rect" id="Node000005" href="$loudness__dialog_8h.html" title=" " alt="" coords="5,152,144,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="362,109,133,155,132,149,361,104"/>
+<area shape="rect" id="Node000006" href="$normalize__dialog_8h.html" title=" " alt="" coords="168,152,315,177"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="389,111,273,154,272,149,388,106"/>
+<area shape="rect" id="Node000007" href="$session__archive__dialog_8h.html" title=" " alt="" coords="339,152,525,177"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="435,118,435,152,429,152,429,118"/>
+<area shape="rect" id="Node000008" href="$strip__silence__dialog_8h.html" title=" " alt="" coords="549,152,712,177"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="478,106,599,149,597,154,476,111"/>
+<area shape="rect" id="Node000009" href="$time__fx__dialog_8h.html" title=" " alt="" coords="736,152,867,177"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="505,104,742,149,741,155,504,109"/>
+</map>

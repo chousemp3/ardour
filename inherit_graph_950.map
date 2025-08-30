@@ -1,0 +1,33 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,433,208,459"/>
+<area shape="rect" id="Node000001" href="$structARDOUR_1_1MidiUIRequest.html" title=" " alt="" coords="286,5,469,31"/>
+<area shape="poly" id="edge313_Node000000_Node000001" title=" " alt="" coords="107,419,115,344,138,242,157,187,182,134,214,84,254,41,284,24,287,29,258,45,218,87,187,136,162,189,143,243,120,345,112,420"/>
+<area shape="rect" id="Node000002" href="$structArdourSurface_1_1ArdourWebsocketsUIRequest.html" title=" " alt="" coords="256,55,499,95"/>
+<area shape="poly" id="edge314_Node000000_Node000002" title=" " alt="" coords="109,419,122,356,148,271,167,226,191,182,220,141,254,105,272,93,275,98,258,109,224,144,195,185,172,228,153,273,127,357,114,421"/>
+<area shape="rect" id="Node000003" href="$structArdourSurface_1_1CC121Request.html" title=" " alt="" coords="269,120,486,145"/>
+<area shape="poly" id="edge315_Node000000_Node000003" title=" " alt="" coords="111,419,126,363,154,292,173,254,196,218,223,185,254,156,276,143,279,148,258,160,227,188,200,221,178,257,159,294,131,365,116,421"/>
+<area shape="rect" id="Node000004" href="$structArdourSurface_1_1ContourDesignControlUIRequest.html" title=" " alt="" coords="268,170,487,210"/>
+<area shape="poly" id="edge316_Node000000_Node000004" title=" " alt="" coords="115,419,135,376,165,322,205,267,228,242,254,220,275,208,278,213,258,224,232,245,209,270,169,324,140,378,120,421"/>
+<area shape="rect" id="Node000005" href="$structArdourSurface_1_1FP8_1_1FaderPort8Request.html" title=" " alt="" coords="301,234,453,274"/>
+<area shape="poly" id="edge317_Node000000_Node000005" title=" " alt="" coords="122,420,175,352,212,315,255,284,300,265,302,269,257,288,216,319,179,356,126,423"/>
+<area shape="rect" id="Node000006" href="$structArdourSurface_1_1LaunchControlRequest.html" title=" " alt="" coords="270,298,485,338"/>
+<area shape="poly" id="edge318_Node000000_Node000006" title=" " alt="" coords="133,423,187,385,255,348,287,336,289,341,257,352,190,389,136,427"/>
+<area shape="rect" id="Node000007" href="$structArdourSurface_1_1Maschine2Request.html" title=" " alt="" coords="281,362,473,402"/>
+<area shape="poly" id="edge319_Node000000_Node000007" title=" " alt="" coords="174,427,291,399,293,405,175,433"/>
+<area shape="rect" id="Node000008" href="$structArdourSurface_1_1NS__MCU_1_1MackieControlUIRequest.html" title=" " alt="" coords="282,426,473,466"/>
+<area shape="poly" id="edge320_Node000000_Node000008" title=" " alt="" coords="222,443,282,443,282,449,222,449"/>
+<area shape="rect" id="Node000009" href="$structArdourSurface_1_1OSCUIRequest.html" title=" " alt="" coords="269,491,485,516"/>
+<area shape="poly" id="edge321_Node000000_Node000009" title=" " alt="" coords="180,459,257,475,316,488,315,493,255,481,179,464"/>
+<area shape="rect" id="Node000010" href="$structArdourSurface_1_1US2400ControlUIRequest.html" title=" " alt="" coords="268,541,487,581"/>
+<area shape="poly" id="edge322_Node000000_Node000010" title=" " alt="" coords="141,464,194,495,257,525,295,538,293,543,255,530,192,499,138,468"/>
+<area shape="rect" id="Node000011" href="$structGenericMIDIRequest.html" title=" " alt="" coords="300,605,455,631"/>
+<area shape="poly" id="edge323_Node000000_Node000011" title=" " alt="" coords="127,468,180,530,217,563,257,590,300,606,298,611,255,595,213,567,177,534,123,472"/>
+<area shape="rect" id="Node000012" href="$structGtkmm2ext_1_1UIRequest.html" title=" " alt="" coords="290,655,465,680"/>
+<area shape="poly" id="edge324_Node000000_Node000012" title=" " alt="" coords="122,470,142,508,172,555,211,601,257,640,291,655,289,659,255,644,207,605,168,558,138,511,117,473"/>
+<area shape="rect" id="Node000013" href="$structMidiSurfaceRequest.html" title=" " alt="" coords="301,704,453,729"/>
+<area shape="poly" id="edge325_Node000000_Node000013" title=" " alt="" coords="119,472,136,519,165,579,205,639,230,666,258,689,279,701,302,708,300,713,276,705,254,694,226,670,201,642,161,581,132,521,114,473"/>
+<area shape="rect" id="Node000014" href="$classTestUIRequest.html" title=" " alt="" coords="320,753,435,779"/>
+<area shape="poly" id="edge326_Node000000_Node000014" title=" " alt="" coords="116,472,131,528,158,601,177,639,200,676,226,710,258,738,287,754,320,762,319,767,286,759,254,743,222,713,195,679,172,642,153,603,126,530,111,473"/>
+<area shape="rect" id="Node000015" href="$structWiimoteControlUIRequest.html" title=" " alt="" coords="282,803,473,828"/>
+<area shape="poly" id="edge327_Node000000_Node000015" title=" " alt="" coords="114,472,126,537,151,623,170,668,194,713,223,753,258,788,283,802,280,807,254,792,219,757,189,715,165,671,146,625,121,538,108,473"/>
+</map>

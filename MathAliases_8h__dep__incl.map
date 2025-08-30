@@ -1,0 +1,13 @@
+<map id="MathAliases.h" name="MathAliases.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="159,5,274,31"/>
+<area shape="rect" id="Node000002" href="$ConstantQ_8h.html" title=" " alt="" coords="13,79,116,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,39,91,81,88,76,179,34"/>
+<area shape="rect" id="Node000005" href="$DetectionFunction_8h.html" title=" " alt="" coords="141,79,293,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="219,44,219,79,214,79,214,44"/>
+<area shape="rect" id="Node000006" href="$PeakPicking_8h.html" title=" " alt="" coords="317,79,431,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="256,34,349,76,347,81,253,39"/>
+<area shape="rect" id="Node000003" href="$Chromagram_8h.html" title=" " alt="" coords="5,152,124,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="67,118,67,152,62,152,62,118"/>
+<area shape="rect" id="Node000004" href="$GetKeyMode_8h.html" title=" " alt="" coords="6,225,123,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="67,191,67,225,62,225,62,191"/>
+</map>

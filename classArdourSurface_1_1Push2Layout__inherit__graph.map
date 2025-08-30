@@ -1,0 +1,23 @@
+<map id="ArdourSurface::Push2Layout" name="ArdourSurface::Push2Layout">
+<area shape="rect" id="Node000001" title=" " alt="" coords="652,104,857,129"/>
+<area shape="rect" id="Node000007" href="$classArdourSurface_1_1CueLayout.html" title=" " alt="" coords="922,5,1113,31"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="788,95,842,66,904,39,944,28,945,33,906,45,844,71,790,99"/>
+<area shape="rect" id="Node000008" href="$classArdourSurface_1_1MixLayout.html" title=" " alt="" coords="922,55,1113,80"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="836,99,948,77,949,83,837,104"/>
+<area shape="rect" id="Node000009" href="$classArdourSurface_1_1ScaleLayout.html" title=" " alt="" coords="917,104,1118,129"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="871,114,917,114,917,119,871,119"/>
+<area shape="rect" id="Node000010" href="$classArdourSurface_1_1SplashLayout.html" title=" " alt="" coords="913,153,1122,179"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="837,129,949,151,948,156,836,135"/>
+<area shape="rect" id="Node000011" href="$classArdourSurface_1_1TrackMixLayout.html" title=" " alt="" coords="905,203,1129,228"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="790,134,844,162,906,189,945,200,944,205,904,194,842,167,788,139"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="454,79,570,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="584,96,652,103,651,109,584,101"/>
+<area shape="rect" id="Node000003" href="$classArdourCanvas_1_1Container.html" title=" " alt="" coords="420,128,604,153"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="617,128,651,124,652,129,618,133"/>
+<area shape="rect" id="Node000004" href="$classArdourCanvas_1_1Item.html" title=" " alt="" coords="221,128,372,153"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="386,138,420,138,420,143,386,143"/>
+<area shape="rect" id="Node000005" href="$classArdourCanvas_1_1Fill.html" title=" " alt="" coords="19,103,159,128"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="173,123,222,129,221,134,172,128"/>
+<area shape="rect" id="Node000006" href="$classArdourCanvas_1_1Outline.html" title=" " alt="" coords="5,152,173,177"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="187,151,220,147,221,152,188,156"/>
+</map>

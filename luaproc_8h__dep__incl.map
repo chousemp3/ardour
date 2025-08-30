@@ -1,0 +1,19 @@
+<map id="luaproc.h" name="luaproc.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="315,5,398,31"/>
+<area shape="rect" id="Node000002" href="$processor__box_8h.html" title=" " alt="" coords="293,79,421,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="359,44,359,79,354,79,354,44"/>
+<area shape="rect" id="Node000003" href="$foldback__strip_8h.html" title=" " alt="" coords="5,152,132,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="298,110,116,154,115,149,297,105"/>
+<area shape="rect" id="Node000004" href="$mixer__strip_8h.html" title=" " alt="" coords="157,152,263,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="322,112,235,154,233,149,320,107"/>
+<area shape="rect" id="Node000006" href="$monitor__section_8h.html" title=" " alt="" coords="287,152,426,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="359,118,359,152,354,152,354,118"/>
+<area shape="rect" id="Node000008" href="$route__params__ui_8h.html" title=" " alt="" coords="451,152,593,177"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="397,107,496,149,494,154,395,112"/>
+<area shape="rect" id="Node000009" href="$trigger__strip_8h.html" title=" " alt="" coords="617,152,731,177"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="422,104,623,149,622,154,420,110"/>
+<area shape="rect" id="Node000005" href="$strip__selection_8h.html" title=" " alt="" coords="145,225,275,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="213,191,213,225,207,225,207,191"/>
+<area shape="rect" id="Node000007" href="$mixer__ui_8h.html" title=" " alt="" coords="311,225,402,251"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="359,191,359,225,354,225,354,191"/>
+</map>

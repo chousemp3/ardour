@@ -1,0 +1,27 @@
+var classArdourSurface_1_1Maschine2Menu =
+[
+    [ "Maschine2Menu", "classArdourSurface_1_1Maschine2Menu.html#a144c62b35004efaf7996b45dc3541671", null ],
+    [ "~Maschine2Menu", "classArdourSurface_1_1Maschine2Menu.html#afc20cc349e64b5685c04618f1865b0e9", null ],
+    [ "active", "classArdourSurface_1_1Maschine2Menu.html#a3f34f4601f49547c9aec7de41a127de7", null ],
+    [ "encoder_changed", "classArdourSurface_1_1Maschine2Menu.html#aee034987119b96d8ef2dda367738e8a7", null ],
+    [ "items", "classArdourSurface_1_1Maschine2Menu.html#a90dc7b7df61d35f8dd80c72b9786a944", null ],
+    [ "rearrange", "classArdourSurface_1_1Maschine2Menu.html#ac3ea79dab301d7335b9b71d88c2a60b4", null ],
+    [ "render", "classArdourSurface_1_1Maschine2Menu.html#af91385f4cc66438429e8db99eef6db19", null ],
+    [ "set_active", "classArdourSurface_1_1Maschine2Menu.html#ae67c27c3ec71180c870cd7c89ef67ec6", null ],
+    [ "set_control", "classArdourSurface_1_1Maschine2Menu.html#a62d0f022d0702d0b0b6f3554888a4d45", null ],
+    [ "set_wrap", "classArdourSurface_1_1Maschine2Menu.html#aa18a3b6b00a5f958e7e1dd5063789ff8", null ],
+    [ "_active", "classArdourSurface_1_1Maschine2Menu.html#a56ff8c0a881c1370c7f8a96bd1d74596", null ],
+    [ "_active_bg", "classArdourSurface_1_1Maschine2Menu.html#a5f7ce3bcbb9c580ae61c11947004f2b5", null ],
+    [ "_baseline", "classArdourSurface_1_1Maschine2Menu.html#a47bcf0b4a7cb4ba178d4c9bae20d2f34", null ],
+    [ "_ctrl", "classArdourSurface_1_1Maschine2Menu.html#a87141562be29e1b8d4c39f7cfd0ca4eb", null ],
+    [ "_displays", "classArdourSurface_1_1Maschine2Menu.html#aa846747d4d9afe62fdf51e328f7814ed", null ],
+    [ "_eventloop", "classArdourSurface_1_1Maschine2Menu.html#a857ef2d96e33439b17de48e2e6363408", null ],
+    [ "_first", "classArdourSurface_1_1Maschine2Menu.html#a52ddb99bb019cd144a88c472a99cff85", null ],
+    [ "_height", "classArdourSurface_1_1Maschine2Menu.html#a9ff2db2be59a9ce3f51e4409af5b2aa2", null ],
+    [ "_last", "classArdourSurface_1_1Maschine2Menu.html#a20b13d5c172ddc489b121d79359a937d", null ],
+    [ "_rotary", "classArdourSurface_1_1Maschine2Menu.html#ae79279bfc33c6f375b05daf2a8f9315a", null ],
+    [ "_width", "classArdourSurface_1_1Maschine2Menu.html#ae968e919b2d476e6ad3de7e202589a2a", null ],
+    [ "_wrap", "classArdourSurface_1_1Maschine2Menu.html#a0f07b6f3bb0200cd34b670366bb4de44", null ],
+    [ "ActiveChanged", "classArdourSurface_1_1Maschine2Menu.html#a5b897edd3353359431dee49b93f24df3", null ],
+    [ "encoder_connection", "classArdourSurface_1_1Maschine2Menu.html#a27e8420c5cbe9e6d83d276986cc0ff97", null ]
+];

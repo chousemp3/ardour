@@ -1,0 +1,6 @@
+var zita_alsa_pcmi_8h =
+[
+    [ "Alsa_pcmi", "classAlsa__pcmi.html", "classAlsa__pcmi" ],
+    [ "ALSA_PCM_NEW_HW_PARAMS_API", "zita-alsa-pcmi_8h.html#a705350c14c1f28bb8d6d57dafbf9ccff", null ],
+    [ "ALSA_PCM_NEW_SW_PARAMS_API", "zita-alsa-pcmi_8h.html#a5b61c3b8eee0c6801209e39a760b928a", null ]
+];

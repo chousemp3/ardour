@@ -1,0 +1,9 @@
+<map id="CheckOption" name="CheckOption">
+<area shape="rect" id="Node000001" title=" " alt="" coords="247,79,353,104"/>
+<area shape="rect" id="Node000002" href="$classOptionEditorComponent.html" title=" " alt="" coords="5,5,184,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,33,268,76,266,81,140,38"/>
+<area shape="rect" id="Node000003" href="$classGtkmm2ext_1_1Activatable.html" title=" " alt="" coords="209,5,391,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="303,44,303,79,297,79,297,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="415,5,531,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="434,38,329,81,327,76,432,33"/>
+</map>

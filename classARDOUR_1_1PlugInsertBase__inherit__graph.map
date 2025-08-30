@@ -1,0 +1,18 @@
+<map id="ARDOUR::PlugInsertBase" name="ARDOUR::PlugInsertBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="279,225,463,251"/>
+<area shape="rect" id="Node000006" href="$classARDOUR_1_1IOPlug.html" title=" " alt="" coords="135,299,265,324"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="332,258,229,301,227,296,329,253"/>
+<area shape="rect" id="Node000007" href="$classARDOUR_1_1PluginInsert.html" title=" " alt="" coords="289,299,453,324"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="373,264,373,299,368,299,368,264"/>
+<area shape="rect" id="Node000008" href="$classARDOUR_1_1RegionFxPlugin.html" title=" " alt="" coords="477,299,665,324"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="417,253,539,296,537,301,415,258"/>
+<area shape="rect" id="Node000002" href="$classEvoral_1_1ControlSet.html" title=" " alt="" coords="225,152,364,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="319,185,360,223,356,227,315,189"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,79,155,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="128,106,261,149,259,154,127,111"/>
+<area shape="rect" id="Node000004" href="$structTemporal_1_1TimeDomainSwapper.html" title=" " alt="" coords="179,79,410,104"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="297,118,297,152,292,152,292,118"/>
+<area shape="rect" id="Node000005" href="$classPBD_1_1Destructible.html" title=" " alt="" coords="303,5,439,31"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="397,38,412,56,424,78,429,99,429,121,418,163,400,200,382,227,378,224,395,197,413,161,423,120,423,100,419,80,408,59,393,42"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="350,42,309,80,305,76,347,38"/>
+</map>

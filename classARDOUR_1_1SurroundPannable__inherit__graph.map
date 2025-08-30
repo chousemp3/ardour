@@ -1,0 +1,23 @@
+<map id="ARDOUR::SurroundPannable" name="ARDOUR::SurroundPannable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="997,128,1201,153"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1Automatable.html" title=" " alt="" coords="761,79,932,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="926,104,1034,125,1033,131,925,109"/>
+<area shape="rect" id="Node000003" href="$classEvoral_1_1ControlSet.html" title=" " alt="" coords="513,29,651,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="664,55,778,76,777,81,663,60"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="230,5,379,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="393,23,513,33,512,39,393,28"/>
+<area shape="rect" id="Node000005" href="$structTemporal_1_1TimeDomainSwapper.html" title=" " alt="" coords="189,55,420,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="433,53,512,46,513,51,434,58"/>
+<area shape="rect" id="Node000006" href="$classPBD_1_1Destructible.html" title=" " alt="" coords="5,55,141,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="155,65,189,65,189,70,155,70"/>
+<area shape="rect" id="Node000007" href="$classARDOUR_1_1Slavable.html" title=" " alt="" coords="511,79,653,104"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="667,89,761,89,761,94,667,94"/>
+<area shape="rect" id="Node000008" href="$classTemporal_1_1TimeDomainProvider.html" title=" " alt="" coords="468,128,696,153"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="663,123,777,101,778,107,664,128"/>
+<area shape="rect" id="Node000009" href="$classPBD_1_1Stateful.html" title=" " alt="" coords="793,128,901,153"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="915,138,997,138,997,143,915,143"/>
+<area shape="rect" id="Node000010" href="$classARDOUR_1_1SessionHandleRef.html" title=" " alt="" coords="744,177,949,203"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="925,172,1033,151,1034,156,926,177"/>
+<area shape="rect" id="Node000011" href="$classPBD_1_1ScopedConnectionList.html" title=" " alt="" coords="482,177,682,203"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="695,187,744,187,744,193,695,193"/>
+</map>

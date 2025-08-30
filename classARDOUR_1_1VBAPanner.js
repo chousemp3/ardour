@@ -1,0 +1,27 @@
+var classARDOUR_1_1VBAPanner =
+[
+    [ "Signal", "structARDOUR_1_1VBAPanner_1_1Signal.html", "structARDOUR_1_1VBAPanner_1_1Signal" ],
+    [ "VBAPanner", "classARDOUR_1_1VBAPanner.html#a37d71fc4c269ae43b07aa3e2391317fd", null ],
+    [ "~VBAPanner", "classARDOUR_1_1VBAPanner.html#a2482d7fcf169bb241501f4808dee48e2", null ],
+    [ "clear_signals", "classARDOUR_1_1VBAPanner.html#aa577241e7af060d955c9555f90880200", null ],
+    [ "compute_gains", "classARDOUR_1_1VBAPanner.html#a1757bf2d29e333b6849162dcd5eb2259", null ],
+    [ "configure_io", "classARDOUR_1_1VBAPanner.html#ac1ed9f4599ddd0c557841fde791e6638", null ],
+    [ "distribute", "classARDOUR_1_1VBAPanner.html#a5c1865465d88458f280ca919f5c1e63c", null ],
+    [ "distribute_one", "classARDOUR_1_1VBAPanner.html#a8f4d8f3a54285b3f0694f3078c5e36f2", null ],
+    [ "distribute_one_automated", "classARDOUR_1_1VBAPanner.html#ad39e51df3ddef229cf299f2ec747a57d", null ],
+    [ "factory", "classARDOUR_1_1VBAPanner.html#abb5e4353d4c2229b3117b9abc0030cb9", null ],
+    [ "get_speakers", "classARDOUR_1_1VBAPanner.html#af4b3016af86f8a7d0f53c24e1c593b4d", null ],
+    [ "get_state", "classARDOUR_1_1VBAPanner.html#a7afe7fa1a809433a5c8446556978a1a5", null ],
+    [ "in", "classARDOUR_1_1VBAPanner.html#aa90cc2aad561705d10521f764f57c844", null ],
+    [ "out", "classARDOUR_1_1VBAPanner.html#a56d08b7c37d0c145dc8a52e354769884", null ],
+    [ "reset", "classARDOUR_1_1VBAPanner.html#ac4cf30be721f12bfc82640bdbf7aacdc", null ],
+    [ "set_azimuth_elevation", "classARDOUR_1_1VBAPanner.html#a52cd2b80e7ae4bc8bac7545578d019e9", null ],
+    [ "set_elevation", "classARDOUR_1_1VBAPanner.html#ac3c4ae481ef75810649a7a2b35e48592", null ],
+    [ "set_position", "classARDOUR_1_1VBAPanner.html#ac0692e93cdd06ec0b216e11d6e2ca960", null ],
+    [ "set_width", "classARDOUR_1_1VBAPanner.html#ae3099f4b39d814026d72ff3a02d42a4c", null ],
+    [ "signal_position", "classARDOUR_1_1VBAPanner.html#a0cd71c48cb4135093cb5569652c98664", null ],
+    [ "update", "classARDOUR_1_1VBAPanner.html#a211baee12594898cb29947c3214ce85d", null ],
+    [ "value_as_string", "classARDOUR_1_1VBAPanner.html#a7448f3bdecfce2d1ef7c6cd2af8c9af6", null ],
+    [ "_signals", "classARDOUR_1_1VBAPanner.html#af205f7086d630d2823b741a22fc8afa4", null ],
+    [ "_speakers", "classARDOUR_1_1VBAPanner.html#a6d0042f01066fa4870f5fb44579812fe", null ]
+];

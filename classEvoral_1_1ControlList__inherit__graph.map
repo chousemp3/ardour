@@ -1,0 +1,11 @@
+<map id="Evoral::ControlList" name="Evoral::ControlList">
+<area shape="rect" id="Node000001" title=" " alt="" coords="175,152,317,177"/>
+<area shape="rect" id="Node000005" href="$classARDOUR_1_1AutomationList.html" title=" " alt="" coords="153,225,339,251"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="249,191,249,225,243,225,243,191"/>
+<area shape="rect" id="Node000002" href="$classTemporal_1_1TimeDomainProvider.html" title=" " alt="" coords="5,79,233,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,108,227,149,224,154,150,113"/>
+<area shape="rect" id="Node000003" href="$structTemporal_1_1TimeDomainSwapper.html" title=" " alt="" coords="257,79,488,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="342,113,268,154,265,149,339,108"/>
+<area shape="rect" id="Node000004" href="$classPBD_1_1Destructible.html" title=" " alt="" coords="305,5,441,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="375,44,375,79,370,79,370,44"/>
+</map>

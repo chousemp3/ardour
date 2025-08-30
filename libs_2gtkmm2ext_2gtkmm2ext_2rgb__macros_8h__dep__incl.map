@@ -1,0 +1,11 @@
+<map id="rgb_macros.h" name="rgb_macros.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="15,5,126,31"/>
+<area shape="rect" id="Node000002" href="$gtk2__ardour_2rgb__macros_8h.html" title=" " alt="" coords="15,79,126,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,44,73,79,68,79,68,44"/>
+<area shape="rect" id="Node000003" href="$note__base_8h.html" title=" " alt="" coords="20,152,121,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="73,118,73,152,68,152,68,118"/>
+<area shape="rect" id="Node000004" href="$hit_8h.html" title=" " alt="" coords="5,225,56,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="60,191,39,227,35,224,55,188"/>
+<area shape="rect" id="Node000005" href="$gtk2__ardour_2note_8h.html" title=" " alt="" coords="81,225,143,251"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="87,188,108,224,103,227,82,191"/>
+</map>

@@ -1,0 +1,27 @@
+var classARDOUR_1_1SessionEventManager =
+[
+    [ "Events", "classARDOUR_1_1SessionEventManager.html#a8ef75e67fdb04d810c044279e27aa83d", null ],
+    [ "SessionEventManager", "classARDOUR_1_1SessionEventManager.html#a68534f7fa486194ad0f01d191d734e34", null ],
+    [ "~SessionEventManager", "classARDOUR_1_1SessionEventManager.html#acf5e90061b096533be23e62ecb4722f9", null ],
+    [ "_clear_event_type", "classARDOUR_1_1SessionEventManager.html#a2cc5722ee17129a88c878149c30025bf", null ],
+    [ "_remove_event", "classARDOUR_1_1SessionEventManager.html#a8f68517cc14075777b65567d8f7f30b5", null ],
+    [ "_replace_event", "classARDOUR_1_1SessionEventManager.html#a54f77694bc14ce43a93e373778766469", null ],
+    [ "add_event", "classARDOUR_1_1SessionEventManager.html#a7ffbd390cecac4a1e2fe8b392490c9df", null ],
+    [ "clear_events", "classARDOUR_1_1SessionEventManager.html#a3d60b156de947b4350fd6653b1094fd3", null ],
+    [ "clear_events", "classARDOUR_1_1SessionEventManager.html#ab7c7b69864250b040bb17e257a5baaab", null ],
+    [ "dump_events", "classARDOUR_1_1SessionEventManager.html#a3523e60e26a62b83078b8d0864e97319", null ],
+    [ "merge_event", "classARDOUR_1_1SessionEventManager.html#ac40868e5bf44dc36901d7b22d5aaa15d", null ],
+    [ "process_event", "classARDOUR_1_1SessionEventManager.html#a0bfc68db9825d2d4fd79fd6d374319c3", null ],
+    [ "queue_event", "classARDOUR_1_1SessionEventManager.html#ab80f9089443f1cf85418604bcc8a1d59", null ],
+    [ "remove_event", "classARDOUR_1_1SessionEventManager.html#ae39fabf99da1af5785df7797489a1d91", null ],
+    [ "replace_event", "classARDOUR_1_1SessionEventManager.html#a3807e7a94b7d65b185610913667c7c14", null ],
+    [ "set_next_event", "classARDOUR_1_1SessionEventManager.html#a8d82bbd2888f42cc735900f2c533ce38", null ],
+    [ "auto_loop_event", "classARDOUR_1_1SessionEventManager.html#a6e571d6d43cf1fa75ffbf45f97d5b806", null ],
+    [ "events", "classARDOUR_1_1SessionEventManager.html#a07c1aad54ea48b5524c44d8e90430981", null ],
+    [ "immediate_events", "classARDOUR_1_1SessionEventManager.html#a73dc508bc2cdbd6cd4bb66476e76cf4c", null ],
+    [ "next_event", "classARDOUR_1_1SessionEventManager.html#a50e67da79218621bc6324af71cc20436", null ],
+    [ "pending_events", "classARDOUR_1_1SessionEventManager.html#a0533da97b7789eaa3f61b8ca25194166", null ],
+    [ "punch_in_event", "classARDOUR_1_1SessionEventManager.html#aa592af1393138e044c4f35e983635b61", null ],
+    [ "punch_out_event", "classARDOUR_1_1SessionEventManager.html#aec849fa074a416d9705367b77f30e211", null ],
+    [ "rb_write_lock", "classARDOUR_1_1SessionEventManager.html#a0fe798789c4449669d8b3a401754f8c0", null ]
+];

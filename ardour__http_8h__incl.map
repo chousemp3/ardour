@@ -1,0 +1,13 @@
+<map id="ardour_http.h" name="ardour_http.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="59,5,168,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,64,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,33,59,71,56,68,99,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="88,79,139,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="116,31,116,65,111,65,111,31"/>
+<area shape="rect" id="Node000004" href="$ccurl_8h.html" title=" " alt="" coords="163,79,256,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="130,29,184,68,181,72,127,33"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="91,152,178,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="199,106,159,144,155,141,196,102"/>
+<area shape="rect" id="Node000006" href="$libpbd__visibility_8h.html" title=" " alt="" coords="203,152,365,177"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="223,102,264,141,260,144,219,106"/>
+</map>

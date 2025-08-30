@@ -1,0 +1,15 @@
+<map id="TransportControlProvider::TransportControllable" name="TransportControlProvider::TransportControllable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="245,240,428,280"/>
+<area shape="rect" id="Node000002" href="$classPBD_1_1Controllable.html" title=" " alt="" coords="173,167,309,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,199,315,238,312,242,264,203"/>
+<area shape="rect" id="Node000003" href="$classPBD_1_1StatefulDestructible.html" title=" " alt="" coords="39,86,226,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="161,117,226,164,223,169,158,122"/>
+<area shape="rect" id="Node000004" href="$classPBD_1_1Stateful.html" title=" " alt="" coords="5,5,113,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="82,39,124,84,120,88,78,43"/>
+<area shape="rect" id="Node000005" href="$classPBD_1_1Destructible.html" title=" " alt="" coords="138,5,274,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="188,43,145,88,142,84,184,39"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="250,79,450,119"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="314,129,259,168,256,164,311,125"/>
+<area shape="rect" id="Node000007" href="$classARDOUR_1_1SessionHandlePtr.html" title=" " alt="" coords="333,167,535,192"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="411,203,362,242,358,238,407,199"/>
+</map>

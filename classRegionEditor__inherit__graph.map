@@ -1,0 +1,21 @@
+<map id="RegionEditor" name="RegionEditor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="192,445,297,471"/>
+<area shape="rect" id="Node000010" href="$classAudioRegionEditor.html" title=" " alt="" coords="173,519,316,544"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="247,484,247,519,242,519,242,484"/>
+<area shape="rect" id="Node000002" href="$classArdourWidgets_1_1Frame.html" title=" " alt="" coords="57,372,224,397"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,403,229,443,226,447,167,407"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1Bin.html" title=" " alt="" coords="26,299,101,324"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="88,331,130,370,126,374,84,335"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Container.html" title=" " alt="" coords="5,225,121,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="66,264,66,299,61,299,61,264"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Widget.html" title=" " alt="" coords="14,152,113,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="66,191,66,225,61,225,61,191"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1Object.html" title=" " alt="" coords="16,79,111,104"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="66,118,66,152,61,152,61,118"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="14,5,113,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="66,44,66,79,61,79,61,44"/>
+<area shape="rect" id="Node000008" href="$classGtkmm2ext_1_1CairoTheme.html" title=" " alt="" coords="125,299,311,324"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="197,335,155,374,152,370,194,331"/>
+<area shape="rect" id="Node000009" href="$classARDOUR_1_1SessionHandlePtr.html" title=" " alt="" coords="248,372,449,397"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="322,407,263,447,260,443,319,403"/>
+</map>

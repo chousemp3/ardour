@@ -1,0 +1,26 @@
+var classExportFileNotebook =
+[
+    [ "FilePage", "classExportFileNotebook_1_1FilePage.html", "classExportFileNotebook_1_1FilePage" ],
+    [ "FilenamePtr", "classExportFileNotebook.html#a862761ccdc5e82461bb9697db679f76f", null ],
+    [ "FormatPtr", "classExportFileNotebook.html#a490b9f73f273ee57a314495acd7c6436", null ],
+    [ "ManagerPtr", "classExportFileNotebook.html#aa5fc1c65bb41fbb81096e9148ea889de", null ],
+    [ "ExportFileNotebook", "classExportFileNotebook.html#a2d8a8270dda991e37449c0bf2b1e67c7", null ],
+    [ "add_file_page", "classExportFileNotebook.html#af3373e35cfdaa392dd7f7c74a1d79456", null ],
+    [ "add_new_file_page", "classExportFileNotebook.html#aefcbf839b16758dd75a31d8274185012", null ],
+    [ "handle_page_change", "classExportFileNotebook.html#acd26acc82b5ce135a9cf02094fdfe42c", null ],
+    [ "remove_file_page", "classExportFileNotebook.html#a640fb8f0321c9741484b04e45c010d81", null ],
+    [ "set_session_and_manager", "classExportFileNotebook.html#ad4f031629d59f75f0e318551bbee5412", null ],
+    [ "sync_with_manager", "classExportFileNotebook.html#a095cd641c37d33be3866b58d66d9cfa9", null ],
+    [ "update_example_filenames", "classExportFileNotebook.html#a22486538e05cab23f821a1f517bace55", null ],
+    [ "update_remove_file_page_sensitivity", "classExportFileNotebook.html#ae5c5343f21a8755dd69af901fc85db3f", null ],
+    [ "update_soundcloud_upload", "classExportFileNotebook.html#ae07fc1395e5764b74e33a9347620b26a", null ],
+    [ "CriticalSelectionChanged", "classExportFileNotebook.html#a25aeb050e50b1b685a1b07448a33b089", null ],
+    [ "last_visible_page", "classExportFileNotebook.html#a3713a61d36ccdfa34087919a2f017ae8", null ],
+    [ "new_file_button", "classExportFileNotebook.html#add1a84f190ec5ed593a69b2656eb60d1", null ],
+    [ "new_file_dummy", "classExportFileNotebook.html#abafdeeca83630c814e66c2fa1687341f", null ],
+    [ "new_file_hbox", "classExportFileNotebook.html#ac248faff68a5dab4c88ad5bce778c31c", null ],
+    [ "page_change_connection", "classExportFileNotebook.html#afbca8936619a80cc28a45fd1bf3b6a39", null ],
+    [ "page_counter", "classExportFileNotebook.html#a316de6d67c179c2dca12c1b9068929ef", null ],
+    [ "profile_manager", "classExportFileNotebook.html#a1b89ec613b691efd4c46ea74aec1cb45", null ],
+    [ "soundcloud_export_selector", "classExportFileNotebook.html#ab929b2e3b9a6ee4abdf965320034b46b", null ]
+];

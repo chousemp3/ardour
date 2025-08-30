@@ -1,0 +1,8 @@
+<map id="device_info.h" name="device_info.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="115,5,224,31"/>
+<area shape="rect" id="Node000002" href="$mackie__control__protocol_8h.html" title=" " alt="" coords="5,79,200,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,43,115,80,112,77,147,39"/>
+<area shape="rect" id="Node000003" href="$mackie_2strip_8h.html" title=" " alt="" coords="138,152,201,177"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="192,39,205,57,215,78,216,100,208,121,184,153,180,150,204,118,211,99,209,79,200,60,188,43"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="125,113,160,150,157,154,121,116"/>
+</map>

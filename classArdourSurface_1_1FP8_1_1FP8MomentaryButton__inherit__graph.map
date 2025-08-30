@@ -1,0 +1,7 @@
+<map id="ArdourSurface::FP8::FP8MomentaryButton" name="ArdourSurface::FP8::FP8MomentaryButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,181,177,221"/>
+<area shape="rect" id="Node000002" href="$classArdourSurface_1_1FP8_1_1FP8ButtonBase.html" title=" " alt="" coords="18,93,165,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,147,94,181,89,181,89,147"/>
+<area shape="rect" id="Node000003" href="$classArdourSurface_1_1FP8_1_1FP8ButtonInterface.html" title=" " alt="" coords="14,5,169,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="94,59,94,93,89,93,89,59"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="gdither_types.h" name="gdither_types.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="117,5,240,31"/>
+<area shape="rect" id="Node000002" href="$gdither_8h.html" title=" " alt="" coords="58,79,137,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,42,112,80,109,76,154,38"/>
+<area shape="rect" id="Node000003" href="$sample__format__converter_8h.html" title=" " alt="" coords="161,79,362,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,38,250,76,246,80,201,42"/>
+<area shape="rect" id="Node000004" href="$export__format__base_8h.html" title=" " alt="" coords="179,152,344,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="264,118,264,152,259,152,259,118"/>
+<area shape="rect" id="Node000005" href="$export__format__compatibility_8h.html" title=" " alt="" coords="5,225,224,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="227,186,140,228,138,223,225,181"/>
+<area shape="rect" id="Node000007" href="$export__formats_8h.html" title=" " alt="" coords="173,299,307,324"/>
+<area shape="poly" id="edge11_Node000004_Node000007" title=" " alt="" coords="260,192,244,299,239,298,255,191"/>
+<area shape="rect" id="Node000009" href="$export__format__specification_8h.html" title=" " alt="" coords="299,225,515,251"/>
+<area shape="poly" id="edge10_Node000004_Node000009" title=" " alt="" coords="298,181,384,223,382,228,296,186"/>
+<area shape="rect" id="Node000006" href="$export__format__dialog_8h.html" title=" " alt="" coords="78,445,253,471"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="123,264,165,444,160,446,118,265"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="148,255,221,296,218,301,145,260"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="221,336,194,373,179,412,170,446,165,445,174,411,190,371,217,333"/>
+<area shape="rect" id="Node000008" href="$export__format__manager_8h.html" title=" " alt="" coords="203,372,394,397"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="260,333,291,370,287,374,256,336"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="267,406,188,447,186,443,264,401"/>
+</map>

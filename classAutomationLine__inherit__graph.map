@@ -1,0 +1,23 @@
+<map id="AutomationLine" name="AutomationLine">
+<area shape="rect" id="Node000001" title=" " alt="" coords="195,152,321,177"/>
+<area shape="rect" id="Node000007" href="$classEditorAutomationLine.html" title=" " alt="" coords="78,225,241,251"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="233,187,177,227,174,223,230,183"/>
+<area shape="rect" id="Node000011" href="$classPianorollAutomationLine.html" title=" " alt="" coords="265,225,448,251"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="286,183,342,223,339,227,283,187"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="24,79,140,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,107,230,149,228,154,122,112"/>
+<area shape="rect" id="Node000003" href="$classPBD_1_1StatefulDestructible.html" title=" " alt="" coords="165,79,351,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="261,118,261,152,255,152,255,118"/>
+<area shape="rect" id="Node000004" href="$classPBD_1_1Stateful.html" title=" " alt="" coords="131,5,239,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="208,38,248,77,244,80,205,42"/>
+<area shape="rect" id="Node000005" href="$classPBD_1_1Destructible.html" title=" " alt="" coords="263,5,399,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="311,42,272,80,268,77,308,38"/>
+<area shape="rect" id="Node000006" href="$classSelectableOwner.html" title=" " alt="" coords="376,79,508,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="401,111,289,154,287,149,399,106"/>
+<area shape="rect" id="Node000008" href="$classMidiAutomationLine.html" title=" " alt="" coords="5,299,159,324"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="139,262,96,300,93,296,135,258"/>
+<area shape="rect" id="Node000009" href="$classRegionFxLine.html" title=" " alt="" coords="183,299,293,324"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="184,258,227,296,223,300,180,262"/>
+<area shape="rect" id="Node000010" href="$classAudioRegionGainLine.html" title=" " alt="" coords="157,372,319,397"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="241,338,241,372,235,372,235,338"/>
+</map>

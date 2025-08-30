@@ -1,0 +1,7 @@
+<map id="ArdourSurface::M2Device" name="ArdourSurface::M2Device">
+<area shape="rect" id="Node000001" title=" " alt="" coords="123,5,309,31"/>
+<area shape="rect" id="Node000002" href="$classArdourSurface_1_1Maschine2Mikro.html" title=" " alt="" coords="5,79,197,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,41,130,81,127,76,186,36"/>
+<area shape="rect" id="Node000003" href="$classArdourSurface_1_1Maschine2Mk2.html" title=" " alt="" coords="222,86,442,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="246,36,316,84,313,88,243,41"/>
+</map>

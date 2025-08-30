@@ -1,0 +1,26 @@
+<map id="MonitorSection" name="MonitorSection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1017,135,1137,161"/>
+<area shape="rect" id="Node000002" href="$classRouteUI.html" title=" " alt="" coords="875,86,949,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="963,111,1034,133,1033,138,962,116"/>
+<area shape="rect" id="Node000003" href="$classSelectable.html" title=" " alt="" coords="661,37,751,62"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="765,61,807,71,875,87,874,93,806,76,764,66"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="441,11,557,37"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="571,10,623,4,683,3,746,8,807,22,836,34,861,51,900,84,896,88,858,55,833,39,806,27,746,13,683,8,624,10,571,15"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="571,30,661,41,660,47,570,36"/>
+<area shape="rect" id="Node000005" href="$classARDOUR_1_1SessionHandlePtr.html" title=" " alt="" coords="605,86,807,111"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="821,96,875,96,875,101,821,101"/>
+<area shape="rect" id="Node000006" href="$classPBD_1_1ScopedConnectionList.html" title=" " alt="" coords="606,135,806,161"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="772,130,874,105,875,110,773,135"/>
+<area shape="rect" id="Node000007" href="$classGtk_1_1EventBox.html" title=" " alt="" coords="855,159,969,185"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="983,159,1017,154,1017,160,984,164"/>
+<area shape="rect" id="Node000008" href="$classGtk_1_1Bin.html" title=" " alt="" coords="669,185,743,210"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="757,189,854,177,855,182,757,194"/>
+<area shape="rect" id="Node000009" href="$classGtk_1_1Container.html" title=" " alt="" coords="441,185,557,210"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="571,195,668,195,668,200,571,200"/>
+<area shape="rect" id="Node000010" href="$classGtk_1_1Widget.html" title=" " alt="" coords="295,185,393,210"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="407,195,441,195,441,200,407,200"/>
+<area shape="rect" id="Node000011" href="$classGtk_1_1Object.html" title=" " alt="" coords="152,185,247,210"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="260,195,294,195,294,200,260,200"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="5,185,104,210"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="117,195,152,195,152,200,117,200"/>
+</map>

@@ -1,0 +1,27 @@
+var classArdourWidgets_1_1BarController =
+[
+    [ "BarController", "classArdourWidgets_1_1BarController.html#a5f0415419866a3d597384e64d1698892", null ],
+    [ "~BarController", "classArdourWidgets_1_1BarController.html#ac6fbb59b9852d4ef64942bee27c15db1", null ],
+    [ "before_expose", "classArdourWidgets_1_1BarController.html#af5c382546557757dc2cbea3dba0fe06d", null ],
+    [ "entry_activated", "classArdourWidgets_1_1BarController.html#a8ab69bf3d1cc6897e924f223a51a46da", null ],
+    [ "entry_focus_out", "classArdourWidgets_1_1BarController.html#aa4e5fbd8991020e56bf5175a899d614c", null ],
+    [ "event_widget", "classArdourWidgets_1_1BarController.html#a80b92a36508220eab6366d339550b243", null ],
+    [ "get_label", "classArdourWidgets_1_1BarController.html#af49d6be60589148782bf1026a9bc50c5", null ],
+    [ "on_button_press_event", "classArdourWidgets_1_1BarController.html#ae39abb849c26d82a74eb8ee49a101af9", null ],
+    [ "on_button_release_event", "classArdourWidgets_1_1BarController.html#ac682641a628b22008e4af63e51377220", null ],
+    [ "on_style_changed", "classArdourWidgets_1_1BarController.html#a99e3ffbc1f4fff1afda64d83d840e09a", null ],
+    [ "passtrhu_gesture_start", "classArdourWidgets_1_1BarController.html#a46697d5d092c27e086e96769771407eb", null ],
+    [ "passtrhu_gesture_stop", "classArdourWidgets_1_1BarController.html#ab69d2e81980a8fac914df94178360f89", null ],
+    [ "set_digits", "classArdourWidgets_1_1BarController.html#aefc3d8e3486135b83d7d988e512c4dd5", null ],
+    [ "set_sensitive", "classArdourWidgets_1_1BarController.html#a919976a4d090c54ec8c164f33e1cf935", null ],
+    [ "set_tweaks", "classArdourWidgets_1_1BarController.html#a954e8b04f136ff9a40e6342ee0360902", null ],
+    [ "switch_to_bar", "classArdourWidgets_1_1BarController.html#af4041724327a74e02af5a210805fa8ab", null ],
+    [ "switch_to_spinner", "classArdourWidgets_1_1BarController.html#a94d15ad3e25d304551d302b2e1c0edc2", null ],
+    [ "tweaks", "classArdourWidgets_1_1BarController.html#a2d0857b7d84b6246e79be52c929b1874", null ],
+    [ "_slider", "classArdourWidgets_1_1BarController.html#aeadb8d11e52881036b62ab177e8fadc9", null ],
+    [ "_switch_on_release", "classArdourWidgets_1_1BarController.html#a38e4202b0c00345df2e4b82709704aca", null ],
+    [ "_switching", "classArdourWidgets_1_1BarController.html#ae35df779758121341f3672fc41372223", null ],
+    [ "SpinnerActive", "classArdourWidgets_1_1BarController.html#af78ef98983e551c9a7e9a8d3cba8b62a", null ],
+    [ "StartGesture", "classArdourWidgets_1_1BarController.html#af11b8ef97dc2c9b9f1be691342c307b5", null ],
+    [ "StopGesture", "classArdourWidgets_1_1BarController.html#a9081071cfff1c866835c83500dfe1104", null ]
+];

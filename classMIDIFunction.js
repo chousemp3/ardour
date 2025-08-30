@@ -1,0 +1,35 @@
+var classMIDIFunction =
+[
+    [ "Function", "classMIDIFunction.html#a7452bfec29010508b9ffdefedee217f3", [
+      [ "NextBank", "classMIDIFunction.html#a7452bfec29010508b9ffdefedee217f3a16e906959298090a1dbed6e492da42c3", null ],
+      [ "PrevBank", "classMIDIFunction.html#a7452bfec29010508b9ffdefedee217f3acbb42a23e7286bc3a90fe67c8f78caff", null ],
+      [ "TransportRoll", "classMIDIFunction.html#a7452bfec29010508b9ffdefedee217f3aac40322e5cbf3e8ab74dfe9a408b3fbe", null ],
+      [ "TransportStop", "classMIDIFunction.html#a7452bfec29010508b9ffdefedee217f3ad26942aa17916b6791defe69f6aab056", null ],
+      [ "TransportZero", "classMIDIFunction.html#a7452bfec29010508b9ffdefedee217f3acec38f65026442616e7813a331f5c1f8", null ],
+      [ "TransportStart", "classMIDIFunction.html#a7452bfec29010508b9ffdefedee217f3ad65b22aebbfb8d5629704b64c9fb6c35", null ],
+      [ "TransportEnd", "classMIDIFunction.html#a7452bfec29010508b9ffdefedee217f3ab3afc777100954ef8de50c44df361f74", null ],
+      [ "TransportLoopToggle", "classMIDIFunction.html#a7452bfec29010508b9ffdefedee217f3adea90791365594fb720a1044bfa6ed6b", null ],
+      [ "TransportRecordToggle", "classMIDIFunction.html#a7452bfec29010508b9ffdefedee217f3a47925618c6253097ab255bbfd59a04c3", null ],
+      [ "TransportRecordEnable", "classMIDIFunction.html#a7452bfec29010508b9ffdefedee217f3ae2573e129e51f7b17574c6efb838d6e3", null ],
+      [ "TransportRecordDisable", "classMIDIFunction.html#a7452bfec29010508b9ffdefedee217f3a550be419426c17038920f986101fdaa8", null ],
+      [ "SelectAdd", "classMIDIFunction.html#a7452bfec29010508b9ffdefedee217f3a85b30848f4f8e07e6658906bff07ee22", null ],
+      [ "SelectRemove", "classMIDIFunction.html#a7452bfec29010508b9ffdefedee217f3a89d933afb4a82b769a4f432157b6dae7", null ],
+      [ "SelectToggle", "classMIDIFunction.html#a7452bfec29010508b9ffdefedee217f3adf6dfa77147b751f286389b00d671661", null ],
+      [ "SelectSet", "classMIDIFunction.html#a7452bfec29010508b9ffdefedee217f3a2ec1911461ebf05387729b02d73b2501", null ],
+      [ "SetBank", "classMIDIFunction.html#a7452bfec29010508b9ffdefedee217f3a73db7a97bd7efbfe8a18f8a00b68c8e2", null ],
+      [ "TrackSetSolo", "classMIDIFunction.html#a7452bfec29010508b9ffdefedee217f3a85427348e0d87241019d5b7f699040e5", null ],
+      [ "TrackSetMute", "classMIDIFunction.html#a7452bfec29010508b9ffdefedee217f3aef394665cb9c113fa0c5a3475d5f75e9", null ],
+      [ "TrackSetGain", "classMIDIFunction.html#a7452bfec29010508b9ffdefedee217f3a5226d6927024fc0f526ef68fe73e93ae", null ],
+      [ "TrackSetRecordEnable", "classMIDIFunction.html#a7452bfec29010508b9ffdefedee217f3a255f51a0b677d9066b31e2825575dcad", null ],
+      [ "TrackSetSoloIsolate", "classMIDIFunction.html#a7452bfec29010508b9ffdefedee217f3a778438d7065a95640f3b9b0dd093122b", null ]
+    ] ],
+    [ "MIDIFunction", "classMIDIFunction.html#a73ae65969725d8e1fe663517f4d4fde2", null ],
+    [ "~MIDIFunction", "classMIDIFunction.html#af138c95d083c25aa4961b5e62a66e03b", null ],
+    [ "execute", "classMIDIFunction.html#ac3205b758b3ac8f2d1053e2e64447b7a", null ],
+    [ "function_name", "classMIDIFunction.html#a01aa165b86a144235cbe0845f55622a8", null ],
+    [ "get_state", "classMIDIFunction.html#a9e7c091eaf23b9bd95aec45671cebabd", null ],
+    [ "set_state", "classMIDIFunction.html#a73090d234ebd3bae41ebeb740d9b3171", null ],
+    [ "setup", "classMIDIFunction.html#a658fa0519b5d1936a4874c95d52c94ec", null ],
+    [ "_argument", "classMIDIFunction.html#adb4f0099c6e82cf13fbe99ead557147e", null ],
+    [ "_function", "classMIDIFunction.html#a71900143b2f0ca470c6a57b50296a980", null ]
+];

@@ -1,0 +1,37 @@
+<map id="gdkpixmap&#45;quartz.h" name="gdkpixmap&#45;quartz.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="218,5,371,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="14,79,181,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,33,159,76,157,71,265,28"/>
+<area shape="rect" id="Node000003" href="$gdkdrawable-quartz_8h.html" title=" " alt="" coords="205,79,384,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="297,31,297,65,292,65,292,31"/>
+<area shape="rect" id="Node000015" href="$gdkpixmap_8h.html" title=" " alt="" coords="409,86,543,111"/>
+<area shape="poly" id="edge18_Node000001_Node000015" title=" " alt="" coords="322,28,438,78,436,83,320,33"/>
+<area shape="rect" id="Node000004" href="$gdkdrawable_8h.html" title=" " alt="" coords="221,167,368,192"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="297,119,297,153,292,153,292,119"/>
+<area shape="rect" id="Node000005" href="$gdktypes_8h.html" title=" " alt="" coords="172,387,295,412"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="288,194,274,215,261,241,244,312,237,373,232,373,238,311,256,239,269,212,284,191"/>
+<area shape="rect" id="Node000010" href="$gdkgc_8h.html" title=" " alt="" coords="95,240,196,265"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="272,194,183,236,181,232,270,190"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="5,387,72,412"/>
+<area shape="poly" id="edge17_Node000004_Node000012" title=" " alt="" coords="222,193,152,211,117,225,84,242,43,272,30,289,19,314,16,329,17,344,27,374,22,375,12,346,10,329,13,313,26,286,39,268,81,238,115,220,151,206,220,188"/>
+<area shape="rect" id="Node000013" href="$gdkrgb_8h.html" title=" " alt="" coords="332,313,439,339"/>
+<area shape="poly" id="edge14_Node000004_Node000013" title=" " alt="" coords="369,185,421,203,444,218,464,239,469,259,460,278,443,295,423,309,420,304,440,290,456,275,464,258,459,241,441,222,419,208,367,190"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="271,240,449,265"/>
+<area shape="poly" id="edge16_Node000004_Node000014" title=" " alt="" coords="307,191,342,228,338,232,303,194"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="24,460,83,485"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="205,415,96,457,94,452,203,410"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="107,460,226,485"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="224,414,189,452,185,448,220,411"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="250,460,353,485"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="246,410,283,448,279,452,243,414"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="377,460,474,485"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="265,410,382,452,380,457,263,415"/>
+<area shape="poly" id="edge13_Node000010_Node000005" title=" " alt="" coords="155,264,222,374,217,376,150,267"/>
+<area shape="rect" id="Node000011" href="$gdkcolor_8h.html" title=" " alt="" coords="28,313,145,339"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="138,267,107,305,103,301,134,264"/>
+<area shape="poly" id="edge12_Node000011_Node000005" title=" " alt="" coords="111,336,198,378,196,383,109,341"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="81,341,56,377,52,374,77,338"/>
+<area shape="poly" id="edge15_Node000013_Node000005" title=" " alt="" coords="362,341,271,383,269,378,360,336"/>
+<area shape="poly" id="edge20_Node000015_Node000004" title=" " alt="" coords="451,114,335,164,333,159,449,109"/>
+<area shape="poly" id="edge19_Node000015_Node000005" title=" " alt="" coords="482,111,492,155,497,218,495,252,488,285,474,315,452,341,420,363,383,379,345,390,309,397,308,391,344,385,381,374,417,359,449,337,469,312,483,283,490,251,492,218,486,156,477,112"/>
+</map>

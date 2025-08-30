@@ -1,0 +1,27 @@
+var classARDOUR_1_1SegmentDescriptor =
+[
+    [ "SegmentDescriptor", "classARDOUR_1_1SegmentDescriptor.html#a634c8335c8688707d0f6af080b9ef3d3", null ],
+    [ "SegmentDescriptor", "classARDOUR_1_1SegmentDescriptor.html#a6dc26d4856f8efe32e9d0f8bca05fe44", null ],
+    [ "extent", "classARDOUR_1_1SegmentDescriptor.html#a15aaeb408356d31b88bf378fe7514f61", null ],
+    [ "get_state", "classARDOUR_1_1SegmentDescriptor.html#ab72751bcedae83a633161cef84fa71da", null ],
+    [ "meter", "classARDOUR_1_1SegmentDescriptor.html#a87b46a3f4d336df2d2856932661b51ca", null ],
+    [ "position", "classARDOUR_1_1SegmentDescriptor.html#a758ca73d6cd305f596a64257035efbcf", null ],
+    [ "set_duration", "classARDOUR_1_1SegmentDescriptor.html#a54bf6802c64adece5f12889e67c29558", null ],
+    [ "set_duration", "classARDOUR_1_1SegmentDescriptor.html#af378b652f35ca7aeb2644ffb9543b399", null ],
+    [ "set_extent", "classARDOUR_1_1SegmentDescriptor.html#a073814f168e5c11dbddabb0946c2b0ed", null ],
+    [ "set_extent", "classARDOUR_1_1SegmentDescriptor.html#a35aba418efc723912af1dfc19ae7528e", null ],
+    [ "set_meter", "classARDOUR_1_1SegmentDescriptor.html#a419d3490bc7a36b2748a81d4970ea499", null ],
+    [ "set_position", "classARDOUR_1_1SegmentDescriptor.html#a2682a9a51c396cbf6a5f0c72dcd9d7de", null ],
+    [ "set_position", "classARDOUR_1_1SegmentDescriptor.html#a9d1fd46f12ff746bd1d700b216915080", null ],
+    [ "set_state", "classARDOUR_1_1SegmentDescriptor.html#adee1a214a2ec68c53cfb2e8d48c4acfa", null ],
+    [ "set_tempo", "classARDOUR_1_1SegmentDescriptor.html#a9c0e4b9ba75fdad6d767d27e6d66efca", null ],
+    [ "tempo", "classARDOUR_1_1SegmentDescriptor.html#ad64f234caca51c12d32f993a0bbb1cb5", null ],
+    [ "time_domain", "classARDOUR_1_1SegmentDescriptor.html#a212afaf93b76f66fe6dbe7c3bf39b1fd", null ],
+    [ "_duration_beats", "classARDOUR_1_1SegmentDescriptor.html#a9e22ea74eec85b9893a95609739e937e", null ],
+    [ "_duration_samples", "classARDOUR_1_1SegmentDescriptor.html#a90a915262a86164b11341e5c6281239c", null ],
+    [ "_meter", "classARDOUR_1_1SegmentDescriptor.html#a16db2a2648cd06734aaa9d14c8d6d039", null ],
+    [ "_position_beats", "classARDOUR_1_1SegmentDescriptor.html#a7bdcfc9c099da54097ebabb7184b583a", null ],
+    [ "_position_samples", "classARDOUR_1_1SegmentDescriptor.html#a4462ee81583fba2d3e45d2c61fbff8b7", null ],
+    [ "_tempo", "classARDOUR_1_1SegmentDescriptor.html#a1e028f33b9315f0b7d809eed90e5c98d", null ],
+    [ "_time_domain", "classARDOUR_1_1SegmentDescriptor.html#a12a44f78ac1018a217d402e8d41aa632", null ]
+];

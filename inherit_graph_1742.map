@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,70,140,95"/>
+<area shape="rect" id="Node000001" href="$classARDOUR_1_1PluginInsert_1_1PinMappings.html" title=" " alt="" coords="201,5,365,45"/>
+<area shape="poly" id="edge2366_Node000000_Node000001" title=" " alt="" coords="133,64,209,43,210,48,134,69"/>
+<area shape="rect" id="Node000002" href="$classPBD_1_1PropertyList.html" title=" " alt="" coords="216,70,351,95"/>
+<area shape="poly" id="edge2367_Node000000_Node000002" title=" " alt="" coords="154,80,216,80,216,85,154,85"/>
+<area shape="rect" id="Node000004" href="$classRegionUISettingsManager.html" title=" " alt="" coords="188,119,379,145"/>
+<area shape="poly" id="edge2369_Node000000_Node000004" title=" " alt="" coords="141,96,229,117,228,122,140,101"/>
+<area shape="rect" id="Node000003" href="$classPBD_1_1OwnedPropertyList.html" title=" " alt="" coords="427,70,607,95"/>
+<area shape="poly" id="edge2368_Node000002_Node000003" title=" " alt="" coords="364,80,426,80,426,85,364,85"/>
+</map>

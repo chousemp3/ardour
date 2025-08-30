@@ -1,0 +1,17 @@
+<map id="SlotPropertyTable" name="SlotPropertyTable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="65,372,201,397"/>
+<area shape="rect" id="Node000002" href="$classTriggerUI.html" title=" " alt="" coords="39,299,119,324"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,333,126,370,122,373,94,337"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,225,121,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="72,263,79,298,74,299,66,265"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Table.html" title=" " alt="" coords="152,299,239,324"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="178,336,145,374,141,370,174,333"/>
+<area shape="rect" id="Node000005" href="$classGtk_1_1Container.html" title=" " alt="" coords="145,225,261,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="203,265,199,299,194,298,198,264"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1Widget.html" title=" " alt="" coords="154,152,253,177"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="206,191,206,225,201,225,201,191"/>
+<area shape="rect" id="Node000007" href="$classGtk_1_1Object.html" title=" " alt="" coords="156,79,251,104"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="206,118,206,152,201,152,201,118"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="154,5,253,31"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="206,44,206,79,201,79,201,44"/>
+</map>

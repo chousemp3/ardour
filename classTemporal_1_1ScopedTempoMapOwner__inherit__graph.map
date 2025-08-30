@@ -1,0 +1,15 @@
+<map id="Temporal::ScopedTempoMapOwner" name="Temporal::ScopedTempoMapOwner">
+<area shape="rect" id="Node000001" title=" " alt="" coords="133,5,341,45"/>
+<area shape="rect" id="Node000002" href="$classEditingContext.html" title=" " alt="" coords="178,93,297,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,59,240,93,235,93,235,59"/>
+<area shape="rect" id="Node000003" href="$classCueEditor.html" title=" " alt="" coords="137,167,223,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="222,131,191,168,187,165,217,128"/>
+<area shape="rect" id="Node000006" href="$classPublicEditor.html" title="Representation of the interface of the Editor class." alt="" coords="247,167,345,192"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="258,128,289,165,284,168,254,131"/>
+<area shape="rect" id="Node000004" href="$classAudioClipEditor.html" title=" " alt="" coords="5,240,128,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="151,202,87,242,84,238,148,197"/>
+<area shape="rect" id="Node000005" href="$classPianoroll.html" title=" " alt="" coords="153,240,231,265"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="187,205,193,239,187,240,182,206"/>
+<area shape="rect" id="Node000007" href="$classEditor.html" title=" " alt="" coords="266,240,326,265"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="299,206,299,240,293,240,293,206"/>
+</map>

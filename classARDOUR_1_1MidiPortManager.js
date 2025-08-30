@@ -1,0 +1,25 @@
+var classARDOUR_1_1MidiPortManager =
+[
+    [ "MidiPortManager", "classARDOUR_1_1MidiPortManager.html#adb4b9306b4e090681ec83bd0b357c17f", null ],
+    [ "~MidiPortManager", "classARDOUR_1_1MidiPortManager.html#a3a9c981813f9da7415daae3a2ba73674", null ],
+    [ "create_ports", "classARDOUR_1_1MidiPortManager.html#ac6fddcec1e7daaf84ca296fb542389fb", null ],
+    [ "get_midi_port_states", "classARDOUR_1_1MidiPortManager.html#afa2dfcf2942c682026dee850d1a8686d", null ],
+    [ "midi_clock_output_port", "classARDOUR_1_1MidiPortManager.html#a09e130cbd1b3e2fb89ad8742d96dc747", null ],
+    [ "mmc_input_port", "classARDOUR_1_1MidiPortManager.html#a29294119ac3ae4da1c94b1d1b22b27b1", null ],
+    [ "mmc_output_port", "classARDOUR_1_1MidiPortManager.html#ab4cb71dad8fcc3d2fc1874dc540ada51", null ],
+    [ "mtc_output_port", "classARDOUR_1_1MidiPortManager.html#ad171dfeeeddcb192f03cfaf810826a29", null ],
+    [ "scene_input_port", "classARDOUR_1_1MidiPortManager.html#ab61a9202e8d16a6280267633dc27a19d", null ],
+    [ "scene_output_port", "classARDOUR_1_1MidiPortManager.html#a242f5d5437043def76e8ccf678782e5b", null ],
+    [ "set_midi_port_states", "classARDOUR_1_1MidiPortManager.html#a6dfd1887bd0d830a31981bde42e8ea0c", null ],
+    [ "set_public_latency", "classARDOUR_1_1MidiPortManager.html#aaaa737d7580d300049caa42e4e45fc2e", null ],
+    [ "trigger_input_port", "classARDOUR_1_1MidiPortManager.html#a0dd618e63361130e744a19b8e1c52bc0", null ],
+    [ "vkbd_output_port", "classARDOUR_1_1MidiPortManager.html#af4a428cdb309df18300e819ca9e89b3c", null ],
+    [ "_midi_clock_output_port", "classARDOUR_1_1MidiPortManager.html#a7e59bd6cf309fa92b4f615ef4b7b8faf", null ],
+    [ "_mmc_in", "classARDOUR_1_1MidiPortManager.html#a8f1eff3342e1f5c27286fac2b55c4fc9", null ],
+    [ "_mmc_out", "classARDOUR_1_1MidiPortManager.html#abf789c73520f27a07f340a010d5f671e", null ],
+    [ "_mtc_output_port", "classARDOUR_1_1MidiPortManager.html#a2bf6b717077c68f976cbb939f49cab1e", null ],
+    [ "_scene_in", "classARDOUR_1_1MidiPortManager.html#a5c4ea0fb0d6dbb5afe9444130070fa23", null ],
+    [ "_scene_out", "classARDOUR_1_1MidiPortManager.html#a6ddc3ed39e72a5a48601f04a73bb9d0a", null ],
+    [ "_trigger_input_port", "classARDOUR_1_1MidiPortManager.html#a858cbda4cea48aa68e3a812c9645b47a", null ],
+    [ "_vkbd_out", "classARDOUR_1_1MidiPortManager.html#a7f88919b924624e44e507dadf9ef3ddf", null ]
+];

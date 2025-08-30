@@ -1,0 +1,28 @@
+var classARDOUR_1_1Amp =
+[
+    [ "Amp", "classARDOUR_1_1Amp.html#afd8c746b32c85f76295de07e59956b86", null ],
+    [ "apply_gain", "classARDOUR_1_1Amp.html#aea5573d58f6b62994c447d1e496a8207", null ],
+    [ "apply_gain", "classARDOUR_1_1Amp.html#aeca7eb68ae5ae08d04276a386d3b00c0", null ],
+    [ "apply_simple_gain", "classARDOUR_1_1Amp.html#af7c14e6c5bb5e5b856bb2947df633f0f", null ],
+    [ "apply_simple_gain", "classARDOUR_1_1Amp.html#a23ef50b8b96812fda448bed2ec59fa5a", null ],
+    [ "can_support_io_configuration", "classARDOUR_1_1Amp.html#a4d5ea8917d847526723f0d55d443ddfe", null ],
+    [ "configure_io", "classARDOUR_1_1Amp.html#a10a17133bd815314026853276c177c7d", null ],
+    [ "display_name", "classARDOUR_1_1Amp.html#a798f18c43f50a0da6c6ffe130ea62714", null ],
+    [ "gain_control", "classARDOUR_1_1Amp.html#a3482ae046d6034251ef042b2d7dddc7e", null ],
+    [ "gain_control", "classARDOUR_1_1Amp.html#a2935fbd610fd67e7c13bd17873b91e39", null ],
+    [ "run", "classARDOUR_1_1Amp.html#ab760ab92caae646a777c81aee4347f9f", null ],
+    [ "set_display_name", "classARDOUR_1_1Amp.html#a1fad55c7bd0110ad8fcc1523b3a84a0e", null ],
+    [ "set_gain_automation_buffer", "classARDOUR_1_1Amp.html#a372b0267ddc9d1c3f95fa39c911d9174", null ],
+    [ "set_state", "classARDOUR_1_1Amp.html#acfbfb20cf2d32a0f8666450c1ac7a9fa", null ],
+    [ "setup_gain_automation", "classARDOUR_1_1Amp.html#a05c73ac7e86a0f5e11e499d9ab27299c", null ],
+    [ "state", "classARDOUR_1_1Amp.html#ae0daddea316481e08a979da692649041", null ],
+    [ "visible", "classARDOUR_1_1Amp.html#aa60a3e4d19858753af900646b125e70b", null ],
+    [ "_apply_gain_automation", "classARDOUR_1_1Amp.html#ad53c2593793308034a799041e19b31a2", null ],
+    [ "_current_automation_sample", "classARDOUR_1_1Amp.html#a1c99caf18bb5f1f63a9ca9b07e700d83", null ],
+    [ "_current_gain", "classARDOUR_1_1Amp.html#a7cfa5e716c89896e797c5f669ee57eeb", null ],
+    [ "_display_name", "classARDOUR_1_1Amp.html#a15b3813fe53b225a7998d5cee50a50d9", null ],
+    [ "_gain_automation_buffer", "classARDOUR_1_1Amp.html#a4e58e9507d23749045afb5aba5d006eb", null ],
+    [ "_gain_control", "classARDOUR_1_1Amp.html#a7751a4a1f37a2d2f2c0bcc7e3afd6055", null ],
+    [ "_midi_amp", "classARDOUR_1_1Amp.html#aa55075cca87d7df6d140a95048c906ca", null ],
+    [ "_midi_muted", "classARDOUR_1_1Amp.html#abe40778b3b4a31618c14132d0b421aad", null ]
+];

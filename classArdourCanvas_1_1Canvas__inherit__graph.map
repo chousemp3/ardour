@@ -1,0 +1,15 @@
+<map id="ArdourCanvas::Canvas" name="ArdourCanvas::Canvas">
+<area shape="rect" id="Node000001" title=" " alt="" coords="272,5,441,31"/>
+<area shape="rect" id="Node000002" href="$classArdourCanvas_1_1GtkCanvas.html" title=" " alt="" coords="45,86,237,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="313,38,173,88,171,83,312,33"/>
+<area shape="rect" id="Node000006" href="$classArdourSurface_1_1Maschine2Canvas.html" title=" " alt="" coords="261,79,453,119"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="359,44,359,79,354,79,354,44"/>
+<area shape="rect" id="Node000007" href="$classArdourSurface_1_1Push2Canvas.html" title=" " alt="" coords="477,86,687,111"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="403,33,550,83,548,88,401,38"/>
+<area shape="rect" id="Node000003" href="$classFittedCanvasWidget.html" title=" " alt="" coords="64,167,217,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="143,125,143,166,138,166,138,125"/>
+<area shape="rect" id="Node000004" href="$classCueBoxWidget.html" title=" " alt="" coords="5,240,124,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="120,203,79,242,75,238,117,199"/>
+<area shape="rect" id="Node000005" href="$classTriggerBoxWidget.html" title=" " alt="" coords="148,240,285,265"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="165,199,206,238,202,242,161,203"/>
+</map>

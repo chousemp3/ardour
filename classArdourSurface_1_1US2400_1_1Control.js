@@ -1,0 +1,26 @@
+var classArdourSurface_1_1US2400_1_1Control =
+[
+    [ "Control", "classArdourSurface_1_1US2400_1_1Control.html#aed4641380b5bf08f401574bda758ea0c", null ],
+    [ "~Control", "classArdourSurface_1_1US2400_1_1Control.html#abbb99e9090a21f4108b6a5d8e31a151d", null ],
+    [ "control", "classArdourSurface_1_1US2400_1_1Control.html#a8cc3aadb77473fe5e489d6d1fc887fca", null ],
+    [ "get_value", "classArdourSurface_1_1US2400_1_1Control.html#a2fb10d17c3ee6e0131dfdf6b7fdfc3ef", null ],
+    [ "group", "classArdourSurface_1_1US2400_1_1Control.html#a316d99ff07e24c05ffdd32999c57b1bb", null ],
+    [ "id", "classArdourSurface_1_1US2400_1_1Control.html#a10d881121f90c8711e92b60b93843595", null ],
+    [ "in_use", "classArdourSurface_1_1US2400_1_1Control.html#ad36d93d3f42c88d4dcf29334321b1d67", null ],
+    [ "mark_dirty", "classArdourSurface_1_1US2400_1_1Control.html#a49292db022368533f00202d08b8fa1d4", null ],
+    [ "name", "classArdourSurface_1_1US2400_1_1Control.html#a23954c3d2089fadb234258510557111b", null ],
+    [ "reset_control", "classArdourSurface_1_1US2400_1_1Control.html#a4a716c2046d3a9bab27a4443b0747f5d", null ],
+    [ "set_control", "classArdourSurface_1_1US2400_1_1Control.html#a03a67427a09139be2f2ab5cbea953cd6", null ],
+    [ "set_in_use", "classArdourSurface_1_1US2400_1_1Control.html#ab20fe7b93d124880c3e908d9d5592cb8", null ],
+    [ "set_value", "classArdourSurface_1_1US2400_1_1Control.html#a0701d723c6e4987a12a63c4bc0181b3a", null ],
+    [ "start_touch", "classArdourSurface_1_1US2400_1_1Control.html#a40e43f5166232b35b28f511f886479eb", null ],
+    [ "stop_touch", "classArdourSurface_1_1US2400_1_1Control.html#a8fd8aaa3eb41e76af7734b835d3a46c0", null ],
+    [ "zero", "classArdourSurface_1_1US2400_1_1Control.html#a9caee2ee12500b485d13fd3d43d2abb2", null ],
+    [ "_group", "classArdourSurface_1_1US2400_1_1Control.html#adcf26abf3103bf20a423c09bbfc6e29d", null ],
+    [ "_id", "classArdourSurface_1_1US2400_1_1Control.html#af02a32c96e64b65c86f10f3558b83ca7", null ],
+    [ "_in_use", "classArdourSurface_1_1US2400_1_1Control.html#a814e6b932078f20293efedeb7d9c7ef3", null ],
+    [ "_name", "classArdourSurface_1_1US2400_1_1Control.html#a2b55f1a06ee4a8111ed948c73ca85bc7", null ],
+    [ "in_use_connection", "classArdourSurface_1_1US2400_1_1Control.html#afe74da0e2da66208c8770dbe1aabb1c2", null ],
+    [ "in_use_touch_control", "classArdourSurface_1_1US2400_1_1Control.html#abd2d922301c1536cab0891f4b16b1499", null ],
+    [ "normal_ac", "classArdourSurface_1_1US2400_1_1Control.html#a6f3782fe5394db4a694bd08920f7eb6b", null ]
+];

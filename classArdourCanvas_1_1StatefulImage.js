@@ -1,0 +1,26 @@
+var classArdourCanvas_1_1StatefulImage =
+[
+    [ "State", "classArdourCanvas_1_1StatefulImage_1_1State.html", "classArdourCanvas_1_1StatefulImage_1_1State" ],
+    [ "ImageCache", "classArdourCanvas_1_1StatefulImage.html#a90de51b00035b928d378c7003c3ec633", null ],
+    [ "ImageHandle", "classArdourCanvas_1_1StatefulImage.html#a983166a8d20cdfd19d493c46214b6e1b", null ],
+    [ "States", "classArdourCanvas_1_1StatefulImage.html#a896ef44ec4121a4409a18556de2644b7", null ],
+    [ "StatefulImage", "classArdourCanvas_1_1StatefulImage.html#a7000baa3f4d5eea1ba57e4d98f92fea1", null ],
+    [ "StatefulImage", "classArdourCanvas_1_1StatefulImage.html#a54411fd541a0be9a942c7e24d31f762b", null ],
+    [ "~StatefulImage", "classArdourCanvas_1_1StatefulImage.html#a39d2e1bd1631af57b178f5c16fb12a72", null ],
+    [ "compute_bounding_box", "classArdourCanvas_1_1StatefulImage.html#a994cab8fdf7a934e7611f29b07abed00", null ],
+    [ "find_image", "classArdourCanvas_1_1StatefulImage.html#ad5fae64381010c94849f77f63935dedc", null ],
+    [ "load_states", "classArdourCanvas_1_1StatefulImage.html#ab5a87327b31b52cb5ea626126b06caf2", null ],
+    [ "render", "classArdourCanvas_1_1StatefulImage.html#a35aad05499c0de10667aa3d54e719672", null ],
+    [ "set_image_search_path", "classArdourCanvas_1_1StatefulImage.html#a98cc191f8afce6252cbbebbf4035e42c", null ],
+    [ "set_state", "classArdourCanvas_1_1StatefulImage.html#a7c2ae3386f2950827790c2c86104c642", null ],
+    [ "set_text", "classArdourCanvas_1_1StatefulImage.html#a267b6e3d5fb8c573f37e9a9dae6b6ed5", null ],
+    [ "_font", "classArdourCanvas_1_1StatefulImage.html#adc48bac2199c800c18971e4f79eed3e2", null ],
+    [ "_image_cache", "classArdourCanvas_1_1StatefulImage.html#af83665d33b35ed930ebb4ecd2019c141", null ],
+    [ "_image_search_path", "classArdourCanvas_1_1StatefulImage.html#a51985b6aeeb15db4c11ce075679c6b43", null ],
+    [ "_state", "classArdourCanvas_1_1StatefulImage.html#a8730d263ada62c6f0b4da0f74d3fac0d", null ],
+    [ "_states", "classArdourCanvas_1_1StatefulImage.html#afbd7ab73e69bc01139dcd26652968ee6", null ],
+    [ "_text", "classArdourCanvas_1_1StatefulImage.html#a7a8ec421b22c824ecf9ede5d88440753", null ],
+    [ "_text_color", "classArdourCanvas_1_1StatefulImage.html#aa36d68ae0034c721bf9dc129b7936bf5", null ],
+    [ "_text_x", "classArdourCanvas_1_1StatefulImage.html#a7cefd0994a127ff76f414ccdb8808890", null ],
+    [ "_text_y", "classArdourCanvas_1_1StatefulImage.html#a6534622c779d995d0d9bc62bf69ec8a2", null ]
+];

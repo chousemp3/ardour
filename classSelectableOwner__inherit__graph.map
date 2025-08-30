@@ -1,0 +1,37 @@
+<map id="SelectableOwner" name="SelectableOwner">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,177,137,203"/>
+<area shape="rect" id="Node000002" href="$classAutomationLine.html" title=" " alt="" coords="185,79,311,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,168,222,102,225,107,108,173"/>
+<area shape="rect" id="Node000008" href="$classStreamView.html" title=" " alt="" coords="197,177,299,203"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="151,187,197,187,197,193,151,193"/>
+<area shape="rect" id="Node000012" href="$classTimeAxisView.html" title=" " alt="" coords="191,276,305,301"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="108,207,225,273,222,278,106,212"/>
+<area shape="rect" id="Node000003" href="$classEditorAutomationLine.html" title=" " alt="" coords="373,29,535,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="314,73,399,52,401,57,315,78"/>
+<area shape="rect" id="Node000007" href="$classPianorollAutomationLine.html" title=" " alt="" coords="363,79,545,104"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="325,89,362,89,362,94,325,94"/>
+<area shape="rect" id="Node000004" href="$classMidiAutomationLine.html" title=" " alt="" coords="597,5,751,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="549,29,597,24,597,29,549,34"/>
+<area shape="rect" id="Node000005" href="$classRegionFxLine.html" title=" " alt="" coords="619,55,729,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="550,50,619,58,618,64,549,56"/>
+<area shape="rect" id="Node000006" href="$classAudioRegionGainLine.html" title=" " alt="" coords="799,55,960,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="743,65,798,65,798,70,743,70"/>
+<area shape="rect" id="Node000009" href="$classAudioStreamView.html" title=" " alt="" coords="385,128,523,153"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="311,172,400,151,401,156,313,177"/>
+<area shape="rect" id="Node000010" href="$classAutomationStreamView.html" title=" " alt="" coords="365,177,543,203"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="313,187,365,187,365,193,313,193"/>
+<area shape="rect" id="Node000011" href="$classMidiStreamView.html" title=" " alt="" coords="389,227,519,252"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="313,203,401,224,400,229,311,208"/>
+<area shape="rect" id="Node000013" href="$classAutomationTimeAxisView.html" title=" " alt="" coords="359,276,549,301"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="319,286,359,286,359,291,319,291"/>
+<area shape="rect" id="Node000014" href="$classStripableTimeAxisView.html" title=" " alt="" coords="367,325,541,351"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="315,302,401,323,399,328,314,307"/>
+<area shape="rect" id="Node000015" href="$classRouteTimeAxisView.html" title=" " alt="" coords="597,300,751,325"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="554,324,597,319,598,324,555,329"/>
+<area shape="rect" id="Node000018" href="$classVCATimeAxisView.html" title=" " alt="" coords="603,349,745,375"/>
+<area shape="poly" id="edge17_Node000014_Node000018" title=" " alt="" coords="555,346,603,352,603,357,555,352"/>
+<area shape="rect" id="Node000016" href="$classAudioTimeAxisView.html" title=" " alt="" coords="803,276,955,301"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="764,299,803,295,803,300,765,305"/>
+<area shape="rect" id="Node000017" href="$classMidiTimeAxisView.html" title=" " alt="" coords="808,325,951,351"/>
+<area shape="poly" id="edge16_Node000015_Node000017" title=" " alt="" coords="764,321,808,327,808,332,764,326"/>
+</map>

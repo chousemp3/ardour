@@ -1,0 +1,11 @@
+<map id="plugin_manager.h" name="plugin_manager.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="215,5,353,31"/>
+<area shape="rect" id="Node000002" href="$mixer__ui_8h.html" title=" " alt="" coords="5,79,96,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,37,89,81,88,76,233,32"/>
+<area shape="rect" id="Node000003" href="$plugin__manager__ui_8h.html" title=" " alt="" coords="121,79,279,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="262,42,215,80,212,76,258,38"/>
+<area shape="rect" id="Node000004" href="$plugin__selector_8h.html" title=" " alt="" coords="303,79,435,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="310,37,357,76,354,80,306,41"/>
+<area shape="rect" id="Node000005" href="$plugin__utils_8h.html" title=" " alt="" coords="460,79,569,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="335,32,478,76,477,81,334,37"/>
+</map>

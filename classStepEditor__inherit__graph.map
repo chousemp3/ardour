@@ -1,0 +1,7 @@
+<map id="StepEditor" name="StepEditor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="151,79,241,104"/>
+<area shape="rect" id="Node000002" href="$classPBD_1_1ScopedConnectionList.html" title=" " alt="" coords="5,5,205,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,37,183,76,180,81,129,41"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="230,5,346,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="264,41,213,81,209,76,261,37"/>
+</map>

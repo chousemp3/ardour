@@ -1,0 +1,15 @@
+<map id="AudioGrapher::SilenceTrimmer&lt; T &gt;" name="AudioGrapher::SilenceTrimmer&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Removes and adds silent samples to beginning and/or end of stream." alt="" coords="599,80,857,105"/>
+<area shape="rect" id="Node000002" href="$classAudioGrapher_1_1ListedSource.html" title="An generic Source that uses a std::list for managing outputs." alt="" coords="299,5,539,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="510,31,551,39,687,77,686,83,550,45,509,36"/>
+<area shape="rect" id="Node000003" href="$classAudioGrapher_1_1Source.html" title=" " alt="" coords="22,5,223,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="237,15,299,15,299,21,237,21"/>
+<area shape="rect" id="Node000004" href="$classAudioGrapher_1_1Sink.html" title=" " alt="" coords="327,55,512,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="526,73,599,79,598,85,525,79"/>
+<area shape="rect" id="Node000005" href="$classAudioGrapher_1_1FlagDebuggable.html" title="A debugging class for nodes that support a certain set of flags." alt="" coords="288,104,551,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="564,103,598,100,599,105,564,108"/>
+<area shape="rect" id="Node000006" href="$classAudioGrapher_1_1Debuggable.html" title=" " alt="" coords="5,104,240,129"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="254,114,288,114,288,119,254,119"/>
+<area shape="rect" id="Node000007" href="$classAudioGrapher_1_1Throwing.html" title=" " alt="" coords="311,153,527,179"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="509,148,550,139,685,103,686,108,551,145,510,153"/>
+</map>

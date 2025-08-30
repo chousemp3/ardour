@@ -1,0 +1,13 @@
+<map id="MetricMarker" name="MetricMarker">
+<area shape="rect" id="Node000001" title=" " alt="" coords="122,152,230,177"/>
+<area shape="rect" id="Node000004" href="$classBBTMarker.html" title=" " alt="" coords="5,225,99,251"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="146,186,74,227,71,223,143,182"/>
+<area shape="rect" id="Node000005" href="$classMeterMarker.html" title=" " alt="" coords="123,225,229,251"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="179,191,179,225,173,225,173,191"/>
+<area shape="rect" id="Node000006" href="$classTempoMarker.html" title=" " alt="" coords="253,225,363,251"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="210,181,288,223,285,227,208,186"/>
+<area shape="rect" id="Node000002" href="$classArdourMarker.html" title=" " alt="" coords="121,79,231,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,118,179,152,173,152,173,118"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="118,5,234,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="179,44,179,79,173,79,173,44"/>
+</map>

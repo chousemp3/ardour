@@ -1,0 +1,13 @@
+<map id="ArdourSurface::LaunchControlXL::Button" name="ArdourSurface::LaunchControlXL::Button">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,220,77"/>
+<area shape="rect" id="Node000002" href="$structArdourSurface_1_1LaunchControlXL_1_1ControllerButton.html" title=" " alt="" coords="268,5,483,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,40,267,36,268,41,234,45"/>
+<area shape="rect" id="Node000004" href="$structArdourSurface_1_1LaunchControlXL_1_1NoteButton.html" title=" " alt="" coords="268,69,483,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="234,69,268,74,267,79,233,75"/>
+<area shape="rect" id="Node000003" href="$structArdourSurface_1_1LaunchControlXL_1_1SelectButton.html" title=" " alt="" coords="531,5,745,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="496,23,530,23,530,28,496,28"/>
+<area shape="rect" id="Node000005" href="$structArdourSurface_1_1LaunchControlXL_1_1TrackButton.html" title=" " alt="" coords="531,69,745,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="496,87,530,87,530,92,496,92"/>
+<area shape="rect" id="Node000006" href="$structArdourSurface_1_1LaunchControlXL_1_1TrackStateButton.html" title=" " alt="" coords="531,133,745,173"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="472,110,556,131,555,136,471,115"/>
+</map>

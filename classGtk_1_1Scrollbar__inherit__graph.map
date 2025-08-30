@@ -1,0 +1,15 @@
+<map id="Gtk::Scrollbar" name="Gtk::Scrollbar">
+<area shape="rect" id="Node000001" title=" " alt="" coords="82,299,193,324"/>
+<area shape="rect" id="Node000006" href="$classGtk_1_1HScrollbar.html" title=" " alt="" coords="5,372,125,397"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="117,336,79,374,75,370,114,332"/>
+<area shape="rect" id="Node000007" href="$classGtk_1_1VScrollbar.html" title=" " alt="" coords="150,372,269,397"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="161,332,200,370,196,374,157,336"/>
+<area shape="rect" id="Node000002" href="$classGtk_1_1Range.html" title=" " alt="" coords="90,225,185,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,264,140,299,135,299,135,264"/>
+<area shape="rect" id="Node000003" href="$classGtk_1_1Widget.html" title=" " alt="" coords="88,152,187,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="140,191,140,225,135,225,135,191"/>
+<area shape="rect" id="Node000004" href="$classGtk_1_1Object.html" title=" " alt="" coords="90,79,185,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="140,118,140,152,135,152,135,118"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="88,5,187,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="140,44,140,79,135,79,135,44"/>
+</map>

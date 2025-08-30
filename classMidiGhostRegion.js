@@ -1,0 +1,25 @@
+var classMidiGhostRegion =
+[
+    [ "MidiGhostRegion", "classMidiGhostRegion.html#aae428b9b33a84099b36edc8d77599d0b", null ],
+    [ "~MidiGhostRegion", "classMidiGhostRegion.html#a9a46a982ae38ea1242c822c33620a6d9", null ],
+    [ "add_note", "classMidiGhostRegion.html#a8813fa1de2eaca49f593755d22c5f7ec", null ],
+    [ "clear_events", "classMidiGhostRegion.html#af588ae88e99fb80dad94755a4d2c8715", null ],
+    [ "find_event", "classMidiGhostRegion.html#acfdce054497012f1815204fe572a2408", null ],
+    [ "midi_view", "classMidiGhostRegion.html#a596499eb8de8a9fa4459f9cfe1de2885", null ],
+    [ "model_changed", "classMidiGhostRegion.html#ae738417dc594e69ea306b7796aa641bf", null ],
+    [ "note_selected", "classMidiGhostRegion.html#a15eab89f6727ea228f3837cbda9dbe6f", null ],
+    [ "remove_note", "classMidiGhostRegion.html#ae02d1c843625dcb86989dc4fadc692ce", null ],
+    [ "set_colors", "classMidiGhostRegion.html#acfa51b2536e1572c8e0d57eff8f7bde3", null ],
+    [ "set_height", "classMidiGhostRegion.html#a3d11d3c9d68865c4a1f07c3565f0e67b", null ],
+    [ "set_samples_per_pixel", "classMidiGhostRegion.html#ada7ea464f3ae799519ecdaa01466c505", null ],
+    [ "update_contents_height", "classMidiGhostRegion.html#a20cd123e63970817d578531f09cd94b2", null ],
+    [ "update_hit", "classMidiGhostRegion.html#a0a9d9519acab736c905015a866be2046", null ],
+    [ "update_note", "classMidiGhostRegion.html#a384d83231f21721be89051a9c2f625f0", null ],
+    [ "view_changed", "classMidiGhostRegion.html#a7697d63f4b6149a956fbb1f301cefca1", null ],
+    [ "_note_group", "classMidiGhostRegion.html#a2bd39823205c205156bf7bce289cf357", null ],
+    [ "_outline", "classMidiGhostRegion.html#a54546d5e005bc6237c477660c1bd25c0", null ],
+    [ "_tmp_poly", "classMidiGhostRegion.html#a26401705c6507ed67ebea9b02704a940", null ],
+    [ "_tmp_rect", "classMidiGhostRegion.html#a05da5c6dd6adc0612fafbaa5d4414224", null ],
+    [ "events", "classMidiGhostRegion.html#a62aea12f77aa3f2a93cc37b8f15874ac", null ],
+    [ "parent_mrv", "classMidiGhostRegion.html#ada5c35bbaf1f51acde034a7812205d60", null ]
+];

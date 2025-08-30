@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classARDOUR_1_1Buffer.html" title=" " alt="" coords="15,5,142,31"/>
+<area shape="rect" id="Node000001" href="$classARDOUR_1_1AudioBuffer.html" title=" " alt="" coords="200,5,363,31"/>
+<area shape="poly" id="edge28_Node000000_Node000001" title=" " alt="" coords="156,15,200,15,200,21,156,21"/>
+<area shape="rect" id="Node000002" href="$classARDOUR_1_1MidiBuffer.html" title=" " alt="" coords="204,59,359,84"/>
+<area shape="poly" id="edge29_Node000000_Node000002" title=" " alt="" coords="142,32,233,56,232,61,140,37"/>
+<area shape="rect" id="Node000003" href="$classEvoral_1_1EventSink.html" title=" " alt="" coords="5,55,152,95"/>
+<area shape="poly" id="edge30_Node000003_Node000002" title=" " alt="" coords="166,71,204,70,204,76,166,76"/>
+</map>

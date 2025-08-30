@@ -1,0 +1,205 @@
+<map id="graphnode.h" name="graphnode.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1295,5,1397,31"/>
+<area shape="rect" id="Node000002" href="$io__plug_8h.html" title=" " alt="" coords="1207,79,1288,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1321,41,1265,81,1262,76,1318,36"/>
+<area shape="rect" id="Node000003" href="$route_8h.html" title=" " alt="" coords="1312,79,1380,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1349,44,1349,79,1343,79,1343,44"/>
+<area shape="rect" id="Node000085" href="$rt__task_8h.html" title=" " alt="" coords="2527,79,2605,104"/>
+<area shape="poly" id="edge116_Node000001_Node000085" title=" " alt="" coords="1412,20,2527,85,2526,90,1411,26"/>
+<area shape="rect" id="Node000004" href="$patch__change__widget_8h.html" title=" " alt="" coords="3385,152,3560,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1394,90,1686,91,2171,99,2762,116,3070,131,3373,149,3385,150,3385,156,3372,155,3070,136,2762,122,2171,104,1686,97,1394,95"/>
+<area shape="rect" id="Node000006" href="$plugin__pin__dialog_8h.html" title=" " alt="" coords="5,152,153,177"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="1299,106,1127,127,980,137,851,141,730,140,482,139,336,143,165,155,154,156,153,150,164,149,336,138,482,133,731,135,851,135,980,132,1126,121,1298,101"/>
+<area shape="rect" id="Node000007" href="$plugin__setup__dialog_8h.html" title=" " alt="" coords="177,152,341,177"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="1299,106,1155,124,1033,134,825,140,618,141,497,145,354,155,342,156,341,151,354,149,496,140,618,135,825,134,1033,129,1155,119,1298,101"/>
+<area shape="rect" id="Node000008" href="$processor__box_8h.html" title=" " alt="" coords="579,387,707,412"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="1300,107,877,215,664,276,594,300,564,315,560,325,560,334,572,353,594,370,619,384,616,389,591,375,568,357,555,335,554,324,560,311,592,295,663,271,876,210,1298,102"/>
+<area shape="rect" id="Node000016" href="$route__comment__editor_8h.html" title=" " alt="" coords="1255,152,1437,177"/>
+<area shape="poly" id="edge15_Node000003_Node000016" title=" " alt="" coords="1349,118,1349,152,1343,152,1343,118"/>
+<area shape="rect" id="Node000017" href="$route__ui_8h.html" title=" " alt="" coords="1175,233,1261,258"/>
+<area shape="poly" id="edge60_Node000003_Node000017" title=" " alt="" coords="1302,112,1271,129,1245,154,1234,173,1227,195,1221,233,1216,232,1222,194,1229,171,1241,150,1268,125,1299,107"/>
+<area shape="rect" id="Node000046" href="$route__list__base_8h.html" title=" " alt="" coords="366,152,499,177"/>
+<area shape="poly" id="edge56_Node000003_Node000046" title=" " alt="" coords="1299,106,1180,122,1079,131,907,137,736,140,518,155,500,157,499,151,518,149,735,135,907,132,1079,126,1180,116,1298,101"/>
+<area shape="rect" id="Node000049" href="$session_8h.html" title=" " alt="" coords="1971,152,2054,177"/>
+<area shape="poly" id="edge61_Node000003_Node000049" title=" " alt="" coords="1394,95,1971,156,1971,162,1394,100"/>
+<area shape="rect" id="Node000075" href="$session__route_8h.html" title=" " alt="" coords="3129,233,3253,258"/>
+<area shape="poly" id="edge109_Node000003_Node000075" title=" " alt="" coords="1394,91,1655,97,2079,117,2329,134,2591,156,2857,186,3117,223,3152,230,3151,235,3116,228,2856,191,2590,162,2328,139,2079,122,1655,103,1394,96"/>
+<area shape="rect" id="Node000080" href="$track_8h.html" title=" " alt="" coords="3294,152,3361,177"/>
+<area shape="poly" id="edge110_Node000003_Node000080" title=" " alt="" coords="1394,92,3294,159,3294,165,1394,97"/>
+<area shape="rect" id="Node000005" href="$slot__properties__box_8h.html" title=" " alt="" coords="3881,233,4043,258"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="3571,177,3869,223,3908,230,3907,235,3868,228,3570,182"/>
+<area shape="rect" id="Node000009" href="$foldback__strip_8h.html" title=" " alt="" coords="597,460,724,485"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="652,425,660,459,655,461,647,426"/>
+<area shape="rect" id="Node000010" href="$mixer__strip_8h.html" title=" " alt="" coords="299,460,406,485"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="584,418,400,462,399,457,583,413"/>
+<area shape="rect" id="Node000012" href="$monitor__section_8h.html" title=" " alt="" coords="749,460,887,485"/>
+<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="685,415,790,457,788,462,683,420"/>
+<area shape="rect" id="Node000014" href="$route__params__ui_8h.html" title=" " alt="" coords="431,460,573,485"/>
+<area shape="poly" id="edge13_Node000008_Node000014" title=" " alt="" coords="610,420,526,462,524,457,607,416"/>
+<area shape="rect" id="Node000015" href="$trigger__strip_8h.html" title=" " alt="" coords="912,460,1025,485"/>
+<area shape="poly" id="edge14_Node000008_Node000015" title=" " alt="" coords="709,412,917,457,915,462,708,418"/>
+<area shape="rect" id="Node000011" href="$strip__selection_8h.html" title=" " alt="" coords="300,533,429,559"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="360,499,365,533,360,534,354,500"/>
+<area shape="rect" id="Node000013" href="$mixer__ui_8h.html" title=" " alt="" coords="773,533,863,559"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="821,499,821,533,815,533,815,499"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="1317,187,1238,235,1236,230,1314,182"/>
+<area shape="poly" id="edge37_Node000017_Node000009" title=" " alt="" coords="1161,254,968,275,872,293,834,304,806,316,777,337,760,359,744,384,721,414,674,462,671,458,717,410,740,381,756,356,774,333,803,311,832,299,871,288,968,270,1160,248"/>
+<area shape="poly" id="edge44_Node000017_Node000010" title=" " alt="" coords="1161,254,984,275,876,292,768,316,711,332,667,349,568,389,382,462,380,457,566,384,665,344,709,327,767,311,875,287,984,269,1161,249"/>
+<area shape="poly" id="edge45_Node000017_Node000012" title=" " alt="" coords="1161,251,1073,255,973,266,883,286,849,299,827,315,816,332,809,350,805,391,809,430,817,459,812,460,804,431,799,391,803,349,811,329,823,311,846,294,881,280,972,261,1073,250,1161,245"/>
+<area shape="poly" id="edge55_Node000017_Node000015" title=" " alt="" coords="1162,254,1126,261,1087,273,1050,290,1019,315,994,351,980,392,973,431,971,460,966,459,968,430,975,391,990,349,1015,312,1048,286,1085,268,1124,256,1161,249"/>
+<area shape="rect" id="Node000018" href="$audio__time__axis_8h.html" title=" " alt="" coords="1073,387,1214,412"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="1275,253,1324,265,1368,283,1384,294,1394,308,1396,323,1388,341,1364,353,1318,366,1207,389,1206,384,1317,361,1362,348,1384,337,1391,322,1389,310,1380,298,1365,288,1322,270,1274,259"/>
+<area shape="rect" id="Node000019" href="$track__view__list_8h.html" title=" " alt="" coords="1077,533,1209,559"/>
+<area shape="poly" id="edge54_Node000017_Node000019" title=" " alt="" coords="1162,257,1135,265,1107,277,1083,293,1063,315,1051,344,1049,374,1055,406,1068,437,1103,493,1134,531,1130,535,1098,496,1063,440,1050,407,1044,375,1045,342,1058,312,1079,289,1105,272,1133,260,1161,252"/>
+<area shape="rect" id="Node000037" href="$meter__strip_8h.html" title=" " alt="" coords="837,313,946,339"/>
+<area shape="poly" id="edge38_Node000017_Node000037" title=" " alt="" coords="1162,263,940,316,939,311,1161,258"/>
+<area shape="rect" id="Node000039" href="$midi__time__axis_8h.html" title=" " alt="" coords="1321,460,1456,485"/>
+<area shape="poly" id="edge40_Node000017_Node000039" title=" " alt="" coords="1275,247,1311,253,1349,265,1384,284,1412,312,1418,326,1412,340,1397,356,1380,363,1343,365,1308,367,1293,374,1279,388,1274,399,1275,409,1281,419,1290,428,1319,445,1350,457,1348,462,1316,450,1287,433,1276,423,1270,411,1269,398,1274,385,1290,370,1307,362,1343,360,1378,358,1394,351,1408,337,1412,326,1408,315,1381,288,1347,270,1310,258,1274,252"/>
+<area shape="rect" id="Node000041" href="$route__time__axis_8h.html" title=" " alt="" coords="1499,313,1638,339"/>
+<area shape="poly" id="edge46_Node000017_Node000041" title=" " alt="" coords="1275,257,1518,311,1517,316,1274,262"/>
+<area shape="rect" id="Node000044" href="$surround__strip_8h.html" title=" " alt="" coords="1073,313,1200,339"/>
+<area shape="poly" id="edge52_Node000017_Node000044" title=" " alt="" coords="1198,269,1151,315,1147,311,1194,266"/>
+<area shape="rect" id="Node000045" href="$track__record__axis_8h.html" title=" " alt="" coords="1225,313,1374,339"/>
+<area shape="poly" id="edge53_Node000017_Node000045" title=" " alt="" coords="1242,266,1289,311,1285,315,1238,269"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="1146,426,1146,533,1141,533,1141,426"/>
+<area shape="rect" id="Node000020" href="$track__selection_8h.html" title=" " alt="" coords="1077,607,1210,632"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="1146,572,1146,607,1141,607,1141,572"/>
+<area shape="rect" id="Node000021" href="$editor__drag_8h.html" title=" " alt="" coords="1027,680,1135,705"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="1126,644,1093,682,1089,678,1122,641"/>
+<area shape="rect" id="Node000022" href="$gtk2__ardour_2selection_8h.html" title=" " alt="" coords="1159,680,1253,705"/>
+<area shape="poly" id="edge21_Node000020_Node000022" title=" " alt="" coords="1165,641,1198,678,1194,682,1161,644"/>
+<area shape="rect" id="Node000023" href="$editing__context_8h.html" title=" " alt="" coords="976,753,1111,779"/>
+<area shape="poly" id="edge22_Node000022_Node000023" title=" " alt="" coords="1168,713,1071,756,1069,751,1166,708"/>
+<area shape="rect" id="Node000028" href="$public__editor_8h.html" title=" " alt="" coords="1209,827,1326,852"/>
+<area shape="poly" id="edge35_Node000022_Node000028" title=" " alt="" coords="1223,715,1243,752,1258,792,1267,825,1262,827,1253,794,1238,754,1219,718"/>
+<area shape="rect" id="Node000035" href="$gtk2__ardour_2keyboard_8h.html" title=" " alt="" coords="1135,753,1229,779"/>
+<area shape="poly" id="edge34_Node000022_Node000035" title=" " alt="" coords="1200,719,1188,754,1183,752,1195,717"/>
+<area shape="rect" id="Node000036" href="$selection__templates_8h.html" title=" " alt="" coords="1305,753,1472,779"/>
+<area shape="poly" id="edge36_Node000022_Node000036" title=" " alt="" coords="1249,708,1360,751,1358,756,1247,713"/>
+<area shape="rect" id="Node000024" href="$cue__editor_8h.html" title=" " alt="" coords="646,827,747,852"/>
+<area shape="poly" id="edge23_Node000023_Node000024" title=" " alt="" coords="975,784,748,830,747,825,974,779"/>
+<area shape="poly" id="edge27_Node000023_Node000028" title=" " alt="" coords="1093,780,1232,824,1230,829,1091,785"/>
+<area shape="rect" id="Node000025" href="$audio__clip__editor_8h.html" title=" " alt="" coords="625,907,769,933"/>
+<area shape="poly" id="edge24_Node000024_Node000025" title=" " alt="" coords="699,866,699,907,694,907,694,866"/>
+<area shape="rect" id="Node000027" href="$pianoroll_8h.html" title=" " alt="" coords="510,907,601,933"/>
+<area shape="poly" id="edge26_Node000024_Node000027" title=" " alt="" coords="665,861,578,909,575,905,663,856"/>
+<area shape="rect" id="Node000026" href="$trigger__page_8h.html" title=" " alt="" coords="464,988,580,1013"/>
+<area shape="poly" id="edge25_Node000025_Node000026" title=" " alt="" coords="660,941,549,990,546,986,658,936"/>
+<area shape="rect" id="Node000029" href="$editor_8h.html" title=" " alt="" coords="1375,907,1445,933"/>
+<area shape="poly" id="edge28_Node000028_Node000029" title=" " alt="" coords="1302,856,1390,905,1388,909,1299,861"/>
+<area shape="rect" id="Node000030" href="$export__dialog_8h.html" title=" " alt="" coords="1782,907,1905,933"/>
+<area shape="poly" id="edge29_Node000028_Node000030" title=" " alt="" coords="1340,848,1782,908,1782,913,1339,853"/>
+<area shape="rect" id="Node000031" href="$insert__remove__time__dialog_8h.html" title=" " alt="" coords="824,900,977,940"/>
+<area shape="poly" id="edge30_Node000028_Node000031" title=" " alt="" coords="1201,857,978,905,977,900,1200,852"/>
+<area shape="rect" id="Node000032" href="$midi__export__dialog_8h.html" title=" " alt="" coords="1001,907,1160,933"/>
+<area shape="poly" id="edge31_Node000028_Node000032" title=" " alt="" coords="1229,860,1109,910,1107,905,1227,855"/>
+<area shape="rect" id="Node000033" href="$simple__export__dialog_8h.html" title=" " alt="" coords="1469,907,1644,933"/>
+<area shape="poly" id="edge32_Node000028_Node000033" title=" " alt="" coords="1323,853,1515,905,1514,910,1322,858"/>
+<area shape="rect" id="Node000034" href="$tempo__map__change_8h.html" title=" " alt="" coords="1184,907,1351,933"/>
+<area shape="poly" id="edge33_Node000028_Node000034" title=" " alt="" coords="1270,866,1270,907,1265,907,1265,866"/>
+<area shape="rect" id="Node000038" href="$meterbridge_8h.html" title=" " alt="" coords="833,387,947,412"/>
+<area shape="poly" id="edge39_Node000037_Node000038" title=" " alt="" coords="894,353,893,387,888,386,888,352"/>
+<area shape="poly" id="edge43_Node000039_Node000019" title=" " alt="" coords="1337,492,1184,536,1182,531,1336,487"/>
+<area shape="rect" id="Node000040" href="$midi__region__view_8h.html" title=" " alt="" coords="1315,607,1463,632"/>
+<area shape="poly" id="edge41_Node000039_Node000040" title=" " alt="" coords="1391,499,1391,606,1386,606,1386,499"/>
+<area shape="poly" id="edge42_Node000040_Node000036" title=" " alt="" coords="1391,646,1391,753,1386,753,1386,646"/>
+<area shape="poly" id="edge47_Node000041_Node000018" title=" " alt="" coords="1487,344,1212,389,1211,384,1486,338"/>
+<area shape="poly" id="edge51_Node000041_Node000039" title=" " alt="" coords="1613,342,1639,356,1660,372,1672,392,1671,403,1665,414,1652,425,1631,435,1578,451,1516,462,1457,469,1456,464,1516,457,1577,446,1630,430,1649,421,1661,410,1666,401,1667,393,1656,376,1636,360,1611,347"/>
+<area shape="rect" id="Node000042" href="$automation__streamview_8h.html" title=" " alt="" coords="1289,387,1481,412"/>
+<area shape="poly" id="edge48_Node000041_Node000042" title=" " alt="" coords="1527,346,1416,389,1414,384,1525,341"/>
+<area shape="rect" id="Node000043" href="$midi__streamview_8h.html" title=" " alt="" coords="1505,387,1651,412"/>
+<area shape="poly" id="edge49_Node000041_Node000043" title=" " alt="" coords="1575,352,1579,386,1574,387,1569,353"/>
+<area shape="poly" id="edge50_Node000043_Node000039" title=" " alt="" coords="1536,419,1421,462,1419,457,1534,414"/>
+<area shape="rect" id="Node000047" href="$editor__routes_8h.html" title=" " alt="" coords="373,233,493,258"/>
+<area shape="poly" id="edge57_Node000046_Node000047" title=" " alt="" coords="435,191,435,232,430,232,430,191"/>
+<area shape="rect" id="Node000048" href="$trigger__route__list_8h.html" title=" " alt="" coords="213,607,359,632"/>
+<area shape="poly" id="edge58_Node000046_Node000048" title=" " alt="" coords="392,185,351,207,309,238,292,257,277,277,268,300,265,325,265,474,273,549,285,606,280,607,267,550,259,474,259,324,263,299,273,275,287,253,306,234,348,203,390,180"/>
+<area shape="poly" id="edge59_Node000048_Node000026" title=" " alt="" coords="320,637,350,659,380,688,403,724,410,744,413,765,413,841,415,864,423,887,448,928,480,962,508,986,504,990,476,966,444,932,418,889,410,865,407,841,407,765,405,745,399,726,376,692,347,663,317,642"/>
+<area shape="poly" id="edge99_Node000049_Node000017" title=" " alt="" coords="1958,174,1262,242,1261,237,1957,169"/>
+<area shape="rect" id="Node000050" href="$component_8h.html" title=" " alt="" coords="1869,233,1975,258"/>
+<area shape="poly" id="edge62_Node000049_Node000050" title=" " alt="" coords="1991,188,1937,234,1934,230,1987,184"/>
+<area shape="rect" id="Node000057" href="$export__handler_8h.html" title=" " alt="" coords="2246,607,2377,632"/>
+<area shape="poly" id="edge75_Node000049_Node000057" title=" " alt="" coords="2015,191,2020,229,2028,248,2040,263,2070,285,2100,295,2130,296,2160,293,2191,289,2224,288,2258,294,2294,311,2321,328,2341,346,2354,368,2358,398,2358,474,2354,513,2343,551,2320,607,2315,605,2338,550,2348,512,2353,474,2353,398,2349,369,2337,349,2318,333,2291,316,2256,299,2223,294,2192,295,2161,299,2130,302,2099,300,2068,290,2036,267,2023,250,2015,230,2009,192"/>
+<area shape="rect" id="Node000067" href="$lua__api_8h.html" title=" " alt="" coords="863,233,944,258"/>
+<area shape="poly" id="edge93_Node000049_Node000067" title=" " alt="" coords="1958,172,1162,228,944,244,944,238,1162,223,1957,167"/>
+<area shape="rect" id="Node000069" href="$midi__automation__list__binder_8h.html" title=" " alt="" coords="2050,225,2210,265"/>
+<area shape="poly" id="edge96_Node000049_Node000069" title=" " alt="" coords="2043,183,2103,223,2100,227,2040,187"/>
+<area shape="rect" id="Node000070" href="$osc__global__observer_8h.html" title=" " alt="" coords="2235,233,2401,258"/>
+<area shape="poly" id="edge97_Node000049_Node000070" title=" " alt="" coords="2068,177,2274,230,2273,235,2067,183"/>
+<area shape="rect" id="Node000071" href="$pt__import__selector_8h.html" title=" " alt="" coords="2426,233,2581,258"/>
+<area shape="poly" id="edge98_Node000049_Node000071" title=" " alt="" coords="2068,171,2224,192,2413,223,2451,230,2450,235,2412,228,2223,198,2068,176"/>
+<area shape="rect" id="Node000072" href="$rt__safe__delete_8h.html" title=" " alt="" coords="2605,233,2732,258"/>
+<area shape="poly" id="edge100_Node000049_Node000072" title=" " alt="" coords="2068,166,2298,185,2445,201,2593,223,2627,230,2626,235,2592,228,2444,206,2297,190,2068,172"/>
+<area shape="rect" id="Node000073" href="$session__archive__dialog_8h.html" title=" " alt="" coords="2756,233,2941,258"/>
+<area shape="poly" id="edge101_Node000049_Node000073" title=" " alt="" coords="2068,166,2357,185,2549,201,2744,223,2791,230,2790,235,2743,228,2549,206,2357,190,2067,171"/>
+<area shape="rect" id="Node000074" href="$session__playlist_8h.html" title=" " alt="" coords="2966,233,3105,258"/>
+<area shape="poly" id="edge102_Node000049_Node000074" title=" " alt="" coords="2068,164,2221,167,2440,176,2694,194,2953,223,2991,230,2990,235,2952,228,2694,199,2439,181,2220,172,2068,169"/>
+<area shape="poly" id="edge103_Node000049_Node000075" title=" " alt="" coords="2068,163,2244,163,2504,170,2807,188,2964,203,3117,223,3152,230,3151,235,3116,228,2963,208,2807,193,2503,175,2244,168,2068,168"/>
+<area shape="rect" id="Node000076" href="$srcfilesource_8h.html" title=" " alt="" coords="1527,233,1643,258"/>
+<area shape="poly" id="edge104_Node000049_Node000076" title=" " alt="" coords="1958,176,1820,197,1655,228,1625,235,1623,230,1653,223,1819,192,1957,171"/>
+<area shape="rect" id="Node000077" href="$video__monitor_8h.html" title=" " alt="" coords="1667,233,1793,258"/>
+<area shape="poly" id="edge105_Node000049_Node000077" title=" " alt="" coords="1959,183,1772,235,1770,230,1958,178"/>
+<area shape="rect" id="Node000078" href="$video__timeline_8h.html" title=" " alt="" coords="1709,313,1839,339"/>
+<area shape="poly" id="edge108_Node000049_Node000078" title=" " alt="" coords="1959,182,1908,200,1858,228,1834,249,1812,273,1783,315,1779,312,1808,269,1830,245,1855,223,1906,195,1957,177"/>
+<area shape="rect" id="Node000051" href="$ardour__websockets_8h.html" title=" " alt="" coords="2063,460,2221,485"/>
+<area shape="poly" id="edge63_Node000050_Node000051" title=" " alt="" coords="1978,259,1994,263,2057,269,2139,274,2218,285,2249,296,2271,312,2279,333,2277,359,2268,387,2252,414,2236,430,2218,443,2180,462,2178,457,2215,439,2233,426,2248,410,2263,385,2272,358,2274,333,2267,315,2247,301,2217,290,2139,279,2057,274,1994,268,1976,264"/>
+<area shape="rect" id="Node000052" href="$dispatcher_8h.html" title=" " alt="" coords="1846,387,1947,412"/>
+<area shape="poly" id="edge64_Node000050_Node000052" title=" " alt="" coords="1920,272,1901,387,1896,386,1915,271"/>
+<area shape="rect" id="Node000053" href="$feedback_8h.html" title=" " alt="" coords="1972,387,2067,412"/>
+<area shape="poly" id="edge66_Node000050_Node000053" title=" " alt="" coords="1936,269,1975,337,2012,385,2007,388,1970,340,1931,272"/>
+<area shape="rect" id="Node000054" href="$mixer_8h.html" title=" " alt="" coords="1985,313,2056,339"/>
+<area shape="poly" id="edge68_Node000050_Node000054" title=" " alt="" coords="1949,265,2008,311,2004,315,1946,269"/>
+<area shape="rect" id="Node000055" href="$server_8h.html" title=" " alt="" coords="2142,387,2217,412"/>
+<area shape="poly" id="edge71_Node000050_Node000055" title=" " alt="" coords="1965,261,2016,283,2069,311,2125,350,2168,384,2165,389,2122,354,2066,316,2013,288,1963,266"/>
+<area shape="rect" id="Node000056" href="$transport_8h.html" title=" " alt="" coords="2163,313,2257,339"/>
+<area shape="poly" id="edge73_Node000050_Node000056" title=" " alt="" coords="1978,259,2169,311,2167,316,1976,264"/>
+<area shape="poly" id="edge65_Node000052_Node000051" title=" " alt="" coords="1950,413,2103,457,2102,462,1948,418"/>
+<area shape="poly" id="edge67_Node000053_Node000051" title=" " alt="" coords="2052,416,2123,457,2121,462,2049,421"/>
+<area shape="poly" id="edge69_Node000054_Node000051" title=" " alt="" coords="2044,347,2080,385,2136,458,2132,461,2076,388,2040,350"/>
+<area shape="poly" id="edge70_Node000054_Node000053" title=" " alt="" coords="2023,353,2022,387,2017,386,2018,352"/>
+<area shape="poly" id="edge72_Node000055_Node000051" title=" " alt="" coords="2169,425,2150,461,2146,459,2165,423"/>
+<area shape="poly" id="edge74_Node000056_Node000051" title=" " alt="" coords="2226,350,2236,381,2236,397,2231,413,2220,430,2205,443,2173,462,2170,458,2202,439,2216,426,2226,411,2231,397,2230,381,2221,352"/>
+<area shape="rect" id="Node000058" href="$export__graph__builder_8h.html" title=" " alt="" coords="2386,680,2557,705"/>
+<area shape="poly" id="edge76_Node000057_Node000058" title=" " alt="" coords="2350,635,2446,677,2444,682,2348,640"/>
+<area shape="rect" id="Node000059" href="$export__profile__manager_8h.html" title=" " alt="" coords="1936,680,2124,705"/>
+<area shape="poly" id="edge77_Node000057_Node000059" title=" " alt="" coords="2254,638,2076,682,2075,677,2252,633"/>
+<area shape="rect" id="Node000066" href="$soundcloud__upload_8h.html" title=" " alt="" coords="2203,680,2361,705"/>
+<area shape="poly" id="edge92_Node000057_Node000066" title=" " alt="" coords="2304,646,2289,681,2284,679,2299,644"/>
+<area shape="poly" id="edge80_Node000059_Node000030" title=" " alt="" coords="2014,718,1855,909,1851,905,2010,714"/>
+<area shape="rect" id="Node000060" href="$export__channel__selector_8h.html" title=" " alt="" coords="1950,827,2142,852"/>
+<area shape="poly" id="edge78_Node000059_Node000060" title=" " alt="" coords="2034,719,2039,778,2047,826,2041,827,2034,779,2029,719"/>
+<area shape="rect" id="Node000061" href="$export__file__notebook_8h.html" title=" " alt="" coords="2166,827,2337,852"/>
+<area shape="poly" id="edge81_Node000059_Node000061" title=" " alt="" coords="2041,717,2057,748,2081,777,2105,793,2131,806,2185,824,2184,829,2129,811,2102,798,2078,781,2053,751,2036,720"/>
+<area shape="rect" id="Node000062" href="$export__filename__selector_8h.html" title=" " alt="" coords="2092,753,2291,779"/>
+<area shape="poly" id="edge83_Node000059_Node000062" title=" " alt="" coords="2069,708,2166,751,2164,756,2067,713"/>
+<area shape="rect" id="Node000063" href="$export__format__selector_8h.html" title=" " alt="" coords="2315,753,2500,779"/>
+<area shape="poly" id="edge85_Node000059_Node000063" title=" " alt="" coords="2104,705,2347,751,2346,756,2103,710"/>
+<area shape="rect" id="Node000064" href="$export__preset__selector_8h.html" title=" " alt="" coords="1465,827,1648,852"/>
+<area shape="poly" id="edge87_Node000059_Node000064" title=" " alt="" coords="1980,712,1595,829,1593,824,1978,707"/>
+<area shape="rect" id="Node000065" href="$export__timespan__selector_8h.html" title=" " alt="" coords="1673,827,1875,852"/>
+<area shape="poly" id="edge90_Node000059_Node000065" title=" " alt="" coords="1987,713,1895,756,1836,794,1790,829,1787,824,1833,790,1893,751,1985,708"/>
+<area shape="poly" id="edge79_Node000060_Node000030" title=" " alt="" coords="2005,859,1874,910,1872,905,2003,854"/>
+<area shape="poly" id="edge82_Node000061_Node000030" title=" " alt="" coords="2179,857,1903,910,1902,905,2178,852"/>
+<area shape="poly" id="edge84_Node000062_Node000061" title=" " alt="" coords="2212,788,2244,825,2240,828,2208,791"/>
+<area shape="poly" id="edge86_Node000063_Node000061" title=" " alt="" coords="2371,787,2278,829,2276,824,2369,782"/>
+<area shape="poly" id="edge88_Node000064_Node000030" title=" " alt="" coords="1612,853,1802,905,1801,910,1611,858"/>
+<area shape="poly" id="edge89_Node000064_Node000033" title=" " alt="" coords="1559,866,1559,907,1554,907,1554,866"/>
+<area shape="poly" id="edge91_Node000065_Node000030" title=" " alt="" coords="1795,861,1835,905,1831,909,1791,864"/>
+<area shape="rect" id="Node000068" href="$luaproc_8h.html" title=" " alt="" coords="574,313,657,339"/>
+<area shape="poly" id="edge94_Node000067_Node000068" title=" " alt="" coords="850,264,658,316,656,311,848,259"/>
+<area shape="poly" id="edge95_Node000068_Node000008" title=" " alt="" coords="627,351,641,386,636,388,623,353"/>
+<area shape="poly" id="edge106_Node000077_Node000078" title=" " alt="" coords="1746,269,1770,312,1765,314,1741,271"/>
+<area shape="rect" id="Node000079" href="$ardour__ui_8h.html" title=" " alt="" coords="1727,387,1821,412"/>
+<area shape="poly" id="edge107_Node000078_Node000079" title=" " alt="" coords="1777,352,1777,387,1771,387,1771,352"/>
+<area shape="poly" id="edge115_Node000080_Node000017" title=" " alt="" coords="3280,170,2582,188,2057,205,1514,228,1262,243,1261,238,1514,223,2057,200,2582,183,3280,164"/>
+<area shape="rect" id="Node000081" href="$audio__track_8h.html" title=" " alt="" coords="3745,233,3856,258"/>
+<area shape="poly" id="edge111_Node000080_Node000081" title=" " alt="" coords="3375,175,3476,190,3556,198,3634,206,3733,223,3763,230,3762,235,3732,228,3634,211,3555,203,3475,196,3374,180"/>
+<area shape="rect" id="Node000082" href="$auditioner_8h.html" title=" " alt="" coords="3278,233,3377,258"/>
+<area shape="poly" id="edge112_Node000080_Node000082" title=" " alt="" coords="3330,191,3330,232,3325,232,3325,191"/>
+<area shape="rect" id="Node000083" href="$midi__track_8h.html" title=" " alt="" coords="3401,233,3504,258"/>
+<area shape="poly" id="edge113_Node000080_Node000083" title=" " alt="" coords="3359,182,3436,230,3433,235,3356,187"/>
+<area shape="rect" id="Node000084" href="$route__group__specialized_8h.html" title=" " alt="" coords="3529,233,3721,258"/>
+<area shape="poly" id="edge114_Node000080_Node000084" title=" " alt="" coords="3375,176,3582,230,3581,235,3373,181"/>
+<area shape="rect" id="Node000086" href="$rt__tasklist_8h.html" title=" " alt="" coords="3585,152,3683,177"/>
+<area shape="poly" id="edge117_Node000085_Node000086" title=" " alt="" coords="2619,91,2781,95,3016,105,3292,122,3573,149,3585,151,3584,156,3572,155,3292,127,3016,110,2780,100,2619,96"/>
+</map>

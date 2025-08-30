@@ -1,0 +1,15 @@
+<map id="VideoTimeLine" name="VideoTimeLine">
+<area shape="rect" id="Node000001" title="video&#45;timline controller and display" alt="" coords="439,80,557,105"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="232,5,348,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="362,30,392,39,436,58,475,78,472,82,434,63,390,45,360,35"/>
+<area shape="rect" id="Node000003" href="$classARDOUR_1_1SessionHandlePtr.html" title=" " alt="" coords="189,55,391,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="405,79,438,83,438,88,404,84"/>
+<area shape="rect" id="Node000004" href="$classPBD_1_1ScopedConnectionList.html" title=" " alt="" coords="190,104,390,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="404,101,438,97,439,102,404,106"/>
+<area shape="rect" id="Node000005" href="$classPBD_1_1StatefulDestructible.html" title=" " alt="" coords="197,153,383,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="361,147,390,138,471,103,473,108,392,143,363,152"/>
+<area shape="rect" id="Node000006" href="$classPBD_1_1Stateful.html" title=" " alt="" coords="19,128,127,153"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="141,146,197,152,196,158,141,151"/>
+<area shape="rect" id="Node000007" href="$classPBD_1_1Destructible.html" title=" " alt="" coords="5,177,141,203"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="155,178,196,174,197,179,156,184"/>
+</map>

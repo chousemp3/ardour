@@ -1,0 +1,15 @@
+<map id="button.h" name="button.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="163,5,239,31"/>
+<area shape="rect" id="Node000002" href="$us2400_2device__info_8h.html" title=" " alt="" coords="5,79,115,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,39,84,81,82,76,165,34"/>
+<area shape="rect" id="Node000005" href="$us2400_2device__profile_8h.html" title=" " alt="" coords="139,79,264,104"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="204,44,204,79,199,79,199,44"/>
+<area shape="rect" id="Node000006" href="$us2400_2gui_8h.html" title=" " alt="" coords="289,79,343,104"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="233,35,299,76,296,81,230,40"/>
+<area shape="rect" id="Node000003" href="$us2400_2strip_8h.html" title=" " alt="" coords="95,225,158,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="68,117,89,176,120,224,115,226,84,179,63,118"/>
+<area shape="rect" id="Node000004" href="$us2400__control__protocol_8h.html" title=" " alt="" coords="98,152,291,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="95,108,174,149,171,154,92,113"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="176,189,140,227,136,223,172,185"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="202,118,198,152,193,152,196,118"/>
+</map>

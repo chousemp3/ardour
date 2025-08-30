@@ -1,0 +1,16 @@
+<map id="shuttle_control.h" name="shuttle_control.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="329,5,459,31"/>
+<area shape="rect" id="Node000002" href="$application__bar_8h.html" title=" " alt="" coords="207,79,341,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="364,40,295,81,292,76,361,35"/>
+<area shape="rect" id="Node000005" href="$recorder__ui_8h.html" title=" " alt="" coords="357,152,463,177"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="399,44,411,151,406,152,394,45"/>
+<area shape="rect" id="Node000007" href="$ardour__ui_8h.html" title=" " alt="" coords="432,79,527,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="420,37,467,76,464,80,416,41"/>
+<area shape="rect" id="Node000003" href="$editor_8h.html" title=" " alt="" coords="5,152,76,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="224,111,77,155,75,150,223,105"/>
+<area shape="rect" id="Node000004" href="$mixer__ui_8h.html" title=" " alt="" coords="101,152,191,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="243,113,168,154,166,149,240,108"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="309,108,389,149,387,154,306,113"/>
+<area shape="rect" id="Node000006" href="$trigger__page_8h.html" title=" " alt="" coords="216,152,332,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="277,118,277,152,271,152,271,118"/>
+</map>

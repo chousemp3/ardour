@@ -1,0 +1,26 @@
+<map id="graphnode.h" name="graphnode.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="195,5,298,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,159,72,185"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,33,159,81,65,153,62,149,156,77,227,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="96,159,139,185"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,33,185,80,134,149,130,146,181,77,231,29"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="312,79,363,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="263,29,313,68,310,72,260,33"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="163,159,240,185"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="233,33,212,53,196,80,191,113,196,146,191,146,186,113,191,78,208,50,229,29"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="387,79,429,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="274,28,375,73,373,77,272,33"/>
+<area shape="rect" id="Node000007" href="$rcu_8h.html" title=" " alt="" coords="205,79,288,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="249,31,249,65,244,65,244,31"/>
+<area shape="rect" id="Node000011" href="$libardour__visibility_8h.html" title=" " alt="" coords="453,79,651,104"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="296,28,490,73,489,78,295,33"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="215,107,85,154,79,157,77,152,83,150,213,102"/>
+<area shape="poly" id="edge11_Node000007_Node000003" title=" " alt="" coords="229,106,149,154,147,150,226,102"/>
+<area shape="poly" id="edge9_Node000007_Node000005" title=" " alt="" coords="242,106,217,149,213,146,238,103"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="264,159,328,185"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="256,103,284,146,279,149,252,106"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="353,152,519,192"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="275,102,379,144,377,149,273,106"/>
+<area shape="rect" id="Node000010" href="$libpbd__visibility_8h.html" title=" " alt="" coords="544,159,707,185"/>
+<area shape="poly" id="edge12_Node000007_Node000010" title=" " alt="" coords="289,99,301,101,556,154,555,159,299,107,287,104"/>
+</map>
